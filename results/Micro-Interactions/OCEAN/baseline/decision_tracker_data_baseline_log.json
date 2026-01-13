@@ -1,0 +1,1676 @@
+{
+  "discussion_log": {
+    "annual_budget_year1": {
+      "round_1": [
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Lamia Ghedira My current thinking is that Option C appears most promising because as someone who values both strategic planning and thorough risk assessment, I believe Option C offers the optimal balance of growth potential and risk management in our stable market environment. Allocating 100% of our funds evenly across all quarters allows us to maximize capital deployment while still diversifying across time, which aligns with my preference for methodical, data-driven decisions. This approach demonstrates confidence in our ability to capture steady returns without exposing us to unnecessary volatility. My inclination toward collaboration and openness means I am ready to adjust my view if compelling arguments arise, but my current assessment is that Option C best positions us for sustainable growth this year, though I'm interested in exploring all perspectives to refine our understanding. For this round, let's focus on an initial evaluation of each budget allocation option in the context of our stable market, aiming to develop a shared understanding of how each aligns with our risk tolerance and growth objectives. By sharing our individual perspectives, we can synthesize diverse insights and build a more complete foundation for our decision. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Option A', 'Option B', 'Option C', 'Option D'. Please keep all discussion focused on evaluating these specific options. I encourage everyone to share thoughtful perspectives—especially those that might challenge or expand my current view—to help us reach the most informed decision possible.",
+          "id": "M1_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Heleen Suryaputra",
+          "message": "I appreciate the CEO’s emphasis on maximizing growth, but I remain cautious about fully allocating our capital in the first year. Option A, in my view, strikes a prudent balance—by committing only 50% of our funds evenly across quarters, we maintain diversification and preserve flexibility should unforeseen circumstances arise. This approach aligns with a moderate risk profile and supports long-term stability, which I believe is especially important as we establish our company’s track record.",
+          "id": "M1_R1_2",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Heleen. I recognize the merit in your emphasis on preserving flexibility and taking a measured approach as we establish our track record; Option A’s partial allocation could indeed provide a safety buffer in case of unexpected developments. Your perspective on balancing growth with stability adds an important layer to our evaluation, and I welcome further discussion on how much risk is appropriate at this early stage.",
+          "id": "M1_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Heleen Suryaputra",
+          "message": "I appreciate your openness, Lamia. In this first year, I believe erring on the side of caution is warranted since we lack a performance track record and unforeseen events could still arise even in stable markets. While I see the appeal of Option C’s growth potential, I think Option A’s measured allocation gives us valuable time to learn and adapt as we gain experience, supporting both risk management and future decision-making.",
+          "id": "M1_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you for elaborating, Heleen. Your point about using Option A as an opportunity to learn and adapt in our inaugural year is well taken—it highlights the importance of building a knowledge base before scaling up risk. I see how this approach could help us refine our strategy for future years, and I appreciate the focus on supporting both risk management and informed decision-making as we establish our foundation.",
+          "id": "M1_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Heleen Suryaputra",
+          "message": "I’m encouraged by your recognition of the value in building a knowledge base before increasing our risk exposure. As we weigh Option A against more aggressive strategies like Option C, I think it’s important to highlight that a phased approach not only safeguards our capital but also enhances our ability to make data-driven decisions in subsequent years. This balance between caution and adaptability could be a key strength for us as a new company.",
+          "id": "M1_R1_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "I appreciate your emphasis on the strategic value of a phased approach, Heleen—it’s clear that Option A’s measured allocation could support both capital preservation and organizational learning as we build our foundation. Your points on balancing caution with adaptability are well taken. To ensure we integrate a broad range of perspectives, I’d now like to invite other shareholders to share their initial evaluations of the options in this stable market context.",
+          "id": "M1_R1_7",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Saida Ewurum",
+          "message": "I appreciate the thoughtful points raised about balancing caution and growth, especially as we build our track record. In a stable market, I see Option C as providing the optimal balance—fully utilizing our capital to capture steady returns while evenly spreading risk across all quarters, which aligns with both our growth goals and prudent risk management. However, I recognize the value in Option A’s flexibility and would support continued discussion on how much initial caution is appropriate as we establish our foundation.",
+          "id": "M1_R1_8",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Saida. I appreciate your clear articulation of how Option C aligns with our growth and risk management objectives in a stable market, and your openness to considering Option A’s flexibility as we build our track record. Your balanced perspective helps frame the core question for our decision—how much initial caution is warranted versus fully leveraging stable conditions for growth. I encourage others to weigh in so we can further develop our shared understanding.",
+          "id": "M1_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Saida Ewurum",
+          "message": "I think it’s valuable that our discussion is surfacing a range of comfort levels with risk, from a more cautious approach in Option A to a more assertive stance in Option C. By explicitly weighing these trade-offs, we can better identify where our collective risk tolerance lies and ensure our final decision reflects both our growth ambitions and the need for a solid foundation in our first year.",
+          "id": "M1_R1_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "I agree, Saida—surfacing and openly discussing our varying comfort levels with risk is crucial for ensuring our final decision is both robust and representative of our shared objectives. By clearly weighing the trade-offs between caution and assertiveness, we can more effectively align our strategy with the company’s long-term success. Let’s continue to build on this by inviting further perspectives on how each option supports both our growth ambitions and the stability needed in our first year.",
+          "id": "M1_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Saida Ewurum",
+          "message": "I appreciate the emphasis on aligning our strategy with both growth and stability, and I’m encouraged by the thoughtful dialogue so far. As we continue, I think it would be helpful for each of us to articulate how comfortable we are with the risks associated with Options C and A, given our current market context, so we can better calibrate our collective stance and make an informed, unified decision.",
+          "id": "M1_R1_12",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Iolana Kaimira",
+          "message": "I appreciate the careful consideration given to both growth and caution in our discussion. In a stable market, I see Option C as offering the best alignment with our growth objectives by fully deploying our capital while mitigating risk through even, time-diversified allocations. At the same time, I recognize the merit in Option A’s more cautious approach, especially as we build our foundation, but I’m inclined to believe that taking full advantage of steady market conditions this year will better position us for long-term success.",
+          "id": "M1_R1_13",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Iolana. Your emphasis on leveraging stable market conditions through Option C, while still recognizing the value of a cautious foundation, reflects the nuanced balance we’re seeking. I agree that fully deploying our capital in a measured, time-diversified way can position us strongly for long-term growth, and your perspective helps crystallize the core considerations guiding our decision.",
+          "id": "M1_R1_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Iolana Kaimira",
+          "message": "I appreciate your acknowledgment of the need for both growth and a solid foundation. As we weigh these options, I think it’s important to explicitly consider our collective risk appetite and how comfortable we are with fully deploying capital in this first year, given the predictability of the market. This clarity will help ensure our chosen strategy genuinely reflects both our ambitions and our comfort with risk at this early stage.",
+          "id": "M1_R1_15",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Iolana, I appreciate your focus on making our collective risk appetite explicit—this is essential for ensuring our chosen strategy is both ambitious and aligned with everyone’s comfort level. By openly discussing how comfortable we are with fully deploying capital in this stable environment, we can better calibrate our approach and build a unified, well-supported decision. I encourage all shareholders to share their perspectives on this aspect so we can move forward with clarity and consensus.",
+          "id": "M1_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Iolana Kaimira",
+          "message": "I find myself comfortable with the level of risk associated with Option C, given the stable market and the time-diversified approach it offers. However, I recognize that some shareholders may prefer a more cautious stance this early on, so I would welcome hearing others’ specific comfort levels with both Option C and the more conservative allocations before we move toward consensus.",
+          "id": "M1_R1_17",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hyejin Olatunde",
+          "message": "I appreciate the strong arguments for both Option A’s cautious approach and Option C’s full capital deployment. In a stable market, I find Option C compelling because it allows us to maximize growth potential while diversifying risk evenly across the year, which aligns with my moderate risk tolerance and desire for systematic, balanced strategies. That said, I recognize the value in Option A’s flexibility and the importance of building a solid foundation in our first year, so I am open to further discussion if others see significant risks in fully deploying our capital at this stage.",
+          "id": "M1_R1_18",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Hyejin. Your balanced view on maximizing growth through Option C, while still acknowledging the value of Option A’s flexibility, captures the central tension in our decision. I appreciate your openness to further discussion on risk, and I encourage others to share any specific concerns they may have about fully deploying our capital in this first year so we can ensure our strategy is both ambitious and prudent.",
+          "id": "M1_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hyejin Olatunde",
+          "message": "I appreciate the invitation to further discuss risk. Personally, I am comfortable with the level of risk that Option C entails in this stable market, as the even distribution across quarters provides meaningful diversification. However, I would value hearing if anyone has specific concerns about fully deploying our capital now, so we can address them directly and move forward with confidence.",
+          "id": "M1_R1_20",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Hyejin. Your confidence in Option C’s diversification and risk profile in this stable environment is valuable, and I agree that surfacing any remaining concerns now will help us move forward with clarity. I encourage any shareholder with reservations about fully deploying our capital to share their perspective so we can ensure our chosen strategy reflects a well-considered consensus.",
+          "id": "M1_R1_21",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Lacerda",
+          "message": "I appreciate the thoughtful points raised so far, especially the emphasis on aligning our decision with both growth objectives and risk management. In this stable market, I see the appeal of Option C for maximizing returns, but I remain inclined toward Option A as it preserves flexibility and limits our downside in this foundational year. For me, the ability to adapt as we gather real performance data is a key advantage, and I would welcome further discussion on how much initial caution is appropriate as we build our company’s track record.",
+          "id": "M1_R1_22",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Soraya. Your point about preserving flexibility and the ability to adapt as we gather real performance data is well taken—especially in our first year, this kind of prudence can be a strategic asset. I appreciate your focus on balancing growth with downside protection, and I encourage others to share their views on how much initial caution is warranted so we can arrive at a consensus that aligns with both our ambitions and our risk tolerance.",
+          "id": "M1_R1_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Lacerda",
+          "message": "I appreciate your recognition of the strategic value in starting with a prudent approach. In my view, Option A not only limits downside risk but also gives us the flexibility to increase our exposure in subsequent years as we build confidence and gather real results. I believe this measured start can help us establish a strong, adaptable foundation for sustainable company growth.",
+          "id": "M1_R1_24",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Soraya. Your emphasis on Option A’s ability to create a strong, adaptable foundation by limiting downside risk and preserving future flexibility is an important consideration as we establish our company’s track record. This perspective underscores the value of a measured start, and I encourage others to reflect on how much adaptability and capital preservation we should prioritize in our first year as we work toward consensus.",
+          "id": "M1_R1_25",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Lacerda",
+          "message": "I agree that prioritizing adaptability and capital preservation is especially important in our first year. Option A allows us to participate in market opportunities without overcommitting, giving us room to learn and refine our approach based on actual outcomes. This measured strategy can help us build both confidence and a solid track record as we grow.",
+          "id": "M1_R1_26",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Soraya. Your focus on building confidence and a solid track record through a measured, adaptable approach is well taken—Option A’s flexibility does offer clear advantages as we navigate our first year. I appreciate your perspective, and I’d like to invite any remaining shareholders who haven’t yet weighed in to share their initial evaluations so we can ensure all voices are heard before moving toward consensus.",
+          "id": "M1_R1_27",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Lamia Ghedira My current thinking is that Option C appears most promising because, after considering all perspectives, I continue to believe that Option C provides the best balance of growth potential and risk management in our stable market environment. The even, full deployment of capital across quarters maximizes our opportunity for returns while maintaining diversification and systematic exposure. Nonetheless, the arguments for Option A have prompted me to remain vigilant about downside risk and the value of adaptability as we establish our track record. My preference for Option C is reinforced by the majority’s comfort with its risk profile and its alignment with our long-term objectives, though I'm interested in exploring all perspectives to refine our understanding. \n\nFor this round, our focus is on assessing the flexibility and long-term impact of each allocation strategy, specifically identifying which option best balances immediate returns with the ability to adapt to unforeseen developments during the year. I encourage everyone to share how you believe each option supports or limits our adaptability and long-term success, especially in the context of our first year and the stable market conditions we face. \n\nIMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Option A', 'Option B', 'Option C', 'Option D'. Please keep all discussion focused on evaluating these specific options. \n\nI invite your thoughtful perspectives, especially insights that might help us further refine our collective understanding of the trade-offs involved.",
+          "id": "M1_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hyejin Olatunde",
+          "message": "In evaluating the flexibility and long-term impact of our choices, I see Option C as providing systematic exposure to growth opportunities while ensuring risk is spread evenly across time—this supports both immediate returns and long-term resilience in a stable market. However, I recognize that Option A offers greater adaptability if unexpected developments arise, as it preserves capital for future decisions. For me, the even, full deployment of Option C remains preferable given current conditions, but I appreciate the value of Option A’s flexibility and believe our ongoing dialogue is essential for calibrating our collective comfort with risk.",
+          "id": "M1_R2_2",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Hyejin, for articulating the strengths of both Option C and Option A in terms of balancing immediate returns with adaptability. I agree that Option C’s systematic approach leverages the stable market for growth, while Option A’s flexibility could be valuable if we encounter unexpected challenges. Your perspective underscores the need for us to calibrate our collective risk appetite, and I appreciate your openness to ongoing dialogue as we work toward a well-supported decision.",
+          "id": "M1_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hyejin Olatunde",
+          "message": "I appreciate your emphasis on ensuring our decision truly reflects the full spectrum of shareholder comfort with risk. As we consider which option best positions us for both immediate and long-term success, I believe it’s important to remain open to periodic review points throughout the year, regardless of which allocation we choose. This ongoing assessment could help us respond proactively should market conditions shift, further supporting the adaptability concerns raised in our discussion.",
+          "id": "M1_R2_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Hyejin. Your emphasis on ongoing assessment and responsiveness to changing conditions is well taken, especially as it relates to supporting adaptability within the boundaries of our chosen option. While our decision today must be among the predefined allocation strategies, your point highlights the value of maintaining open communication and regular review throughout the year to ensure we remain aligned with our objectives and risk tolerance.",
+          "id": "M1_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hyejin Olatunde",
+          "message": "I agree that maintaining open communication and regular review will be critical, especially in our first year as we establish both our process and track record. This shared commitment gives me greater confidence that, whichever option we select—particularly if we proceed with Option C—we will be well-positioned to respond thoughtfully to any unforeseen developments.",
+          "id": "M1_R2_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Iolana Kaimira",
+          "message": "I agree that Option C offers a strong balance between immediate returns and risk diversification, especially in a stable market where opportunities are consistent across quarters. However, I also recognize the value of flexibility emphasized by those supporting Option A—preserving capital can be reassuring as we build our track record. For me, the even deployment of Option C, combined with our ongoing commitment to regular review and open communication, provides both the growth potential and adaptability we need to succeed in our first year.",
+          "id": "M1_R2_7",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Iolana, for highlighting how Option C’s even deployment aligns with our growth ambitions while also acknowledging the reassurance that flexibility brings, as emphasized by supporters of Option A. I agree that coupling a systematic approach with a strong commitment to ongoing review and open communication enhances our ability to adapt if conditions change, ensuring we remain well-positioned for both immediate and long-term success.",
+          "id": "M1_R2_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Iolana Kaimira",
+          "message": "I appreciate the emphasis on ongoing review and open communication, as this framework can help ensure that, even with a full deployment strategy like Option C, we retain the agility to respond to new information as the year unfolds. By integrating the adaptability valued by Option A proponents into our governance process, we strengthen our collective confidence in whichever allocation we choose.",
+          "id": "M1_R2_9",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Iolana. Your point about embedding adaptability and open communication into our governance process is well taken—it demonstrates how we can uphold the strengths of Option C while still addressing the flexibility concerns raised by some shareholders. This kind of integrative thinking helps ensure that, regardless of our final choice, we remain responsive and aligned as a team throughout the year.",
+          "id": "M1_R2_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Iolana Kaimira",
+          "message": "I agree that maintaining this integrative approach will be essential for building trust and alignment within the team. By making adaptability and transparent communication foundational to our process, we can maximize the benefits of Option C while ensuring all shareholders remain engaged and confident as we move forward.",
+          "id": "M1_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Soraya Lacerda",
+          "message": "I appreciate the thoughtful points raised about the strengths of Option C in maximizing growth and systematic exposure, but I want to emphasize that adaptability remains a critical consideration for me, particularly as we build our track record. While I am now more open to Option C given the stable market and majority support, I believe our long-term success also depends on maintaining robust review processes throughout the year—ensuring we can adapt if conditions unexpectedly shift. This approach would help balance the immediate benefits of full capital deployment with the flexibility needed for sustainable company development.",
+          "id": "M1_R2_12",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Soraya, for emphasizing the importance of adaptability and rigorous review processes alongside the growth potential of Option C. I agree that maintaining strong governance and regular assessment throughout the year is essential for ensuring we can respond effectively to any unforeseen developments, which helps address flexibility concerns and strengthens confidence in our chosen allocation strategy. Your perspective is valuable as we work to balance immediate returns with long-term sustainability.",
+          "id": "M1_R2_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Soraya Lacerda",
+          "message": "Thank you for your response. I agree that our shared commitment to ongoing governance and regular assessment is key to ensuring that, even with an assertive allocation like Option C, we remain agile and responsive. This gives me greater confidence that our approach will balance immediate growth with the flexibility needed for long-term success.",
+          "id": "M1_R2_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Soraya. I appreciate your recognition that strong governance and regular assessment can provide the flexibility and responsiveness needed, even as we pursue assertive growth with Option C. Your confidence in our approach as long as we maintain these practices is encouraging, and it further supports the case for Option C as a well-balanced strategy for our first year.",
+          "id": "M1_R2_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Heleen Suryaputra",
+          "message": "While I recognize the strong arguments for Option C’s growth potential and systematic risk management in a stable market, I remain convinced that Option A provides a more robust foundation for adaptability, especially given our lack of historical data. By only partially allocating funds, we preserve the flexibility to respond to unforeseen developments, which I believe is critical for prudent long-term decision-making as we establish our track record.",
+          "id": "M1_R2_16",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Heleen, for highlighting the critical role that adaptability and capital preservation play as we establish our track record. Your emphasis on Option A’s flexibility is a valuable reminder that prudent long-term decision-making sometimes requires us to prioritize optionality, especially when we lack historical performance data. I appreciate your perspective, and it will be important for us to weigh this carefully as we work toward a decision that balances growth ambitions with the need for resilience in the face of uncertainty.",
+          "id": "M1_R2_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Heleen Suryaputra",
+          "message": "I appreciate your recognition of the importance of resilience and optionality, especially as we navigate our company’s formative year. I would add that, while stable conditions are expected, Option A’s preserved capital could act as a strategic reserve, enabling us to capitalize on unforeseen opportunities or mitigate risks should the environment shift. This adaptability, in my view, is a key strength for our long-term development.",
+          "id": "M1_R2_18",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Heleen, for underscoring the strategic advantage of having a capital reserve to address unexpected developments or seize new opportunities. Your perspective reinforces the importance of balancing immediate growth with the capacity to adapt as circumstances evolve, particularly in our first year. This insight is valuable as we weigh the merits of each option to ensure our chosen strategy supports both resilience and long-term company development.",
+          "id": "M1_R2_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Saida Ewurum",
+          "message": "I continue to see Option C as offering the optimal balance for our situation—it allows us to fully participate in the stable market’s growth potential while spreading risk evenly across time. I appreciate the emphasis others have placed on adaptability, and I believe that by coupling Option C with regular review and open communication, we can maintain the flexibility needed to respond to unforeseen developments without sacrificing our opportunity for strong returns. This integrative approach gives me confidence that Option C best supports both our immediate objectives and long-term company development.",
+          "id": "M1_R2_20",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Saida, for articulating how Option C can be strengthened by regular review and open communication to maintain adaptability alongside growth. Your integrative approach highlights that we do not have to sacrifice flexibility for returns, and it reinforces my confidence that Option C, implemented with strong governance, can serve both our immediate and long-term objectives effectively.",
+          "id": "M1_R2_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Saida Ewurum",
+          "message": "I appreciate your emphasis on governance as the mechanism that bridges the strengths of Option C with the adaptability concerns raised by others. By explicitly committing to regular assessments and transparent communication, we can ensure that all shareholders’ risk tolerances are respected, further strengthening our collective alignment and confidence in the chosen strategy.",
+          "id": "M1_R2_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Saida. Your focus on governance and transparent communication as mechanisms for respecting risk tolerance and maintaining alignment is essential as we move forward. By explicitly committing to regular assessments, we can ensure our chosen allocation—particularly Option C—remains responsive to shareholder concerns and adaptable to any changes, further strengthening our company’s foundation for long-term success.",
+          "id": "M1_R2_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q1": {
+      "round_1": [
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Lamia Ghedira My current thinking is that Stocks appears most promising because my analytical and strategic mindset leads me to prioritize options with the highest potential for growth, especially in a stable, low-volatility market where downside risk is relatively contained. While I value prudence and systematic risk management, my openness and conscientiousness drive me to seize opportunities that align with our long-term objectives. Stocks currently offer the most attractive risk-return profile in these conditions, providing the possibility for robust gains without disproportionate exposure to loss. I remain attentive to shareholder perspectives and will integrate any compelling arguments that might warrant a shift, but at this stage, I believe stocks are the most advantageous choice for our inaugural investment, though I'm interested in exploring all perspectives to refine our understanding. This round, we will collaboratively establish a shared understanding of the theoretical risk and return characteristics of each asset—cash, bonds, real estate, and stocks—in our current stable market environment. By collectively analyzing these baseline profiles, we can synthesize diverse viewpoints and ensure our decision is grounded in a comprehensive, common foundation. I encourage everyone to contribute their perspectives so we can integrate all relevant insights and deepen our collective understanding. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.",
+          "id": "M2_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Saida Ewurum",
+          "message": "In a stable market like ours, I see real estate as offering the strongest combination of steady, moderate returns and manageable risk—its resilience and consistent appreciation make it particularly valuable as we establish our track record. While stocks do present higher upside, their risk remains elevated, especially without historical data to rely on; bonds are reliable but may lag in returns, and cash, though safe, doesn’t align with our growth objectives. I believe a clear-eyed assessment of these profiles supports prioritizing assets that balance growth and risk, with real estate standing out in this context.",
+          "id": "M2_R1_2",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Saida, for articulating the strengths of real estate in a stable market and emphasizing the value of steady, moderate returns as we build our track record. Your point about balancing growth potential with manageable risk is well taken, and I agree that resilience is particularly important in our first year. I’d like to hear if others see real estate’s consistency as outweighing the higher potential upside of stocks, or if there are additional nuances we should consider regarding risk in this environment.",
+          "id": "M2_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Saida Ewurum",
+          "message": "I appreciate your focus on the trade-off between consistency and upside. Given our lack of historical data, I believe prioritizing an asset like real estate, with its predictable performance, helps us manage risk as we build confidence in our processes. I’m interested to hear if others feel that the potential gains from stocks justify accepting more uncertainty at this early stage.",
+          "id": "M2_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Saida, for underscoring the value of predictability as we establish our investment processes. Your emphasis on building confidence through steady performance is a prudent consideration, and it raises an important question about our collective risk appetite—whether the potential additional returns from stocks are worth the greater uncertainty at this stage. I encourage others to weigh in on this trade-off so we can fully assess where our priorities lie as a team.",
+          "id": "M2_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Saida Ewurum",
+          "message": "I agree that understanding our risk appetite as a team is crucial, especially since our first investments will set the tone for our risk culture going forward. While I see merit in the growth potential of stocks, I believe establishing a track record of steady performance with real estate could strengthen our foundation and build trust among shareholders, making it easier to take calculated risks in subsequent quarters.",
+          "id": "M2_R1_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Saida, for highlighting how our first investment will shape both our risk culture and shareholder trust. Your point about using real estate to build a strong, steady foundation is well taken, and I agree that establishing credibility early on can make it easier to pursue higher-return opportunities later. I’d welcome further input from others on how they view the trade-off between laying this groundwork and potentially accelerating growth from the outset.",
+          "id": "M2_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Saida Ewurum",
+          "message": "I appreciate your point about how establishing early credibility through a steady asset like real estate could actually expand our risk capacity over time. By first demonstrating reliable performance and prudent decision-making, we position ourselves to pursue higher-return assets like stocks with greater alignment and confidence in future quarters. This sequencing may help us balance both immediate and long-term objectives as a team.",
+          "id": "M2_R1_8",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hyejin Olatunde",
+          "message": "I appreciate Saida’s emphasis on establishing a steady foundation, and I agree that real estate’s predictable appreciation is compelling in this environment. At the same time, I see stocks as offering a balanced opportunity for growth with moderate risk, given the low volatility and stability of the current market—making them particularly attractive for our inaugural investment. While caution is important, I believe the contained downside risk of stocks in these conditions justifies prioritizing their higher potential returns as we seek to build long-term value.",
+          "id": "M2_R1_9",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Hyejin, for articulating how the current stable market environment moderates the risk typically associated with stocks, making their higher return potential more accessible for our inaugural investment. Your point about balancing caution with the opportunity for long-term value creation is well taken, and it adds important nuance to our assessment of both risk and reward. I encourage others to share whether they feel the present conditions sufficiently mitigate stock risk, or if the steadiness of real estate remains more compelling for this first allocation.",
+          "id": "M2_R1_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hyejin Olatunde",
+          "message": "I appreciate the focus on how our risk appetite should shape this choice, and I see merit in both the steady foundation real estate offers and the growth opportunity in stocks. Perhaps our discussion could benefit from explicitly weighing how much early risk we’re comfortable accepting in pursuit of long-term value, given the stable market—this may help us reach a more cohesive consensus on which asset best aligns with our shared objectives.",
+          "id": "M2_R1_11",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Hyejin, for highlighting the importance of openly assessing our early risk tolerance as a team. Your suggestion to explicitly weigh how much uncertainty we’re willing to accept in pursuit of long-term value is crucial for aligning our decision with both our immediate and strategic goals. I encourage everyone to share their perspectives on the level of risk they believe is appropriate for our inaugural investment, so we can build a consensus that reflects our collective objectives.",
+          "id": "M2_R1_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hyejin Olatunde",
+          "message": "I think it’s important that we recognize the unique position we’re in—starting fresh in a stable market, with the opportunity to set a precedent for how we approach risk and reward. Personally, I’m comfortable accepting moderate uncertainty by favoring stocks, given the current environment, but I also value the trust and alignment that comes from a shared risk posture. I’d welcome hearing how others weigh these factors, as integrating our perspectives will help ensure our decision is both ambitious and collectively supported.",
+          "id": "M2_R1_13",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Lacerda",
+          "message": "I appreciate the thoughtful analysis of both stocks and real estate so far. In my view, real estate offers a strong balance for our inaugural investment—it provides steady, moderate returns with less volatility than stocks, which is especially important given our lack of historical data and the need to establish a reliable track record. While stocks are attractive in stable markets, I believe starting with a more predictable asset like real estate allows us to participate in growth while managing risk and building confidence for more ambitious moves in future quarters.",
+          "id": "M2_R1_14",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Soraya, for highlighting the importance of prioritizing steady, moderate returns and lower volatility as we build our track record in this first year. Your perspective on using real estate to balance growth and risk management is well articulated, and I agree that establishing confidence early on can create a solid foundation for pursuing more ambitious opportunities in subsequent quarters. I encourage others to share their thoughts on whether this approach best aligns with our current priorities and long-term vision.",
+          "id": "M2_R1_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Lacerda",
+          "message": "I agree that building early confidence through a steady asset like real estate not only manages risk but also strengthens our team’s alignment and adaptability for future decisions. By demonstrating reliable performance now, we create a platform for pursuing higher-return opportunities, such as stocks, with greater trust and cohesion in subsequent quarters. This sequencing supports both our immediate need for stability and our long-term growth ambitions.",
+          "id": "M2_R1_16",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Soraya, for emphasizing how starting with a reliable asset like real estate can not only manage risk but also foster team cohesion and adaptability for future investment decisions. Your point about sequencing—building stability now to enable more ambitious moves later—provides an important strategic lens for our discussion. I’d like to hear if others see this approach as the best way to balance our immediate need for confidence with our long-term growth ambitions.",
+          "id": "M2_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Lacerda",
+          "message": "I appreciate the focus on how sequencing our investments can help us develop a shared risk culture and decision-making framework. By starting with real estate, we not only manage risk but also create an environment where all shareholders can participate confidently, which I believe will be crucial as we evaluate higher-return options in future quarters. This incremental approach supports both prudent growth and a strong, unified team dynamic.",
+          "id": "M2_R1_18",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Heleen Suryaputra",
+          "message": "While I appreciate the strong cases made for both real estate and stocks, I see bonds as offering an important middle ground in our current stable market. Bonds provide consistent, low-to-medium returns with minimal risk, which allows us to preserve capital and build a reliable performance baseline as we gather real-world data in our inaugural year. This approach supports steady growth while maintaining the flexibility to adapt our strategy as we gain more experience and insight into market dynamics.",
+          "id": "M2_R1_19",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Heleen, for highlighting the value of bonds as a consistent, low-risk option that can help us preserve capital and establish a reliable performance baseline in our first year. Your point about maintaining flexibility as we gather data is well taken, and it adds an important dimension to our discussion of how each asset’s risk-return profile aligns with our need for both stability and adaptability. I encourage others to consider whether bonds’ steadiness and optionality make them a compelling choice in this stable market, or if the higher potential returns of real estate or stocks better serve our strategic objectives at this early stage.",
+          "id": "M2_R1_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Heleen Suryaputra",
+          "message": "I appreciate the recognition of bonds’ steadiness and optionality, and I see value in considering how they might serve as a bridge between the predictability of real estate and the higher upside of stocks. By starting with bonds, we could establish a reliable track record while retaining flexibility to pursue more ambitious assets in future quarters, ensuring our early decisions support both stability and adaptability as we grow.",
+          "id": "M2_R1_21",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Heleen, for articulating how bonds might offer a prudent balance between predictability and future upside, serving as a bridge in our inaugural year. Your point about using bonds to build a track record while preserving adaptability is valuable, and it encourages us to consider whether this measured approach best supports both our immediate need for stability and our longer-term growth ambitions. I invite others to share whether they see bonds as the optimal starting point, or if real estate or stocks better align with our risk-return goals in this stable market.",
+          "id": "M2_R1_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Heleen Suryaputra",
+          "message": "I’d like to add that starting with bonds could help us demonstrate disciplined, risk-aware decision-making to both our shareholders and potential future partners. This initial prudence may strengthen our credibility and provide a solid foundation for gradually increasing our risk exposure as we gain more performance data and confidence in our processes.",
+          "id": "M2_R1_23",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Heleen, for highlighting how an initial investment in bonds could signal disciplined, risk-aware decision-making to both internal and external stakeholders. Your point about strengthening our credibility and laying a foundation for gradually increasing risk exposure is particularly relevant as we consider the long-term reputation and strategic positioning of our company. I encourage the group to reflect on whether this signaling effect should influence our choice, and how it balances against the potential returns and risk profiles of real estate and stocks in our current environment.",
+          "id": "M2_R1_24",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Heleen Suryaputra",
+          "message": "I appreciate the emphasis on how our first investment will be perceived both within the company and by external stakeholders. By choosing bonds, we not only demonstrate prudent risk management but also set a tone of thoughtful, data-driven decision-making that can build trust and credibility. This foundation may enhance our ability to pursue higher-return opportunities with greater confidence and alignment in the future.",
+          "id": "M2_R1_25",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Heleen, for emphasizing how our initial asset choice can shape perceptions of our decision-making culture both within the company and among external stakeholders. Your point about building trust and credibility through prudent, data-driven investment is compelling, and it invites us to weigh not only the direct financial outcomes but also the reputational and strategic foundations we’re setting for future growth. I welcome further perspectives on how much weight we should give to these signaling effects versus the potential risk and return profiles of each asset.",
+          "id": "M2_R1_26",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Iolana Kaimira",
+          "message": "I appreciate the nuanced discussion so far, especially the emphasis on how our first investment will shape both our risk culture and stakeholder perceptions. In this stable market, I see real estate as offering a prudent balance—its steady, moderate returns and lower volatility provide a reliable foundation, supporting both our growth ambitions and the need to establish credibility as a disciplined, risk-aware team. While stocks are attractive for their upside, I believe starting with real estate allows us to build confidence and trust before pursuing higher-return, higher-risk opportunities in subsequent quarters.",
+          "id": "M2_R1_27",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Iolana, for articulating how real estate’s steady returns and lower volatility can support both our growth ambitions and our credibility as a disciplined, risk-aware team. Your point about building confidence and trust before pursuing higher-risk opportunities is well taken, and it adds an important layer to our discussion on sequencing and establishing a strong foundation. I encourage others to share whether they see real estate’s reliability as the best way to launch our investment strategy, or if the higher upside of stocks justifies greater early risk in this stable market.",
+          "id": "M2_R1_28",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Iolana Kaimira",
+          "message": "I agree that real estate’s reliability aligns with our goal of establishing a disciplined investment culture and signals to both internal and external stakeholders that we are committed to prudent, sustainable growth. By prioritizing a steady asset now, we create a strong platform for measured risk-taking in future quarters, supporting our ambition to build a resilient and adaptable investment company over the long term.",
+          "id": "M2_R1_29",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Iolana, for emphasizing how real estate’s reliability can serve as a signal of our disciplined approach and commitment to sustainable growth. Your point about establishing a strong platform now to enable more ambitious risk-taking in future quarters is well taken, and it adds valuable context to our discussion about sequencing and long-term adaptability. I invite others to share whether they see this foundation as the optimal way to balance immediate stability with our growth ambitions, or if alternative options like stocks better align with our strategic priorities in this stable market.",
+          "id": "M2_R1_30",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Iolana Kaimira",
+          "message": "I appreciate the invitation to reflect on sequencing and strategic priorities. While I recognize the compelling growth potential of stocks in a stable market, I continue to believe that establishing our foundation with real estate provides the stability and credibility needed to support more ambitious moves later. This approach not only manages risk but also enhances our ability to adapt and capture future opportunities as our company matures.",
+          "id": "M2_R1_31",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Lamia Ghedira My current thinking is that Real Estate appears most promising because although stocks remain attractive due to the stable market, the collective emphasis on trust-building, steady returns, and risk management has shifted my preference toward real estate. Real estate offers a balanced path—delivering moderate returns and lower volatility, which supports both our growth ambitions and the need to establish a credible, disciplined track record. This approach best aligns with the group’s priorities and positions us for more ambitious moves in future quarters, though I'm interested in exploring all perspectives to refine our understanding. In this round, we will assess how each asset option aligns with our company’s risk tolerance, growth ambitions, and long-term vision, aiming to deepen our shared understanding of which choice best fits our strategic objectives. By integrating the diverse viewpoints in this group, we can ensure our decision is robust, well-supported, and reflective of our collective wisdom. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I encourage each of you to share any insights or considerations that could further enhance our understanding and help us make the most informed decision possible.",
+          "id": "M2_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Heleen Suryaputra",
+          "message": "I appreciate the thoughtful shift in focus toward real estate, and I now see its merits as a prudent balance between moderate growth and risk management—particularly valuable as we establish our credibility and track record. While I initially favored bonds for capital preservation, I believe real estate’s steady returns and lower volatility align well with our collective risk appetite and provide a strong foundation for future strategic flexibility. This approach supports both our immediate need for stability and our long-term ambitions.",
+          "id": "M2_R2_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Heleen. I appreciate your recognition of real estate’s role in balancing moderate growth with prudent risk management, especially as we establish our company’s track record. Your point about real estate providing a strong foundation for both immediate stability and future strategic flexibility resonates with our broader objectives and further strengthens the case for this option in our inaugural investment.",
+          "id": "M2_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Heleen Suryaputra",
+          "message": "I agree that real estate offers a pathway to demonstrate disciplined decision-making early on, which can build trust with stakeholders and give us the confidence to pursue higher-return opportunities in subsequent quarters. By prioritizing stability and credibility now, we create the necessary groundwork to thoughtfully calibrate our risk profile as new data and experience accumulate.",
+          "id": "M2_R2_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "I agree, Heleen—establishing credibility and a disciplined approach now positions us not only to build stakeholder trust but also to adjust our risk profile with greater confidence as we learn from real outcomes. This emphasis on sequencing—prioritizing stability and reputation in our first move—ensures we are well-prepared to capitalize on more ambitious opportunities as our foundation strengthens.",
+          "id": "M2_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Heleen Suryaputra",
+          "message": "I appreciate how this sequencing approach allows us to be intentional about shaping our company’s culture and risk mindset from the outset. By choosing real estate now, we reinforce disciplined, credibility-focused decision-making, which should make it easier to gain alignment and take calculated risks when market conditions or company priorities evolve in the future.",
+          "id": "M2_R2_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hyejin Olatunde",
+          "message": "I appreciate the thoughtful arguments in favor of real estate and agree that, given our lack of historical data, prioritizing steady returns and lower volatility is a prudent way to build credibility and shareholder alignment in our inaugural year. While I continue to see strong merit in stocks for future quarters, real estate’s balance between growth and risk management aligns well with both our current risk tolerance and our strategic objective of laying a solid foundation for the company’s long-term success.",
+          "id": "M2_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Hyejin. Your point about real estate providing the right balance between growth and risk management—especially given our lack of historical data—directly supports our goal of building credibility and shareholder alignment from the outset. I also appreciate your forward-looking perspective on stocks, which reminds us that establishing a solid foundation now will enable us to pursue higher-return opportunities with greater confidence in future quarters.",
+          "id": "M2_R2_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hyejin Olatunde",
+          "message": "I agree, and I think this sequencing not only strengthens our risk culture but also ensures we maintain the flexibility to calibrate our strategy as market conditions evolve. By building a strong track record now, we’ll be better equipped to take calculated risks and pursue higher-return assets like stocks in future quarters, with greater alignment and confidence among all shareholders.",
+          "id": "M2_R2_9",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "I appreciate your emphasis on sequencing, Hyejin. By focusing on real estate now, we not only reinforce a disciplined risk culture but also retain the agility to adapt our strategy as new information emerges. This deliberate foundation should indeed make it easier for us to collectively pursue higher-return assets like stocks in the future, with greater unity and confidence.",
+          "id": "M2_R2_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Lacerda",
+          "message": "I continue to view real estate as the most appropriate choice for our inaugural investment. It aligns well with our moderate risk tolerance by offering steady, moderate returns and lower volatility, which supports both our growth ambitions and the need to establish a disciplined, credible track record. Prioritizing real estate now provides a strong foundation for trust-building and future flexibility, allowing us to pursue higher-return opportunities with greater confidence as we accumulate real-world performance data.",
+          "id": "M2_R2_11",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Soraya. Your emphasis on real estate’s ability to balance steady returns with lower volatility directly supports our shared goal of building trust and a credible track record in this foundational year. I agree that this approach not only aligns with our current risk tolerance but also positions us to pursue more ambitious investments with confidence as our experience and data grow.",
+          "id": "M2_R2_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Lacerda",
+          "message": "I appreciate your focus on sequencing, Lamia, and I also want to acknowledge how our discussion has integrated both analytical assessments of risk-return and the cultural importance of establishing discipline and credibility. By converging on real estate, we are not only making a prudent financial choice but also reinforcing the collaborative, trust-based culture we want for the company. This shared foundation will serve us well as we evaluate higher-return opportunities in future quarters.",
+          "id": "M2_R2_13",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Soraya. I appreciate how you’ve articulated the dual impact of this decision—both in terms of prudent financial management and in shaping a collaborative, disciplined company culture. By aligning our inaugural investment with these core values, we are not only optimizing for immediate stability and growth but also laying the groundwork for a resilient, unified approach to more ambitious opportunities in the future.",
+          "id": "M2_R2_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Iolana Kaimira",
+          "message": "I agree that real estate presents the most balanced fit for our current risk appetite and long-term vision—its steady, moderate returns and lower volatility support disciplined growth and help establish the trust and credibility we need as a new company. By prioritizing stability now, we position ourselves to thoughtfully evaluate and pursue higher-return opportunities like stocks in future quarters, with a stronger foundation and greater shareholder alignment.",
+          "id": "M2_R2_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Iolana. Your emphasis on real estate’s role in supporting disciplined growth and trust-building strongly aligns with our shared priorities for this foundational year. By establishing stability and credibility now, we create the platform needed to confidently explore more ambitious investments in future quarters, ensuring our strategic vision is both robust and sustainable.",
+          "id": "M2_R2_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Iolana Kaimira",
+          "message": "I appreciate your focus on creating a robust platform for future growth, Lamia. I would also underscore that by choosing real estate now, we preserve the flexibility to adapt our investment strategy as new data emerges, ensuring our decisions remain responsive to changing market conditions and evolving company priorities. This adaptability, combined with disciplined growth, will be critical to sustaining our momentum and building lasting value.",
+          "id": "M2_R2_17",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Iolana. I agree that preserving flexibility is essential as we build our track record and accumulate real-world data. By choosing real estate now, we’re not only supporting disciplined growth and credibility, but also ensuring our investment approach remains responsive to changing conditions and evolving company goals—this adaptability will be a key driver of our sustained success.",
+          "id": "M2_R2_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Saida Ewurum",
+          "message": "I agree that real estate best aligns with our moderate risk appetite and the need to establish a disciplined, credible foundation in our first year. By prioritizing steady, moderate returns and lower volatility, we not only build trust and a reliable track record but also position ourselves to pursue higher-return opportunities with greater confidence and unity as our experience and data grow.",
+          "id": "M2_R2_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Saida. Your focus on real estate’s alignment with our moderate risk appetite and the importance of building a disciplined, credible foundation clearly supports our shared objectives for this inaugural year. By prioritizing steady returns and lower volatility now, we’re not only establishing trust and a reliable track record, but also positioning ourselves to confidently pursue higher-return opportunities as our experience and data accumulate.",
+          "id": "M2_R2_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Saida Ewurum",
+          "message": "I’d like to add that by choosing real estate, we also send a strong external signal to potential partners and stakeholders about our disciplined approach and long-term commitment. This reputational benefit complements our internal objectives, helping to attract future opportunities and build lasting confidence in our company’s strategy.",
+          "id": "M2_R2_21",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Saida. I agree that the external signaling effect of choosing real estate is a significant advantage—demonstrating our disciplined approach and long-term vision not only builds internal trust but also enhances our credibility with potential partners and stakeholders. This reputational benefit strengthens our strategic position and supports our ability to attract future opportunities, reinforcing the value of real estate as our inaugural investment.",
+          "id": "M2_R2_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q2": {
+      "round_1": [
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Lamia Ghedira My current thinking is that Stocks appears most promising because drawing on my high conscientiousness and openness, I methodically weigh our strong inaugural performance in real estate against the compelling historical returns of stocks in this stable market. My analytical, growth-oriented mindset leads me to recognize stocks’ 20% return as a significant opportunity, especially given our solid foundation of credibility and discipline from last quarter. While I value stability and prudent risk management, my confidence in our governance, coupled with the predictable market, inclines me to favor a calculated increase in risk to pursue higher growth. I remain attentive to shareholder perspectives and prepared to adjust, but currently see stocks as the best option to balance ambition with sound strategy this quarter, though I'm interested in exploring all perspectives to refine our understanding.\n\nFor this round, our focus is to review the outcomes of our Q1 investment and identify both the strengths and areas where we can improve our decision-making and execution as a team. By reflecting honestly on what worked well and where we encountered challenges, we can strengthen our investment process and governance going forward. I encourage everyone to share concrete observations and insights so we can collectively synthesize lessons that will inform our approach this quarter.\n\nIMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.\n\nI welcome your thoughtful perspectives on the effectiveness of our Q1 investment process and outcomes, especially insights that might challenge or expand my current view.",
+          "id": "M3_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Lacerda",
+          "message": "I believe our Q1 decision to invest in real estate was effective in balancing steady returns with prudent risk management, which was especially important as we established our track record. The collaborative process and willingness to integrate diverse viewpoints were clear strengths, but I think we can further improve by proactively surfacing and addressing minority concerns earlier in our discussions, ensuring that all risk perspectives are fully considered before consensus forms. This approach will help us maintain both disciplined governance and adaptability as we evaluate options like stocks that present higher potential returns but also greater volatility.",
+          "id": "M3_R1_2",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Soraya. I agree that our collaborative approach was instrumental in building consensus and credibility last quarter, and I appreciate your point about surfacing minority concerns earlier in the process. Proactively addressing all risk perspectives will strengthen our governance and adaptability, especially as we weigh options with greater volatility such as stocks this quarter.",
+          "id": "M3_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Lacerda",
+          "message": "I appreciate your openness to incorporating risk perspectives as we evaluate options like stocks. Building on this, I suggest we formalize a structured risk assessment for each asset before reaching consensus, which can help us maintain a disciplined approach even as we consider higher-return opportunities. This process would ensure that both majority and minority concerns are systematically addressed, supporting more resilient decision-making as we grow.",
+          "id": "M3_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Soraya. Your proposal to formalize a structured risk assessment for each asset is well taken and aligns with our goal of disciplined, transparent governance. Systematically addressing all risk perspectives—especially as we consider options like stocks—will not only support more resilient decisions but also ensure that our process remains inclusive and robust as we scale.",
+          "id": "M3_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Lacerda",
+          "message": "I agree that systematically addressing all risk perspectives will enhance both our inclusivity and resilience as a team. By embedding this structured analysis into our process, we can confidently pursue growth opportunities—such as stocks—while ensuring our decision-making remains grounded in disciplined governance. This approach also reinforces our commitment to transparency and adaptability, which are essential as we continue to build our reputation and track record.",
+          "id": "M3_R1_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Saida Ewurum",
+          "message": "I agree that our Q1 investment in real estate was effective in establishing a disciplined track record, providing steady returns that align with our company’s moderate risk appetite and early-stage credibility goals. One strength was our inclusive, analytical decision process, but I see further opportunity to enhance our governance by more systematically surfacing and addressing divergent risk perspectives before consensus forms—especially as we consider higher-volatility options like stocks this quarter. This will help us maintain both confidence and adaptability as our investment strategy evolves.",
+          "id": "M3_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Saida. I appreciate your emphasis on systematically surfacing divergent risk perspectives before consensus forms. Incorporating this discipline will help us maintain both confidence and adaptability as we pursue higher-volatility options, ensuring our governance remains robust and our strategy evolves thoughtfully.",
+          "id": "M3_R1_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Saida Ewurum",
+          "message": "I appreciate your openness to refining our process, especially as we navigate the shift toward potentially higher-volatility assets. Embedding regular feedback loops and performance reviews will not only help us systematically address emerging risks but also ensure we remain agile in adapting our strategy as market conditions or shareholder perspectives evolve.",
+          "id": "M3_R1_9",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Saida. Embedding regular feedback loops and performance reviews is an excellent way to ensure we remain agile and responsive as our investment strategy matures. By making these mechanisms a core part of our process, we can systematically address emerging risks and continue adapting effectively to both market changes and evolving shareholder perspectives.",
+          "id": "M3_R1_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Saida Ewurum",
+          "message": "I agree that making feedback loops and performance reviews core to our process will enhance our adaptability. Additionally, by sharing these insights transparently among all shareholders, we can reinforce shared accountability and ensure that our collective learning directly informs each investment decision—especially important as we weigh options with higher risk and return profiles.",
+          "id": "M3_R1_11",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Saida. I fully agree that transparent sharing of feedback and collective learning among all shareholders will reinforce our shared accountability and ensure our investment decisions are always informed by the best available insights. This approach will be especially valuable as we navigate higher-risk opportunities, and I appreciate your focus on keeping our process both adaptive and inclusive.",
+          "id": "M3_R1_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Heleen Suryaputra",
+          "message": "I agree that our Q1 investment in real estate effectively balanced steady returns with prudent risk management, setting a disciplined foundation for our company. One key strength was the inclusive decision-making process, though I believe we can further improve by more proactively surfacing and addressing minority concerns earlier, especially as we evaluate higher-risk options like stocks. Embedding structured risk assessments and regular feedback into our process will help ensure we maintain both credibility and adaptability as our strategy evolves.",
+          "id": "M3_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Heleen. Your emphasis on proactively surfacing minority concerns and embedding structured risk assessments and regular feedback is well taken. These enhancements will help us maintain our disciplined foundation while ensuring that our governance remains credible and adaptive as we evaluate higher-risk assets this quarter.",
+          "id": "M3_R1_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Heleen Suryaputra",
+          "message": "I appreciate your receptiveness, Lamia. By institutionalizing structured risk assessments and ongoing feedback, we not only enhance our internal decision quality but also reinforce external stakeholder confidence in our governance as we consider options like stocks. This disciplined approach will help ensure that as we pursue growth, we do so with a clear, transparent understanding of our risk exposures and collective priorities.",
+          "id": "M3_R1_15",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Heleen. I fully agree that institutionalizing structured risk assessments and ongoing feedback will enhance both our internal decision quality and the confidence of external stakeholders in our governance. This disciplined, transparent approach will be especially valuable as we pursue growth opportunities like stocks, ensuring we remain aligned on our risk exposures and collective priorities.",
+          "id": "M3_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Iolana Kaimira",
+          "message": "I believe our Q1 investment in real estate was highly effective in establishing credibility and a disciplined decision-making culture, providing us with steady returns and a solid foundation for future growth. One area for improvement is to formalize structured risk assessments and ensure minority concerns are addressed earlier, especially as we prepare to evaluate assets like stocks with higher volatility. By embedding regular performance reviews and transparent feedback mechanisms, we can maintain both adaptability and disciplined governance as our strategy evolves.",
+          "id": "M3_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Iolana. I share your view that formalizing structured risk assessments and ensuring minority concerns are addressed early will further strengthen our decision-making as we consider higher-volatility options like stocks. Embedding regular performance reviews and transparent feedback mechanisms aligns well with our commitment to disciplined governance and adaptability as our strategy evolves.",
+          "id": "M3_R1_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Iolana Kaimira",
+          "message": "I appreciate your commitment to integrating structured risk assessments and early attention to minority views, Lamia. As we consider options like stocks this quarter, I believe these process enhancements will not only support our growth ambitions but also ensure we remain responsive to evolving risks and shareholder perspectives. This balanced approach will strengthen both our governance and our ability to capitalize on stable market opportunities.",
+          "id": "M3_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Iolana. I agree that integrating structured risk assessments and proactively considering minority perspectives will help us confidently pursue growth opportunities like stocks while ensuring our governance remains responsive and disciplined. This approach positions us to capitalize on the stable market environment while maintaining the adaptability and inclusivity that have become core strengths of our process.",
+          "id": "M3_R1_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Iolana Kaimira",
+          "message": "I agree, Lamia—operationalizing these enhancements will be key. As we move forward, I suggest we clearly define how structured risk assessments and feedback mechanisms will be incorporated into our Q2 decision process, so all shareholders understand how their perspectives shape both risk management and our pursuit of growth. This clarity will further strengthen our governance and collective confidence in selecting the optimal asset this quarter.",
+          "id": "M3_R1_21",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Iolana. Your point about clearly defining how structured risk assessments and feedback mechanisms will be implemented is well taken. For this quarter, I propose we establish a transparent framework outlining when and how these assessments will be conducted and how shareholder input will be systematically incorporated into our decision process, ensuring everyone’s perspectives directly inform both our risk management and growth objectives.",
+          "id": "M3_R1_22",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hyejin Olatunde",
+          "message": "I believe our Q1 decision to invest in real estate was a strong choice that established credibility and provided steady returns, validating our emphasis on disciplined, inclusive governance. One area for improvement is to formalize structured risk assessments and ensure minority perspectives are systematically surfaced early in the process, especially as we consider higher-return options like stocks. This will help us maintain both adaptability and disciplined decision-making as our strategy evolves.",
+          "id": "M3_R1_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Hyejin. I agree that formalizing structured risk assessments and systematically surfacing minority perspectives early in our process will enhance both our adaptability and disciplined decision-making. As we evaluate higher-return options like stocks, embedding these practices will ensure we remain responsive to all risk profiles and continue building on the credibility and inclusivity established in Q1.",
+          "id": "M3_R1_24",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hyejin Olatunde",
+          "message": "I appreciate your agreement, Lamia. To ensure these enhancements deliver tangible value, I suggest we outline concrete steps for conducting structured risk assessments and incorporating minority viewpoints into our Q2 evaluation. This added clarity will help all shareholders see how their input shapes both risk management and our pursuit of growth as we consider options like stocks.",
+          "id": "M3_R1_25",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Hyejin. I agree that outlining concrete steps will provide clarity and accountability for our process improvements. For Q2, I propose we establish a clear timeline for conducting structured risk assessments on each asset, and ensure that minority viewpoints are explicitly documented and discussed before consensus is reached, so that every shareholder can see how their input directly influences our final decision.",
+          "id": "M3_R1_26",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hyejin Olatunde",
+          "message": "I support your proposal, Lamia. Establishing a clear timeline for risk assessments and formally documenting minority viewpoints will make our process more transparent and inclusive, which is especially important as we consider higher-return assets like stocks. This approach will help ensure that all perspectives are integrated into our final decision, reinforcing both disciplined governance and shared accountability.",
+          "id": "M3_R1_27",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Lamia Ghedira My current thinking is that Real Estate appears most promising because the discussion reaffirmed that real estate continues to offer a strong balance of steady returns and manageable risk, which aligns well with our current governance capabilities and the company’s strategic trajectory. Although I am still attracted to the growth potential of stocks, the consensus around the need for enhanced risk management and inclusive process improvements suggests that maintaining stability for another quarter is the most responsible course of action. This approach allows us to build on our credibility and implement the necessary governance enhancements before taking on greater volatility, though I'm interested in exploring all perspectives to refine our understanding.\n\nFor this round, we will conduct a comparative risk-return assessment of our available asset options—Cash, Bonds, Real Estate, and Stocks—in the current stable market, with the goal of establishing a clear understanding of each option’s projected performance, risks, and alignment with our company objectives. I encourage everyone to share concrete observations on how each asset’s characteristics fit our needs, and to highlight any risks or opportunities that might not yet be fully considered. \n\nLet’s use this discussion to synthesize diverse viewpoints and integrate valuable insights that will help us make a more informed, balanced decision as a group. \n\nIMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. \n\nI look forward to your thoughtful contributions as we work toward a comprehensive, collective assessment.",
+          "id": "M3_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Lacerda",
+          "message": "In evaluating our options, I continue to see real estate as offering the optimal balance of steady returns and manageable risk, which is particularly valuable as we further establish our track record and credibility. While stocks undeniably present higher return potential in this market, the associated volatility and risk make me cautious about shifting away from our disciplined, credibility-building approach at this stage. Bonds and cash, meanwhile, provide capital preservation but may not deliver sufficient growth to meet our objectives in these favorable conditions. I would welcome further discussion on whether the incremental return from stocks justifies the increased risk at this point in our company’s development.",
+          "id": "M3_R2_2",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Soraya, for articulating the central dilemma so clearly. Your emphasis on the value of steady returns and credibility-building with real estate resonates with our recent experience, and your question about whether the incremental return from stocks justifies the risk is exactly the kind of focused analysis we need. I encourage others to weigh in on this trade-off—how do we collectively assess the value of higher returns versus the importance of maintaining our disciplined, stable approach at this stage?",
+          "id": "M3_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Lacerda",
+          "message": "I appreciate the CEO’s framing of this trade-off and agree it’s central to our decision. One consideration is that by continuing to prioritize real estate now, we not only reinforce our disciplined foundation but also give ourselves time to fully implement the structured risk assessments and feedback mechanisms discussed. This could position us to responsibly consider higher-return options like stocks in subsequent quarters, once our enhanced governance is firmly in place.",
+          "id": "M3_R2_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "I agree, Soraya, that maintaining our disciplined approach with real estate this quarter could be instrumental in giving us the time and structure needed to implement robust risk assessments and feedback mechanisms. This measured sequencing not only strengthens our foundation but also ensures we are fully prepared to evaluate and potentially capitalize on higher-return opportunities like stocks in future quarters with greater confidence and control.",
+          "id": "M3_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Lacerda",
+          "message": "I agree that this sequencing gives us a disciplined runway to build robust governance, which is essential for prudent risk-taking later. By making this deliberate choice now, we can approach future opportunities—particularly stocks—with greater collective confidence and a proven framework for managing increased volatility.",
+          "id": "M3_R2_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hyejin Olatunde",
+          "message": "I appreciate the thoughtful emphasis on sequencing and governance, and I agree that real estate continues to offer stability and credibility. However, with our enhanced risk assessment processes taking shape and the stable market environment, I see a compelling case for stocks this quarter—their historical 20% return presents an opportunity to accelerate growth while our governance improvements help mitigate downside risk. I believe our disciplined foundation and commitment to robust oversight position us to responsibly take advantage of higher-return opportunities now, rather than delaying further.",
+          "id": "M3_R2_7",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Hyejin, for highlighting how our evolving governance and risk assessment processes could support a more ambitious move into stocks this quarter. Your point about leveraging our disciplined foundation to responsibly pursue higher returns is compelling, and I agree that the stable market environment provides a unique window of opportunity. I encourage others to weigh in—do we believe our current governance enhancements are sufficient to manage the volatility of stocks, or should we continue building our foundation before increasing our risk exposure?",
+          "id": "M3_R2_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hyejin Olatunde",
+          "message": "I think it’s important to specify that our recent governance improvements—like structured risk assessments and explicit documentation of minority viewpoints—are designed to catch emerging risks early and ensure all concerns are addressed before action. If we apply these mechanisms rigorously, I believe we can responsibly manage the volatility of stocks and demonstrate that our risk management is not just theoretical, but actively guiding our decisions in real time.",
+          "id": "M3_R2_9",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Hyejin, for clarifying how our structured risk assessments and explicit documentation of minority viewpoints are intended to make our risk management both rigorous and actionable. Your emphasis on applying these mechanisms proactively to guide real-time decisions is well taken. I’d like to hear from others—do you share the view that our governance enhancements are sufficiently operational to support a move into stocks now, or do you see further steps needed before we responsibly take that leap?",
+          "id": "M3_R2_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hyejin Olatunde",
+          "message": "I’d add that by actively using structured risk assessments and inclusive feedback throughout the quarter—not just at decision points—we can continuously monitor both market developments and internal concerns. This dynamic oversight enhances our ability to respond quickly if volatility increases, making stocks a more manageable and responsible choice even as we pursue higher returns.",
+          "id": "M3_R2_11",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Hyejin, your point about leveraging structured risk assessments and inclusive feedback continuously—not just at discrete decision moments—is an important addition to our risk management toolkit. This approach could indeed enhance our responsiveness to market shifts and internal concerns, potentially making stocks a more viable option even as we pursue higher returns. I encourage the group to consider whether this level of dynamic oversight gives us the confidence needed to responsibly pursue stocks now, or if further groundwork is still required.",
+          "id": "M3_R2_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hyejin Olatunde",
+          "message": "Building on this, I believe our commitment to real-time, inclusive risk monitoring gives us the practical tools to act decisively while remaining vigilant. If we are confident in applying these safeguards consistently, I see no reason to delay leveraging the growth potential of stocks, as our governance now actively supports both ambition and discipline.",
+          "id": "M3_R2_13",
+          "act_type": "Justify",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Heleen Suryaputra",
+          "message": "I continue to see real estate as the optimal choice for this quarter, as it offers a dependable balance of moderate returns and manageable risk that aligns with our current stage and credibility-building priorities. While I appreciate the arguments for stocks and recognize the progress we've made in strengthening our risk management processes, I believe maintaining stability for another quarter will allow us to further entrench these governance enhancements before taking on greater volatility. This approach supports both our disciplined track record and positions us to pursue higher-return opportunities with greater confidence in the near future.",
+          "id": "M3_R2_14",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Heleen, for articulating the importance of maintaining stability and further embedding our governance enhancements before increasing our risk exposure. Your perspective underscores the value of building a disciplined track record and ensuring our processes are deeply rooted, which could position us to pursue higher-return opportunities like stocks with greater confidence in the future. I invite the group to consider how we balance the merits of continued stability with the potential benefits of accelerating growth—are there additional safeguards or milestones that would give us the assurance needed to make this transition?",
+          "id": "M3_R2_15",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Heleen Suryaputra",
+          "message": "I appreciate the invitation to specify what would help me feel assured about increasing our risk exposure. For me, clear milestones—such as demonstrating consistent application of structured risk assessments and transparent feedback loops over at least one more quarter—would signal that our governance is fully operational. This evidence-based approach would give me greater confidence to support pursuing higher-return options like stocks.",
+          "id": "M3_R2_16",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Heleen. Your proposal to set clear milestones—such as consistent application of structured risk assessments and transparent feedback loops over the next quarter—offers a practical framework for strengthening our governance before increasing risk. This evidence-based approach could serve as a valuable benchmark for the group, helping us ensure that when we do pursue higher-return options like stocks, we do so with robust, proven safeguards in place. I encourage others to share their thoughts on this milestone-driven approach to sequencing our investment decisions.",
+          "id": "M3_R2_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Heleen Suryaputra",
+          "message": "I agree that establishing and tracking these milestones will not only strengthen our governance but also provide objective criteria for evaluating our readiness to pursue higher-risk assets. By aligning on what constitutes successful implementation, we can ensure that our eventual transition to options like stocks is both disciplined and collectively supported.",
+          "id": "M3_R2_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Saida Ewurum",
+          "message": "I appreciate the thoughtful arguments raised regarding the importance of sequencing our risk and establishing clear governance milestones. Real estate continues to align well with our objective of steady, credible growth in this stable market, especially as we further entrench structured risk assessments and feedback mechanisms. While I am increasingly open to stocks as our governance matures, I believe maintaining stability with real estate this quarter will solidify our foundation and position us to responsibly pursue higher-return opportunities in the near future.",
+          "id": "M3_R2_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Saida, for clearly articulating how continued investment in real estate can help us further entrench our structured risk assessments and feedback mechanisms. Your openness to considering stocks as our governance matures highlights the importance of sequencing and readiness, which is central to making a responsible transition to higher-return opportunities. I encourage the group to reflect on whether this disciplined approach provides the confidence we need for this quarter, or if there are additional considerations that should inform our decision.",
+          "id": "M3_R2_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Saida Ewurum",
+          "message": "I think it’s important to recognize that our readiness for higher-return assets like stocks is closely tied to demonstrating consistent application of the structured risk assessments and feedback mechanisms we’ve discussed. If we agree on clear operational milestones and track progress transparently, we can build shared confidence in our ability to manage increased volatility—making our eventual transition both disciplined and well-supported.",
+          "id": "M3_R2_21",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Saida, I appreciate your emphasis on the importance of demonstrating consistent application of our risk assessments and feedback mechanisms as a prerequisite for responsibly increasing our risk exposure. Establishing clear operational milestones and tracking our progress transparently will not only build collective confidence but also ensure our eventual transition to higher-return assets like stocks is both disciplined and well-supported. This approach gives us a concrete path forward and reinforces the value of measured, evidence-based decision-making at this stage.",
+          "id": "M3_R2_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Iolana Kaimira",
+          "message": "Building on the group’s thoughtful analysis, I see that real estate continues to offer steady, moderate returns and supports disciplined credibility-building, which remains valuable. However, with our structured risk assessments and transparent feedback mechanisms increasingly operational, I believe we are now positioned to responsibly pursue the higher growth potential of stocks. The stable market environment and our strengthened governance framework give me confidence that we can manage increased volatility, making stocks the most compelling option for advancing our strategic objectives this quarter.",
+          "id": "M3_R2_23",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Iolana, for articulating how our strengthened governance and operational risk assessments may now support a responsible move into stocks. Your confidence in our ability to manage volatility while pursuing higher growth is a valuable contribution, and it helps clarify the evolving consensus around our risk tolerance. I encourage the group to reflect on whether our current governance enhancements are sufficient for this transition, or if further consolidation is needed before increasing our risk exposure.",
+          "id": "M3_R2_24",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Iolana Kaimira",
+          "message": "I appreciate the CEO’s focus on readiness and the importance of operational safeguards. To further strengthen our confidence, I suggest we agree on concrete milestones—such as documenting structured risk assessments and feedback loops throughout the quarter—to ensure our governance enhancements are fully embedded. This approach would allow us to pursue stocks with both ambition and discipline, aligning our growth objectives with robust risk management.",
+          "id": "M3_R2_25",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Iolana, your proposal to set concrete milestones—such as formally documenting risk assessments and feedback loops throughout the quarter—provides a practical and disciplined path for embedding our governance enhancements. By establishing these benchmarks, we ensure that any move into stocks is grounded in both ambition and rigorous oversight, giving shareholders tangible assurance that our risk management is fully operational. I encourage the group to discuss what specific milestones or criteria would give each of us the confidence to support this transition.",
+          "id": "M3_R2_26",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Iolana Kaimira",
+          "message": "I believe clear milestones should include: (1) formal documentation of structured risk assessments before and after investment decisions, (2) regular, transparent feedback sessions to capture any emerging concerns, and (3) explicit tracking of how governance enhancements are operationalized throughout the quarter. If we commit to these steps and review progress transparently, I would be confident in responsibly supporting a shift to stocks.",
+          "id": "M3_R2_27",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Iolana, for outlining such concrete and actionable milestones. Your framework—formal documentation of risk assessments, regular transparent feedback sessions, and explicit tracking of governance enhancements—gives us a disciplined approach to ensure our readiness for higher-risk assets like stocks. I encourage the group to consider whether these criteria would provide each of us with sufficient assurance to support a transition to stocks, or if there are additional elements we should incorporate to further strengthen our governance and confidence.",
+          "id": "M3_R2_28",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q3": {
+      "round_1": [
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Lamia Ghedira My current thinking is that Real Estate appears most promising because I am highly conscientious and value prudent risk management, especially as we continue to build our company’s credibility and track record in a stable market. Real estate offers a balanced profile—its recent performance shows both strong upside potential and resilience, with moderate risk and little volatility compared to stocks. My openness leads me to recognize the appeal of stocks for future growth, but the volatility evidenced last quarter makes me cautious about increasing risk exposure until our structured governance and feedback processes are further entrenched. I remain receptive to compelling arguments for bonds or stocks, but for now, real estate best aligns with my analytical, stability-oriented approach and our current company objectives, though I'm interested in exploring all perspectives to refine our understanding. This round, we will collaboratively review historical asset performance and our company’s investment outcomes to establish a clear, factual baseline of each asset’s strengths and weaknesses in this stable market environment. By sharing diverse observations and insights, we can synthesize a more complete understanding that will inform our decision-making for this quarter. I encourage everyone to contribute thoughtfully, highlighting any factors or patterns I may not have fully considered, so we can integrate our collective wisdom. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.",
+          "id": "M4_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Iolana Kaimira",
+          "message": "Reviewing our historical results, real estate has delivered both a strong positive return and a flat quarter, demonstrating resilience and moderate risk, which aligns with our current need for stability as we further strengthen governance. Stocks, while offering the highest upside, also showed significant downside last quarter, reinforcing the importance of cautious timing before increasing risk exposure. Bonds have provided consistent but lower returns, and cash, while safest, does not advance our growth objectives—so I continue to view real estate as the most balanced option for this quarter, though I remain open to new insights as the discussion progresses.",
+          "id": "M4_R1_2",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Iolana, for your thorough review of our historical results and for articulating how real estate’s resilience and moderate risk profile align with our current priorities. Your observation about the volatility in stocks and the consistent but lower returns from bonds and cash provides a valuable foundation for our discussion. I appreciate your openness to further insights, and I encourage others to share their perspectives so we can continue refining our collective understanding.",
+          "id": "M4_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Iolana Kaimira",
+          "message": "I appreciate your encouragement, Lamia. As others share their perspectives, I’ll be attentive to any new patterns or insights that might refine our understanding of the relative strengths and weaknesses of each asset, especially in light of our evolving governance processes. I believe that openly integrating these viewpoints will help us make a more robust, well-informed decision for this quarter.",
+          "id": "M4_R1_4",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Iolana. Your emphasis on integrating new patterns and insights as the discussion unfolds reflects the kind of adaptive, evidence-based approach that strengthens our collective decision-making. As we continue, I encourage everyone to remain receptive to emerging perspectives so we can ensure our final decision is grounded in the most comprehensive understanding available.",
+          "id": "M4_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Iolana Kaimira",
+          "message": "I agree that maintaining an adaptive, evidence-based mindset is essential as our discussion evolves. As additional viewpoints emerge, I’ll focus on identifying areas where our observations converge or diverge, aiming to help clarify which asset best aligns with both our historical performance and the company’s current priorities.",
+          "id": "M4_R1_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Heleen Suryaputra",
+          "message": "Based on our historical results, real estate has provided both a strong positive return and a break-even quarter, demonstrating steady performance with low volatility—qualities that align with our company’s current emphasis on stability and credibility-building. While bonds have offered consistent but modest returns, they may not sufficiently support our long-term growth objectives, and the recent volatility in stocks reinforces my view that a measured, risk-managed approach remains prudent at this stage.",
+          "id": "M4_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Heleen, for your clear summary of historical performance and for articulating how real estate’s steady returns and low volatility support our current priorities of stability and credibility. Your point about bonds providing only modest returns and stocks demonstrating significant volatility adds valuable context as we weigh growth objectives against prudent risk management. I encourage others to build on these insights so we can further refine our baseline understanding before moving into deeper risk-return analysis next round.",
+          "id": "M4_R1_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Heleen Suryaputra",
+          "message": "I appreciate your summary, Lamia, and agree that our historical experience with real estate underscores the value of stability at this stage. As we continue strengthening our governance processes, I believe it’s important to periodically reassess whether our risk tolerance should evolve, but for now, real estate’s track record still appears to offer the best alignment with our priorities. I look forward to hearing how others interpret these patterns and whether additional considerations might influence our collective baseline.",
+          "id": "M4_R1_9",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Heleen. Your emphasis on periodically reassessing our risk tolerance as our governance matures is well taken, and I agree that maintaining this flexibility is essential as we build our track record. As more perspectives are shared, I encourage everyone to consider not only our current alignment but also how our evolving processes might shape future decisions—this will help ensure our strategy remains both disciplined and adaptable.",
+          "id": "M4_R1_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Heleen Suryaputra",
+          "message": "I appreciate your focus on balancing discipline with adaptability, Lamia. Connecting this to our historical results, I believe our cautious stance has served us well so far, and as our governance matures, we’ll have a stronger foundation to responsibly consider higher-return options like stocks in future quarters. For now, maintaining our emphasis on stability through real estate seems most consistent with both our track record and our current stage of development.",
+          "id": "M4_R1_11",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Lacerda",
+          "message": "Reviewing our company’s results alongside the broader historical data, I see that real estate has so far provided both strong upside and stability, which supports our goal of building a reliable track record in this stable market. Bonds have delivered consistent but lower returns, and while cash remains the safest, its returns are insufficient for our growth objectives. The volatility in stocks—evidenced by a sharp swing from high gains to notable losses—underscores the importance of maintaining a disciplined, risk-managed approach at this stage. For this quarter, I believe real estate’s combination of moderate risk and proven resilience continues to best align with our strategic priorities.",
+          "id": "M4_R1_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Soraya, for your concise synthesis of both our results and broader historical data. Your point about real estate’s combination of upside and stability supporting our credibility, alongside your clear articulation of the trade-offs with bonds, cash, and stocks, provides a strong factual anchor for our discussion. This disciplined, risk-managed focus is essential as we move forward, and I encourage others to share any additional observations or patterns that could further refine our baseline before we proceed to deeper analysis next round.",
+          "id": "M4_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Soraya Lacerda",
+          "message": "I appreciate your feedback, Lamia, and I’m noticing that across our discussion, there’s strong convergence around the value of disciplined, risk-managed decision-making—particularly as real estate’s historical performance has reinforced our credibility without exposing us to undue volatility. As we move toward deeper analysis, I think it will be important to explicitly track how this consensus on stability and resilience might inform our readiness to consider higher-return options in the future, ensuring we remain both prudent and adaptable as our governance matures.",
+          "id": "M4_R1_14",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Soraya. Your observation about the convergence around disciplined, risk-managed decision-making is well taken, and I agree that explicitly tracking how this consensus evolves will be crucial as our governance matures. As we proceed, I encourage everyone to consider how our current emphasis on stability and resilience can serve as both a foundation for credibility and a springboard for responsibly evaluating higher-return options in the future.",
+          "id": "M4_R1_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Soraya Lacerda",
+          "message": "I agree, Lamia—having a clear, shared baseline rooted in our actual results will help us make more transparent and confident decisions as our governance evolves. By documenting how our consensus around stability develops over time, we can ensure that any future consideration of higher-return assets like stocks is grounded in both evidence and collective readiness, supporting both credibility and adaptability.",
+          "id": "M4_R1_16",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Saida Ewurum",
+          "message": "Reviewing our historical outcomes, I see that real estate has delivered both a strong positive return and a flat quarter, demonstrating resilience and moderate risk—qualities that directly support our goal of disciplined, steady growth in this stable market. While stocks offer the highest potential returns, the recent negative quarter highlights the volatility we must be cautious about until our governance processes are further entrenched. Bonds and cash, though stable, do not sufficiently advance our growth objectives at this stage. Overall, real estate’s performance continues to align best with our current priorities of stability, credibility, and responsible risk management.",
+          "id": "M4_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Saida, for your clear synthesis of our historical outcomes and for highlighting how real estate’s resilience and moderate risk directly support our disciplined growth objectives. Your balanced assessment of the trade-offs with stocks, bonds, and cash reinforces the importance of aligning our asset choice with both our current priorities and governance maturity. I encourage everyone to reflect on these insights as we prepare to move into a deeper risk-return analysis in the next round.",
+          "id": "M4_R1_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Saida Ewurum",
+          "message": "I appreciate your feedback, Lamia. I also think it’s important to recognize that by consistently prioritizing assets like real estate, we’re not only safeguarding steady growth but also building the governance track record necessary to responsibly consider higher-return options in the future. This disciplined sequencing helps ensure our strategy remains both adaptive and credible as our company evolves.",
+          "id": "M4_R1_19",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Saida. Your point about disciplined sequencing—using real estate to both safeguard steady growth and build our governance track record—is especially valuable. By maintaining this approach, we’re not only supporting our immediate objectives but also laying the groundwork for confidently evaluating higher-return options as our processes mature.",
+          "id": "M4_R1_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Saida Ewurum",
+          "message": "I agree, Lamia. It’s encouraging to see broad alignment around real estate’s role in supporting both our immediate and long-term objectives. By documenting and reflecting on the outcomes of this disciplined approach, we can ensure that any eventual shift toward higher-return assets like stocks is grounded in a proven foundation of governance and shared confidence.",
+          "id": "M4_R1_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hyejin Olatunde",
+          "message": "Based on our historical results, real estate has provided both a strong positive return and a flat quarter, demonstrating a balance of moderate risk and resilience that supports our focus on steady, disciplined growth. While stocks offer higher upside, the recent volatility highlights the need for further operational evidence before increasing our risk exposure. I believe our track record with real estate affirms its suitability for this quarter, but I also see value in regularly reassessing our readiness to responsibly consider higher-return options as our governance matures.",
+          "id": "M4_R1_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Hyejin, for your balanced assessment of our historical results and for highlighting the importance of steady, disciplined growth at this stage. Your point about regularly reassessing our readiness to consider higher-return options as our governance matures is well taken, and I agree that maintaining this mindset will help ensure our strategy remains both prudent and adaptable as we move forward.",
+          "id": "M4_R1_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hyejin Olatunde",
+          "message": "I appreciate your agreement, Lamia. To make our adaptability actionable, I suggest we formalize regular, structured reviews of both our governance processes and market conditions each quarter. This will help us objectively determine when we’re ready to responsibly consider riskier assets like stocks, ensuring that any shift in strategy is grounded in clear evidence and collective confidence.",
+          "id": "M4_R1_24",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Hyejin. Your proposal to formalize regular, structured reviews each quarter is an excellent way to ensure our adaptability becomes a concrete part of our governance process. By implementing these reviews, we can objectively assess both our operational readiness and market conditions, helping us determine the right timing for responsibly considering higher-return assets like stocks.",
+          "id": "M4_R1_25",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Lamia Ghedira My current thinking is that Real Estate appears most promising because the collective analysis and consensus around real estate’s balanced performance, resilience, and alignment with our credibility-building objectives in a stable market have further solidified my preference. The group’s disciplined, fact-based approach, combined with practical suggestions for strengthening governance and adaptability, ensures we are not only making the best decision for this quarter but also preparing for responsible evolution in our risk profile when appropriate, though I'm interested in exploring all perspectives to refine our understanding. In this round, we will focus on a deeper risk-return assessment for each asset—Cash, Bonds, Real Estate, and Stocks—evaluating how their projected profiles align with our current risk tolerance, governance maturity, and strategic goals, while surfacing any concerns or uncertainties. By openly sharing and integrating diverse viewpoints, we can further clarify the strengths, weaknesses, and potential risks of each option, moving toward an optimal decision rooted in both evidence and collective wisdom. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I encourage everyone to contribute any insights or considerations that might enhance our understanding and ensure our decision is as robust as possible.",
+          "id": "M4_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Saida Ewurum",
+          "message": "I continue to believe real estate offers the strongest alignment with our current objectives, given its proven balance of moderate returns and manageable risk in this stable market. While stocks remain attractive for future growth, their recent volatility and higher downside highlight the need for further governance maturity before increasing our exposure. Bonds and cash, though stable, do not sufficiently advance our growth ambitions at this stage, so I recommend we maintain our disciplined approach with real estate while formalizing regular reviews to ensure adaptability as conditions evolve.",
+          "id": "M4_R2_2",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Saida. I appreciate your emphasis on both the proven balance of real estate and the need for further governance maturity before increasing our risk exposure. Your point about formalizing regular reviews is especially valuable—it aligns with my view that embedding structured adaptability will allow us to remain disciplined while positioning ourselves for future opportunities.",
+          "id": "M4_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Saida Ewurum",
+          "message": "I agree that embedding structured adaptability through regular reviews will not only support disciplined decision-making now but also ensure we’re well-positioned to capitalize on higher-return opportunities as our governance matures. By documenting our process and outcomes each quarter, we can build the confidence and operational readiness needed to responsibly adjust our risk profile when the time is right.",
+          "id": "M4_R2_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "I completely agree, Saida. Documenting our process and outcomes each quarter will not only strengthen our decision-making discipline but also provide a clear foundation for confidently evolving our risk profile as our governance matures. This approach ensures we are building both credibility and the agility needed to seize future opportunities responsibly.",
+          "id": "M4_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Iolana Kaimira",
+          "message": "I share the view that real estate currently offers the best alignment with our risk tolerance and strategic goals, given its demonstrated resilience and moderate returns in this stable market. I believe that formalizing regular, structured reviews—as Saida suggested—will help us remain adaptable and ensure we’re prepared to responsibly pursue higher-return assets like stocks in the future, once our governance maturity and operational readiness are further solidified.",
+          "id": "M4_R2_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "I appreciate your support, Iolana, and your focus on formalizing structured reviews as a mechanism for adaptability and future growth readiness. Embedding these regular assessments into our governance process will not only sustain our disciplined approach with real estate but also position us to confidently consider higher-return opportunities like stocks when our operational maturity allows.",
+          "id": "M4_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Iolana Kaimira",
+          "message": "I agree, and I would add that making these structured reviews highly transparent and inclusive of all shareholder perspectives will be essential for building the confidence needed to evolve our risk profile over time. This approach not only supports disciplined decision-making now but also ensures that, when we do consider shifting toward higher-return assets, the process will be grounded in shared understanding and trust.",
+          "id": "M4_R2_8",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Iolana, your point about ensuring transparency and inclusivity in our structured reviews is well taken. By making these processes open and actively engaging all shareholder perspectives, we will not only strengthen trust and alignment but also build the collective confidence necessary for responsible evolution of our risk profile as our company matures.",
+          "id": "M4_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Iolana Kaimira",
+          "message": "I appreciate your commitment to engaging all shareholder perspectives, as this will also help surface any minority concerns early and allow us to address them proactively. By fostering this environment of openness, we further strengthen our governance and ensure that any future shift in our investment strategy is supported by broad-based confidence and clear, collective understanding.",
+          "id": "M4_R2_10",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Iolana. I agree that proactively surfacing minority concerns and maintaining an open environment are essential for strengthening our governance and building broad-based confidence in our decisions. This approach will help us remain agile, ensure all perspectives are integrated, and position us to adapt responsibly as our strategy evolves.",
+          "id": "M4_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Heleen Suryaputra",
+          "message": "I continue to see real estate as the optimal choice for this quarter, given its demonstrated balance of moderate returns and low volatility, which directly supports our objectives of stability and credibility-building as our governance processes mature. While bonds offer consistent but lower returns and stocks present attractive upside, I believe the latter’s recent volatility and downside risk remain misaligned with our current risk tolerance and operational readiness. Formalizing regular, structured reviews—as discussed—will be critical for ensuring we remain adaptable and can confidently reassess our risk appetite as our governance evolves.",
+          "id": "M4_R2_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Heleen. Your emphasis on real estate’s balance of moderate returns and low volatility resonates strongly with our current objectives, and I agree that formalizing regular, structured reviews will be critical for maintaining adaptability as our governance matures. This disciplined approach ensures we can confidently reassess our risk appetite over time and remain well-positioned to evolve our investment strategy as conditions and our operational readiness develop.",
+          "id": "M4_R2_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Heleen Suryaputra",
+          "message": "I appreciate your alignment on the importance of structured reviews, and I agree that this iterative process is key to maintaining both discipline and adaptability. By systematically reassessing our risk appetite and operational readiness, we can ensure that any future move toward higher-return assets is grounded in clear evidence and broad-based confidence, supporting both stability now and strategic flexibility over time.",
+          "id": "M4_R2_14",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Heleen. I fully agree that systematically reassessing our risk appetite and operational readiness through structured reviews is essential for maintaining both stability and adaptability. This iterative, evidence-based approach will ensure our decisions remain disciplined and responsive, positioning us to confidently pursue higher-return assets when the conditions and our governance maturity support it.",
+          "id": "M4_R2_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hyejin Olatunde",
+          "message": "I continue to view real estate as the most balanced option this quarter, given its demonstrated resilience and alignment with our disciplined, credibility-building objectives. Embedding regular, structured reviews into our governance will not only ensure we remain adaptable as market conditions and our operational maturity evolve, but also provide an evidence-based foundation for responsibly considering higher-return assets like stocks in the future. This approach allows us to balance immediate stability with the flexibility to pursue growth when we are truly ready.",
+          "id": "M4_R2_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Hyejin. I appreciate your focus on embedding regular, structured reviews into our governance process, as this will be crucial for maintaining both disciplined stability and adaptability as our company evolves. By grounding our future consideration of higher-return assets in evidence and operational maturity, we ensure that our growth ambitions are pursued responsibly and with shared confidence.",
+          "id": "M4_R2_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hyejin Olatunde",
+          "message": "I appreciate your emphasis on shared confidence, Lamia. By consistently grounding our decisions in transparent, evidence-based reviews, we not only safeguard disciplined growth but also foster a culture of trust that will serve us well as we eventually consider higher-return, higher-risk options. This clarity and consistency are key to ensuring all shareholders remain aligned and engaged throughout our company’s evolution.",
+          "id": "M4_R2_18",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Hyejin. I agree that clarity, consistency, and transparent, evidence-based reviews are foundational to building trust and disciplined growth. By maintaining this approach, we can ensure all shareholders remain engaged and aligned, which will be vital as we prepare to responsibly pursue higher-return opportunities in the future.",
+          "id": "M4_R2_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Soraya Lacerda",
+          "message": "I continue to view real estate as the best fit for this quarter, given its proven balance of moderate returns and low volatility, which directly supports our credibility-building and steady growth objectives in a stable market. While I recognize the appeal of bonds for their consistency and stocks for their upside, the former’s lower yield and the latter’s recent volatility suggest that maintaining our disciplined, risk-managed approach remains prudent for now. Embedding regular, structured reviews into our governance will ensure we remain adaptable and well-prepared to reassess our risk appetite as our operational maturity evolves.",
+          "id": "M4_R2_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Soraya. Your focus on real estate’s balance of moderate returns and low volatility aligns closely with our current objectives, and I appreciate your clear articulation of the trade-offs involved with bonds and stocks. Embedding regular, structured reviews into our governance will indeed ensure we remain adaptable and well-prepared to reassess our risk appetite as our operational maturity evolves, maintaining both stability and flexibility as we navigate future opportunities.",
+          "id": "M4_R2_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Soraya Lacerda",
+          "message": "I appreciate your emphasis on adaptability and agree that making our structured reviews both transparent and inclusive will be essential for surfacing minority concerns early and ensuring all shareholder perspectives are integrated. This not only reinforces disciplined decision-making now but also builds the collective trust and operational readiness needed for responsible evolution toward higher-return options as our governance matures.",
+          "id": "M4_R2_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Soraya. I fully agree that making our structured reviews transparent and inclusive is essential for surfacing minority concerns early and ensuring every shareholder’s perspective is integrated. This approach not only strengthens disciplined decision-making now but also lays the groundwork for collective trust and operational readiness as we prepare for responsible evolution toward higher-return opportunities in the future.",
+          "id": "M4_R2_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Soraya Lacerda",
+          "message": "I agree, and I would add that consistently applying these transparent, inclusive reviews will also help us identify any shifts in our risk tolerance or market outlook early, allowing us to adjust our strategy proactively rather than reactively. This process not only safeguards disciplined risk management but also ensures that our growth trajectory remains aligned with both our evolving objectives and the confidence of all shareholders.",
+          "id": "M4_R2_24",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "I appreciate your insight, Soraya. By consistently applying transparent and inclusive reviews, we not only safeguard disciplined risk management but also position ourselves to detect and respond to changes in our risk tolerance or market outlook early. This proactive approach will keep our growth strategy aligned with evolving objectives and maintain strong shareholder confidence as we move forward.",
+          "id": "M4_R2_25",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q4": {
+      "round_1": [
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Lamia Ghedira My current thinking is that Real Estate appears most promising because I am highly conscientious and value disciplined, evidence-based decision-making, which leads me to favor real estate due to its proven resilience, moderate returns, and low volatility in our stable market. My openness makes me attentive to the higher upside of stocks, but their recent fluctuations—including a negative quarter—suggest that the company should continue prioritizing stability and credibility while our governance matures. I remain moderately confident in bonds for their reliability but find their returns insufficient to meet our growth objectives at this stage. Cash, while safe, does not align with our ambition for sustainable value creation. Overall, real estate offers the optimal balance of growth and risk management for this quarter, though I'm interested in exploring all perspectives to refine our understanding. This round, we will review our historical investment performance and extract key lessons regarding each asset’s risk-return profile, establishing a factual foundation for our decision. I encourage everyone to share insights from previous quarters that might inform our collective understanding and help us synthesize a more complete view. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I welcome thoughtful contributions that challenge or enhance my current perspective as we work toward the most informed decision.",
+          "id": "M5_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Iolana Kaimira",
+          "message": "Reviewing our experience so far, real estate has provided steady, positive returns with only one flat quarter, supporting our goal of sustainable growth with manageable risk. While stocks offer higher potential, the negative quarter highlights the importance of sequencing risk as our governance matures. Bonds and cash have been reliable but too conservative for our current ambitions, so I believe our track record reinforces the value of continuing with real estate as the most balanced option at this stage.",
+          "id": "M5_R1_2",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Iolana. I appreciate your clear articulation of how real estate’s steady performance supports our sustainable growth objectives and your emphasis on the importance of sequencing risk as governance matures. Your point about stocks’ volatility and the conservatism of bonds and cash aligns well with the lessons we’ve learned so far, and it further strengthens the case for maintaining our disciplined approach this quarter.",
+          "id": "M5_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Iolana Kaimira",
+          "message": "I appreciate your recognition of the importance of disciplined sequencing and agree that our experience with both positive and flat quarters in real estate has helped us refine our governance processes. As we continue to build operational maturity, maintaining adaptability will be key—ensuring that our investment choices not only support stability now but also position us to responsibly pursue higher-return opportunities when the timing is right.",
+          "id": "M5_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Iolana. I agree that our experience with real estate has not only reinforced the value of steady, disciplined decision-making but also provided a strong platform for refining our governance and adaptability. Your emphasis on maintaining flexibility as we grow is well taken, and I believe this approach will position us to confidently explore higher-return opportunities when our operational maturity supports it.",
+          "id": "M5_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Heleen Suryaputra",
+          "message": "Our experience this year confirms that real estate offers a reliable balance of moderate returns and manageable risk—two strong quarters and one flat, with no negative surprises. This pattern supports my preference for steady, predictable growth, and reinforces the importance of sequencing risk as our governance and operational maturity continue to develop. While stocks’ potential is appealing, the negative quarter illustrates why I believe it’s prudent to maintain our disciplined approach for now, using real estate to consolidate credibility and strengthen our foundation for future opportunities.",
+          "id": "M5_R1_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Heleen. Your emphasis on real estate’s consistent performance and the absence of negative surprises underscores why a disciplined, steady approach remains prudent as our governance evolves. I appreciate your recognition of the need to consolidate credibility and operational maturity before increasing risk, and your perspective helps clarify how our strategic sequencing can support both current stability and future growth opportunities.",
+          "id": "M5_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Heleen Suryaputra",
+          "message": "I appreciate your focus on how disciplined sequencing not only supports our internal governance but also signals reliability to external stakeholders, which is crucial for building long-term trust. By continuing to prioritize real estate, we demonstrate our commitment to steady growth and operational maturity—key factors that will enable us to responsibly embrace higher-return opportunities when we are truly ready.",
+          "id": "M5_R1_8",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Heleen. I agree that our disciplined approach not only strengthens our internal processes but also builds credibility and trust with external stakeholders—an essential factor for long-term success. Your perspective reinforces the strategic value of maintaining stability with real estate as we continue to mature, ensuring we are well-positioned to pursue higher-return opportunities when our foundation is fully established.",
+          "id": "M5_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hyejin Olatunde",
+          "message": "Our historical results confirm that real estate has provided the most reliable balance of growth and risk management—delivering two strong quarters and one flat, with no negative surprises—while supporting our credibility and disciplined governance. The volatility of stocks, including a negative quarter, reinforces the importance of sequencing risk as we continue to build operational maturity, whereas bonds and cash, though stable, have not advanced our growth objectives sufficiently. I believe our experience this year demonstrates the value of maintaining real estate as our primary vehicle for steady, sustainable progress while we further strengthen our governance for future flexibility.",
+          "id": "M5_R1_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Hyejin. Your summary effectively captures the consistency and risk management benefits we’ve experienced with real estate, and I appreciate your recognition of how disciplined governance supports both credibility and adaptability. Your perspective underscores the importance of maintaining a steady course as we continue to strengthen our foundation, ensuring we’re prepared to responsibly pursue higher-return opportunities in the future.",
+          "id": "M5_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hyejin Olatunde",
+          "message": "I appreciate your point about how our disciplined governance not only builds credibility now but also lays the groundwork for greater adaptability in future investment decisions. By continuing to prioritize real estate, we’re not just maintaining stability—we’re actively developing the operational maturity and trust needed to responsibly pursue higher-return assets like stocks when the timing and conditions are right. This progression reinforces the importance of aligning our investment strategy with both our current strengths and our long-term ambitions.",
+          "id": "M5_R1_12",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Hyejin. I fully agree that our disciplined governance is not only delivering immediate stability but is also instrumental in building the operational maturity and trust required for responsibly pursuing higher-return opportunities in the future. Your perspective reinforces the importance of aligning our current investment strategy with both our strengths and our long-term ambitions, and I believe this approach sets a strong foundation for sustainable, adaptive growth.",
+          "id": "M5_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hyejin Olatunde",
+          "message": "I agree that our current strategy sets a strong foundation for adaptive growth, and I believe that embedding regular, structured performance reviews into our governance will further strengthen our ability to respond to evolving market conditions. This will help us maintain the credibility we've built through real estate while ensuring we're prepared to make timely, evidence-based shifts to higher-return assets as our operational maturity evolves.",
+          "id": "M5_R1_14",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Hyejin. I agree that formalizing regular, structured performance reviews will be critical to maintaining both credibility and adaptability as we move forward. Embedding this discipline into our governance processes will help ensure we remain responsive to changing conditions and are well-prepared to seize higher-return opportunities when the time is right.",
+          "id": "M5_R1_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Soraya Lacerda",
+          "message": "Our historical results demonstrate that real estate has consistently delivered moderate returns with low volatility—two strong quarters and one flat—providing steady growth and reinforcing our credibility as a disciplined, prudent company. This evidence supports the case for maintaining real estate as our primary vehicle, especially as stocks’ higher potential has come with significant downside risk, and bonds or cash have not advanced our growth objectives. I believe our experience underscores the importance of sequencing risk and solidifying our governance foundation before pursuing more volatile assets, positioning us for sustainable long-term success.",
+          "id": "M5_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Soraya. Your summary of our historical results and the emphasis on real estate’s steady growth and low volatility align well with the evidence we’ve seen this year. I appreciate your focus on sequencing risk and strengthening our governance foundation before moving into more volatile assets—this disciplined approach is central to our sustainable long-term success.",
+          "id": "M5_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Soraya Lacerda",
+          "message": "I appreciate your recognition of the importance of sequencing risk and agree that our disciplined approach has positioned us well for future opportunities. As we continue to strengthen our governance with regular reviews and transparent feedback, we’ll be even better equipped to evaluate when conditions warrant a shift toward higher-return assets like stocks, ensuring our growth remains both sustainable and well-managed.",
+          "id": "M5_R1_18",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Soraya. I agree that our disciplined approach to sequencing risk has positioned us well for future opportunities, and I appreciate your emphasis on strengthening governance through regular reviews and transparent feedback. This commitment will ensure we remain adaptable and well-prepared to responsibly pursue higher-return assets like stocks when the timing and conditions are right.",
+          "id": "M5_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Soraya Lacerda",
+          "message": "I fully agree that our commitment to regular reviews and transparent feedback not only supports adaptability but also helps us calibrate our risk appetite in real time. This will enable us to act decisively when conditions favor a shift to higher-return options, while maintaining the disciplined, evidence-based approach that has served us well so far.",
+          "id": "M5_R1_20",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Saida Ewurum",
+          "message": "Our experience this year has shown that real estate delivers a strong balance of moderate returns and manageable risk, with two positive quarters and one flat—supporting both steady growth and credibility-building. This pattern reinforces the value of disciplined sequencing and prudent governance, especially as we continue to develop operational maturity. I believe these lessons confirm that maintaining our current approach with real estate best positions us for sustainable progress while preserving the flexibility to pursue higher-return assets as our governance evolves.",
+          "id": "M5_R1_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Lamia Ghedira(CEO)",
+          "message": "Thank you, Saida. Your summary captures the essence of our experience this year—real estate’s ability to deliver steady growth and build credibility through disciplined sequencing and governance. I agree that this approach not only supports our current progress but also preserves the flexibility needed to responsibly pursue higher-return assets as our operational maturity continues to develop.",
+          "id": "M5_R1_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        }
+      ]
+    }
+  },
+  "company": {
+    "CEO": {
+      "name": "Lamia Ghedira",
+      "BFI": "",
+      "type": ""
+    },
+    "shareholders": [
+      {
+        "name": "Soraya Lacerda",
+        "BFI": "",
+        "type": ""
+      },
+      {
+        "name": "Hyejin Olatunde",
+        "BFI": "",
+        "type": ""
+      },
+      {
+        "name": "Heleen Suryaputra",
+        "BFI": "",
+        "type": ""
+      },
+      {
+        "name": "Saida Ewurum",
+        "BFI": "",
+        "type": ""
+      },
+      {
+        "name": "Iolana Kaimira",
+        "BFI": "",
+        "type": ""
+      }
+    ]
+  }
+}

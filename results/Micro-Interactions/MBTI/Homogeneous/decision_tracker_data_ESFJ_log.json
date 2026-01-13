@@ -1,0 +1,1714 @@
+{
+  "discussion_log": {
+    "annual_budget_year1": {
+      "round_1": [
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Delores Booth My current thinking is that Option C appears most promising because I feel most comfortable with Option C as it allows us to fully utilize our available capital in a stable and predictable market, maximizing our growth potential while spreading risk evenly across all quarters. As someone who values harmony and security for the group, I want to make sure we are not exposing ourselves to unnecessary risk, but also not holding back our collective progress. This round, I’d like us to focus on an initial assessment of each budget allocation strategy based on current market conditions, aiming to establish a shared understanding of the risks and opportunities each option presents. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Option A', 'Option B', 'Option C', 'Option D'. Please keep all discussion focused on evaluating these specific options. I encourage everyone to share any perspectives or considerations that might help us deepen our collective understanding as we move forward.",
+          "id": "M1_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Jasper Meza",
+          "message": "I see Option C as the most balanced choice for our current situation—by allocating our full capital evenly, we maximize our growth potential without taking on unnecessary risk in any single quarter. Option A and B are more conservative, which could limit our returns given the predictability of the market this year, while Option D introduces more risk by concentrating a larger portion of our funds later in the year, which I feel is unnecessary in such a stable environment. I’m interested to hear how others weigh these trade-offs, but for now, I believe Option C gives us the best foundation for steady progress.",
+          "id": "M1_R1_2",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Jasper. I appreciate how you've articulated the balance between growth potential and risk management in Option C, especially in light of the stable market conditions. Your point about avoiding unnecessary concentration of risk later in the year with Option D is well taken, and I agree that a steady, even approach gives us a solid foundation as we start out.",
+          "id": "M1_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Jasper Meza",
+          "message": "Thank you, Delores. I’d also like to emphasize that by committing fully and consistently from the start, Option C helps us develop disciplined investment habits and reinforces our shared commitment to the company’s growth. This steady approach can build trust among us as shareholders and set a positive precedent for future decision-making.",
+          "id": "M1_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Jasper, for emphasizing the importance of consistency and trust-building as we establish our company’s investment culture. I agree that setting a disciplined precedent from the outset not only supports our financial objectives but also strengthens our shared commitment as a team. This perspective adds meaningful depth to our assessment of Option C’s advantages.",
+          "id": "M1_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Belle Cantu",
+          "message": "I appreciate the points raised about maximizing growth and building trust through consistent investment, especially in a stable market. At the same time, I feel it’s important to consider the value of maintaining a cash reserve in our first year, as in Option A, to ensure we have flexibility if conditions unexpectedly change. This approach could help us build confidence as a team while still participating in market opportunities.",
+          "id": "M1_R1_6",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Belle, for highlighting the importance of flexibility and the reassurance that comes with maintaining a cash reserve, especially as we navigate our first year. Your point about building team confidence by balancing participation with caution is well taken, and I agree that Option A’s more conservative stance could provide additional security if unexpected changes arise. This is a helpful reminder to weigh not only growth potential but also our collective comfort with risk as we establish our foundation.",
+          "id": "M1_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Belle Cantu",
+          "message": "I appreciate your thoughtful response, Delores. I believe that by starting with a conservative allocation like Option A, we can build our confidence as a team while also establishing disciplined investment habits. This balance between security and participation may help us set a strong foundation for both trust and long-term growth in our first year.",
+          "id": "M1_R1_8",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Belle. I appreciate how you’ve connected the conservative allocation in Option A to both team confidence and the development of disciplined investment habits. Your emphasis on balancing security with participation is a thoughtful reminder that our first-year approach should support both our financial growth and our group’s cohesion. This helps us further clarify the strengths of Option A as we consider all options collectively.",
+          "id": "M1_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Belle Cantu",
+          "message": "I agree that both Option A and Option C reflect our commitment to responsible growth, just with different emphases on caution and opportunity. Recognizing that our shared priorities include both team trust and steady progress, I think it’s important we continue weighing these options in light of how they support our company culture as well as our financial goals.",
+          "id": "M1_R1_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Krish Greer",
+          "message": "I appreciate how Jasper highlighted the disciplined growth and trust-building that come with Option C’s even allocation, and I also see merit in Belle’s emphasis on the reassurance and flexibility of Option A. In a stable market, I feel Option C allows us to fully participate in growth opportunities while spreading risk, but I also recognize the comfort that a cash reserve can bring as we build our foundation. Ultimately, I think our decision should reflect both our appetite for steady progress and our desire for security as new partners, and I’m open to hearing more about how others weigh these priorities.",
+          "id": "M1_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Krish, for articulating the balance between pursuing steady growth with Option C and valuing the security offered by Option A. Your summary underscores the importance of aligning our decision with both our financial ambitions and our need for reassurance as a new team. I agree that hearing from more shareholders will help us ensure our chosen approach reflects the full spectrum of our group’s priorities.",
+          "id": "M1_R1_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "I appreciate the emphasis on both disciplined growth and maintaining flexibility that’s come through in this discussion. In a stable market, I see Option C as the most inclusive and balanced approach—it allows us to fully participate in growth while evenly spreading our exposure, which feels fair and reassuring for everyone involved. At the same time, I recognize the value in Option A’s caution, but I feel our current environment gives us a unique opportunity to build confidence together by committing more fully from the start.",
+          "id": "M1_R1_13",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Ivan. I appreciate how you’ve highlighted the inclusivity and fairness of Option C, especially in the context of a stable market where we can confidently commit to growth together. Your acknowledgment of Option A’s caution is a helpful reminder that our decision should balance both opportunity and collective reassurance, and your perspective brings us closer to a well-rounded understanding of the best path forward for our team.",
+          "id": "M1_R1_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "I appreciate how this discussion is surfacing both our collective appetite for growth and our desire for reassurance. By openly considering the merits of both Option C’s full participation and Option A’s caution, I believe we’re fostering a culture of trust and shared responsibility—which, in itself, will be a valuable asset as we move forward together.",
+          "id": "M1_R1_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Ivan. I agree that fostering a culture of trust and shared responsibility is just as vital as the technical merits of any allocation strategy. Your reflection highlights how our open, balanced discussion is laying the groundwork for both strong financial decisions and a collaborative team dynamic as we move forward.",
+          "id": "M1_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "I agree that the way we engage in this decision is setting a powerful precedent—not just for our investment outcomes, but for how we work together as a team. Whether we ultimately choose Option C or a more cautious path, our shared commitment to open dialogue and balanced risk-taking will serve us well as we navigate future decisions.",
+          "id": "M1_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Isaac Bates",
+          "message": "I appreciate how the discussion has highlighted both the value of steady, full participation in Option C and the reassurance offered by the more conservative approach in Option A. In a stable market, I see Option C as giving us the best chance to build momentum and trust as a team by engaging everyone equally from the outset, while still managing risk through even distribution across quarters. At the same time, I recognize that the security of a cash reserve in Option A could bring comfort as we establish our foundation, so I’m interested in hearing how others weigh the importance of flexibility versus maximizing early growth.",
+          "id": "M1_R1_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Isaac, for summarizing the key considerations so clearly—your focus on balancing momentum and trust with the reassurance of flexibility is central to our decision. I agree that in a stable market, Option C’s even participation offers strong potential for both growth and team cohesion, but your point about the comfort of a cash reserve in Option A is an important one as we build our foundation. I look forward to hearing how others weigh these priorities, as their insights will help us arrive at the approach that best supports both our financial goals and our group’s sense of security.",
+          "id": "M1_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Isaac Bates",
+          "message": "Thank you, Delores. I think it’s clear from our discussion that both Option C and Option A resonate with our priorities, just in different ways—Option C for its proactive, team-driven momentum, and Option A for its emphasis on foundational security. As we continue, I’d encourage us to consider not only which option offers the best financial outcome, but also which approach will most effectively build our collective confidence and set the tone for our company culture in this important first year.",
+          "id": "M1_R1_20",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Isaac. I appreciate how you’ve highlighted that both Option C and Option A reflect our group’s priorities, though with different emphases on momentum versus foundational security. Your point about considering which approach will best foster collective confidence and set a positive tone for our company culture is especially valuable as we move forward—this holistic perspective will be key as we continue weighing our options together.",
+          "id": "M1_R1_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Isaac Bates",
+          "message": "I appreciate your focus on the holistic impact of our decision, Delores. As we weigh Option C’s momentum against Option A’s security, I think it’s helpful to reflect on how our choice will influence not only our results this year but also our ability to collaborate confidently in future decisions. By clarifying which priorities matter most to us now, we can lay a strong foundation for both performance and partnership as our company grows.",
+          "id": "M1_R1_22",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Delores Booth My current thinking is that Option C appears most promising because I continue to prefer Option C because it offers the most balanced approach to growth and risk in a stable market, fostering disciplined investment habits and inclusivity from the outset. However, I have increased my confidence in Option A due to the persuasive arguments about the security and flexibility a cash reserve can provide for a new team. I am mindful that our decision should support both our financial objectives and our team’s confidence, and I am open to further discussion as we evaluate the long-term implications of each option, though I'm interested in exploring all perspectives to refine our understanding. In this round, we will focus on evaluating how each allocation strategy might impact our immediate returns and our ability to remain flexible throughout the year, considering both financial and cultural effects. I encourage everyone to share insights that may help us see the long-term benefits or limitations of each approach, so we can build a more complete picture together. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Option A', 'Option B', 'Option C', 'Option D'. Please keep all discussion focused on evaluating these specific options.",
+          "id": "M1_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "I continue to see Option C as the best fit for our current environment because it allows us to fully engage as a team, building disciplined habits and shared confidence from the outset. At the same time, I appreciate the reassurance that Option A’s reserve offers, especially as we consider the comfort level of all shareholders. For me, Option C strikes the right balance between immediate growth and year-long flexibility, provided we remain committed to open communication and collective learning as we move forward.",
+          "id": "M1_R2_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Ivan—I appreciate how you’ve highlighted the importance of building disciplined habits and team confidence through full participation in Option C, while also recognizing the comfort that Option A’s reserve can provide. Your emphasis on open communication and collective learning is especially valuable as we consider how our choice will shape both our financial outcomes and our company culture over the year. This balanced view helps us better understand the long-term implications of each approach.",
+          "id": "M1_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "I’m encouraged by the way our discussion is bringing together the strengths of both Option C and Option A. Regardless of which path we ultimately select, I believe our commitment to transparent dialogue and regular check-ins will be key to maintaining both flexibility and confidence throughout the year.",
+          "id": "M1_R2_4",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Ivan. I agree that our ongoing commitment to transparent dialogue and regular check-ins will be essential for maintaining both flexibility and confidence, no matter which option we select. Your perspective underscores the value of a collaborative culture as we navigate both the immediate and long-term impacts of our decision.",
+          "id": "M1_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Krish Greer",
+          "message": "I continue to see Option C as the most balanced choice for our situation, since evenly deploying our full capital allows us to maximize opportunities in this stable market while building disciplined habits and a sense of shared ownership from the very beginning. At the same time, I recognize that Option A’s reserve could provide extra reassurance if unexpected circumstances arise, which is especially meaningful in our first year. As we consider the long-term implications, I think it’s important that whichever option we choose, we remain intentional about fostering trust, open communication, and adaptability—those are the qualities that will help us navigate both immediate returns and any surprises the year may bring.",
+          "id": "M1_R2_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Krish. I appreciate how you’ve articulated the balance between maximizing opportunities through full engagement with Option C and the reassurance that Option A’s reserve could provide in uncertain moments. Your emphasis on fostering trust, open communication, and adaptability is especially important as we consider not just short-term returns, but how our decision will shape our team’s resilience and cohesion throughout the year.",
+          "id": "M1_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Krish Greer",
+          "message": "I appreciate your focus on how our decision will shape resilience and cohesion within the team. As we weigh Option C’s momentum against Option A’s reassurance, I think it’s worth considering how our initial approach will set expectations for collaboration and support in future years. Whichever option we choose, I believe prioritizing strong communication and mutual confidence will be just as important as the numbers themselves.",
+          "id": "M1_R2_8",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Krish. I agree that the approach we choose now will influence not only our financial outcomes this year, but also the expectations we set for collaboration and mutual support in the years ahead. Your point about prioritizing strong communication and confidence—regardless of the option selected—reminds us that our ongoing teamwork and adaptability will be just as critical to our success as the initial allocation itself.",
+          "id": "M1_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Krish Greer",
+          "message": "I agree, and I think one of our greatest strengths as a team is our willingness to engage openly and support each other, regardless of which option we ultimately select. By keeping these values at the center of our decision—whether we lean toward Option C’s active participation or Option A’s cautious flexibility—I’m confident we’ll set a strong foundation for both our company’s growth and our long-term partnership.",
+          "id": "M1_R2_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Isaac Bates",
+          "message": "I continue to see Option C as the most balanced approach for us in this stable market, since it allows us to fully engage our capital and build disciplined habits as a team, which I believe will strengthen our momentum and collective confidence from the outset. At the same time, I appreciate how Option A’s reserve could provide reassurance if unexpected situations arise, and I recognize the importance of flexibility as we learn and grow together in our first year. For me, Option C best supports both immediate returns and the kind of steady, inclusive progress that will help us develop a resilient and collaborative culture over the long term.",
+          "id": "M1_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Isaac. I appreciate how you’ve highlighted the importance of building disciplined habits and momentum through Option C, while also acknowledging the reassurance and flexibility that Option A’s reserve could provide as we adapt and learn together. Your emphasis on steady, inclusive progress and the development of a resilient, collaborative culture aligns closely with our goals, and your balanced view helps us consider both the immediate and long-term impacts of our decision.",
+          "id": "M1_R2_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Isaac Bates",
+          "message": "I appreciate your acknowledgement, Delores. I think it’s important to remember that whichever option we choose—Option C for its momentum or Option A for its reassurance—our real strength will come from how intentionally we support each other and remain adaptable throughout the year. I’m confident that by keeping open communication at the center of our approach, we’ll be well positioned to navigate both immediate opportunities and any challenges that arise.",
+          "id": "M1_R2_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Isaac. I agree that our real strength will come from our intentional support for one another and our willingness to remain adaptable, no matter which option we ultimately select. Your point about keeping open communication at the center of our approach is essential for ensuring we’re prepared to navigate both immediate opportunities and any unforeseen challenges as a team.",
+          "id": "M1_R2_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Jasper Meza",
+          "message": "I continue to see Option C as the best fit for us in this stable market, since it allows us to maximize our growth potential and build disciplined investment habits together right from the start. At the same time, I appreciate the reassurance that Option A’s reserve offers, especially as we lay our foundation as a team, and I believe our ongoing commitment to transparency and mutual support will be just as important as the allocation itself in maintaining flexibility and confidence throughout the year.",
+          "id": "M1_R2_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Jasper. I appreciate how you’ve highlighted the importance of maximizing our growth potential and building disciplined habits with Option C, while also recognizing the reassurance that Option A’s reserve can bring as we establish our foundation. Your focus on transparency and mutual support is essential, as these qualities will help us maintain both flexibility and confidence throughout the year, no matter which option we ultimately choose.",
+          "id": "M1_R2_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Jasper Meza",
+          "message": "I agree that fostering transparency and support is critical, and I think it’s encouraging that both Option C and Option A can serve as strong foundations for these values, depending on how we implement them as a team. As we finalize our decision, I believe it’s important to focus not just on the numbers, but on how our chosen approach will enable us to remain adaptable and resilient as we grow together.",
+          "id": "M1_R2_17",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Jasper. I agree that our ability to remain adaptable and resilient will depend not only on the option we select, but also on how intentionally we foster transparency and support within the team. Your point underscores that both Option C and Option A can serve as strong foundations for our values, and it’s important that we keep these priorities at the center of our decision as we move forward.",
+          "id": "M1_R2_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Belle Cantu",
+          "message": "I appreciate how much care everyone has taken in weighing both growth and reassurance. As I reflect on the long-term implications, I see that Option C not only maximizes our immediate returns in a stable market but also encourages full participation and shared responsibility, which can strengthen our trust and adaptability as a team. While holding a reserve as in Option A offers comfort, I believe that committing fully together from the outset will help us build the confidence and discipline we need for sustainable success, provided we continue to prioritize open communication and mutual support.",
+          "id": "M1_R2_19",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Belle. I appreciate how you’ve articulated the long-term benefits of full participation and shared responsibility under Option C, and your recognition that a reserve in Option A can offer comfort as we build our foundation. Your emphasis on prioritizing open communication and mutual support as key factors for sustainable success is especially valuable, and I agree that our collective commitment to these values will be crucial in maximizing the strengths of whichever option we select.",
+          "id": "M1_R2_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Belle Cantu",
+          "message": "I agree, and I think our ongoing commitment to open communication and support will be the foundation for our success, no matter which option we choose. By focusing on these values, we can ensure that our team remains adaptable and resilient, ready to make the most of any opportunities or challenges that arise throughout the year.",
+          "id": "M1_R2_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Belle. I completely agree that our ongoing commitment to open communication and support will be the cornerstone of our adaptability and resilience, no matter which option we ultimately select. By keeping these values at the heart of our decision-making, we’ll be well positioned to navigate both opportunities and challenges together as a strong, unified team.",
+          "id": "M1_R2_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q1": {
+      "round_1": [
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Delores Booth My current thinking is that Real Estate appears most promising because as I reflect on our first investment decision, I am drawn to real estate for its steady appreciation and balanced risk profile in this stable market. I want to ensure our team feels confident that we are pursuing growth without taking unnecessary risks, especially early on as we build trust and shared habits. This round, we will focus on establishing baseline risk-return profiles for each asset—cash, bonds, real estate, and stocks—to build a shared understanding of how they are theoretically expected to perform this quarter. I encourage everyone to contribute their perspectives so we can integrate our insights and reach a deeper, more complete view. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.",
+          "id": "M2_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "I appreciate the focus on building a shared understanding of each asset’s baseline profile. In this stable market, I see real estate as offering a reassuring balance—providing steady appreciation without the higher volatility of stocks, and more growth potential than cash or bonds. I believe starting with an asset that fosters both confidence and disciplined growth will help us build trust and momentum as a team.",
+          "id": "M2_R1_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Ivan—I appreciate how you’ve emphasized both the steady appreciation of real estate and its role in building team confidence and momentum. Your point about fostering trust and disciplined growth is especially valuable as we lay the foundation for our company’s culture and investment habits. This perspective supports my current assessment and helps clarify why real estate could be the most balanced and reassuring choice for our inaugural quarter.",
+          "id": "M2_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "I appreciate your recognition of the cultural impact of our first investment decision. I also see real estate as a way to unify differing risk preferences within our team, as it offers both the reassurance some shareholders value and the growth potential others seek. By starting with real estate, we can establish a precedent of balanced, thoughtful decision-making that supports both our financial and cultural objectives.",
+          "id": "M2_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Ivan—your point about real estate serving as common ground for differing risk preferences is particularly insightful. I agree that starting with an asset that bridges both reassurance and growth potential can help us set a positive precedent for thoughtful, inclusive decision-making. This approach not only supports our financial goals but also strengthens the collaborative culture we’re aiming to build from the outset.",
+          "id": "M2_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "I agree that establishing this precedent is important, especially as our early decisions will likely shape how we approach risk and collaboration in future quarters. By choosing real estate, we demonstrate our commitment to both prudent financial management and a culture that values every shareholder’s perspective, which I believe will pay dividends as we move forward together.",
+          "id": "M2_R1_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Krish Greer",
+          "message": "I agree that real estate stands out as the asset that best balances steady growth with manageable risk in this stable environment. Its consistent appreciation offers the reassurance we need as a new team, while still supporting our ambition for disciplined, long-term development. I believe starting with real estate will help us build confidence and establish a strong foundation for both our financial results and our collaborative approach.",
+          "id": "M2_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Krish—I appreciate how you’ve highlighted the dual benefits of real estate: steady appreciation and the reassurance it provides for a new team. Your point about fostering disciplined, long-term development resonates with our goal of building both financial strength and a strong, collaborative culture from the outset. This perspective further strengthens my confidence that real estate is well-suited for our inaugural investment in this stable environment.",
+          "id": "M2_R1_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Krish Greer",
+          "message": "I appreciate your focus on how our investment choice can shape the company’s culture as much as our financial results. By choosing real estate, we not only pursue reliable growth, but also establish a precedent for inclusive, balanced decision-making that values both security and ambition—an approach I believe will strengthen trust and engagement among all shareholders as we move forward.",
+          "id": "M2_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Krish—your point about establishing a precedent for inclusive, balanced decision-making is especially important as we set the tone for our company’s culture. I agree that prioritizing both security and ambition in our first investment can help foster lasting trust and engagement among all shareholders. This reinforces my belief that real estate is well-positioned to support both our financial and collaborative goals as we move forward.",
+          "id": "M2_R1_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Krish Greer",
+          "message": "I also think real estate’s moderate risk profile gives us room to learn and adapt as a team without exposing us to extreme volatility right away. This balance allows us to build experience and refine our approach collaboratively, which should serve us well as we encounter new challenges and opportunities in future quarters.",
+          "id": "M2_R1_11",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Krish—your observation about real estate providing us with room to learn and adapt together is especially valuable. Creating a supportive environment where we can build experience without undue risk is crucial as we establish our working dynamics and refine our approach. This perspective strengthens the case for real estate as a foundation for both prudent growth and ongoing team development.",
+          "id": "M2_R1_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Isaac Bates",
+          "message": "I agree with the emphasis on real estate’s steady appreciation and moderate risk, which feels especially appropriate as we establish our investment habits and company culture. While stocks offer higher potential returns, I think their volatility is less aligned with our current need for confidence and predictability; meanwhile, cash and bonds provide safety but may not deliver the growth momentum we want to set from the outset. By focusing on real estate this quarter, we can pursue reliable growth and reinforce our commitment to balanced, inclusive decision-making.",
+          "id": "M2_R1_13",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Isaac—I appreciate how you’ve weighed the risk-return profiles of all four options and connected your reasoning to our need for confidence and predictability as a new team. Your emphasis on building both reliable growth and inclusive decision-making habits aligns closely with our collective goals for this inaugural quarter. This perspective further supports the case for real estate as a prudent, unifying choice for our first investment.",
+          "id": "M2_R1_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Isaac Bates",
+          "message": "Thank you, Delores. I also want to acknowledge how our early investment choices can set expectations for adaptability as well as growth. By choosing real estate, we not only establish a solid, reassuring foundation, but also demonstrate our ability to make thoughtful, unified decisions—qualities that will serve us well as we encounter new market dynamics in future quarters.",
+          "id": "M2_R1_15",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Isaac—your point about setting expectations for adaptability, in addition to growth, is especially insightful. Establishing a solid foundation with real estate not only reassures us now, but also demonstrates our capacity for thoughtful, unified decision-making as we navigate future market changes. This perspective strengthens my confidence that our first investment can serve as both a financial and cultural cornerstone for the company.",
+          "id": "M2_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Isaac Bates",
+          "message": "I appreciate your focus on our investment serving as both a financial and cultural cornerstone, Delores. By starting with real estate, we create space to build resilience and shared learning as a team, which positions us to adapt confidently as conditions evolve. This approach not only supports steady returns but also strengthens our foundation for collaborative growth in the quarters ahead.",
+          "id": "M2_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Jasper Meza",
+          "message": "I agree with the points raised about real estate’s steady appreciation and moderate risk, which make it the most balanced option for our first quarter. In a stable market, cash and bonds offer safety but may limit our growth potential, while stocks introduce more volatility than we need as we build trust and habits as a new team. Real estate gives us the best chance to pursue disciplined growth and establish a confident, unified approach from the outset.",
+          "id": "M2_R1_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Jasper—your summary of each asset’s strengths and limitations in this stable market is especially clear and helpful. I appreciate how you’ve connected real estate’s balanced profile to our goals of disciplined growth and building trust as a new team. This perspective further clarifies why real estate stands out as the most suitable option for our inaugural investment.",
+          "id": "M2_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Jasper Meza",
+          "message": "I appreciate your recognition, Delores. Building on what Ivan, Krish, and Isaac have shared, I think our collective focus on balance, steady growth, and trust demonstrates strong alignment within the team. By choosing real estate, we not only prioritize prudent returns but also reinforce the inclusive, disciplined culture we’re all committed to establishing from the very beginning.",
+          "id": "M2_R1_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Jasper—your synthesis of our collective focus on balance, steady growth, and trust is especially valuable as we work to build a unified approach from the start. By prioritizing both prudent returns and an inclusive, disciplined culture, we’re setting a strong foundation for our company’s long-term success. Your perspective further affirms my confidence that real estate is the right choice for our inaugural investment.",
+          "id": "M2_R1_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Belle Cantu",
+          "message": "I appreciate the thoughtful points everyone has raised regarding real estate. In this stable market, I see real estate as offering the steady appreciation and moderate risk that can help us build both financial momentum and team confidence right from the start. While bonds and cash provide reassurance, I feel real estate strikes the best balance between growth and prudence, which is especially important as we establish our investment habits and collaborative culture.",
+          "id": "M2_R1_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Belle—your emphasis on real estate’s ability to build both financial momentum and team confidence is especially meaningful as we establish our investment habits and collaborative culture. I appreciate how you’ve articulated the importance of balancing growth with prudence, which aligns closely with our collective priorities for this inaugural quarter. Your perspective further strengthens the case for real estate as a reassuring and forward-looking choice for our team.",
+          "id": "M2_R1_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Belle Cantu",
+          "message": "I appreciate your recognition of the need to balance growth with prudence, Delores. As we move forward, I believe maintaining this focus on responsible planning—while still pursuing steady returns—will help us navigate future decisions with confidence and unity. This integrated approach can serve as a strong foundation for both our investment strategy and our company culture.",
+          "id": "M2_R1_24",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Belle—your focus on responsible planning alongside steady returns is especially valuable as we chart our path forward. I agree that maintaining this balance will help us approach future decisions with both confidence and unity, ensuring our investment strategy and company culture remain closely aligned. Your perspective further affirms the importance of integrating both financial and cultural considerations as we build our foundation.",
+          "id": "M2_R1_25",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Delores Booth My current thinking is that Real Estate appears most promising because real estate stands out as the optimal choice for our first quarter; it offers steady appreciation, moderate risk, and provides a strong foundation for building trust and disciplined habits within our team. The consensus among shareholders and the alignment with our company’s developmental goals further validate this direction. Choosing real estate allows us to pursue growth without unnecessary risk, supports a collaborative culture, and establishes a precedent for balanced, inclusive decision-making as we move forward, though I'm interested in exploring all perspectives to refine our understanding. For this round, I’d like us to focus on identifying our key priorities and any potential concerns for this inaugural investment—specifically surfacing your perspectives on risk tolerance, company goals, and any reservations regarding the asset classes available. By openly sharing both our objectives and any hesitations, we can ensure our decision fully reflects the needs and values of everyone at the table. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I encourage you to share any insights or considerations that might help us deepen our collective understanding and make the most informed choice for our company’s first investment.",
+          "id": "M2_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Jasper Meza",
+          "message": "I see our key priority as establishing a disciplined, growth-oriented precedent that also builds trust and confidence among shareholders. Real estate offers steady appreciation and moderate risk, which fits our stable market and desire for reliability as a new team. My only caution is to remain mindful of potential liquidity constraints with real estate, but I believe our shared focus on open communication and adaptability will help us address any challenges that arise.",
+          "id": "M2_R2_2",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Jasper, for highlighting both the strengths of real estate and the potential liquidity concerns. I agree that maintaining open communication and adaptability will be key as we navigate any challenges that arise. Your point about liquidity is well taken, and I believe keeping this in mind will help us remain proactive and responsive as a team while we pursue our growth objectives.",
+          "id": "M2_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "I agree that our main priority should be establishing a foundation of disciplined growth and trust among shareholders, and real estate seems well-suited for that in this stable market. At the same time, I appreciate Jasper’s mention of liquidity—while I’m confident in real estate’s steady appreciation, it’s important we remain attentive to any constraints that could affect our flexibility down the line. I believe our team’s commitment to open communication will allow us to proactively address any such concerns as they arise.",
+          "id": "M2_R2_4",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Ivan, for emphasizing the importance of balancing disciplined growth and trust with attentiveness to potential liquidity constraints. I agree that our commitment to open communication will be essential in proactively addressing any challenges to our flexibility. By keeping these considerations at the forefront, we can ensure our inaugural investment supports both our financial goals and our ability to adapt as a team.",
+          "id": "M2_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "I appreciate your focus on adaptability, Delores. I think emphasizing this mindset as we move forward will not only help us manage any challenges with real estate, but also strengthen our team culture overall. By staying attentive to both the financial and relational aspects of our decision, I believe we can set a strong precedent for how we approach future investments together.",
+          "id": "M2_R2_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Ivan. I completely agree that maintaining adaptability and focusing on both financial and relational aspects will be key to our ongoing success. By modeling this balanced approach now, we set a strong foundation for how we’ll navigate future opportunities and challenges together as a team.",
+          "id": "M2_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Isaac Bates",
+          "message": "I share the view that our priority should be disciplined growth and team confidence, and I still see real estate as the best fit for our inaugural investment in this stable market. I do recognize the liquidity concern that’s been raised—while real estate is less flexible than other options, I believe our even, quarterly allocation and strong communication as a team will help us manage any short-term constraints. Ultimately, I think real estate gives us the right balance of steady returns and cultural momentum to set a positive tone for our company’s development.",
+          "id": "M2_R2_8",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Isaac, for articulating how our quarterly allocation and strong communication can help us manage the liquidity considerations associated with real estate. I agree that this approach not only supports steady returns but also helps us build the cultural momentum and team confidence that are so important at this early stage. Your perspective reinforces our commitment to both prudent financial management and a collaborative, adaptive company culture.",
+          "id": "M2_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Isaac Bates",
+          "message": "I appreciate your emphasis on the connection between financial discipline and company culture, Delores. By proactively addressing liquidity within our real estate strategy, we’re not just safeguarding our returns—we’re also demonstrating the adaptability and teamwork that will define our company’s identity. I believe this mindset will serve us well as we encounter new opportunities and challenges ahead.",
+          "id": "M2_R2_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Isaac. I wholeheartedly agree that proactively addressing liquidity within our real estate strategy not only safeguards our returns, but also models the adaptability and teamwork we want to define our company. By embedding these values into our investment decision, we lay a strong foundation for both financial success and a positive, resilient team culture as we move forward.",
+          "id": "M2_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Krish Greer",
+          "message": "I agree that our main priorities should be disciplined growth, building trust, and fostering an inclusive team culture as we make our first investment. Real estate stands out for offering steady returns that align with our growth objectives, and I believe our quarterly allocation and strong communication will help us navigate any liquidity challenges. By keeping adaptability and openness at the core of our decision-making, we can set a positive precedent for how we approach both opportunities and risks as a team.",
+          "id": "M2_R2_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Krish. I appreciate your focus on disciplined growth, trust, and inclusivity, as well as your emphasis on adaptability and openness in our decision-making. By prioritizing these values and proactively addressing liquidity through our quarterly allocation and strong communication, I believe we are setting a positive precedent for how we will collectively manage both opportunities and risks as our company grows.",
+          "id": "M2_R2_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Krish Greer",
+          "message": "Thank you, Delores. I also see our proactive approach to communication and adaptability as a way to build resilience—not just for this investment, but for all our future decisions as well. By embedding these habits now, we’re creating a culture where we can confidently pursue growth while remaining flexible and responsive to any challenges that come our way.",
+          "id": "M2_R2_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Krish. I completely agree that by embedding adaptability and proactive communication into our process now, we are laying the groundwork for a resilient and responsive company culture. This mindset not only strengthens our first investment decision but also equips us to confidently navigate future opportunities and challenges together as a team.",
+          "id": "M2_R2_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Belle Cantu",
+          "message": "I agree that our key priorities should be steady growth, financial stability, and building a strong, supportive team culture as we make our first investment. Real estate feels like the best fit because it offers balanced returns and moderate risk, but I appreciate the thoughtful points about liquidity—by maintaining open communication and adapting as needed, I’m confident we can address any challenges together and make decisions that reflect both our goals and our values.",
+          "id": "M2_R2_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Belle. I appreciate how you’ve brought together our shared focus on growth, stability, and supportive culture, while also recognizing the importance of staying adaptable in the face of potential liquidity challenges. Your confidence in our ability to address any issues through open communication and teamwork truly reflects the values we want to uphold as we move forward with this investment.",
+          "id": "M2_R2_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Belle Cantu",
+          "message": "I appreciate your emphasis on adaptability and teamwork, Delores. By consciously embedding these values into our investment process from the start, I believe we’re not only making a sound financial choice with real estate, but also laying the groundwork for a resilient and unified company culture. This shared commitment will help us navigate future decisions with confidence and trust.",
+          "id": "M2_R2_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Belle. I fully agree that by intentionally prioritizing adaptability and teamwork from the outset, we’re creating a strong foundation not only for this investment, but for the way we approach every decision as a team. This shared commitment to resilience and unity will be invaluable as we continue to build a company culture rooted in both trust and sustainable growth.",
+          "id": "M2_R2_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q2": {
+      "round_1": [
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Delores Booth My current thinking is that Real Estate appears most promising because as I reflect on our company’s priorities and the stable market environment, I feel most confident that real estate offers the ideal balance of steady growth and moderate risk for this quarter. Our previous investment in real estate yielded a consistent 10% return, reinforcing its reliability and alignment with our goal of building disciplined investment habits and a collaborative culture. For this round, let’s focus on reviewing our previous quarter’s investment performance and identifying lessons learned, so we can establish a shared factual foundation for our decision today. I encourage everyone to share concrete takeaways from last quarter’s results and how those should inform our approach this quarter. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I welcome your insights on what worked well, what could be improved, and how we can apply those lessons as we move forward.",
+          "id": "M3_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Jasper Meza",
+          "message": "Our investment in real estate last quarter delivered exactly the kind of steady, predictable return we were aiming for, which I think helped build both our financial base and our confidence as a team. The lesson I take from this is that a disciplined, balanced approach not only supports our growth goals but also strengthens trust and collaboration. As we move into this quarter, I believe we should weigh these outcomes carefully while staying open to any new developments that might shift the risk-return balance among our available options.",
+          "id": "M3_R1_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Jasper. I appreciate how you’ve connected our steady financial results to the growth in team confidence and trust. Your emphasis on remaining attentive to shifts in the risk-return balance is valuable, and I agree that maintaining both discipline and openness to new information will help us continue making sound, collaborative decisions.",
+          "id": "M3_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Jasper Meza",
+          "message": "I agree that maintaining both discipline and openness will be key as we consider this quarter’s options. Building on our experience, I’d be interested to hear how others are currently weighing the potential risks and returns of real estate compared to stocks, especially since both offer growth but with different volatility profiles. This could help us ensure our decision reflects the full range of shareholder perspectives and risk appetites.",
+          "id": "M3_R1_4",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you for raising this, Jasper. Comparing real estate and stocks is especially relevant given their differing volatility and growth profiles; while real estate provided us with steady, moderate returns last quarter, stocks historically offer higher potential gains but also greater risk. I encourage everyone to share their perspectives on how these differences align with our current risk tolerance and what lessons from last quarter might inform our approach to these options now.",
+          "id": "M3_R1_5",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Jasper Meza",
+          "message": "I appreciate this framing, Delores. Last quarter’s steady real estate return reinforced the value of reliability for our team, but I recognize that some may see the higher potential of stocks as attractive, especially as our confidence grows. I’m interested in how others view the trade-off between pursuing greater gains and maintaining the stability that’s helped us build trust so far.",
+          "id": "M3_R1_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you for articulating this trade-off so clearly, Jasper. I agree that as our confidence grows, it’s natural to consider whether greater risk for potentially higher returns might suit our evolving priorities, but we must also weigh how much we value the stability that’s contributed to our trust and cohesion so far. I’d welcome hearing from others on how they’re balancing these factors as we reflect on last quarter’s results and look ahead to this quarter’s decision.",
+          "id": "M3_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Jasper Meza",
+          "message": "I think it’s important that we recognize how our successful experience with real estate has earned us a degree of confidence and cohesion, which could support taking on slightly more risk if the group feels ready. At the same time, I believe we should be intentional about any shift, ensuring that our core values of stability and trust remain central to our decision. I encourage everyone to consider whether our current priorities call for maintaining our disciplined approach with real estate or if we’re prepared to responsibly explore higher-return options like stocks this quarter.",
+          "id": "M3_R1_8",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Jasper, for highlighting the importance of intentionality as we consider any shift in our approach. I agree that our experience with real estate has strengthened our foundation, and your point about keeping stability and trust at the center of our decision-making is essential. I’d now like to invite other shareholders to share their reflections on last quarter’s results and how those lessons might shape our risk appetite and asset choice for this quarter.",
+          "id": "M3_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Isaac Bates",
+          "message": "I believe our experience last quarter with real estate reinforced the value of steady, predictable growth, which not only strengthened our financial position but also helped build trust and confidence among the team. This result shows that a disciplined, balanced approach can deliver reliable returns without exposing us to unnecessary risk, which feels especially important as we continue establishing our company’s foundation. While I recognize the potential appeal of higher-return options like stocks, I think it’s wise to consider how much we value the momentum and cohesion we’ve built through our current strategy before making any significant shifts.",
+          "id": "M3_R1_10",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Isaac. Your emphasis on how steady, reliable growth has supported both our financial position and team confidence is well taken. I agree that, as we reflect on last quarter’s results, it’s important to weigh the value of the momentum and cohesion we’ve built through our disciplined approach before considering any significant shift toward higher-risk options. I welcome additional reflections on how others see this balance as we move forward.",
+          "id": "M3_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Isaac Bates",
+          "message": "I appreciate your focus on maintaining the momentum and cohesion we’ve built, Delores. At the same time, I think our positive experience last quarter gives us a stronger foundation to thoughtfully assess whether our collective risk appetite is evolving, especially as team confidence grows. I’m interested in hearing if others feel our success with real estate has shifted their view on the appropriate balance between steady growth and higher-return opportunities like stocks for this quarter.",
+          "id": "M3_R1_12",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Isaac. I appreciate your point that our positive experience last quarter could provide the confidence needed to reassess our willingness to take on more risk. It’s valuable to consider whether our evolving team dynamic might support exploring higher-return options like stocks, or if maintaining our disciplined approach with real estate is still best for our goals—so I encourage others to share whether their perspectives on this balance have shifted as a result of last quarter’s outcome.",
+          "id": "M3_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Isaac Bates",
+          "message": "Building on this, I think it’s important that we remain intentional about any adjustment to our risk profile—using our real estate success as a foundation for open, honest discussion about our comfort with higher-return options like stocks. I’d encourage us to clearly articulate what level of risk feels appropriate now, so we can ensure our next step supports both our financial goals and the trust we’ve established as a team.",
+          "id": "M3_R1_14",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Isaac. I agree that being intentional about any shift in our risk profile is essential, especially as we build on the foundation of trust and success from last quarter. Your call for clarity around our current comfort level with risk is timely, and I encourage everyone to reflect on what feels most appropriate for our team at this stage—ensuring our next decision continues to support both our growth objectives and the strong sense of trust we’ve developed together.",
+          "id": "M3_R1_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Isaac Bates",
+          "message": "I appreciate the emphasis on clarity and intentionality, Delores. As we consider our options—cash, bonds, real estate, and stocks—I believe it’s essential we openly acknowledge how our recent success has shaped our comfort with risk, while also staying grounded in the steady progress that’s strengthened our team. This way, we can make a decision that not only advances our financial goals but also deepens the trust and cohesion that are becoming hallmarks of our company culture.",
+          "id": "M3_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "I agree with both Jasper and Isaac that our investment in real estate last quarter provided the steady, predictable return we needed to build trust and momentum as a team. The reliability of that outcome not only strengthened our financial base but also fostered a sense of confidence and inclusivity in our decision-making process. As we consider our options for this quarter—cash, bonds, real estate, and stocks—I think it’s essential we continue to prioritize approaches that reinforce disciplined growth and team cohesion, while remaining open to reassessing our risk tolerance as our confidence grows.",
+          "id": "M3_R1_17",
+          "act_type": "Justify",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Ivan. I appreciate how you’ve highlighted both the reliability of last quarter’s outcome and its positive impact on our team’s confidence and inclusivity. Your point about prioritizing disciplined growth while staying open to reassessing our risk tolerance as we progress is well taken, and I encourage others to reflect on how these lessons might shape our approach to this quarter’s investment options.",
+          "id": "M3_R1_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "I appreciate your encouragement, Delores. Building on the discussion, I think our experience last quarter demonstrates that maintaining a disciplined, steady approach like real estate can serve as a strong foundation—giving us the flexibility to thoughtfully consider higher-return options like stocks if and when our collective confidence supports it. I’d be interested to hear if others feel that our success so far has shifted their view on the right balance between stability and potential growth for this quarter.",
+          "id": "M3_R1_19",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Ivan. Your observation that our disciplined approach with real estate has given us the flexibility to consider higher-return options like stocks in the future is insightful. I encourage everyone to reflect on whether our recent success has shifted their view on the optimal balance between stability and growth for this quarter, so we can ensure our decision truly reflects our evolving confidence and priorities as a team.",
+          "id": "M3_R1_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "I think your point raises an important question for us, Delores. While our steady results with real estate have certainly increased our confidence, I believe it’s important that any shift toward higher-return options like stocks is made with full transparency and shared agreement, so we preserve the trust and cohesion that have become central to our team. I look forward to hearing how others are weighing this balance, as I see real value in integrating cautious optimism with the disciplined habits we’ve established.",
+          "id": "M3_R1_21",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Belle Cantu",
+          "message": "I agree with the points raised so far—our investment in real estate last quarter not only delivered a reliable 10% return, but also helped build trust and confidence within our team. For me, the key takeaway is that steady, predictable growth supports both our financial goals and our collaborative culture, which feels especially important early in our company’s development. As we consider this quarter’s options, I think it’s wise to continue prioritizing approaches that reinforce this foundation, while remaining open to careful discussion about how our comfort with risk may evolve as our confidence grows.",
+          "id": "M3_R1_22",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Belle. I appreciate how you’ve connected the reliability of last quarter’s real estate return to both our financial progress and the development of our collaborative culture. Your emphasis on reinforcing this foundation—while staying open to thoughtfully reassessing our comfort with risk as we grow—is an important consideration as we move forward, and I welcome further reflections from the group on how these lessons should shape our approach this quarter.",
+          "id": "M3_R1_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Belle Cantu",
+          "message": "I appreciate your encouragement to remain open as we build on our foundation, Delores. I also value how others have emphasized the importance of intentionality and clarity if we consider shifting our approach. As we reflect on last quarter’s results, I think it would be helpful for each of us to share whether our comfort with risk has changed, so our decision this quarter truly reflects both our shared goals and any evolving perspectives within the team.",
+          "id": "M3_R1_24",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Belle. I appreciate your focus on intentionality and the suggestion to openly share any shifts in our comfort with risk, as this will help ensure our decision truly reflects the team’s evolving perspectives as well as our shared goals. I encourage everyone to reflect on whether last quarter’s results have influenced your risk appetite, so we can move forward with a clear and unified understanding of where we stand as a group.",
+          "id": "M3_R1_25",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Belle Cantu",
+          "message": "I think it’s valuable that we’re taking time to openly discuss any changes in our comfort with risk, as this transparency will help us make a decision that truly represents where we are as a team. If anyone feels differently about the trade-off between stability and potential growth after last quarter’s results, I encourage you to share those thoughts so we can move forward with a clear and unified approach.",
+          "id": "M3_R1_26",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Krish Greer",
+          "message": "I appreciate how our investment in real estate last quarter provided not just steady financial growth, but also helped strengthen our team’s trust and confidence in our collective decision-making. For me, the key lesson is that a disciplined, reliable approach supports both our financial objectives and our collaborative culture, and I believe maintaining this foundation—while staying open to careful discussion about risk—will serve us well as we consider this quarter’s options.",
+          "id": "M3_R1_27",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Krish. Your observation that our disciplined, reliable approach has supported both our financial objectives and our collaborative culture is well put. I agree that maintaining this foundation—while remaining open to careful, thoughtful discussion about risk—will help us continue making decisions that build both trust and sustainable growth as a team.",
+          "id": "M3_R1_28",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Krish Greer",
+          "message": "I agree, Delores. As we reflect on our progress, I think it’s important that we regularly check in on our collective comfort with risk—drawing on the trust and momentum we’ve built to ensure our decisions remain both disciplined and responsive to the team’s evolving confidence. This way, we can continue fostering both strong financial outcomes and a resilient, collaborative culture.",
+          "id": "M3_R1_29",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Krish. I agree that regularly checking in on our collective comfort with risk is essential to ensuring our decisions remain both disciplined and responsive to the evolving confidence within our team. Your point reinforces the value of open, ongoing dialogue as we continue to build a resilient, collaborative culture while pursuing strong financial outcomes together.",
+          "id": "M3_R1_30",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Krish Greer",
+          "message": "I appreciate that, Delores. I’ve noticed that our transparent communication about both our successes and our evolving risk appetite has played a key role in unifying our team and strengthening our decision-making process. By continuing to foster this openness, I believe we can ensure our investment choices remain well-aligned with both our company’s goals and the collective confidence of our shareholders.",
+          "id": "M3_R1_31",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Delores Booth My current thinking is that Real Estate appears most promising because I continue to believe that real estate offers the best balance of steady growth and moderate risk for our company at this stage, especially given its proven track record in the current stable market and its role in building team confidence and cohesion. The discussion has highlighted a growing openness to considering stocks as our risk appetite evolves, but the group remains aligned around the value of reliability and disciplined progress. Maintaining our focus on real estate this quarter supports both our financial objectives and the inclusive, trust-based culture we’re cultivating, while leaving room for intentional reassessment in future quarters, though I'm interested in exploring all perspectives to refine our understanding. In this round, let’s assess whether our collective comfort with risk has shifted and how our values around growth, stability, and culture should shape our investment choice. By openly sharing our perspectives, we can ensure that our decision truly reflects the evolving priorities of our team and strengthens our collaborative foundation. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I encourage each of you to share insights or concerns that might deepen our understanding of the best path forward for our company.",
+          "id": "M3_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Belle Cantu",
+          "message": "I continue to feel that real estate offers the right balance of steady growth and moderate risk for us, especially given its consistent performance and the trust it has helped build within our team. While I appreciate the openness to exploring higher-return options like stocks as our confidence grows, I believe maintaining our disciplined approach with real estate this quarter best supports both our financial objectives and the collaborative, supportive culture we value. That said, I welcome hearing if anyone feels their comfort with risk has shifted, as ensuring our decision reflects everyone’s perspective is very important to me.",
+          "id": "M3_R2_2",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Belle—I appreciate how you’ve highlighted the value of real estate’s consistency and its positive impact on our team’s trust and cohesion. Your openness to re-examining our risk appetite as we gain confidence is especially valuable; I agree that ensuring everyone’s comfort and perspective is reflected in our decision will help us maintain both financial discipline and a strong, inclusive culture. I encourage others to share if their views on risk have shifted or if there are additional considerations that should inform our choice among the available options.",
+          "id": "M3_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Belle Cantu",
+          "message": "I appreciate your focus on inclusivity and would like to encourage anyone who hasn’t spoken yet to share their current perspective, especially if their comfort with risk has changed. Regularly revisiting our risk tolerance ensures we remain aligned and responsive as a team. I believe this openness will help us make the most informed and unified decision possible.",
+          "id": "M3_R2_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Belle, for emphasizing the importance of inclusivity and regular check-ins on our collective risk tolerance. I agree that maintaining open communication and inviting input from every shareholder is essential for making the most informed and unified decision possible. I encourage anyone who hasn’t yet shared their current perspective—especially if your comfort with risk has changed since our last discussion—to contribute your thoughts on which of our available options feels most aligned with our team’s values and objectives.",
+          "id": "M3_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Belle Cantu",
+          "message": "I’d like to add that ongoing, open dialogue about our investment choices helps reinforce the trust and collaboration that are central to our company’s culture. By making space for every perspective, we ensure our decisions remain both well-informed and aligned with the values that have made our team successful so far.",
+          "id": "M3_R2_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Belle. I completely agree that ongoing, open dialogue is fundamental to reinforcing the trust and collaboration that underpin our company’s success. By ensuring every perspective is heard, we not only make better-informed investment decisions but also continue to strengthen the supportive culture that sets our team apart. I encourage everyone to keep sharing their insights as we move toward consensus on the best option for this quarter.",
+          "id": "M3_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Krish Greer",
+          "message": "I continue to feel that real estate is the most appropriate choice for us this quarter, as it offers the steady growth and moderate risk that have helped build both our financial foundation and our team’s trust. That said, I value the openness several of you have expressed to reassessing our risk appetite as our confidence grows, and I encourage us to keep checking in regularly so that, when the time is right, we can thoughtfully consider higher-risk options like stocks together.",
+          "id": "M3_R2_8",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Krish. I appreciate your emphasis on the steady growth and trust that real estate has provided, as well as your openness to revisiting our risk appetite as our team’s confidence continues to grow. Regularly checking in on our comfort with risk will ensure that, as we evolve, we remain intentional and unified in our choices—balancing both our financial objectives and the collaborative culture that defines our company.",
+          "id": "M3_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Krish Greer",
+          "message": "I agree that maintaining intentionality and unity is key—not just for this quarter, but for our long-term adaptability as a team. By making regular check-ins on our risk comfort part of our process, we’ll be better equipped to evolve our strategy together and ensure our decisions consistently reflect both our financial objectives and the culture we’re building.",
+          "id": "M3_R2_10",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Krish. I fully agree that making regular check-ins on our collective comfort with risk an intentional part of our process will help us remain adaptable and unified as we grow. This approach ensures that our investment decisions consistently reflect both our evolving financial objectives and the strong, collaborative culture we’re committed to building together.",
+          "id": "M3_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Jasper Meza",
+          "message": "I continue to believe that real estate best aligns with our current priorities—its steady performance last quarter not only advanced our financial goals but also strengthened the trust and discipline that define our team culture. While I recognize the appeal of higher-return options like stocks as our confidence grows, I feel that maintaining our disciplined approach with real estate this quarter will help us build on our momentum and ensure our decisions remain grounded in both stability and collaboration. I encourage us to keep revisiting our risk appetite as we progress, so we’re ready to thoughtfully consider new options when the time is right.",
+          "id": "M3_R2_12",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Jasper. I appreciate how you’ve articulated the importance of building on the trust and discipline established through our real estate investments, while also recognizing the value of remaining open to new opportunities as our confidence evolves. By committing to regular self-assessment and open dialogue, we can ensure our decisions continue to reflect both our priorities for stability and our readiness to thoughtfully explore higher-return options when the time is right.",
+          "id": "M3_R2_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Jasper Meza",
+          "message": "I appreciate your focus on balancing stability with readiness for change, Delores. By making self-assessment a routine part of our process, we not only safeguard the trust and discipline we’ve built, but also position ourselves to act confidently when we collectively decide the time is right to pursue higher-return options like stocks. This approach ensures our investments remain aligned with both our current strengths and our evolving ambitions as a team.",
+          "id": "M3_R2_14",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Jasper. I agree that by making self-assessment a routine part of our process, we not only protect the trust and discipline we’ve built, but also create a strong foundation for future decisions—ensuring we’re ready to pursue higher-return options like stocks when our collective confidence supports it. This approach allows us to remain grounded in our current strengths while staying open and prepared for new opportunities as our ambitions evolve.",
+          "id": "M3_R2_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "I continue to feel that real estate offers the most balanced path for us right now, given its proven ability to deliver steady growth and reinforce the trust and discipline within our team. While I appreciate the willingness to revisit our risk tolerance as our confidence grows, I believe maintaining our current approach with real estate best supports both our financial objectives and the collaborative, inclusive culture we’ve built together. I’m open to reassessing as we gain more experience, but for this quarter, I think consistency and stability remain our strongest assets.",
+          "id": "M3_R2_16",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Ivan. I appreciate how you’ve emphasized the importance of consistency and stability at this stage, especially given real estate’s proven record in supporting both our financial goals and our team’s cohesion. Your openness to periodic reassessment as we gain more experience ensures we remain adaptable while staying true to the disciplined, collaborative values that have brought us success so far.",
+          "id": "M3_R2_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "I agree that maintaining adaptability is just as important as consistency for our long-term success. By keeping open lines of communication and regularly checking in on our collective comfort with risk, we can ensure our investment choices remain aligned with both our financial objectives and the inclusive, resilient culture we value.",
+          "id": "M3_R2_18",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Ivan. I fully agree that maintaining open communication and regularly checking in on our collective comfort with risk are essential for ensuring our investment decisions remain aligned with both our financial objectives and our inclusive, resilient culture. By intentionally balancing consistency with adaptability, we can continue to build on our strengths while staying responsive to the evolving needs and ambitions of our team.",
+          "id": "M3_R2_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "I appreciate your emphasis on intentionally balancing our strengths with adaptability, Delores. As we continue to grow, I believe this mindset will help us remain grounded in what’s working while also positioning us to thoughtfully embrace new opportunities when our collective confidence supports it. This approach not only safeguards our current progress but also ensures we’re prepared to evolve together as our ambitions develop.",
+          "id": "M3_R2_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Ivan. I appreciate your focus on staying grounded in what’s working while remaining open to thoughtful evolution as our confidence and ambitions develop. This balanced approach will help us protect our progress while ensuring we’re ready to embrace new opportunities together when the time is right.",
+          "id": "M3_R2_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Isaac Bates",
+          "message": "I continue to feel that real estate offers the most balanced path for us this quarter, given its steady returns and positive impact on our team’s trust and discipline. At the same time, I appreciate the openness everyone has shown to periodically reassessing our risk appetite as our confidence grows—by keeping this dialogue ongoing, we ensure our investment choices remain both financially sound and fully aligned with the collaborative culture we’re building together.",
+          "id": "M3_R2_22",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Isaac. I appreciate your emphasis on the steady returns and trust that real estate has helped foster, as well as your recognition of the value in periodically reassessing our risk appetite. By keeping this dialogue open and ongoing, we ensure that our investment decisions remain both financially prudent and fully aligned with the collaborative, inclusive culture we’re committed to building together.",
+          "id": "M3_R2_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Isaac Bates",
+          "message": "I agree, Delores—by embedding regular check-ins on our risk appetite into our process, we’re not just making sound decisions for today, but also equipping ourselves to adapt confidently as our company grows and market conditions change. This commitment to open, inclusive dialogue will help us stay unified and responsive, ensuring our investments always reflect both our financial goals and the strong team culture we value.",
+          "id": "M3_R2_24",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Isaac. I fully agree that by making regular check-ins on our risk appetite an intentional part of our process, we position ourselves to adapt confidently as both our company and the market evolve. This commitment to open, inclusive dialogue not only strengthens our unity but also ensures our investment choices consistently reflect our financial goals and the collaborative culture we value.",
+          "id": "M3_R2_25",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q3": {
+      "round_1": [
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Delores Booth My current thinking is that Real Estate appears most promising because I feel most confident in real estate this quarter because it has shown the most consistent and moderate returns in our stable market, aligning with our company’s emphasis on steady growth and cultural cohesion. While stocks offer higher potential gains, their volatility—evident in last quarter’s negative return—makes them less suitable for our current risk tolerance and desire for predictability. Bonds are a reliable alternative, but their lower returns may not fully support our growth objectives at this stage. Cash remains the safest option but does not align with our commitment to disciplined progress. Real estate continues to balance my preference for responsible risk-taking with the need to foster trust and stability within our team, though I'm interested in exploring all perspectives to refine our understanding. \n\nFor this round, we’ll focus on analyzing the historical performance of each asset and drawing lessons from previous quarters, aiming to establish a clear, factual foundation for our decision. I encourage everyone to share insights and observations that might deepen our understanding of how these assets have performed in our stable market, so we can build a more complete picture together. \n\nIMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.\n\nI welcome your thoughtful contributions and look forward to integrating your perspectives as we move forward.",
+          "id": "M4_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Krish Greer",
+          "message": "Based on our experience so far, real estate has provided the most consistent and reliable results in our stable market—yielding a strong return in Q1 and holding steady in Q2, which aligns well with our company’s emphasis on steady progress and risk management. While stocks demonstrated the potential for high gains, the sharp downturn last quarter highlights their volatility, which could undermine the trust and stability we’ve been cultivating as a team. Bonds and cash have offered predictable but comparatively modest returns, so my takeaway is that real estate continues to best support both our financial objectives and the collaborative company culture we value.",
+          "id": "M4_R1_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Krish, for clearly summarizing the patterns we’ve observed so far—especially the way real estate’s steady performance has supported both our financial progress and the trust we’re building as a team. Your point about the volatility of stocks and the modest nature of bonds and cash helps clarify why real estate currently stands out, and I appreciate how you’ve connected these lessons to our broader company values. This kind of insight is invaluable for grounding our decision in both data and shared priorities.",
+          "id": "M4_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Krish Greer",
+          "message": "I appreciate your emphasis on connecting financial outcomes to our company values, Delores. As we reflect on historical patterns, I think it’s also important to remain open to reassessing our collective risk tolerance over time—especially as our confidence and experience grow. This approach allows us to continue prioritizing steady progress while staying adaptable if new evidence or perspectives emerge.",
+          "id": "M4_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Krish, for highlighting the need to remain adaptable as our confidence grows. I agree that while our historical analysis points to real estate as a strong fit for our current goals, it’s important to keep reassessing our risk appetite so we can respond thoughtfully if new patterns or opportunities emerge. This perspective ensures we remain both disciplined and flexible as a team, which will serve us well as we continue to learn and evolve together.",
+          "id": "M4_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Krish Greer",
+          "message": "I completely agree, Delores—regularly revisiting our risk appetite not only grounds our decisions in data but also strengthens our team’s ability to navigate change together. By making this an intentional part of our process, we can ensure our investment choices continue to reflect both our shared values and the evolving realities of the market.",
+          "id": "M4_R1_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Jasper Meza",
+          "message": "I agree with the observations made so far—real estate has demonstrated both steady returns and capital preservation in our stable market, which has reinforced my confidence in its reliability. The contrasting volatility of stocks last quarter, despite their potential, highlights the importance of prioritizing stability and trust as we continue to build our company’s foundation. I believe these patterns show that real estate best supports our goals of disciplined growth and a cohesive, resilient team culture at this stage.",
+          "id": "M4_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Jasper, for articulating how real estate’s steady performance has reinforced your confidence and supported our emphasis on stability and trust. Your point about the volatility of stocks further clarifies why consistency is so valuable as we build our company’s foundation. Recognizing these patterns helps ensure our investment decision remains closely aligned with both our financial objectives and the resilient team culture we’re striving to create.",
+          "id": "M4_R1_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Jasper Meza",
+          "message": "I appreciate your emphasis on learning from both gains and flat periods, Delores. Our ability to maintain discipline and unity—even when returns are modest—demonstrates the strength of our approach and the resilience of our team. This consistency not only supports our financial progress but also builds the trust we need to adapt together as new opportunities arise.",
+          "id": "M4_R1_9",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Jasper, for emphasizing how our consistency—even in quarters with modest returns—reinforces both our discipline and our ability to adapt as a team. I agree that maintaining unity through varying outcomes is a testament to our collective strength and sets a strong precedent for navigating future opportunities together. Your insight further underscores why a steady approach remains valuable for both our financial progress and our company culture.",
+          "id": "M4_R1_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "From my perspective, the historical data clearly shows that real estate has provided the most consistent and moderate returns in our stable market, supporting both our financial progress and the sense of trust we’ve built as a team. While stocks offer higher potential gains, their volatility—demonstrated by the sharp swing last quarter—poses risks that could undermine the disciplined habits and stability we value. Bonds and cash remain reliable for capital preservation, but their lower returns may not fully support our growth objectives at this stage. I believe these patterns reinforce the importance of prioritizing options that balance steady progress with team cohesion as we move forward.",
+          "id": "M4_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Ivan, for clearly summarizing how our historical results highlight real estate’s consistent, moderate returns and the critical role that stability plays in supporting both our financial progress and team trust. Your point about the need to balance steady progress with team cohesion aligns closely with our values and helps clarify why a disciplined, reliable approach remains so important at this stage. This kind of holistic analysis is essential as we work toward the most prudent decision for our company.",
+          "id": "M4_R1_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "I appreciate your recognition of the broader impact that stability and discipline have on both our financial outcomes and our team culture. I’d add that by consistently choosing options like real estate, we’re not just managing risk—we’re also building a foundation of trust and adaptability that will serve us well as we face more complex decisions in the future. This holistic approach, in my view, continues to position us for both sustainable growth and strong collaboration.",
+          "id": "M4_R1_13",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Ivan, for highlighting how our consistent, disciplined choices not only manage risk but also lay the groundwork for long-term trust and adaptability. I agree that this holistic perspective—linking financial discipline with team development—positions us well for sustainable growth and prepares us to navigate increasingly complex decisions together. Your emphasis on building a strong foundation resonates deeply with our shared priorities and enriches our collective understanding as we move forward.",
+          "id": "M4_R1_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "I agree that building a strong foundation now gives us the confidence and flexibility to thoughtfully reassess our options as our experience grows. By maintaining this disciplined, trust-based approach, we’re not only supporting steady progress today but also equipping ourselves to responsibly explore higher-return opportunities like stocks when the timing and team readiness align.",
+          "id": "M4_R1_15",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Isaac Bates",
+          "message": "I agree with the observations shared so far—our historical results show that real estate has provided a combination of steady returns and low volatility, which has been instrumental not just for our financial progress but also for building trust and disciplined habits within our team. The contrast with stocks’ volatility and the lower returns from bonds and cash reinforces the value of our current approach. I believe these patterns highlight that maintaining a focus on real estate continues to best support both our growth objectives and the positive, collaborative culture we’ve worked hard to establish.",
+          "id": "M4_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Isaac, for summarizing how real estate’s steady returns and low volatility have not only advanced our financial objectives but also helped build the trust and disciplined habits that define our team. Your point about the contrast with stocks, bonds, and cash further clarifies why maintaining our current approach continues to align so well with both our growth goals and the collaborative culture we value. Insights like yours are essential for grounding our decisions in both data and shared experience.",
+          "id": "M4_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Isaac Bates",
+          "message": "I appreciate your emphasis on connecting data-driven results with the habits and trust we’ve built as a team. I’d add that by consistently choosing real estate, we’re not only achieving steady progress but also strengthening our foundation for responsibly considering higher-return options like stocks if our confidence and market conditions evolve. This ongoing discipline gives us both stability now and flexibility for the future.",
+          "id": "M4_R1_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Isaac, for articulating how our ongoing discipline not only delivers steady progress but also positions us to thoughtfully consider higher-return opportunities like stocks as our confidence and the market evolve. I agree that maintaining a strong foundation now gives us the stability and flexibility to adapt responsibly in the future, ensuring our decisions continue to reflect both our financial goals and our collaborative values as we grow together.",
+          "id": "M4_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Isaac Bates",
+          "message": "I completely agree—by aligning our investment choices with both financial discipline and collaborative values, we’re setting ourselves up to confidently navigate new opportunities when the time is right. This shared foundation not only supports our current objectives but also ensures that, as our experience grows, we’ll be ready to evaluate higher-return options like stocks with the same intentionality and teamwork that have defined our progress so far.",
+          "id": "M4_R1_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Belle Cantu",
+          "message": "I agree with the observations shared so far—our historical experience shows that real estate has provided both steady growth and a sense of reliability that’s been valuable for our team’s confidence and cohesion. While last quarter’s flat return was a reminder that no asset is risk-free, the overall pattern suggests that real estate continues to best balance our goals for progress and stability in this environment. I also think it’s important to continue reassessing our approach as we gain more experience, so we remain adaptable to any changes in the market or our team’s risk appetite.",
+          "id": "M4_R1_21",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Belle, for emphasizing how real estate’s steady growth and reliability have contributed to our team’s confidence and cohesion. Your point about the necessity of ongoing reassessment as we gain experience is especially valuable—it reminds us that staying adaptable will help us continue to balance progress and stability as both the market and our team evolve. Insights like yours are essential for ensuring our decisions remain grounded in both past lessons and future flexibility.",
+          "id": "M4_R1_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Belle Cantu",
+          "message": "I appreciate your focus on adaptability, Delores. As we continue to learn from each quarter, I believe maintaining open dialogue about the full range of options—cash, bonds, real estate, and stocks—will help ensure our decisions remain well-informed and responsive to both market shifts and our evolving team priorities. This approach will support both steady progress and the flexibility we need to respond confidently as new opportunities arise.",
+          "id": "M4_R1_23",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Belle, for highlighting the value of maintaining open dialogue about all our available options—cash, bonds, real estate, and stocks—as we continue to learn from each quarter. I agree that regularly revisiting each asset’s merits will help us remain both steady in our progress and flexible in adapting to new opportunities or shifts in team priorities. Your insight further supports our commitment to staying responsive and inclusive as we make decisions together.",
+          "id": "M4_R1_24",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Belle Cantu",
+          "message": "I agree, Delores—by making it a habit to revisit the merits of each asset class together, we not only keep our strategy adaptable but also strengthen the trust and engagement that are so important to our company culture. This ongoing, inclusive conversation ensures everyone feels valued and helps us make decisions that genuinely reflect our collective priorities.",
+          "id": "M4_R1_25",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Delores Booth My current thinking is that Real Estate appears most promising because Real estate continues to demonstrate the best balance of steady returns, moderate risk, and alignment with our company’s goals for disciplined growth and team cohesion. The strong, unanimous support from shareholders, coupled with clear historical performance data, gives me high confidence that this option remains optimal for our current context. While I will remain open to reassessing our strategy as we gain experience, real estate is the most prudent and unifying choice for this quarter, though I'm interested in exploring all perspectives to refine our understanding. In this round, I’d like us to focus on assessing our current risk tolerance and how it aligns with our company values—our goal is to clarify whether our collective appetite for risk has shifted and ensure our investment options reflect both our financial objectives and the collaborative culture we are building. By sharing our individual comfort levels and reflecting on recent experience, we can synthesize diverse viewpoints into a more complete understanding of what best serves our team at this stage. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I encourage everyone to share any insights or perspectives that might enhance our collective understanding, especially if you see opportunities or risks I may not have fully considered.",
+          "id": "M4_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "I continue to feel most comfortable with real estate for this quarter because it offers a steady balance of growth and risk, which strongly supports the trust and disciplined habits we’ve built as a team. While I appreciate that bonds and cash provide additional safety, I believe prioritizing reliability without sacrificing too much growth is key to maintaining both our financial momentum and the collaborative, supportive culture we value. I’m open to reassessing as our experience grows, but at this stage, real estate remains the best fit for our collective appetite for risk and our company’s values.",
+          "id": "M4_R2_2",
+          "act_type": "Justify",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Ivan. I appreciate how you’ve articulated the importance of prioritizing reliability while still supporting our momentum and collaborative culture. Your openness to periodic reassessment as our experience grows is especially valuable, and I agree that maintaining this balance is key to ensuring our investment strategy continues to reflect both our financial objectives and the trust we’ve built as a team.",
+          "id": "M4_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "I appreciate your emphasis on adaptability, Delores. As we continue to gain experience and build trust, maintaining open dialogue about our evolving comfort with risk will be essential. This approach ensures our investment decisions remain both prudent and responsive to the needs of our team.",
+          "id": "M4_R2_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Ivan—I completely agree that open dialogue and adaptability are essential as our team evolves. By continuing to check in on our comfort with risk and supporting honest conversations, we can ensure our decisions remain both prudent and attuned to the needs of everyone involved. This ongoing reflection will be key to sustaining both our financial progress and the collaborative culture we value.",
+          "id": "M4_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "I agree, Delores—regularly revisiting our risk tolerance will not only help us stay aligned with our values but also position us to respond proactively if market conditions shift. Keeping this practice central ensures we’re prepared to adapt our strategy together, strengthening both our financial resilience and the trust within our team.",
+          "id": "M4_R2_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Belle Cantu",
+          "message": "I remain comfortable with real estate as our primary investment this quarter, as its steady returns and moderate risk have consistently supported both our financial progress and the trust we’ve built together. While I appreciate the safety offered by bonds and cash, I feel that maintaining our current approach best reflects our collective appetite for risk and aligns with the disciplined, collaborative culture we value—so long as we continue to reassess openly as our experience grows.",
+          "id": "M4_R2_7",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Belle. I appreciate how you’ve articulated the connection between real estate’s steady performance and our collective comfort with risk, as well as the value you place on maintaining a disciplined, collaborative culture. Your emphasis on regular reassessment as our experience grows is especially important, and I agree that this openness will help us remain adaptable while staying true to both our financial objectives and team values.",
+          "id": "M4_R2_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Belle Cantu",
+          "message": "Thank you, Delores. I agree that our ongoing commitment to open dialogue and adaptability is foundational to both our financial success and the supportive culture we’re building. By continuing to check in with each other and welcoming evolving perspectives, I’m confident we’ll make decisions that serve both our objectives and the well-being of our team.",
+          "id": "M4_R2_9",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Belle. I completely agree that our commitment to open dialogue and adaptability is essential for sustaining both our financial progress and the positive, supportive culture we’re building together. By regularly checking in and embracing evolving perspectives, we can ensure our decisions remain balanced, inclusive, and well-aligned with our shared objectives.",
+          "id": "M4_R2_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Jasper Meza",
+          "message": "I continue to feel that real estate best reflects our current appetite for risk, given its steady returns and alignment with the trust and discipline we’ve built as a team. While I appreciate the safety of bonds and cash, and recognize stocks’ potential for higher returns, I believe our focus on reliability and cohesion remains the right fit for this stage—provided we stay open to reassessing as our collective experience grows.",
+          "id": "M4_R2_11",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Jasper. I appreciate how you’ve highlighted the importance of reliability and team cohesion in guiding our risk appetite at this stage, while also acknowledging the potential of other options and the need for ongoing reassessment. Your perspective reinforces our commitment to making decisions that are both prudent and adaptable, ensuring we remain aligned with both our financial objectives and the collaborative culture we value.",
+          "id": "M4_R2_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Jasper Meza",
+          "message": "I appreciate your emphasis on adaptability, Delores. By continuing to foster honest conversations about risk and staying receptive to evolving perspectives, I believe we can maintain the steady progress we’ve achieved while remaining well-positioned to adapt our strategy together as needed. This approach will help ensure our decisions consistently serve both our financial goals and the supportive team environment we’ve built.",
+          "id": "M4_R2_13",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Jasper. I completely agree that fostering honest conversations about risk and remaining receptive to evolving perspectives are vital to sustaining both our financial progress and the supportive team environment we’ve built. By maintaining this openness, we can continue to make decisions that reflect our shared goals and adapt effectively as our experience grows.",
+          "id": "M4_R2_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Isaac Bates",
+          "message": "I continue to believe that real estate best matches our current appetite for risk, given its proven record of steady returns and its positive impact on our team’s trust and cohesion. Maintaining this disciplined approach supports both our growth objectives and the inclusive, supportive culture we all value. That said, I agree with the group that regularly reassessing our comfort with risk and staying open to evolving perspectives will ensure we remain both prudent and adaptable as our company grows.",
+          "id": "M4_R2_15",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Isaac. I appreciate how you’ve connected real estate’s steady performance to both our growth objectives and the inclusive, supportive culture we’ve built. Your emphasis on maintaining a disciplined approach while staying open to regular reassessment is especially valuable—it ensures our decisions remain prudent, adaptable, and firmly aligned with both our financial goals and the collaborative values that define our team.",
+          "id": "M4_R2_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Isaac Bates",
+          "message": "I appreciate your focus on adaptability, Delores. By anchoring our decisions in a disciplined, steady approach like real estate, we’re building the trust and confidence needed to thoughtfully consider higher-return options in the future if our collective risk appetite evolves. This balance between stability and openness will continue to support both our financial progress and our team’s strong sense of unity.",
+          "id": "M4_R2_17",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Isaac. I agree that by anchoring our decisions in a disciplined, steady approach like real estate, we’re not only supporting our financial progress but also building the trust and confidence that will allow us to thoughtfully consider higher-return options as our collective risk appetite evolves. This balance between stability and openness is essential for sustaining both our growth and the strong sense of unity within our team.",
+          "id": "M4_R2_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Isaac Bates",
+          "message": "I completely agree, Delores. By consistently emphasizing both stability and adaptability, we’re creating an environment where our team feels secure in our decisions while also remaining ready to seize new opportunities if conditions change. This approach ensures that our investment strategy continues to reflect both our commitment to steady growth and our readiness to evolve together.",
+          "id": "M4_R2_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Krish Greer",
+          "message": "I remain confident that real estate offers the best fit for our current risk tolerance, given its steady performance and alignment with both our financial objectives and the supportive team culture we’ve established. At the same time, I appreciate the emphasis others have placed on regular reassessment—by continuing to check in on our comfort with risk and staying open to evolving perspectives, we can ensure our decisions remain both prudent and responsive to our team’s needs as we move forward.",
+          "id": "M4_R2_20",
+          "act_type": "Justify",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Krish. I appreciate how you’ve articulated the alignment between real estate’s steady performance, our current risk tolerance, and the supportive culture we’ve established. Your emphasis on regular reassessment and openness to evolving perspectives is especially valuable—it ensures our decisions remain both prudent and responsive to the needs of our team as we continue to grow together.",
+          "id": "M4_R2_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Krish Greer",
+          "message": "I appreciate your recognition, Delores. I think our shared commitment to disciplined growth, paired with regular risk tolerance check-ins, creates a strong foundation for both financial progress and adaptability. By continuing to prioritize open dialogue, we can remain confident in our decisions while staying ready to evolve as our experience and circumstances change.",
+          "id": "M4_R2_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Krish. I completely agree that our shared commitment to disciplined growth and regular check-ins on risk tolerance are fundamental to both our financial progress and our ability to adapt as circumstances evolve. By prioritizing open dialogue, we can ensure our decisions remain well-informed, inclusive, and responsive to the needs of our team—positioning us for continued success together.",
+          "id": "M4_R2_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q4": {
+      "round_1": [
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Delores Booth My current thinking is that Real Estate appears most promising because as I reflect on our company’s priorities and the steady results we’ve achieved so far, I feel most confident in real estate for this quarter. Real estate has delivered reliable, moderate returns with manageable risk, which aligns with my commitment to providing stability and nurturing trust within our team. While stocks are tempting due to their high recent returns, their volatility in this stable market still gives me pause, especially since our group values predictability and cohesion. Bonds and cash, though safe, don’t offer the growth we need at this stage. I believe real estate best supports both our financial goals and the collaborative, disciplined culture we are building together, though I'm interested in exploring all perspectives to refine our understanding.\n\nFor this first round, let’s focus on reviewing the historical performance of each asset class and the lessons we’ve learned so far. By surfacing concrete patterns in risk and return, we can establish a shared factual foundation that will inform our decision for this quarter.\n\nI encourage everyone to reflect on how the historical data aligns—or conflicts—with your own experience and priorities, and to share insights that may deepen our collective understanding. This is an opportunity to synthesize our perspectives and ensure we’re making decisions rooted in both evidence and our company’s values.\n\nIMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.\n\nI welcome your thoughts on which patterns or lessons from our past investments you believe should guide us as we move forward.",
+          "id": "M5_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Belle Cantu",
+          "message": "I’ve observed that real estate has provided us with the most consistent and reliable returns this year, supporting both our financial objectives and the sense of stability that’s so important for our team. While stocks have offered higher returns in some quarters, their volatility—especially the negative result in Q2—underscores the risk to our cohesion and predictability. I believe our experience confirms that prioritizing real estate has supported not just steady growth, but also the trust and collaborative habits we value as a team.",
+          "id": "M5_R1_2",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Belle. I appreciate how you’ve highlighted the importance of stability and the way real estate has reinforced our team’s trust and collaborative habits. Your point about stocks’ volatility is well taken—it’s a helpful reminder that while higher returns are appealing, predictability and cohesion remain core to our values and long-term strategy.",
+          "id": "M5_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Belle Cantu",
+          "message": "I agree that maintaining predictability is essential for our team’s confidence and unity, especially as we continue to build our track record. At the same time, I think it’s important we remain open to regularly reassessing our risk tolerance, so we’re prepared to adapt if our collective comfort with risk evolves in the future.",
+          "id": "M5_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Belle—I agree that maintaining predictability has been foundational for our confidence and unity. I also appreciate your emphasis on regularly reassessing our risk tolerance; staying open to adaptation ensures we remain responsive to both market shifts and the evolving comfort of our team, which is essential for our continued growth and cohesion.",
+          "id": "M5_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Krish Greer",
+          "message": "I agree with Belle that real estate’s historical performance has offered the most reliable path to steady growth while supporting the trust and disciplined habits that are central to our company culture. The volatility we’ve seen with stocks, especially the negative quarter, highlights the importance of prioritizing predictability and stability at this stage. I believe our experience confirms that focusing on real estate has not only benefited our financial results but also strengthened our team’s unity and confidence, which I see as equally important to our long-term success.",
+          "id": "M5_R1_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Krish. I appreciate how you’ve drawn the link between steady financial results and the strength of our team’s unity and confidence. Your point about prioritizing predictability and disciplined habits aligns closely with the lessons we’ve learned this year, and it’s encouraging to see that our investment choices have supported both our financial and cultural goals.",
+          "id": "M5_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Krish Greer",
+          "message": "I appreciate your acknowledgment, Delores. As we look ahead, I think it’s important that we continue to revisit these lessons regularly, ensuring our approach remains both disciplined and flexible as our confidence and experience evolve. This commitment to learning from our history will help us sustain both strong results and a resilient, unified team.",
+          "id": "M5_R1_8",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Krish—I completely agree that regularly revisiting our lessons and remaining both disciplined and flexible will help us adapt as our confidence and experience grow. This commitment to learning from our history is vital for sustaining strong results and ensuring our team remains resilient and unified as we move forward.",
+          "id": "M5_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "I agree with both Belle and Krish that real estate’s steady, moderate returns have not only supported our financial objectives but have also played a key role in building the trust and collaborative habits that define our team. Looking at the historical data, I see a clear pattern: while stocks can offer high returns, their volatility could easily disrupt the sense of confidence and unity we’ve worked so hard to cultivate. For me, the consistent performance of real estate has provided a reliable foundation for both our growth and our culture, which I believe should continue to guide our decision-making.",
+          "id": "M5_R1_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Ivan. I appreciate how you’ve connected the consistent performance of real estate to both our financial progress and the strong culture we’ve built together. Your observation about the risks of volatility with stocks is a valuable reminder that protecting our team’s confidence and unity is just as important as pursuing returns, and I agree that these lessons from our history should continue to guide our decision-making.",
+          "id": "M5_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "I appreciate your emphasis on protecting team confidence and unity alongside financial growth. As we continue to build our track record, I think it’s important that we keep prioritizing options that reinforce trust and predictability, while also remaining open to periodic reassessment as our experience deepens. This approach will help ensure our decisions support both sustainable results and the inclusive, resilient culture we value.",
+          "id": "M5_R1_12",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Ivan. I fully agree that prioritizing trust and predictability has been crucial to our progress, and your point about remaining open to periodic reassessment is well taken. By keeping these principles at the forefront, we can continue to support both sustainable growth and the inclusive, resilient culture that defines our company.",
+          "id": "M5_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "I completely agree, Delores. Keeping trust and predictability at the forefront gives us a strong foundation to evaluate all our options each quarter, whether that leads us to continue with real estate or thoughtfully consider other assets as our confidence grows. This shared commitment will help us remain both disciplined and adaptable as our company evolves.",
+          "id": "M5_R1_14",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Jasper Meza",
+          "message": "I fully agree with the points raised so far—our experience this year has shown that real estate consistently delivers steady returns with moderate risk, directly supporting our goals for disciplined growth and a cohesive, trust-based culture. While stocks have occasionally produced higher gains, their volatility—especially the negative result in Q2—could undermine the stability and confidence we’ve worked hard to establish. I believe the historical data confirms that maintaining our focus on real estate has been essential to both our financial progress and the unity of our team.",
+          "id": "M5_R1_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Jasper. I appreciate how you’ve clearly articulated the link between real estate’s steady returns and the disciplined, trust-based culture we’ve cultivated. Your point about the risks of volatility with stocks further highlights the value of maintaining a focus on reliability and cohesion as we continue to build both our financial strength and our team’s unity.",
+          "id": "M5_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Jasper Meza",
+          "message": "I appreciate your recognition of the connection between steady returns and our team’s cohesion. I’d add that by grounding our decisions in proven reliability, we not only strengthen our current foundation but also create the confidence needed to thoughtfully consider new opportunities as our experience grows. This approach helps ensure we remain adaptable without sacrificing the trust and stability that have become hallmarks of our company.",
+          "id": "M5_R1_17",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Jasper. I agree that grounding our decisions in proven reliability not only strengthens our foundation but also gives us the confidence and flexibility to thoughtfully explore new opportunities as our experience grows. This balanced approach—valuing both stability and adaptability—will be essential as we continue to evolve as a team and pursue our company’s goals.",
+          "id": "M5_R1_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Jasper Meza",
+          "message": "I agree that maintaining this balance will be key as we move forward. By continuing to apply the same discipline and open dialogue that have guided our real estate decisions, we’ll be well-positioned to evaluate other options—like stocks or bonds—if our collective risk appetite changes. This process will help us preserve trust and unity, even as we consider adapting our strategy in the future.",
+          "id": "M5_R1_19",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Isaac Bates",
+          "message": "I agree with what’s been shared—our experience has shown that real estate’s consistent, moderate returns have been key to both our financial progress and the strong sense of trust and unity within our team. While stocks have produced some impressive gains, the volatility we saw in Q2 serves as a reminder that predictability and stability are critical for sustaining our momentum and confidence. I believe the lessons from our historical performance point clearly to real estate as the asset that best aligns with our goals for steady growth and a collaborative, resilient culture.",
+          "id": "M5_R1_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Isaac. I appreciate how you’ve emphasized that real estate’s consistent, moderate returns have been foundational not only to our financial progress but also to sustaining trust and unity within our team. Your point about the need for predictability and stability is especially important as we look to maintain our momentum—these lessons from our historical performance will be central to guiding our decision this quarter.",
+          "id": "M5_R1_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Isaac Bates",
+          "message": "I appreciate your focus on predictability and stability, Delores. I’d add that by consistently choosing real estate, we’ve not only achieved steady growth but also built the confidence and shared discipline that will allow us to thoughtfully consider other options as our experience grows. This foundation positions us to remain both resilient and adaptable as our company evolves.",
+          "id": "M5_R1_22",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Isaac. I appreciate how you’ve highlighted that our steady focus on real estate has not only delivered growth but also built the confidence and discipline that will serve us well as we continue to evolve. This foundation of resilience and adaptability is crucial, and your point reinforces the value of learning from our experience to inform future decisions as our company develops.",
+          "id": "M5_R1_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Isaac Bates",
+          "message": "I agree, Delores—learning from our real estate experience gives us a strong platform for disciplined growth while ensuring we’re prepared to adapt as new opportunities arise. By staying focused on what’s worked and remaining open to reassessing our options, we can continue building both financial strength and a resilient, unified team.",
+          "id": "M5_R1_24",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Delores Booth My current thinking is that Real Estate appears most promising because the consistent, moderate returns from real estate have not only advanced our financial goals but have also played a crucial role in nurturing a collaborative, resilient culture—something every shareholder highlighted as essential. While stocks offer higher upside, their volatility remains at odds with our current priorities of predictability and team unity. Bonds and cash, though safe, do not provide the growth we need at this stage. Real estate continues to best balance our goals for steady growth, disciplined habits, and cultural cohesion, though I'm interested in exploring all perspectives to refine our understanding. This round, I invite us to assess our current risk tolerance and how our priorities may have evolved, with the goal of surfacing individual and group perspectives on acceptable risk levels and determining if our collective appetite for risk has shifted. By sharing our honest views, we can deepen our understanding of each option’s alignment with our values and ensure our decision reflects the full spectrum of shareholder comfort. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I encourage each of you to share any thoughts or concerns that might help us clarify our risk tolerance and strengthen our collective decision.",
+          "id": "M5_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "I continue to feel that our current risk tolerance is best reflected by prioritizing steady, moderate growth, especially given how real estate has supported both our financial objectives and the trust-based culture we’ve built this year. While I’m open to reassessing our approach as we gain more experience, I believe maintaining this balanced strategy is the most responsible way to preserve our unity and confidence as a team. If others feel differently or see new opportunities in the current environment, I’d appreciate hearing those perspectives so we can ensure our decision truly reflects everyone’s comfort level.",
+          "id": "M5_R2_2",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Ivan, for articulating the importance of balancing steady growth with team unity—your emphasis on preserving confidence and trust truly resonates. I also appreciate your openness to hearing alternative perspectives, as this will help us ensure our decision is inclusive and forward-looking. I encourage anyone who feels differently or has evolving priorities to share their thoughts now, so we can make a fully informed decision that reflects our collective risk tolerance.",
+          "id": "M5_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Ivan Johnson",
+          "message": "I appreciate your encouragement for open dialogue, Delores. I want to reiterate that hearing from those who may not have spoken yet is especially valuable, as even a single new perspective could help us refine our understanding of risk and ensure our decision is truly representative of the whole team. If anyone has reservations or sees potential in other options—whether that’s stocks, bonds, or cash—I’d be eager to hear your thoughts so we can move forward with complete confidence.",
+          "id": "M5_R2_4",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you for highlighting the importance of hearing from every voice, Ivan. I completely agree that even a single new perspective could meaningfully enhance our understanding of risk and help us make the most balanced, representative decision possible. I encourage anyone who hasn’t yet spoken, or who may have reservations about our current direction, to share their thoughts on the relative merits and risks of cash, bonds, real estate, or stocks, so we can move forward with clarity and confidence as a team.",
+          "id": "M5_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Krish Greer",
+          "message": "I continue to feel that real estate best reflects our group’s current appetite for moderate, steady growth without exposing us to unnecessary volatility. The consistency we’ve seen so far has not only advanced our financial position but also strengthened our team’s trust and discipline, which I see as foundational to our long-term success. I’m open to revisiting our risk profile as we gain more experience, but at this stage, I believe maintaining this balanced approach is the most responsible and unifying path forward.",
+          "id": "M5_R2_6",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Krish, for emphasizing how steady growth and disciplined habits have supported both our financial progress and our team’s cohesion. Your willingness to revisit our risk profile as we gain experience reflects a healthy balance of prudence and adaptability, which I believe is essential for our continued success. I encourage others to share if their risk tolerance or priorities have shifted, so we can ensure our decision remains well-aligned with everyone’s comfort and our shared values.",
+          "id": "M5_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Krish Greer",
+          "message": "I appreciate your focus on maintaining an open, inclusive dialogue, Delores. Even with strong consensus, I think it’s valuable to explicitly invite any differing views or emerging concerns about our risk profile—sometimes these can surface new insights or help us refine our collective approach. If anyone is considering a shift toward options like stocks or bonds, or feels that our priorities should evolve, I’d welcome hearing those thoughts so we can ensure our decision truly reflects the full spectrum of comfort within the group.",
+          "id": "M5_R2_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Krish, for highlighting the value of surfacing any differing views or emerging concerns—your openness helps ensure our decision is genuinely representative and robust. I want to reiterate that if anyone is considering a shift toward stocks, bonds, or even cash, or has reservations about our current approach, now is the perfect time to share those thoughts. Our goal is to make a decision that everyone can stand behind with confidence, knowing all perspectives have been thoughtfully considered.",
+          "id": "M5_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Krish Greer",
+          "message": "I fully agree, Delores—ensuring every voice is heard is essential for both a sound financial decision and a healthy team culture. If anyone has even a small reservation about real estate or sees a compelling case for cash, bonds, or stocks in light of our current risk tolerance, now is the ideal time to bring that forward. I’m confident that integrating every viewpoint will only strengthen our decision and reinforce our shared commitment to transparency and trust.",
+          "id": "M5_R2_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Isaac Bates",
+          "message": "I continue to believe that real estate best matches our team’s appetite for moderate risk and steady growth, especially given how it’s supported both our financial progress and the trust we’ve built together this year. That said, I value the invitation to reassess our comfort with risk and remain open to hearing if anyone feels a shift toward stocks, bonds, or cash would better serve our priorities at this stage. Ensuring every voice is heard will only strengthen our decision and reinforce the collaborative culture that’s become a hallmark of our company.",
+          "id": "M5_R2_11",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Isaac, for highlighting both the strengths of our current approach and the importance of remaining open to evolving perspectives. Your willingness to reassess our comfort with risk and to invite any emerging viewpoints helps ensure our decision is truly collaborative and future-oriented. I encourage anyone who feels differently, or who sees potential in stocks, bonds, or cash, to share their thoughts now so we can make the most informed, inclusive choice possible.",
+          "id": "M5_R2_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Jasper Meza",
+          "message": "I continue to feel that real estate remains the most responsible fit for our current risk tolerance, as its steady returns and moderate risk have reinforced both our financial progress and the trust-based, disciplined culture we’ve built together. While I appreciate the open invitation to explore other options, I haven’t seen a shift in our collective appetite for risk—especially given the volatility stocks have shown and the limited growth from bonds and cash. Regularly reassessing our comfort with risk is important, but for now, maintaining our disciplined approach with real estate seems best aligned with both our values and our objectives.",
+          "id": "M5_R2_13",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Jasper, for articulating how our disciplined approach with real estate continues to align with both our risk tolerance and the collaborative culture we’ve built. Your point about the importance of ongoing risk reassessment is well taken, and I agree that maintaining this discipline—while remaining open to future shifts—positions us strongly. If anyone has additional thoughts or sees value in a different direction, please share now so we can ensure our decision is as robust and representative as possible.",
+          "id": "M5_R2_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Jasper Meza",
+          "message": "I appreciate your emphasis on remaining open to future shifts, Delores. I’d add that our continued discipline with real estate doesn’t preclude us from thoughtfully considering higher-risk options down the line—as our experience and confidence grow, we’ll be well-positioned to adapt our strategy if needed. For now, maintaining this steady course reinforces both our financial foundation and the collaborative, resilient culture that will enable us to navigate new opportunities together.",
+          "id": "M5_R2_15",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Jasper, for underscoring that disciplined consistency with real estate now doesn’t limit our ability to adapt as our confidence and experience increase. I agree that maintaining this steady course strengthens both our financial foundation and our collaborative culture, while keeping us ready to thoughtfully evaluate higher-risk options in the future. If anyone else has further thoughts on our current risk appetite or sees a reason to revisit other options, please share—your input will help ensure our decision is both robust and future-ready.",
+          "id": "M5_R2_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Belle Cantu",
+          "message": "I continue to feel that real estate best matches our current appetite for moderate, steady growth while supporting the trust and stability we’ve built as a team. The consistency we’ve seen has not only advanced our financial goals but also strengthened our collaborative culture, which I believe is just as important for our long-term success. I remain open to adapting our approach as our confidence and experience grow, but for this quarter, maintaining our disciplined strategy with real estate feels most responsible and inclusive.",
+          "id": "M5_R2_17",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Belle, for highlighting how the consistency of real estate has supported both our financial goals and the collaborative culture that’s so important to our long-term success. Your openness to adapting our approach as our confidence grows is a valuable reminder that maintaining discipline now doesn’t preclude thoughtful evolution in the future. I encourage anyone who may have a different perspective or sees potential in another option to share, so we can ensure our decision is as inclusive and forward-looking as possible.",
+          "id": "M5_R2_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Belle Cantu",
+          "message": "I appreciate your emphasis on inclusivity, Delores. I’d like to echo that hearing from anyone who may have reservations or a different perspective—whether about stocks, bonds, or cash—would be especially valuable at this stage. Ensuring every viewpoint is considered will help us make the most balanced and future-ready decision possible.",
+          "id": "M5_R2_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Delores Booth(CEO)",
+          "message": "Thank you, Belle, for echoing the value of hearing from anyone who may have a different perspective or lingering reservations. I agree that considering every viewpoint—whether it relates to stocks, bonds, cash, or real estate—is essential to making a balanced and future-ready decision. If anyone has not yet shared or feels differently, please know your input is welcome and will be thoughtfully considered as we move toward consensus.",
+          "id": "M5_R2_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    }
+  },
+  "company": {
+    "CEO": {
+      "name": "Delores Booth",
+      "mbti": "ESFJ"
+    },
+    "shareholders": [
+      {
+        "name": "Isaac Bates",
+        "mbti": "ESFJ"
+      },
+      {
+        "name": "Ivan Johnson",
+        "mbti": "ESFJ"
+      },
+      {
+        "name": "Jasper Meza",
+        "mbti": "ESFJ"
+      },
+      {
+        "name": "Belle Cantu",
+        "mbti": "ESFJ"
+      },
+      {
+        "name": "Krish Greer",
+        "mbti": "ESFJ"
+      }
+    ]
+  }
+}

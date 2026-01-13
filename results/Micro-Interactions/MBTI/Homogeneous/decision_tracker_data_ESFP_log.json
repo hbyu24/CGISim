@@ -1,0 +1,1563 @@
+{
+  "discussion_log": {
+    "annual_budget_year1": {
+      "round_1": [
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Anaya Cooke My current thinking is that Option C appears most promising because I’m naturally drawn to bold action and maximizing opportunities, especially in a stable environment where risks are relatively low and predictable. Allocating 100% of our funds evenly across the year keeps things dynamic and lets us make the most of every quarter, which excites me. This approach feels both adventurous and responsible—spreading our investments while still fully engaging our capital. I love the idea of staying active and adaptable, and Option C gives us the best shot at strong growth without overcomplicating things, though I'm interested in exploring all perspectives to refine our understanding. For this round, let’s focus on assessing each budget allocation strategy in light of current market conditions, aiming to establish a shared understanding of the risks and opportunities each option offers. By openly sharing and integrating our initial reactions, we can build a strong foundation for deeper analysis in later rounds. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Option A', 'Option B', 'Option C', 'Option D'. Please keep all discussion focused on evaluating these specific options. I encourage everyone to share any perspectives or considerations that could help us see these options in a new light.",
+          "id": "M1_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Luna Holmes",
+          "message": "I’m especially drawn to Option C because it lets us fully participate in every quarter’s opportunities without holding back, which feels right given how steady the market is this year. Spreading our investments evenly keeps things lively and balanced, and I think it motivates us to stay engaged, whereas the more cautious approaches like Option A or B might mean missing out on growth potential when the risks are already low. I do see that Option D could be exciting for those who want to ramp up gradually, but it seems less consistent and might leave us waiting too long to put our capital to work in such a stable environment.",
+          "id": "M1_R1_2",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I really appreciate how you’ve highlighted the importance of staying engaged and making the most of every quarter’s opportunities, especially when the market is stable. Your point about the motivational impact of Option C resonates with me—it keeps us active and consistent, which I believe is key for both growth and team momentum. I agree that while Option D has its appeal for those who prefer a gradual approach, Option C seems to offer the most balanced and proactive way to leverage our capital this year.",
+          "id": "M1_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Luna Holmes",
+          "message": "I’m glad we’re on the same page about how Option C keeps us both active and consistent, especially since that kind of energy can really bring out the best in our team. I also think that being all-in from the start helps us build trust and excitement among shareholders, which is so important in our first year. If others have concerns about risk, I’d love to hear them, but in this steady market, I feel confident that the opportunity outweighs the downside.",
+          "id": "M1_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I completely agree that being all-in from the start can set a strong tone for trust and enthusiasm among shareholders, which is crucial as we establish our company culture. Your openness to hearing concerns about risk is also important; I’d like to encourage anyone with reservations about Option C to share their thoughts so we can address them together and ensure our decision is well-rounded.",
+          "id": "M1_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Luna Holmes",
+          "message": "I really appreciate your encouragement for everyone to share any reservations they might have about Option C. I think having an open conversation about potential risks will only make our final decision stronger, so I’d love to hear from anyone who sees things differently or has concerns we might not have considered yet.",
+          "id": "M1_R1_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Huw Dalton",
+          "message": "I’m really energized by how Option C lets us stay fully engaged and adaptable every quarter, especially since the market’s steady—there’s not much reason to hold back. Option A and B feel a bit too cautious for this environment and could leave us missing out on growth, while Option D’s ramp-up is interesting but seems less consistent. I’m definitely leaning toward Option C for its balance of excitement and responsibility, but I’m open to hearing more about any risks others might see.",
+          "id": "M1_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I appreciate your focus on how Option C supports both engagement and adaptability, Huw, especially given the stable market this year. Your openness to discussing potential risks is important—by surfacing any concerns now, we can ensure our approach is both ambitious and well-considered. I encourage anyone who sees possible downsides or has a different angle to speak up so we can make the most informed decision together.",
+          "id": "M1_R1_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Huw Dalton",
+          "message": "I agree that surfacing any concerns now will only strengthen our decision, and I’d really value hearing from anyone who sees potential downsides to Option C or advantages in the other options. The more we openly weigh the risks and opportunities together, the more confident I’ll feel that we’re making the best call for our first year.",
+          "id": "M1_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Gabrielle Johnson",
+          "message": "I completely agree that Option C’s even, all-in approach fits perfectly with the steady market we’re seeing this year. It keeps us fully engaged and lets us take advantage of every opportunity without hesitation, which feels both exciting and smart for our very first year. While I see the value in more conservative options, I think being decisive and active from the start will help build confidence and enthusiasm among us as shareholders.",
+          "id": "M1_R1_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Gabrielle, I appreciate how you’ve highlighted the importance of decisiveness and building early confidence among shareholders—those are powerful motivators, especially in our first year. Your point about staying fully engaged and taking advantage of every opportunity really resonates with me, and I agree that Option C allows us to do just that in a steady market. Let’s continue to welcome any concerns or alternative views so we can ensure our decision is robust and well-rounded.",
+          "id": "M1_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Gabrielle Johnson",
+          "message": "I appreciate your focus on making our decision as robust as possible, Anaya. One thing I’d add is that Option C doesn’t just keep us engaged—it also gives us the flexibility to adjust our asset choices each quarter if the market shifts, so we’re not locking ourselves in. That adaptability, combined with our full participation, makes me even more confident this is the right approach for our first year.",
+          "id": "M1_R1_12",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Gabrielle, that’s a great point about the flexibility Option C gives us to adapt our asset choices as the year unfolds. I agree that having the ability to respond to any market shifts without being locked into a rigid plan is a real advantage, especially for our first year. This adaptability, alongside full participation, gives us both confidence and room to be strategic if conditions change.",
+          "id": "M1_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Gabrielle Johnson",
+          "message": "I completely agree, Anaya—the ability to adapt as we go is especially valuable since this is our first year and we’re still learning how we operate together. Option C lets us actively engage each quarter and use what we learn to make even better decisions as the year progresses, which feels like the best way to build both confidence and capability in our team.",
+          "id": "M1_R1_14",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Maximillian Wise",
+          "message": "I’m really excited by how Option C lets us dive in and stay active every quarter, especially since the market’s steady and predictable this year. It feels like the best way to keep our momentum high and make the most of every opportunity, while still giving us room to adjust our asset choices if anything shifts. I think this approach will set a positive tone for our first year and help us build trust and enthusiasm as a team.",
+          "id": "M1_R1_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Maximillian, I appreciate how you’ve highlighted the importance of momentum and building trust in our first year—those are crucial for setting the tone as we grow together. Your point about Option C giving us both consistency and flexibility to pivot if needed resonates with me, and I agree that this approach keeps our team energized and ready to seize opportunities as they arise. Let’s continue to ensure we’re considering any remaining concerns so our decision is as strong as possible.",
+          "id": "M1_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Maximillian Wise",
+          "message": "I really appreciate your focus on making sure we’re considering all concerns, Anaya. I think Option C’s flexibility not only keeps us energized, but also gives us the confidence to handle any surprises the year might bring—so even if something unexpected does come up, we’ll be ready to adapt as a team. This adaptability feels like a real strength for our first year together.",
+          "id": "M1_R1_17",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Maximillian, I agree that the confidence to handle surprises and adapt together as a team is a major advantage of Option C, especially as we navigate our first year. Your focus on flexibility and team readiness really strengthens our case for staying fully engaged and responsive throughout the year. Let’s keep encouraging any additional perspectives so we’re sure our decision reflects the best thinking of the whole group.",
+          "id": "M1_R1_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Maximillian Wise",
+          "message": "I completely agree, Anaya—making sure every viewpoint is considered will only make our decision stronger. If anyone has reservations about Option C or sees unique advantages in Options A, B, or D, I’d really value hearing those thoughts now so we can move forward with full confidence as a team.",
+          "id": "M1_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rosie Trujillo",
+          "message": "I’m loving the energy and optimism around Option C—it really matches my belief in making the most of every quarter, especially when the market feels so steady and welcoming. I think being all-in from the start keeps us excited and ready to adapt if anything shifts, but I’d be happy to hear any last thoughts or hesitations about risks so we can be sure we’ve covered every angle before moving ahead.",
+          "id": "M1_R1_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Rosie, I really appreciate how you’ve captured the excitement and readiness that Option C brings to the table, especially in such a steady market. Your openness to hearing any last concerns about risks is essential—it ensures we’re making a well-informed decision as a team. Let’s take a final moment to invite any additional thoughts or hesitations so we can move forward with full confidence in our choice.",
+          "id": "M1_R1_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Rosie Trujillo",
+          "message": "I completely agree, Anaya—making space for any last-minute concerns only makes us stronger as a team. I feel even more confident about Option C after hearing everyone’s enthusiasm and focus on adaptability, but I truly welcome any final thoughts before we move forward together.",
+          "id": "M1_R1_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Thank you, Rosie—I fully agree that taking a final moment to address any lingering concerns only strengthens our decision and our team dynamic. I’m encouraged by everyone’s enthusiasm for Option C and our shared focus on adaptability, but I want to make sure we’re truly considering every angle. If anyone has any last questions or reservations, now is the perfect time to share them so we can proceed with absolute confidence.",
+          "id": "M1_R1_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q1": {
+      "round_1": [
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Anaya Cooke My current thinking is that Stocks appears most promising because I’m feeling energized by the steady, predictable market and want to seize the opportunity to set a bold, optimistic tone in our very first quarter. Stocks offer the highest potential for growth, and with low volatility right now, the risks feel manageable—especially since we can adapt quickly if conditions change. I love the idea of starting strong and showing our team that we’re not afraid to go after big wins when the environment supports it. While real estate is also appealing for its steady appreciation, I’m drawn to the excitement and momentum that stocks can bring to our portfolio right out of the gate. If compelling arguments arise, I’m open to adjusting, but for now, I believe stocks are the best way to kick off our investment journey, though I'm interested in exploring all perspectives to refine our understanding. \n\nFor this round, we’ll focus on evaluating the theoretical risk-return profiles for each asset—cash, bonds, real estate, and stocks—in the context of our stable market, aiming to establish a shared baseline understanding of how each is likely to perform. By pooling our perspectives, we can clarify where each option stands in terms of safety, growth, and volatility, and set a strong foundation for future decisions. Let’s use this opportunity to challenge assumptions, highlight overlooked factors, and build a more complete picture together. \n\nIMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I encourage each of you to share any insights or considerations—especially those I may not have fully weighed—to help us deepen our collective understanding before moving forward.",
+          "id": "M2_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Luna Holmes",
+          "message": "I appreciate the enthusiasm for stocks, especially with the market so steady right now, but I keep coming back to real estate as a great fit for our first move. In a stable environment, real estate tends to deliver consistent growth with less volatility than stocks, giving us something solid to rally around while still letting us aim for meaningful returns. Plus, there’s something motivating about making our mark with a visible asset that the whole team can get excited about right from the start.",
+          "id": "M2_R1_2",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Luna, I really appreciate you surfacing the motivational aspect of real estate and how its stability could give us a strong, visible foundation to rally around. Your point about lower volatility in a stable market is well taken—it’s a good reminder that meaningful returns don’t always have to come with higher risk, and that building excitement can also come from making a tangible mark early on. This adds an important dimension to our baseline understanding, and I’m interested to hear if others see real estate’s consistency as the right fit for our launch, or if the potential upside of stocks still outweighs that for them.",
+          "id": "M2_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Luna Holmes",
+          "message": "I really appreciate how you’ve highlighted the value of building excitement and team unity, Anaya. For me, starting with real estate isn’t just about steady returns—it’s about giving everyone something tangible to celebrate and rally behind, which I think could set a really positive tone for our company culture. I’m curious if others feel that having a visible, shared asset might help us stay motivated and connected as we move forward.",
+          "id": "M2_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Luna, thank you for expanding on the cultural impact—a visible, shared asset truly can help foster a sense of unity and pride, especially as we’re just starting out. I agree that celebrating early, tangible wins could energize our team and reinforce our shared identity, which is a powerful motivator. I’d love to hear from others whether this aspect tips the scale for them, or if the excitement and growth potential of stocks still feels more compelling in this context.",
+          "id": "M2_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Luna Holmes",
+          "message": "I think you’re absolutely right, Anaya—the chance to rally around a real, shared investment could really anchor our momentum as a new team. While the excitement of stocks is tempting, I feel like real estate’s combination of steady returns and tangible progress is exactly what we need to build early confidence and keep everyone engaged. I’m eager to hear if others feel that sense of shared accomplishment could be a difference-maker as we shape our company’s identity.",
+          "id": "M2_R1_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Luna, I completely see where you’re coming from—having a real, tangible asset to celebrate could absolutely help anchor our team’s identity and build momentum. I think this is a great reminder that our investment isn’t just about numbers, but also about the story we tell ourselves as a company. I’d love to open the floor to others now—does anyone else feel that the shared accomplishment of real estate could be a difference-maker, or do you see more value in the energy and growth potential of stocks for our first quarter?",
+          "id": "M2_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Maximillian Wise",
+          "message": "I’m really energized by the idea of starting with real estate, especially since it gives us that sweet spot of steady growth and something concrete to rally around as a team. In a stable market, I see real estate as offering enough excitement to keep things lively without exposing us to the bigger swings of stocks, which feels like a smart way to build momentum and confidence right out of the gate. I love the CEO’s point about setting a bold tone, but I think real estate lets us be bold and grounded at the same time—giving us both early wins and a strong foundation to build our story on.",
+          "id": "M2_R1_8",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Maximillian, I really appreciate how you’ve captured the idea of being both bold and grounded—real estate does seem to offer that unique balance of steady growth and tangible momentum, especially in a stable market. Your point about building early confidence and a strong foundation resonates with me, and it’s helpful to see how real estate could deliver excitement without the bigger swings of stocks. I’d like to hear from others—do you see this “bold and grounded” approach as the right fit for our first move, or does the higher growth potential of stocks still hold more appeal for you?",
+          "id": "M2_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Maximillian Wise",
+          "message": "I really appreciate how you’re weighing both the excitement of stocks and the grounding effect of real estate, Anaya. For me, the chance to celebrate early, visible progress is a huge motivator—especially when we’re building our company culture from scratch. Real estate feels like the best way to channel our team’s energy into something lasting, while still keeping us agile and ready to seize new opportunities as the year unfolds.",
+          "id": "M2_R1_10",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Maximillian, I appreciate how you’ve highlighted the importance of early, visible progress for building our culture and momentum. Your point about real estate providing both a lasting foundation and the flexibility to stay agile really helps round out our understanding of how this asset might serve us in a stable market. I’d love to hear if others feel this “visible progress” is the edge we need, or if the dynamic energy of stocks is still more compelling for our launch.",
+          "id": "M2_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Maximillian Wise",
+          "message": "I think it’s worth emphasizing that in a stable market, the confidence we build from seeing real, tangible progress early on could make us more willing to take smart risks later in the year. Real estate gives us something to point to as a team win, which can really amplify our momentum and make everyone feel invested—literally and emotionally—in our journey together.",
+          "id": "M2_R1_12",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Maximillian, your point about building confidence through early, visible progress is spot on—it’s exciting to think how a real estate win could set us up to take bolder, well-calculated risks as the year unfolds. I appreciate how you’ve connected our first investment to the momentum and risk appetite we’ll have down the line. Let’s hear from others: do you see this early team win as a springboard for greater ambition later, or does the growth potential of stocks still feel like the stronger play for our launch?",
+          "id": "M2_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Maximillian Wise",
+          "message": "I really appreciate the focus on how our first investment shapes our mindset for the rest of the year. By choosing real estate now, we not only build confidence but also create a track record that makes it easier for us to embrace higher-return options like stocks in future quarters. This step-by-step momentum feels like the smartest way to balance ambition with sustainable growth as we launch our company.",
+          "id": "M2_R1_14",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Maximillian, I really like how you’ve framed our first investment as a catalyst for future ambition—building a solid track record with real estate now could indeed make it easier for us to pursue higher-return options like stocks later on. Your emphasis on step-by-step momentum as a bridge between ambition and sustainable growth is a compelling way to think about our launch. I’d love to hear from the rest of the team—does this approach to building confidence and strategic flexibility resonate, or do you see more value in making a bold play for growth with stocks right away?",
+          "id": "M2_R1_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rosie Trujillo",
+          "message": "I love the focus on building team momentum and the idea of celebrating a visible win together—real estate definitely has that appeal in a stable market. At the same time, I’m still drawn to stocks because they offer the thrill of higher returns and keep things dynamic, which could really energize us right from the start. I think both options set a positive tone, but for me, starting with stocks feels like the best way to channel our optimism and make a strong, exciting statement as we launch.",
+          "id": "M2_R1_16",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Rosie, I appreciate how you’ve captured the core tension between building steady, visible momentum with real estate and embracing the dynamic, high-energy potential of stocks. Your point about channeling optimism into a bold statement with stocks really resonates with me, especially as we look to set the tone for our company’s launch. I’d love to hear if others see stocks as the best way to energize our team from day one, or if the tangible progress of real estate still holds more appeal for this first quarter.",
+          "id": "M2_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rosie Trujillo",
+          "message": "I really appreciate how you’ve framed this as a core tension, Anaya. While real estate’s visibility is motivating, I think the shared excitement of aiming high with stocks could be just as unifying—there’s something about taking a bold step together that can spark energy and pride in the team. For me, the thrill of going after strong returns right away could help set a dynamic, optimistic tone that keeps everyone engaged and inspired as we move forward.",
+          "id": "M2_R1_18",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Rosie, I really value how you’ve highlighted the unifying power of bold ambition—there’s definitely something special about a team choosing to aim high together, which can generate real pride and motivation. Your point about setting a dynamic, optimistic tone with stocks is a great reminder that excitement itself can be a catalyst for engagement, not just steady progress. I’d love to hear if others feel that this collective leap could be the spark we need, or if the steady momentum of real estate still feels like the stronger foundation for our launch.",
+          "id": "M2_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Rosie Trujillo",
+          "message": "I think it’s important to recognize that both options—stocks and real estate—have the power to unify and motivate us, just in different ways. If we’re intentional about celebrating our boldness and keeping communication open, starting with stocks could create a shared sense of adventure that bonds the team just as much as a tangible asset would. Ultimately, it’s about how we channel that energy and keep everyone feeling involved and excited, whichever path we choose.",
+          "id": "M2_R1_20",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Rosie, I really appreciate how you’ve articulated that both stocks and real estate can unify and energize our team, depending on how we approach and celebrate the journey together. Your point about intentionally channeling our energy and keeping communication open is key—it reminds us that our team’s spirit will be shaped as much by our mindset and collaboration as by the asset itself. I’d love to hear from others whether this perspective shifts how they’re thinking about the tradeoff, or if one option still stands out as the best fit for our launch.",
+          "id": "M2_R1_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Gabrielle Johnson",
+          "message": "I’m really loving the energy in this discussion! In a stable market like ours, real estate feels like the perfect “happy medium”—it offers enough excitement to keep us motivated but with less risk than stocks, and having a visible asset to celebrate could really boost our team spirit. While I see the thrill that comes with stocks, I think real estate gives us a strong, steady foundation to build momentum and confidence together, especially as we kick things off.",
+          "id": "M2_R1_22",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Gabrielle, I appreciate how you’ve framed real estate as the perfect balance between excitement and stability—it’s a great reminder that we don’t have to choose between motivation and risk management. Your point about building momentum and confidence with a visible, steady asset really adds depth to our discussion, and I’d love to hear if others agree that this “happy medium” is the best fit for our launch, or if the higher-growth potential of stocks still holds more appeal for them.",
+          "id": "M2_R1_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Gabrielle Johnson",
+          "message": "I appreciate your focus on balancing motivation and risk management, Anaya. I think starting with real estate lets us build early momentum and confidence, which could make the team more comfortable taking on higher-return opportunities—like stocks—later in the year. By establishing a strong, visible foundation now, we set ourselves up to be both bold and adaptable as market conditions evolve.",
+          "id": "M2_R1_24",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Gabrielle, I really like how you’ve connected our first investment to setting ourselves up for even bolder opportunities down the road. Your point about building early momentum and confidence with real estate so we’re ready to embrace higher-return options later really strengthens our baseline understanding of how each asset can serve our long-term strategy. I’d love to hear if others see this stepwise approach as the best way to balance ambition and adaptability, or if a direct leap into stocks still feels like the right move for our launch.",
+          "id": "M2_R1_25",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Gabrielle Johnson",
+          "message": "I think this stepwise approach is a great way to keep our momentum high while still leaving room for bigger moves later. By starting with real estate, we’re not closing the door on ambition—we’re actually building the confidence and track record we’ll need to go after those high-return options like stocks when the timing feels right. This way, we get the best of both worlds: steady progress now and the flexibility to be bold when we’re ready.",
+          "id": "M2_R1_26",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Gabrielle, I really appreciate how you’ve outlined the benefits of a stepwise approach—building steady progress and confidence with real estate now while keeping our options open for bigger, bolder moves later. Your point about not closing the door on ambition but actually setting ourselves up for it is a great way to think about balancing risk and reward as we launch. I’d love to hear if others feel this steady progression is the best way to channel our optimism, or if making a bold leap with stocks still feels more inspiring for our first quarter.",
+          "id": "M2_R1_27",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Gabrielle Johnson",
+          "message": "I love how this conversation is surfacing the idea that ambition doesn’t have to mean rushing into the riskiest option right away. Real estate gives us something real to celebrate now, fueling our optimism, while also making sure we’re strong and ready for those bolder leaps—like stocks—when we’ve built up more confidence as a team.",
+          "id": "M2_R1_28",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Gabrielle, I love how you’ve reframed ambition as a journey—real estate really can give us something tangible to celebrate now, while still building the confidence and strength we’ll need for those bigger leaps later. Your point that we don’t have to rush into the riskiest option to be ambitious is a great reminder that steady progress can be just as energizing and strategic. I’d like to open the floor to the rest of the team—does this approach to fueling optimism and readiness resonate, or do you still see more value in leading with the high-growth potential of stocks for our first quarter?",
+          "id": "M2_R1_29",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Huw Dalton",
+          "message": "I’m really appreciating the focus on team unity and building confidence with real estate, but I keep coming back to the unique energy that stocks can bring in a stable market like this. With volatility low, the risk feels manageable, and I think there’s something incredibly motivating about aiming high together and seeing how our boldness pays off. I believe starting with stocks could set an exciting tone for our company—one that keeps us engaged, adaptable, and ready to celebrate big wins as a team.",
+          "id": "M2_R1_30",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Huw, I really appreciate how you’ve highlighted the motivating power of aiming high together, especially when the market’s stability keeps risks in check. Your point about the unique energy and excitement stocks can generate is a great reminder that boldness can be a powerful unifier for our team, not just a risk factor. I’d love to hear if others feel that starting with stocks is the best way to channel our optimism and set an ambitious tone, or if the steady foundation of real estate still feels like the right fit for our first quarter.",
+          "id": "M2_R1_31",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Huw Dalton",
+          "message": "I think it’s important to recognize that both options—stocks and real estate—can set a powerful tone for our team, just in different ways. The excitement of aiming high with stocks can be just as unifying as celebrating visible progress with real estate, especially if we’re intentional about rallying around our shared ambition and keeping communication open. For me, the key is how we channel that energy—starting with stocks could inspire a sense of adventure and pride, while still keeping us adaptable and engaged as a team.",
+          "id": "M2_R1_32",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Huw, I really appreciate how you’ve articulated that both stocks and real estate can set a powerful, unifying tone—it’s all about how we rally around our shared ambition and keep communication open. Your point that the sense of adventure and pride can come from either bold moves or visible progress is a great reminder that our team culture is shaped by intention as much as by the asset itself. I’d love to hear if others feel this perspective shifts their thinking about which option best fits our launch, or if one still stands out as the clear choice for energizing our team from the start.",
+          "id": "M2_R1_33",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Huw Dalton",
+          "message": "I really agree that our team’s success will come down to how we approach this together—whether we choose stocks or real estate, our intention to support each other and stay adaptable will make the biggest impact. If we keep communication open and celebrate both bold moves and steady progress, I’m confident we can build the kind of culture that thrives no matter which path we take. This mindset gives me even more confidence that we’ll make the most out of whichever option we choose for our launch.",
+          "id": "M2_R1_34",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Anaya Cooke My current thinking is that Real Estate appears most promising because after this round, I find real estate’s combination of steady returns, lower risk, and strong potential to build team unity and confidence especially persuasive. The cultural impact of a visible, shared asset feels like the right move for our company’s launch, and the idea of using this as a springboard for bolder investments later is strategically sound. While stocks are still appealing for their growth and excitement, I believe real estate better aligns with both our financial goals and the team spirit we want to cultivate at this early stage, though I'm interested in exploring all perspectives to refine our understanding. This round, let’s focus on openly assessing our collective comfort with risk—do we want to set an ambitious tone with higher potential returns, or prioritize confidence-building and stability as we lay our foundation? By surfacing any concerns or enthusiasm around bold versus conservative choices, we can better align our decision with both our financial objectives and the culture we want to build. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I encourage everyone to share their honest perspectives—especially any insights or reservations I may not have fully considered—so we can reach a decision that truly reflects our shared values and appetite for risk.",
+          "id": "M2_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Gabrielle Johnson",
+          "message": "I’m genuinely enthusiastic about the idea of starting with real estate because it gives us something real to rally around and celebrate together, which feels especially important as we’re building our identity and trust as a team. While I love the energy that comes from bold moves, I think choosing steady growth now lets us stay motivated and adaptable, and sets us up to take on bigger risks—like stocks—once we’ve established some early wins and momentum.",
+          "id": "M2_R2_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I really appreciate how you’ve articulated the importance of having a tangible asset to unify and energize us right from the start. Your point about building momentum through steady growth resonates with me, especially since it creates room for us to be even bolder down the line. I’d love to hear if others feel similarly about starting with stability, or if there’s strong enthusiasm for jumping straight into a higher-risk, higher-reward asset like stocks.",
+          "id": "M2_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Gabrielle Johnson",
+          "message": "I completely agree that starting with real estate doesn’t mean we’re playing it safe in a boring way—it’s about building the trust and confidence we’ll need to go after those big, bold opportunities together. In my view, steady progress now will give us the momentum and shared excitement to take on higher risks, like stocks, when the timing feels right and the whole team is on board. This approach lets us celebrate early wins as a group and keeps our energy high for whatever comes next.",
+          "id": "M2_R2_4",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I completely agree that steady progress can be just as exciting as bold moves when it’s building trust and shared momentum—your framing of real estate as a springboard for future ambition really brings that to life. It’s reassuring to hear how this approach could actually fuel our appetite for bigger risks down the road, rather than dampen it. I’d be interested in hearing from anyone who feels that a bolder start with stocks would better capture our team’s spirit, or if there are any reservations about the pace and energy that real estate could bring.",
+          "id": "M2_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Luna Holmes",
+          "message": "I’m genuinely excited by how much momentum and unity we could build by starting with real estate—it feels like the perfect mix of boldness and stability for our first step. While I totally get the thrill of jumping straight into stocks, I think having a shared, tangible win right out of the gate will boost our confidence and make us even more ready to go after those high-reward opportunities together in future quarters. For me, it’s about keeping the energy high while making sure everyone feels secure and motivated as we launch our company.",
+          "id": "M2_R2_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I really appreciate how you’ve captured the balance between ambition and security—your point about real estate providing both a confidence boost and a springboard for future boldness is spot on. I agree that starting with a tangible win can energize us and build the unity we need to take on bigger risks together. I’d like to hear if anyone feels that jumping straight into stocks would better set the tone for our company, or if there are any concerns about real estate not being bold enough for our launch.",
+          "id": "M2_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Luna Holmes",
+          "message": "I really appreciate how open you are to both ambition and stability—I think it’s important to remember that team confidence can actually fuel our appetite for risk as we go. If we start with real estate and celebrate that win together, I believe it will make us even more comfortable and excited to pursue bolder options like stocks in the next quarters. That way, we’re not just playing it safe—we’re building up the trust and energy that let us take bigger leaps, together, when the timing is right.",
+          "id": "M2_R2_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I love how you’ve framed this—not as a choice between boldness and caution, but as a way to build the kind of trust and shared excitement that empowers us to take bigger risks together down the line. Your perspective really brings home that a confident, unified team is more likely to embrace ambitious opportunities as they arise. I’m eager to hear if anyone feels that starting with stocks would better spark our momentum, or if there are any concerns about real estate not delivering enough excitement for our launch.",
+          "id": "M2_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Luna Holmes",
+          "message": "I think it’s worth highlighting that the excitement of a bold move doesn’t have to come only from taking the highest risk right away—sometimes the real spark comes from seeing our team succeed together and realizing we’re ready for more. If anyone feels that real estate might not be energizing enough, I’d love to hear what would make that first step feel truly motivating for them, or if there’s a way to keep that energy high as we build momentum.",
+          "id": "M2_R2_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I really appreciate your focus on how shared success can spark just as much excitement as taking a big risk. I agree that our first win—if it’s real estate—should be celebrated in a way that feels bold and energizing for everyone. I’d love to hear concrete ideas from the team about how we can make this initial step feel truly motivating, so we keep our momentum strong no matter which asset we choose.",
+          "id": "M2_R2_11",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Luna Holmes",
+          "message": "One idea could be to mark our first real estate investment with a team celebration and a visible update—maybe sharing progress photos or even a fun team visit if possible—to make the achievement feel tangible and exciting. Highlighting each milestone together will help everyone feel connected to the success, keeping our momentum and enthusiasm high as we look ahead to even bolder steps.",
+          "id": "M2_R2_12",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I absolutely love your idea, Luna—making our progress visible and celebrating each milestone together is exactly the kind of energy I want us to bring to this journey. Turning our first investment into a shared experience will not only boost our motivation but also make the achievement feel real and memorable for everyone. If others have creative ways to keep our momentum and excitement high—whether we choose real estate or another asset—I’d love to hear them.",
+          "id": "M2_R2_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Maximillian Wise",
+          "message": "I completely agree with Gabrielle and Luna that starting with real estate gives us a visible, shared achievement and a real sense of momentum, which fits our team’s positive energy perfectly. For me, the excitement comes from seeing quick, tangible progress we can all rally around—something that will boost our confidence and make us even more ready to take on bolder moves like stocks in future quarters. I’m all for ambition, but I think building that trust and unity first will set us up to be even more daring together as we go.",
+          "id": "M2_R2_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I really appreciate how you’ve highlighted the excitement that comes from quick, visible progress and how that can actually amplify our ambition as a team. Your emphasis on building trust and unity first resonates with me—it makes a lot of sense that establishing a strong foundation now will give us the confidence to pursue even bolder opportunities together. If anyone feels that a more aggressive approach with stocks would better capture our team’s spirit, or has thoughts on balancing excitement with stability, I’d love to hear your perspective.",
+          "id": "M2_R2_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Maximillian Wise",
+          "message": "I think it’s important to recognize that being bold doesn’t always mean taking the biggest risk right away—sometimes it’s about building up our collective confidence so we’re truly ready to seize high-reward opportunities together. By celebrating our first real estate win as a team, we can channel that energy and trust into even bolder moves, like stocks, when the time is right. That way, we’re not just playing it safe—we’re setting ourselves up to be both ambitious and resilient as we grow.",
+          "id": "M2_R2_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I really like how you’ve reframed boldness—not as just taking the biggest risk up front, but as building the kind of collective confidence that lets us seize high-reward opportunities when we’re truly ready. Your point about channeling the energy from a shared real estate win into even bolder moves later really speaks to how we can be both ambitious and resilient as a team. If anyone feels that a different approach would better capture our spirit or has concerns about this path, I’d love to hear your thoughts so we can make the most informed and unified decision possible.",
+          "id": "M2_R2_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Maximillian Wise",
+          "message": "I’d love to hear from anyone who feels strongly that starting with stocks would better capture our ambition, or if there are specific conditions that would make a bolder move feel right in future quarters. I think keeping this dialogue open ensures we stay adaptable and ready to pivot as our confidence and market conditions evolve, which is key to building both trust and momentum as a team.",
+          "id": "M2_R2_18",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I really appreciate your focus on keeping the dialogue open and adaptable, Maximillian—it’s essential that we stay responsive to both our team’s confidence and changing market conditions. Your invitation for others to share what would make a bolder move like stocks feel right—either now or in the future—helps ensure we’re not missing any hidden enthusiasm or concerns. I encourage anyone who feels strongly about starting with stocks, or who has thoughts on when we should consider taking bigger risks, to share their perspective now so we can make the most balanced and forward-looking decision together.",
+          "id": "M2_R2_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Rosie Trujillo",
+          "message": "I’m genuinely energized by the idea of starting boldly with stocks because I think a high-energy move can set a dynamic tone and unify us through shared ambition, especially in a stable market where the risks are manageable. While I absolutely see the appeal of real estate for building confidence and celebrating quick, tangible wins, I believe that channeling our optimism into a bold first step could spark excitement and create a lasting sense of pride in our culture. For me, it’s about capturing this unique moment to show we’re ready to aim high together—and I’d love to hear how others feel about balancing immediate excitement with the steady progress real estate offers.",
+          "id": "M2_R2_20",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Rosie, I really appreciate your passion for setting a dynamic, ambitious tone—it’s clear that starting with stocks could send a powerful message about who we are as a team. Your point about seizing this unique moment to unify us through shared excitement is compelling, and I’d love to hear if others feel that the immediate energy from a bold move outweighs the benefits of building confidence through steady progress. Let’s open the floor to any thoughts on how we can best balance excitement and momentum with the foundation we want to set for our company.",
+          "id": "M2_R2_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rosie Trujillo",
+          "message": "I really appreciate your openness, Anaya. I actually think the excitement of a bold move and the confidence from a steady win don’t have to be at odds—if we’re intentional, we can make our first investment feel both energizing and grounding for everyone. Maybe the key is making sure that, whatever we choose, we celebrate it in a way that brings out the best of both worlds—so our team feels proud, motivated, and ready for bigger leaps ahead.",
+          "id": "M2_R2_22",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I really like how you’ve reframed this, Rosie—the way we celebrate and communicate our first investment can absolutely set the tone, no matter which asset we choose. Your idea of intentionally making our first step both energizing and grounding is a great reminder that culture is shaped not just by the asset itself, but by how we rally around it as a team. I’d welcome any other thoughts on how we can maximize both excitement and unity as we launch our investment journey.",
+          "id": "M2_R2_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Rosie Trujillo",
+          "message": "One thought is that we could make our first investment—whether it’s stocks or real estate—a real event for the team, with a kickoff celebration and regular, creative updates that keep everyone involved and excited about our progress. By spotlighting both the boldness of our choice and the milestones we reach along the way, we can create a shared sense of pride and momentum that carries us forward together.",
+          "id": "M2_R2_24",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I absolutely love your idea, Rosie—turning our first investment into a true team event with ongoing celebrations and creative updates is exactly the kind of energy and unity I want us to foster. By spotlighting both the boldness of our choice and the milestones we achieve, we can keep everyone motivated and proud, no matter which asset we select. If anyone else has ideas for keeping our momentum strong and making this journey memorable, I’d love to hear them as we move toward our decision.",
+          "id": "M2_R2_25",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Huw Dalton",
+          "message": "I’m genuinely energized by the idea of setting an ambitious tone right from the start—stocks feel like a bold move that could really unify us through shared excitement, especially since the market is stable and we can adapt each quarter. That said, I really appreciate how much value the team sees in building early confidence with real estate, and I think whichever path we choose, the way we celebrate and communicate our progress will be key to keeping everyone motivated and ready for even bigger steps ahead.",
+          "id": "M2_R2_26",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Huw, I really appreciate your balanced perspective—recognizing both the unifying excitement of a bold move with stocks and the value of building confidence through real estate. I completely agree that how we celebrate and communicate our progress will shape our culture just as much as the asset itself. If anyone has thoughts on specific ways we can amplify motivation and unity, regardless of which path we choose, I’d love to hear them as we move toward consensus.",
+          "id": "M2_R2_27",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Huw Dalton",
+          "message": "I love the suggestions around making our first investment a real team event—whether it’s stocks or real estate, spotlighting milestones with creative updates and celebrations can keep everyone engaged and energized. Personally, I think weaving in a bit of friendly competition, like tracking our progress against team-set goals, could add an extra spark and help us rally together. Ultimately, if we’re intentional about how we frame and celebrate each success, we’ll build a culture that’s both ambitious and deeply connected, no matter which asset we choose.",
+          "id": "M2_R2_28",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Huw, I love your idea of weaving in friendly competition and tracking our progress against team-set goals—it’s a fantastic way to keep everyone engaged and bring out our best as a group. Spotlighting milestones with creative updates and celebrations can turn every achievement into a unifying event, making our journey both ambitious and deeply connected. If anyone else has thoughts on how we can make our investment process even more energizing and collaborative, I’d love to hear them as we move toward consensus.",
+          "id": "M2_R2_29",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Huw Dalton",
+          "message": "I appreciate how everyone’s ideas are coming together—it really highlights how much we value both ambition and connection as a team. As we decide between stocks and real estate, I think keeping our celebrations visible and involving everyone in setting and tracking our goals will help bridge any gap between boldness and steady progress. By making each step a shared win, we’ll create a culture where taking risks and building confidence go hand in hand, setting us up for success no matter which asset we choose.",
+          "id": "M2_R2_30",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Huw, I couldn’t agree more—making each step a shared win and keeping our celebrations visible will be key to building both confidence and excitement as we grow. Your suggestion to involve everyone in setting and tracking our goals really brings our values to life, helping us blend ambition with unity in a way that’s energizing for the whole team. If anyone else has ideas for amplifying this spirit as we finalize our decision, I’d love to hear them before we move forward.",
+          "id": "M2_R2_31",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q2": {
+      "round_1": [
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Anaya Cooke My current thinking is that Stocks appears most promising because I’m feeling genuinely energized by the stable market and the strong returns we saw from stocks last quarter—20% is hard to ignore, especially when volatility is low. My ESFP side loves the idea of making a bold move that could really excite and motivate our team, showing that we’re not afraid to go after ambitious growth. Real estate still appeals to me for its steady and reliable progress, but I think this is the perfect moment to take a calculated risk and set an inspiring tone. Cash and bonds just feel too conservative for where we are right now. I’m leaning toward stocks as the best way to keep our momentum high and make this quarter really memorable, though I'm interested in exploring all perspectives to refine our understanding. For this round, let’s focus on reviewing our Q1 investment decision—what worked, what could have gone better, and how it shaped our team’s motivation, risk appetite, and momentum. By sharing candid reflections, we can build a stronger foundation for this quarter’s choice and ensure we’re learning and evolving as a team. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I invite everyone to share insights or lessons learned from last quarter that might help us sharpen our decision-making this time around.",
+          "id": "M3_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Huw Dalton",
+          "message": "I think our choice to go with real estate in Q1 was a fantastic way to kick things off—it gave us a visible win and really unified the team, building confidence and trust right from the start. That said, I feel like we’re in a great position now to consider a bolder move, since the steady progress from real estate has set a solid foundation and the team seems ready for the excitement and challenge that something like stocks could bring. I’d love to see us keep the momentum going by channeling that early confidence into an investment that could really energize everyone and show we’re not afraid to aim high.",
+          "id": "M3_R1_2",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I completely agree that our real estate investment gave us the unity and visible progress we needed to build confidence as a team—your point about using that foundation to take a bolder step now really resonates with me. I think channeling our early momentum into an ambitious move like stocks could send a powerful message about our willingness to grow and embrace new challenges. I’d love to hear if others feel equally energized by this idea, or if there are remaining concerns about shifting our risk profile at this stage.",
+          "id": "M3_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Huw Dalton",
+          "message": "I appreciate that, and I think it’s important we don’t lose sight of the value in surfacing any hesitations about taking on more risk—even as we aim for bigger returns. If we’re intentional about how we communicate our decision and support each other through the ups and downs, I’m confident we can turn a move into stocks into a real rallying point for the team. I’d be interested to hear what would help others feel comfortable with this step, so we can make sure everyone’s on board and the energy stays high.",
+          "id": "M3_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I really appreciate you emphasizing the need to surface any hesitations and be intentional with our communication as we consider a bigger leap. Making sure everyone feels supported and heard will be crucial if we choose stocks, so I encourage anyone with reservations or ideas about how we can keep the team energized and united to speak up. This kind of open dialogue is exactly what will help us turn ambition into lasting momentum.",
+          "id": "M3_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Huw Dalton",
+          "message": "I completely agree—when everyone feels genuinely heard and involved, even a riskier move like stocks can become a shared source of pride and motivation. If we make space for honest dialogue and ensure we’re celebrating progress together, I believe we can harness both ambition and unity to drive our company forward this quarter.",
+          "id": "M3_R1_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rosie Trujillo",
+          "message": "I think our choice of real estate last quarter was spot on for building team confidence and giving us something tangible to celebrate together—it really set a positive, unified tone. Now that we’ve got that steady win under our belts, I feel the team’s energy shifting toward something more ambitious, and I’m genuinely excited about the idea of channeling this momentum into stocks for even greater growth and motivation. I believe if we keep celebrating our progress and supporting each other, we can take on a bit more risk and make this next move truly inspiring for everyone.",
+          "id": "M3_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I completely agree that our steady win with real estate has set a strong, unified tone for the team, and I’m excited by your point about channeling that momentum into a more ambitious move. Celebrating our progress and supporting each other will be key if we take on stocks, and your enthusiasm really captures the spirit I think we need to keep growing boldly together. I’d love to hear from others about what would help them feel confident and motivated if we shift toward this higher-risk, higher-reward path.",
+          "id": "M3_R1_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rosie Trujillo",
+          "message": "I really appreciate how you’re emphasizing celebration and support, because I think those are exactly what will help everyone feel secure if we go for stocks. Maybe we could brainstorm together how we’ll keep the energy high and make sure everyone feels included in the process, even if things get a bit bumpy—hearing what motivates each person could really help us shape the best approach for the team.",
+          "id": "M3_R1_9",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I love your idea of brainstorming together how we’ll keep the energy high and make sure everyone feels included, especially if we take on the excitement—and bumps—of stocks. Understanding what motivates each person will help us tailor our approach so the whole team feels supported and inspired, no matter the outcome. I encourage everyone to share what helps them stay confident and engaged, so we can build a strategy that truly fits our team’s spirit.",
+          "id": "M3_R1_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rosie Trujillo",
+          "message": "I think celebrating even the small wins along the way—like hitting milestones or seeing positive trends—will help keep our spirits up and make the experience rewarding for everyone, not just those who love big risks. Personally, I stay motivated when there’s lots of open communication and a sense of fun around our achievements, so maybe we can build that into our process no matter which asset we pick. I’d love to hear what keeps others feeling engaged, especially if they’re more cautious, so we can make sure everyone feels included as we move forward.",
+          "id": "M3_R1_11",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I really appreciate your emphasis on celebrating every milestone and keeping the experience fun and inclusive—those are powerful drivers for maintaining motivation across the team, especially as we consider bolder moves. Open communication and recognizing progress, big or small, can help everyone stay engaged and confident, even if they’re more cautious by nature. I’d love to hear from others about what keeps them motivated or any concerns they might have, so we can make sure our approach resonates with the whole group.",
+          "id": "M3_R1_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Rosie Trujillo",
+          "message": "I completely agree that open communication and celebrating progress—no matter the size—can make a huge difference in keeping everyone engaged, especially as we look at options like stocks that might feel riskier to some. I’d really love to hear what helps others feel confident when we take bold steps, since understanding those needs will help us keep our momentum strong and make sure our decision truly reflects the whole team’s spirit.",
+          "id": "M3_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Maximillian Wise",
+          "message": "I think our decision to go with real estate in Q1 was exactly what we needed—it gave us a visible win and really boosted our confidence as a team, making everyone feel included and energized. Now that we’ve proven we can succeed together with a steady approach, I feel like we’re ready to channel that momentum into something bolder, like stocks, to keep the excitement high and show we’re not afraid to reach for even bigger returns. For me, the lesson is that starting with real estate built the trust and optimism we need to take on more ambitious moves together, and I’m excited to see how we can keep that energy going.",
+          "id": "M3_R1_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I completely agree that our real estate investment gave us the visible win and confidence boost we needed as a team, and your point about building trust and optimism really resonates with me. Now that we’ve proven we can succeed together with a steady approach, I’m excited by the idea of channeling that momentum into something bolder like stocks—especially since it could inspire even greater excitement and growth. I’d love to hear from others about what would help them feel confident and motivated if we take this next ambitious step.",
+          "id": "M3_R1_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Maximillian Wise",
+          "message": "I really appreciate how you’re highlighting the connection between our early win and the chance to take a more ambitious step now. I think if we keep the communication open and make sure everyone feels involved and supported—especially as we consider stocks—it’ll help the whole team stay motivated and confident. I’d love to hear what specific things would help others feel comfortable with this move, so we can make sure our approach works for everyone.",
+          "id": "M3_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I really appreciate you underscoring the importance of open communication and making sure everyone feels involved as we consider a shift toward stocks. Creating an environment where each person feels supported and heard will be key to sustaining our motivation and confidence if we take this ambitious step. I’d love to invite others to share what would help them feel comfortable and energized about this move, so we can shape an approach that brings everyone along and keeps our momentum strong.",
+          "id": "M3_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Maximillian Wise",
+          "message": "I completely agree that bringing everyone along is what will make a move into stocks truly energizing for the whole team. If we’re intentional about checking in with each other and celebrating progress together, I think we can turn this bold step into something we all feel proud of. I’m genuinely interested to hear what would help others feel excited and secure as we consider this direction.",
+          "id": "M3_R1_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Luna Holmes",
+          "message": "I think choosing real estate last quarter was the perfect way to kick off our journey—it gave us something tangible to rally around and celebrate, which really boosted our confidence as a team. Now, with that steady win under our belts, I feel our motivation and trust are at an all-time high, making this a great moment to consider channeling that energy into something more ambitious like stocks. As long as we keep the celebration and open communication going, I believe we can take on a bit more risk together and turn it into an exciting, unifying experience for everyone.",
+          "id": "M3_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I completely agree that our real estate investment gave us a tangible win and really helped us rally together as a team—your point about our motivation and trust being at an all-time high is spot on. I’m excited by the idea of channeling that energy into something more ambitious like stocks, especially if we stay intentional about celebrating and communicating openly. I’d love to hear if anyone has thoughts on what specific practices or supports would help keep everyone feeling confident and unified as we step into this next phase.",
+          "id": "M3_R1_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Luna Holmes",
+          "message": "One thing that really helps me stay engaged is having regular check-ins where we openly share progress and any concerns—almost like mini celebrations for milestones, not just the big wins. I also think making space for everyone to voice their feelings about the risk each quarter will help us stay connected and ensure no one feels left behind, especially if things get a bit unpredictable with stocks.",
+          "id": "M3_R1_21",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I really appreciate your suggestion of regular check-ins and making space for everyone to share their feelings about risk—those are fantastic ways to keep the whole team engaged and supported, especially if we decide to take on stocks. Mini celebrations for milestones and open dialogue will help us stay connected and ensure everyone’s voice is heard, even as we embrace more ambitious opportunities. I’d love to hear if others have additional ideas for keeping our team motivated and unified as we consider this next step.",
+          "id": "M3_R1_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Luna Holmes",
+          "message": "I really appreciate your openness to these ideas, and I think it would be valuable to encourage everyone to share what specifically motivates them—whether it’s seeing measurable progress, having fun together, or feeling secure about our choices. By blending these motivations into our process, we can make sure that, no matter which asset we choose, everyone feels genuinely included and excited about our direction.",
+          "id": "M3_R1_23",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I really appreciate your focus on understanding what specifically motivates each person on the team—whether it’s measurable progress, fun, or feeling secure. Blending these motivations into our process can make a huge difference in keeping everyone genuinely included and excited, no matter which asset we choose. I encourage everyone to share what drives their engagement so we can shape our approach to fit the whole team and keep our momentum strong as we move forward.",
+          "id": "M3_R1_24",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Luna Holmes",
+          "message": "I completely agree—by actively celebrating what motivates each of us, whether that’s progress, fun, or security, we can make sure our approach stays energizing and inclusive. If we keep recognizing both the big achievements and the smaller milestones, I’m confident we’ll stay connected and confident as a team, no matter which asset we choose this quarter.",
+          "id": "M3_R1_25",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Gabrielle Johnson",
+          "message": "I think our choice of real estate last quarter was exactly what we needed to kick things off—it gave us a tangible win that everyone could celebrate together and really helped build trust and excitement across the team. That steady progress has boosted our confidence and set a strong, positive tone, making me feel like we’re genuinely ready to consider bolder moves now. As we look ahead, I think it’s important to keep celebrating those visible milestones and making sure everyone feels included, so our momentum and unity stay strong no matter which asset we choose next.",
+          "id": "M3_R1_26",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I completely agree that our tangible win with real estate really set the tone for building trust and excitement across the team, and your point about keeping celebrations and inclusion front and center is spot on. As we consider bolder moves this quarter, making sure everyone feels recognized and involved will be key to sustaining our momentum and unity. I’d love to hear from others about what kinds of celebrations or practices would help them stay motivated and connected, especially as we weigh options like stocks that could bring both excitement and new challenges.",
+          "id": "M3_R1_27",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Gabrielle Johnson",
+          "message": "I really appreciate your focus on making sure everyone feels recognized and included, especially as we think about stepping into something as dynamic as stocks. For me, regular team shout-outs and celebrating even small milestones—like progress updates or learning moments—help keep the energy high and everyone engaged, regardless of the risk level. If we keep those celebrations front and center, I’m confident we can turn even bold moves into shared wins that everyone feels proud of.",
+          "id": "M3_R1_28",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I really appreciate your emphasis on team shout-outs and celebrating small milestones—those are fantastic ways to keep the energy high and everyone engaged, even as we take on more dynamic opportunities like stocks. By making recognition and shared wins part of our process, we can ensure that every step forward feels meaningful and inclusive, helping the whole team stay motivated and proud of our progress. I’d love to hear if others have specific ideas for celebrations or recognition that would help them feel even more engaged as we move into this next phase.",
+          "id": "M3_R1_29",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Anaya Cooke My current thinking is that Stocks appears most promising because the team’s unanimous support for moving into stocks, combined with the practical strategies for maintaining unity and motivation, has solidified my preference for this option. The stable market and last quarter’s strong stock returns make this an opportune moment to pursue higher growth, while our collaborative approach to communication and celebration will help mitigate the risks. I believe investing in stocks this quarter will build on our momentum, inspire the team, and set an ambitious tone for our company’s future, though I'm interested in exploring all perspectives to refine our understanding. This round, we’ll focus on a comparative risk-return analysis of each available asset—Cash, Bonds, Real Estate, and Stocks—in the context of our stable market, aiming to build a clear, shared understanding of projected outcomes, risks, and alignment with our company values. I encourage everyone to contribute thoughtful perspectives that might deepen our collective insight, especially any considerations I may not have fully weighed. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.",
+          "id": "M3_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rosie Trujillo",
+          "message": "I see stocks as the most exciting option right now—last quarter’s 20% return in a stable market is hard to beat, and I genuinely believe this kind of bold move can keep our team energized and motivated. Real estate still stands out for steady, visible progress and lower risk, which is great for confidence, but in this environment, I think we can afford to aim higher. Cash and bonds just feel too conservative for where we are as a company; I’d rather see us channel our momentum into something that could really accelerate our growth and keep our team spirit high.",
+          "id": "M3_R2_2",
+          "act_type": "Justify",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I appreciate your enthusiasm and the way you’ve articulated both the appeal of stocks and the continuing value of real estate, Rosie. Your point about channeling our momentum into a bold move really resonates with me, and I agree that, in this stable environment, now is a great time to aim higher while still learning from the steady foundation we’ve built. I’d welcome any further thoughts from the group on how we can best balance ambition and risk as we move forward.",
+          "id": "M3_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rosie Trujillo",
+          "message": "I really appreciate your focus on balancing ambition with what we’ve learned from our steady start—it’s exactly that mix of excitement and groundedness that makes me confident in our direction. As we lean into stocks, I think keeping our celebrations and check-ins frequent will help everyone stay engaged and comfortable with the increased risk, so we get the best of both worlds: bold growth and strong team unity.",
+          "id": "M3_R2_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I completely agree, Rosie—frequent celebrations and regular check-ins are key to making sure everyone feels included and supported, especially as we increase our risk profile. Your emphasis on blending excitement with groundedness really captures the spirit I want for our team; it’s all about making bold moves together while keeping our connections strong. I’d love to hear if anyone else has ideas for keeping our team energized and united as we pursue this ambitious path.",
+          "id": "M3_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Rosie Trujillo",
+          "message": "I’d love to hear what others think about ways we can keep our momentum going as we step into stocks—maybe there are creative approaches to recognition or team check-ins that we haven’t considered yet. The more we share and celebrate together, the more confident I feel about us taking this bold step as a team.",
+          "id": "M3_R2_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Huw Dalton",
+          "message": "I’m convinced that in this stable market, stocks stand out for their high return potential—last quarter’s 20% really makes them hard to ignore—especially now that we’ve built up trust and confidence as a team. Real estate still appeals to me for its steady progress and lower risk, but I think our current momentum means we can afford to be a bit bolder, provided we keep our communication and celebrations strong. Cash and bonds just feel too cautious for where we are right now; I’d rather see us channel our energy into something that could really accelerate our growth and keep our team spirit high.",
+          "id": "M3_R2_7",
+          "act_type": "Justify",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I appreciate your thoughtful analysis, Huw—your focus on leveraging our current momentum while still valuing the steady progress of real estate really helps round out our collective understanding. I agree that, in this stable market, stocks offer a compelling opportunity for growth, provided we stay intentional about team communication and celebrating our wins. I’d like to invite others to weigh in—are there any additional risks or considerations we should keep in mind before finalizing our direction?",
+          "id": "M3_R2_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Luna Holmes",
+          "message": "I’m really energized by the idea of channeling our momentum into stocks this quarter—the 20% return last time is super compelling, and I think it’s the kind of bold step that can keep our team motivated and connected. That said, I still see real estate as a strong option for steady, visible progress and lower risk, so I appreciate how we’re weighing both ambition and stability. Cash and bonds feel a bit too cautious for where we are right now, but I’m open to hearing any concerns if others feel differently—what matters most to me is that we keep our team spirit high and make this next step something we can all celebrate together.",
+          "id": "M3_R2_9",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I appreciate your balanced approach, Luna—your enthusiasm for channeling our momentum into stocks, while still valuing the reliability of real estate, really resonates with me. I agree that keeping our team spirit high and making this next step a shared celebration is crucial, especially as we take on more risk. If anyone has concerns about the shift toward stocks or sees value in a more cautious approach, I’d love to hear those perspectives so we can make the most well-rounded decision possible.",
+          "id": "M3_R2_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Luna Holmes",
+          "message": "I really appreciate how this discussion is bringing out the best of both worlds—our drive for bold growth with stocks and our appreciation for real estate’s steady progress. It feels like we’re building a culture where ambition and stability truly complement each other. I’d love to hear if anyone has hesitations or sees unique strengths in bonds or cash that we might be overlooking, just to make sure we’ve covered all bases before moving forward.",
+          "id": "M3_R2_11",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Luna, I really appreciate your focus on making sure we don’t overlook any potential advantages in bonds or cash. While these options may seem conservative for our current momentum, it’s important to confirm there aren’t hidden benefits we’ve missed—like added security or flexibility in uncertain times. If anyone has a perspective on how bonds or cash could serve us this quarter, now’s the perfect moment to share so we can move forward with complete confidence in our choice.",
+          "id": "M3_R2_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Luna Holmes",
+          "message": "I agree it’s important to double-check that we haven’t missed any subtle benefits with bonds or cash. For me, their lower returns just don’t match our current appetite for growth, but I’m glad we’re making space for any final thoughts—if anyone sees a strategic reason to lean in that direction, now’s definitely the time to speak up.",
+          "id": "M3_R2_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Gabrielle Johnson",
+          "message": "I’m genuinely excited by the momentum we’ve built and agree that stocks offer the most ambitious growth in our stable market, especially after seeing last quarter’s 20% return. At the same time, I think it’s important we don’t underestimate the motivational power of visible, steady progress—real estate still brings a sense of tangible achievement that keeps everyone feeling successful and included. While cash and bonds offer security, their low returns just don’t match the energy or ambition of our team right now; I believe our strong foundation and commitment to celebrating every milestone make us ready to take on the higher risk of stocks together.",
+          "id": "M3_R2_14",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Gabrielle, I really appreciate the way you’ve captured both the drive for ambitious growth with stocks and the enduring value of real estate’s steady, visible progress. Your point about not underestimating the motivational impact of tangible achievements is a great reminder that our culture thrives on both bold moves and shared celebrations. I agree that our strong foundation and focus on inclusivity put us in a great position to take on the higher risk of stocks together—if anyone has further thoughts on how we can maintain that balance, I’d love to hear them before we move forward.",
+          "id": "M3_R2_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Gabrielle Johnson",
+          "message": "I completely agree that our culture thrives on both bold moves and shared celebrations. As we step into stocks, I think we should commit to regular recognition of both big and small achievements—whether that’s through team shout-outs, milestone updates, or informal check-ins—to keep everyone engaged and confident. By making celebration and inclusion a core part of our process, we can turn ambitious growth into a truly shared success.",
+          "id": "M3_R2_16",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I completely agree, Gabrielle—making celebration and inclusion a fundamental part of how we operate will be key to turning our bold moves into true team successes. By regularly recognizing both big achievements and everyday progress, we’ll keep everyone engaged and confident, no matter the level of risk we take on. This approach will help us maintain the strong, positive culture that’s already driving our success.",
+          "id": "M3_R2_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Maximillian Wise",
+          "message": "I’m genuinely excited by the energy around stocks—last quarter’s 20% return in this stable market is hard to ignore, especially now that we’ve built real trust and confidence as a team. While real estate still feels solid for steady, visible progress, I think the timing is right to aim higher, provided we keep our celebrations and communication strong to manage risk. Cash and bonds just seem too conservative for our current momentum; I believe channeling our optimism into stocks will not only maximize our returns but also keep our team spirit at its peak.",
+          "id": "M3_R2_18",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Maximillian, I appreciate how you’ve captured both the excitement of aiming higher with stocks and the continued value of real estate’s steady progress. Your emphasis on keeping celebrations and communication strong is spot on—those practices will be critical for managing risk and keeping our team spirit high as we pursue greater returns. I’m confident that by channeling our optimism and staying connected, we’ll make this ambitious step a real success for everyone.",
+          "id": "M3_R2_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Maximillian Wise",
+          "message": "I completely agree, and I’d add that by making our celebrations and communication truly central to our process, we turn the risk of stocks into an opportunity for even stronger team engagement. When everyone feels recognized and involved, the excitement of bold growth becomes something we all own together—which I think is exactly what will set us apart as a company.",
+          "id": "M3_R2_20",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Maximillian, I couldn’t agree more—making celebration and communication the heart of our process is what will truly set our company apart as we take on greater risk. By ensuring everyone feels recognized and involved, we turn ambitious growth into a shared journey, not just a financial goal. This approach will help us harness the excitement of stocks while keeping our team spirit and unity at the center of everything we do.",
+          "id": "M3_R2_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Maximillian Wise",
+          "message": "I really appreciate how you’ve framed ambitious growth as a shared journey, not just a financial target. By integrating regular recognition and open dialogue into our approach, we’re not only managing the risks of stocks but also building a culture where every win—big or small—fuels our momentum. I’m confident this combination of bold strategy and strong team spirit will help us achieve the best possible outcomes together.",
+          "id": "M3_R2_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q3": {
+      "round_1": [
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Anaya Cooke My current thinking is that Real Estate appears most promising because I’m feeling most confident about real estate this quarter because it offers a steady, tangible path forward with less risk than stocks, especially after experiencing both a strong gain and a loss in our first two quarters. The stable market makes me want to keep our momentum going with something reliable that still feels energizing for the team. While I love the excitement of bold moves, I think real estate gives us a chance to regroup, build confidence, and celebrate visible progress together. Bonds and cash feel too safe for our company’s vibe right now, but I’ll stay open to hearing if anyone sees a strategic reason to go more conservative. Overall, I want us to keep growing, stay motivated, and make choices that unify and inspire the whole team., though I'm interested in exploring all perspectives to refine our understanding.\n\nFor this round, let’s reflect together on what our experiences in the first two quarters—one steady win with real estate and one bold swing with stocks—have taught us about our team’s appetite for risk and what really motivates us. I want us to surface key lessons and insights from both approaches so we can clarify where we stand as a group and what mindset will guide us best for Q3. Sharing our takeaways openly will help us synthesize diverse perspectives and deepen our understanding of how to balance ambition with stability as we move forward. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I encourage everyone to share any insights or reflections that might help us see our team’s risk appetite and motivation more clearly, especially ideas I might not have fully considered yet.",
+          "id": "M4_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Rosie Trujillo",
+          "message": "From what we’ve seen so far, I think our team gets really motivated by visible wins and steady progress—our real estate investment brought everyone together and gave us something to celebrate, which kept the energy up. The bold move into stocks was exciting, but after last quarter’s loss, I feel like we could use a confidence boost with something more reliable before taking another big swing. For me, real estate seems like the best way to keep our momentum going and make sure we’re all feeling good about where we’re headed.",
+          "id": "M4_R1_2",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I really appreciate your focus on how visible wins and steady progress have energized our team, Rosie. Your point about needing a confidence boost after last quarter’s loss resonates with me—it’s important that we not only recover momentum but also keep everyone feeling engaged and optimistic. This reinforces my sense that real estate could help us regroup and celebrate tangible achievements together, but I’m still eager to hear if anyone sees a strategic case for taking a different approach this quarter.",
+          "id": "M4_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Rosie Trujillo",
+          "message": "I agree that it’s always good to stay open to bold moves if someone sees a strong case, but I think our team really thrives when we have something tangible to rally around. Real estate gives us that steady progress and a chance to rebuild our momentum, which feels especially important after last quarter’s dip.",
+          "id": "M4_R1_4",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I completely agree, Rosie—having something tangible to rally around really does seem to unify and motivate us, especially after a setback. Your emphasis on rebuilding momentum with real estate highlights how much our team values visible progress and shared wins, and it’s a great reminder that sometimes the most energizing path is the one that helps us reconnect and celebrate together. I’d like to invite others to share if they see similar patterns or if there are reasons to consider a bolder or more conservative move this quarter.",
+          "id": "M4_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Rosie Trujillo",
+          "message": "I’d love to hear if anyone feels that stocks or even bonds could bring us a different kind of boost this quarter—maybe there’s a way to keep things exciting or reassuring that I haven’t considered yet. I’m all for celebrating together, but I’m curious if anyone sees an angle where a bolder or more conservative choice could actually help our team feel even more motivated or secure.",
+          "id": "M4_R1_6",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "That’s a great point, Rosie—I appreciate you opening the door for fresh perspectives on both bolder and more conservative options. I’m genuinely interested to hear if anyone feels that stocks could still energize us despite last quarter’s setback, or if bonds might offer reassurance without losing too much momentum. Let’s make sure we explore every angle so we can feel confident we’re choosing the path that best fits our team’s mindset right now.",
+          "id": "M4_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Maximillian Wise",
+          "message": "I agree that our win with real estate gave us a real boost, but I also noticed how much energy and excitement the team had when we went bold with stocks—even though it didn’t pay off last quarter, the shared ambition was motivating. I think our group thrives when we mix steady progress with the thrill of chasing bigger wins, so I’m still leaning toward stocks for the chance to bounce back and keep our energy high, but I see the value in real estate when we need to regroup and celebrate together.",
+          "id": "M4_R1_8",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Maximillian, I really appreciate how you’ve captured the dual sources of our team’s motivation—the steady confidence from real estate and the excitement of taking bold swings with stocks. Your point about the energy we felt even during a risky move is a great reminder that ambition itself can be inspiring, regardless of short-term outcomes. I think your perspective helps us see the value in balancing stability with boldness, and I’m interested to hear if others feel we should lean into that ambition now or focus on rebuilding momentum with something more reliable.",
+          "id": "M4_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Maximillian Wise",
+          "message": "I appreciate that, Anaya. I think it’s worth considering that our motivation doesn’t have to be all-or-nothing—sometimes taking a bold step right after a setback can actually strengthen our sense of resilience and unity. If we keep communication open and celebrate both the effort and the outcome, I believe our team can handle the ups and downs that come with chasing bigger opportunities like stocks, while still valuing the steady wins real estate offers.",
+          "id": "M4_R1_10",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I really like your perspective on how bouncing back with a bold move can actually build our resilience and unity, Maximillian. Your emphasis on celebrating both effort and outcome is a great reminder that our culture thrives on positivity and connection, not just results. This makes me think we shouldn’t underestimate the team’s appetite for risk if we’re intentional about supporting each other and keeping the energy high—so I’m eager to hear if others feel ready for another ambitious step or if a steady win still feels like the right call for us right now.",
+          "id": "M4_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Maximillian Wise",
+          "message": "I think you’re right that our appetite for risk might be bigger than we realize, especially when we know the team has our backs and we’re intentional about celebrating every step. I’d love to hear if others feel that same sense of excitement about taking another bold shot with stocks, or if they think a steady win with real estate would do more for our motivation right now. Either way, I’m confident that how we support and energize each other is what really makes the difference.",
+          "id": "M4_R1_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Luna Holmes",
+          "message": "I’ve noticed that our biggest boosts in motivation come when we can actually see and celebrate our progress together—real estate gave us that tangible win, which really lifted the team’s spirits. While the excitement of stocks was energizing, the loss last quarter made it clear that our confidence and unity are strongest when we have something steady to rally around. For me, that makes real estate feel like the option that best matches our team’s vibe right now, keeping us positive and connected as we move forward.",
+          "id": "M4_R1_13",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I really appreciate your insight, Luna—your observation about the motivational impact of tangible, steady wins resonates with what I’ve seen as well. The way you connect team confidence and unity to visible progress makes a strong case for real estate this quarter, especially as we look to keep our spirits high and our focus sharp after a more volatile experience. I’d love to hear if anyone else sees our motivation shifting in a different direction, or if this sense of stability feels right for the whole team.",
+          "id": "M4_R1_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Luna Holmes",
+          "message": "I really appreciate that, Anaya. I actually think our team’s motivation thrives when we can balance ambition with visible progress—steady wins like real estate keep us unified, but the energy from bold moves like stocks also pushes us to grow. Maybe the key is making sure whatever we choose, we’re intentional about celebrating both the effort and the outcome so everyone feels engaged and confident, no matter the result.",
+          "id": "M4_R1_15",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Luna, I really like how you frame our motivation as thriving on both steady progress and the excitement of bold growth, as long as we’re intentional about how we celebrate and support each other. Your point that engagement comes from recognizing both effort and outcome is a great reminder that our culture can handle risk if we stay connected and positive. This helps me see that our decision isn’t just about which asset we choose but also about how we rally around it as a team—so I’m eager to hear if others feel the same or have a different take on what will keep us most motivated right now.",
+          "id": "M4_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Luna Holmes",
+          "message": "I think that’s exactly it—how we rally around our choice as a team is just as important as the asset itself. If we’re proactive about celebrating progress and supporting each other, I believe we can stay motivated whether we go for steady real estate or take another bold shot with stocks. It’s all about keeping our energy high and making sure everyone feels valued through the ups and downs.",
+          "id": "M4_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Huw Dalton",
+          "message": "I’ve noticed that our team really comes alive when we have something tangible to celebrate together—our real estate win gave us a huge boost in confidence and unity, especially after seeing how the stock loss affected our energy last quarter. While I love the excitement that comes with taking bold risks, I think our group is at its best when we can rally around visible progress and keep the momentum going. For me, this quarter feels like the right time to lean into something steady like real estate so we can rebuild that positive energy and set ourselves up for even bigger moves down the line.",
+          "id": "M4_R1_18",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I really appreciate your insight, Huw—your point about how our team comes alive around visible progress and shared celebrations truly resonates with me. It’s clear that steady wins like real estate have a powerful effect on our energy and cohesion, especially after a challenging quarter. Your perspective reinforces the idea that leaning into something reliable right now could help us rebuild momentum and set the stage for even bolder moves in the future, and I’d love to hear if anyone sees a different path that could motivate us just as much.",
+          "id": "M4_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Huw Dalton",
+          "message": "I appreciate that, Anaya. I do think that by choosing something steady like real estate now, we’re not just playing it safe—we’re actually fueling the kind of optimism and togetherness that makes us ready for bigger risks later. If we use this quarter to celebrate progress and rebuild our confidence, I believe we’ll be even more motivated and unified when the next bold opportunity comes along.",
+          "id": "M4_R1_20",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I really like how you frame steady progress as an investment in our team’s optimism and future readiness, Huw. It’s a great reminder that building confidence now isn’t just about playing it safe—it’s about setting ourselves up to take even bigger, more exciting risks together down the line. This perspective helps me see real estate not just as a fallback, but as a strategic move to fuel our ambition for the future.",
+          "id": "M4_R1_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Huw Dalton",
+          "message": "I’m glad that resonates, Anaya. I think if we’re intentional about celebrating our steady progress this quarter, it’ll help the whole team internalize a sense of momentum and possibility. That way, when we’re ready for our next bold move, we’ll have the confidence and unity to really go after it together.",
+          "id": "M4_R1_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Gabrielle Johnson",
+          "message": "I’ve really noticed that when we have something tangible to celebrate—like our win with real estate—the whole team lights up, and that positive energy carries us forward. While the thrill of going bold with stocks is exciting, I think our motivation and unity are strongest when we can see steady progress and rally around shared achievements. For this quarter, I feel that leaning into another visible win with real estate will help us rebuild momentum and keep everyone feeling confident and connected.",
+          "id": "M4_R1_23",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Gabrielle, I really appreciate how you’ve captured the way visible, steady progress lights up our team and fuels that positive energy we all thrive on. Your point about rallying around shared achievements underscores just how important it is for us to feel connected and confident, especially after a more volatile experience. This adds even more weight to the case for real estate this quarter, and I’m interested to hear if anyone else sees a different path that could inspire and unify us just as strongly.",
+          "id": "M4_R1_24",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Gabrielle Johnson",
+          "message": "I completely agree, Anaya—feeling connected and confident as a team is what really keeps our momentum strong. I’d love to hear if anyone feels that either a bold move with stocks or a more conservative choice like bonds could actually inspire us in a different way this quarter, or if steady progress with real estate still feels like the best fit for where we are right now.",
+          "id": "M4_R1_25",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I really appreciate you opening up the conversation to consider whether a bold move with stocks or a more conservative approach with bonds might spark motivation in a new way, Gabrielle. It’s important that we don’t just default to what’s comfortable, but truly reflect on whether a different choice could energize or reassure us at this stage. I’d love to hear from anyone who feels that shifting our approach—either bolder or more cautious—could actually bring out the best in our team this quarter.",
+          "id": "M4_R1_26",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Gabrielle Johnson",
+          "message": "I appreciate you raising that, Anaya. I think our team is at its best when we’re intentional—if anyone feels that taking a bold shot with stocks or a steady approach with bonds could genuinely lift our spirits or strengthen our unity, I’d love to hear those thoughts. For me, I’m still leaning toward real estate for its visible progress, but I’m open to being inspired if someone sees a spark in a different direction.",
+          "id": "M4_R1_27",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Anaya Cooke My current thinking is that Real Estate appears most promising because after hearing everyone’s reflections, I am even more convinced that real estate is the optimal choice for this quarter. It offers the steady, tangible progress our team needs to rebuild confidence and unity after a volatile experience with stocks, and it aligns with the motivational patterns that have consistently energized us. While I appreciate the excitement of bold moves and the resilience they can foster, the group’s consensus is clear that visible wins are what will best sustain our momentum and set us up for future ambitious steps. Real estate provides the right balance of stability and celebration to keep our spirits high and our focus sharp, though I'm interested in exploring all perspectives to refine our understanding. \n\nThis round, we’ll be assessing each asset’s risk-return profile in the current stable market so we can establish a clear, shared understanding of how cash, bonds, real estate, and stocks align with our goals for steady progress versus bold growth this quarter. By rigorously evaluating each option together, we can synthesize diverse viewpoints and ensure our decision is both robust and motivating for the whole team. \n\nIMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I encourage everyone to share any insights or considerations that might enhance our collective understanding, especially perspectives I may not have fully considered yet.",
+          "id": "M4_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Gabrielle Johnson",
+          "message": "I see real estate as the best fit right now because it offers steady, visible progress that we can all celebrate together—exactly what we need to rebuild confidence after last quarter’s volatility with stocks. While stocks are exciting for bold growth, their ups and downs could disrupt our momentum, and bonds or cash just don’t offer enough energy or upside to keep everyone motivated. Real estate strikes the right balance between stability and ambition for where our team is at this moment.",
+          "id": "M4_R2_2",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I appreciate your clear articulation of why real estate stands out for you, Gabrielle. Your point about balancing stability with ambition really resonates, especially as we work to rebuild confidence and keep our momentum strong after last quarter. Highlighting the motivational impact of visible progress helps clarify why real estate feels so well-suited to our team’s current needs.",
+          "id": "M4_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Gabrielle Johnson",
+          "message": "Thank you, Anaya. I also think it’s important that we keep an open mind about when the right moment might be to pursue bolder growth with stocks again, especially as our confidence builds. For this quarter, though, I feel that real estate’s steady progress gives us the best chance to celebrate a win together and set a positive tone for future decisions.",
+          "id": "M4_R2_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I completely agree, Gabrielle—keeping an open mind about when to pursue bolder growth with stocks is key to staying adaptable and responsive as our confidence grows. For now, your focus on steady progress and celebrating wins together really captures the spirit our team needs this quarter. Let’s make sure whatever we choose now sets us up for even more ambitious opportunities down the road.",
+          "id": "M4_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Huw Dalton",
+          "message": "I believe real estate really stands out in this stable market because it gives us steady, visible returns that everyone can rally around—especially after the ups and downs we just experienced with stocks. While I’m all for bold moves when the timing feels right, I think this quarter is about rebuilding our confidence and keeping the team motivated with something tangible. Cash and bonds just don’t offer enough excitement or upside for where we are right now, so real estate feels like the best fit to keep our momentum strong and set us up for future bold growth.",
+          "id": "M4_R2_6",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I appreciate how you’ve highlighted the importance of steady, visible returns for rebuilding our confidence, Huw. Your point about timing—knowing when to go bold versus when to regroup—really resonates, and I agree that real estate provides the tangible progress our team needs right now. Let’s keep focusing on what will best sustain our momentum and motivation as we prepare for future opportunities to take bigger risks.",
+          "id": "M4_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Huw Dalton",
+          "message": "I completely agree, Anaya—timing really is everything. By focusing on real estate now, we’re not closing the door on bold growth with stocks; we’re just making sure our foundation is solid so that when we’re ready to take bigger risks, the whole team is energized and confident. I think this approach keeps us adaptable and sets a positive tone for whatever comes next.",
+          "id": "M4_R2_8",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I really appreciate how you’ve framed this, Huw—focusing on real estate now absolutely doesn’t mean we’re ruling out bold growth in the future. It’s about making sure our team is confident, energized, and ready when those bigger opportunities arise. Your point about adaptability and setting a positive tone for what comes next is spot-on, and I think it’s exactly the mindset that will keep us moving forward together.",
+          "id": "M4_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Rosie Trujillo",
+          "message": "I think real estate stands out this quarter because it gives us the steady progress and visible wins our team thrives on, especially after the rollercoaster with stocks last round. While I love the excitement of bold moves, I feel a reliable, confidence-building win will do more to keep our energy high and set us up for bigger risks in the future. Bonds and cash just don’t offer enough upside or motivation for where we are right now, so real estate feels like the best way to keep everyone inspired and unified.",
+          "id": "M4_R2_10",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Rosie, I really appreciate how you’ve captured the spirit of what our team needs right now—steady progress and visible wins are exactly what keep us inspired and unified, especially after a volatile experience. Your point about building confidence now to set us up for bigger risks in the future is spot-on, and it underscores why real estate feels like such a strong fit for this quarter. Let’s keep focusing on what will best sustain our energy and momentum together.",
+          "id": "M4_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Rosie Trujillo",
+          "message": "I completely agree, Anaya—celebrating those steady, visible wins is what keeps our team feeling positive and motivated, especially after a setback. When everyone can see and share in our progress, it really strengthens our unity and makes us more eager to take on bigger challenges together in the future.",
+          "id": "M4_R2_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I couldn’t agree more, Rosie—the way you’ve highlighted the power of celebrating visible progress really brings home why steady wins matter so much for our team’s motivation and unity. When we’re all able to share in those achievements, it not only lifts our spirits after a setback but also builds the kind of confidence that makes us ready and excited for bigger challenges ahead. This focus on visible, shared success truly sets the tone for the growth culture we want to keep building together.",
+          "id": "M4_R2_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Maximillian Wise",
+          "message": "I really appreciate how everyone’s highlighted the motivational boost we get from steady, visible wins with real estate—there’s definitely something powerful about seeing progress we can all celebrate together, especially after a volatile round. At the same time, I think it’s important we keep stocks in the conversation as a reminder of how bold moves can energize us and drive growth when the timing feels right. For this quarter, I’m leaning toward real estate to help us regroup and build momentum, but I’m glad we’re weighing all our options so we stay adaptable and ready for bigger opportunities ahead.",
+          "id": "M4_R2_14",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Maximillian, I appreciate how you’ve balanced the recognition of real estate’s steady, confidence-building wins with the reminder to keep stocks in our toolkit for when the timing is right. Your point about staying adaptable and open to bolder moves as our momentum builds is really valuable for our ongoing strategy. Let’s make sure we keep both steady progress and future ambition in mind as we refine our decision for this quarter.",
+          "id": "M4_R2_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Maximillian Wise",
+          "message": "I completely agree—by staying adaptable and openly discussing both real estate and stocks, we’re not just choosing the safest path for now, but also reinforcing our team’s confidence to pursue bold growth when the moment is right. This balance between celebrating steady wins and keeping our eyes on future opportunities is what will keep our energy high and our strategy dynamic as we move forward together.",
+          "id": "M4_R2_16",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I really like how you’ve framed this, Maximillian—by staying adaptable and keeping both real estate and stocks in the conversation, we’re setting ourselves up not just for a strong quarter now, but for dynamic growth down the line. This mindset of balancing steady wins with an openness to future opportunities is exactly what will keep our team energized and ready to seize the right moment when it comes. Let’s make sure our decision this quarter keeps us both confident and flexible for whatever comes next.",
+          "id": "M4_R2_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Maximillian Wise",
+          "message": "I couldn’t agree more—keeping flexibility at the core of our approach means we’re not just reacting to what’s happened, but actively shaping our future as a team. By making decisions that build both confidence and readiness for bold moves, we set ourselves up to capitalize on opportunities as soon as they arise, no matter how the market shifts.",
+          "id": "M4_R2_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Luna Holmes",
+          "message": "I strongly believe real estate gives us the best mix of steady returns and visible progress we can all celebrate—especially after last quarter’s volatility, it feels right to focus on rebuilding confidence and unity. While I appreciate the excitement that stocks bring, right now I think our team thrives most when we can share tangible wins and keep momentum high, setting the stage for bolder moves when the timing’s right. Bonds and cash are steady, but I don’t see them offering enough energy or upside to keep us inspired this quarter.",
+          "id": "M4_R2_19",
+          "act_type": "Justify",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Luna, I really appreciate how you’ve emphasized the importance of steady returns and visible progress for our team’s confidence and unity—especially after last quarter’s volatility, that focus feels exactly right. Your point about setting the stage for future bold moves by keeping our momentum high now is spot-on, and it highlights why real estate stands out as the asset that best supports both our immediate motivation and our long-term ambition. Let’s continue to make sure our choice this quarter keeps everyone inspired and ready for whatever opportunities come next.",
+          "id": "M4_R2_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Luna Holmes",
+          "message": "I appreciate that, Anaya. I also think it’s important we stay open to bold moves with stocks down the line—by focusing on real estate now, we’re building the confidence and unity that will make us even more ready for ambitious opportunities in the future. This balance between steady wins and future ambition really feels like the best way to keep our team motivated and adaptable as we grow.",
+          "id": "M4_R2_21",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I completely agree, Luna—by focusing on steady, visible wins with real estate now, we’re not only boosting our team’s confidence but also laying the groundwork for even bolder moves when the moment is right. Your point about maintaining adaptability and keeping future ambition in sight really captures the spirit that drives our growth. Let’s keep this balanced approach at the heart of our decision, so we stay both motivated and ready to seize new opportunities together.",
+          "id": "M4_R2_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Luna Holmes",
+          "message": "Absolutely—celebrating our steady progress now gives us a real sense of momentum and makes everyone even more excited to take on bigger risks when the time is right. By keeping our team energized and connected through visible wins, we’re setting ourselves up to embrace bold opportunities with even greater confidence in the future.",
+          "id": "M4_R2_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q4": {
+      "round_1": [
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Anaya Cooke My current thinking is that Real Estate appears most promising because I’m feeling most confident about real estate for this quarter because it’s consistently delivered steady, motivating returns for our team in this stable market—helping us celebrate visible progress and keep our momentum strong. While stocks are always tempting for their high upside (and honestly, I love a bold move!), the recent swings remind me that our team thrives on wins we can rally around together. Bonds and cash just don’t spark the same excitement or energy for growth. I want us to finish the year on a high note—real estate feels like the perfect blend of reliability and optimism to keep our spirits up and our foundation solid for whatever adventures come next!, though I'm interested in exploring all perspectives to refine our understanding. \n\nFor this round, let’s focus on reflecting together: which asset choices have most effectively supported our team’s confidence, unity, and momentum so far this year? I believe this is a great opportunity to synthesize what’s worked best for us—not just in terms of numbers, but in how each decision has shaped our motivation and culture. By sharing honestly and listening closely, we can deepen our understanding and set ourselves up for an even stronger finish. \n\nIMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.\n\nI encourage everyone to share any insights or experiences that might help us see things from a new angle—especially if there are factors I haven’t fully considered yet.",
+          "id": "M5_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Huw Dalton",
+          "message": "I genuinely feel that real estate has been our go-to for building steady confidence and unity—it’s given us those visible, celebratory wins that keep everyone upbeat and connected. At the same time, I can’t ignore how investing in stocks brought out a real sense of excitement and boldness in the group, even if the ride was a bit wild; it showed we’re willing to chase big goals together. For me, the best momentum has come from the mix—steady progress with real estate, but also those moments where we dared to go bold with stocks and really felt the team’s energy light up.",
+          "id": "M5_R1_2",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I really appreciate how you’ve captured the unique strengths of both real estate and stocks, Huw. It’s true—our steady real estate wins have given us something tangible to celebrate and build on, while those bold stock moves, even when unpredictable, brought out a spark and sense of shared adventure in the team. Your point about momentum coming from the mix is a great reminder that both stability and excitement have played a role in shaping our culture this year.",
+          "id": "M5_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Huw Dalton",
+          "message": "I think that’s exactly it—having both steady wins from real estate and the thrill of bold stock moves has made our journey feel dynamic and rewarding. It’s the combination that’s kept us engaged and motivated, and I believe being willing to shift gears when the timing feels right is what’s really set us apart this year.",
+          "id": "M5_R1_4",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I completely agree—our ability to adapt and shift gears when the moment calls for it has absolutely kept our journey dynamic and our team engaged. That blend of steady wins and bold moves has really set the tone for our culture, and I think recognizing when to lean into each approach is a real strength for us as we look to finish the year strong.",
+          "id": "M5_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Huw Dalton",
+          "message": "I completely agree—being able to read the moment and choose between stability and ambition has really given us a unique edge. As we wrap up the year, I think it’s worth asking ourselves which move—steady or bold—will best capture that spirit and keep our momentum high into the next chapter.",
+          "id": "M5_R1_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Maximillian Wise",
+          "message": "I completely agree that real estate has been the backbone of our confidence and unity this year—those visible, steady returns have kept our spirits high and given us plenty of reasons to celebrate together. At the same time, I have to admit that the bold move into stocks brought a real surge of excitement and showed how much energy we can create when we chase big opportunities as a team, even if it got bumpy. For me, the steady wins from real estate have been the most effective at keeping our momentum strong overall, but I love knowing we have the appetite to go bold when the timing feels right.",
+          "id": "M5_R1_7",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I appreciate how clearly you’ve captured the impact of both approaches, Maximillian. The steady, visible progress from real estate really has been the backbone of our team’s confidence, and your point about the excitement we felt when taking bold risks with stocks reminds me how important it is to keep that spirit alive. I agree—knowing we can rally around steady wins, but also aren’t afraid to go bold when the time is right, gives us a strong foundation and the flexibility to keep building momentum together.",
+          "id": "M5_R1_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Maximillian Wise",
+          "message": "I really appreciate how you’ve emphasized the importance of keeping both steady progress and bold ambition alive in our culture. I think the real strength comes from our willingness to read the moment and choose the approach that best fits the team’s energy and needs—sometimes that’s celebrating a reliable win, other times it’s taking a calculated leap. If we keep leaning into that awareness, I’m confident we’ll not only finish this year strong but set ourselves up for even bigger wins ahead.",
+          "id": "M5_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I couldn’t agree more—our ability to sense what the team needs in the moment and align our approach accordingly has really been a driving force behind our success this year. That awareness, and our willingness to celebrate both reliable wins and bold leaps, is what gives us staying power and keeps our culture vibrant. As we move forward, I want us to keep leaning into that flexibility so we’re always ready to seize the right opportunity together.",
+          "id": "M5_R1_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Maximillian Wise",
+          "message": "I completely agree—staying flexible and in tune with the team’s energy is what’s helped us bounce back stronger after challenges and really celebrate our progress together. For this quarter, I think leaning into that steady momentum with real estate will give us another visible win to rally around, while still keeping our bold spirit ready for when the next big opportunity comes along.",
+          "id": "M5_R1_11",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Rosie Trujillo",
+          "message": "I really feel that real estate has given us the kind of steady, visible progress that keeps our energy high and makes every win feel like a team celebration. Those moments where we all get to cheer for a tangible result have done wonders for our confidence and connection. While I love the thrill that stocks brought—even with the ups and downs—it’s the reliable wins from real estate that have truly helped us build momentum and keep everyone inspired quarter after quarter.",
+          "id": "M5_R1_12",
+          "act_type": "Justify",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Rosie, I really appreciate how you’ve highlighted the way real estate has turned our wins into true team celebrations—those tangible results really have been a huge boost for our confidence and connection. Your point about the thrill of stocks is spot on too, but I agree that it’s the steady, reliable progress from real estate that’s kept our energy high and helped us build lasting momentum. This perspective is a great reminder of how much our culture thrives on visible, shared achievements.",
+          "id": "M5_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Rosie Trujillo",
+          "message": "I completely agree—those shared, visible achievements really have been the glue for our team’s energy and trust. What excites me most is that by building this strong foundation with real estate, we’re actually making it easier to take smart, bold leaps together in the future because we know we can celebrate and regroup as a team no matter what.",
+          "id": "M5_R1_14",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I love how you’ve framed it, Rosie—the visible wins from real estate really have been the glue for our team, and I think you’re absolutely right that building this strong foundation now gives us the freedom to take bigger, smarter risks together down the line. It’s inspiring to see how our approach to steady progress has actually fueled our appetite for bold moves, knowing we have the unity and trust to celebrate or regroup as a team, no matter what.",
+          "id": "M5_R1_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Rosie Trujillo",
+          "message": "I think that’s exactly it—real estate has helped us create a culture where every win pulls us closer together and gives us the confidence to be bold when new opportunities come up. By finishing the year with another visible, steady win, we’ll keep that positive momentum rolling and be even more ready to chase bigger goals as a team next year.",
+          "id": "M5_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Luna Holmes",
+          "message": "I absolutely agree that real estate has been the backbone of our team’s momentum this year—the steady, visible wins have given us so many reasons to celebrate together and really kept our spirits high. While the excitement from our bold move into stocks definitely sparked something special, it was the reliability of real estate that helped us regroup and rally as a team when things got rocky. For me, those tangible, shared successes have been the key to building our confidence and keeping our culture vibrant, so I believe leaning into real estate again will help us finish the year on the strongest possible note.",
+          "id": "M5_R1_17",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Luna, I really appreciate how you’ve captured the way real estate has anchored our momentum and kept our culture vibrant—it’s clear those steady, shared wins have made a lasting impact on our team’s confidence and spirit. Your point about real estate helping us regroup after the volatility of stocks is especially valuable, and I agree that leaning into what’s worked best will set us up for a strong finish. This kind of clarity about what motivates and unifies us is exactly what we need as we make our final decision for the year.",
+          "id": "M5_R1_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Luna Holmes",
+          "message": "I appreciate that, and I think it’s worth emphasizing how our team’s best moments have come from celebrating those steady wins together—real estate has really given us something to rally around and build lasting confidence. By finishing the year with another visible, shared achievement, I believe we’ll carry that energy and unity forward, setting us up for even bigger, bolder moves next year.",
+          "id": "M5_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I completely agree, Luna—those steady wins we’ve celebrated together have really become the heartbeat of our team’s energy and confidence. By focusing on another visible, shared achievement this quarter, we’re not just finishing strong—we’re laying the groundwork for even bigger, more ambitious moves next year. This clarity about what truly rallies and inspires us is exactly what will keep our momentum going.",
+          "id": "M5_R1_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Luna Holmes",
+          "message": "I completely agree, and I think what’s really powerful is how these steady wins with real estate have not only unified us but also built the trust and energy we’ll need to confidently take on bigger risks together down the line. By closing out the year with another visible success, we’re strengthening the foundation that makes our team resilient, adaptable, and ready for whatever opportunities come next.",
+          "id": "M5_R1_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Gabrielle Johnson",
+          "message": "I completely agree with what’s been shared—real estate has consistently given us those tangible, motivating wins that everyone can rally around, and I’ve really seen how that’s kept our team confident, upbeat, and connected. While the excitement from stocks definitely brought a special spark, it was the steady progress from real estate that helped us regroup and keep our momentum high after any setbacks. For me, celebrating these shared achievements together has been the key to our culture, and I believe leaning into real estate again will help us finish the year strong and set a positive tone for next year’s bold moves.",
+          "id": "M5_R1_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "Gabrielle, I really appreciate how you’ve summed up the impact of real estate on our team’s confidence and connection—those tangible, motivating wins have truly been at the heart of our culture this year. Your point about steady progress helping us regroup after setbacks is a great reminder of how resilience and celebration go hand in hand. I agree that leaning into what’s worked best will help us finish strong and set the stage for even bolder opportunities together next year.",
+          "id": "M5_R1_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Gabrielle Johnson",
+          "message": "I really appreciate that, Anaya. I think what’s made our team so strong is how we’ve used those steady real estate wins not just to celebrate, but to build the trust and energy we’ll need for bigger risks down the line. By closing out the year with another visible success, we’re reinforcing the foundation that makes us resilient and ready for whatever ambitious opportunities come next.",
+          "id": "M5_R1_24",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Anaya Cooke(CEO)",
+          "message": "I couldn’t agree more, Gabrielle—using those steady real estate wins to build trust and energy has really set us up for bigger risks and opportunities ahead. By closing out the year with another visible success, we’re not just celebrating the present—we’re actively strengthening the foundation that will let us take on even more ambitious goals together in the future. This kind of clarity about what fuels our resilience is exactly what will keep our momentum growing.",
+          "id": "M5_R1_25",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Gabrielle Johnson",
+          "message": "Absolutely, Anaya. I think having this shared clarity about what drives our resilience and motivation makes it so much easier for everyone to get behind the decision—real estate has given us the confidence and unity to celebrate now and dream bigger for the future. By finishing the year with another steady, visible win, we’re not just ending strong—we’re making sure our team is energized and fully aligned for whatever comes next.",
+          "id": "M5_R1_26",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    }
+  },
+  "company": {
+    "CEO": {
+      "name": "Anaya Cooke",
+      "mbti": "ESFP"
+    },
+    "shareholders": [
+      {
+        "name": "Rosie Trujillo",
+        "mbti": "ESFP"
+      },
+      {
+        "name": "Maximillian Wise",
+        "mbti": "ESFP"
+      },
+      {
+        "name": "Luna Holmes",
+        "mbti": "ESFP"
+      },
+      {
+        "name": "Huw Dalton",
+        "mbti": "ESFP"
+      },
+      {
+        "name": "Gabrielle Johnson",
+        "mbti": "ESFP"
+      }
+    ]
+  }
+}

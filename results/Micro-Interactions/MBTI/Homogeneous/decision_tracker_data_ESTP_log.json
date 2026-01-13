@@ -1,0 +1,1302 @@
+{
+  "discussion_log": {
+    "annual_budget_year1": {
+      "round_1": [
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "Hafsa Brady My current thinking is that Option C appears most promising because I’m all about making the most of our capital, especially in a stable, predictable market like this. Going all in with an even distribution keeps things exciting but not reckless—it lets us ride any steady growth without overexposing ourselves to a single quarter. I prefer to take calculated risks that maximize our upside, and Option C gives us full participation without getting too wild. It’s bold, but not impulsive, and matches my style of seizing opportunity while keeping things balanced across the year, though I'm interested in exploring all perspectives to refine our understanding. For this round, let’s focus on assessing each budget allocation strategy in the context of our current stable market—specifically, the risks, opportunities, and reasoning behind each option. I encourage everyone to share their initial thoughts so we can build a well-rounded understanding together. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Option A', 'Option B', 'Option C', 'Option D'. Please keep all discussion focused on evaluating these specific options. I’m looking forward to hearing any insights that might challenge or strengthen my initial view.",
+          "id": "M1_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Umar Gentry",
+          "message": "I see Option C as the most effective way to maximize our growth potential in this environment—it keeps our capital fully engaged across all quarters, ensuring we don’t miss out on steady returns. Option A and B feel too conservative for the predictability we’re seeing; holding back half our funds seems like a missed opportunity. Option D is interesting for its increasing allocation, but I prefer the consistency and simplicity of an even spread when market conditions aren’t volatile.",
+          "id": "M1_R1_2",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "Umar, I appreciate your focus on keeping our capital fully engaged and your reasoning about not missing out on steady returns in this stable environment. You’ve highlighted the value of consistency and simplicity in Option C, which matches my own thinking—especially when volatility isn’t a major concern. Your comparison with the more conservative approaches also helps sharpen our understanding of what we might be leaving on the table if we don’t fully deploy our resources.",
+          "id": "M1_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Umar Gentry",
+          "message": "I appreciate that, Hafsa. I think it’s also worth emphasizing how Option C’s simplicity gives us consistent exposure without trying to time the market, which feels unnecessary given current stability. Compared to Option D, I see less risk of missing steady returns by not holding back capital for later quarters—so I’m still leaning toward the even, all-in approach for this year.",
+          "id": "M1_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I agree, Umar—the simplicity of Option C means we’re not trying to outsmart a market that isn’t throwing us curveballs. Your point about reducing the risk of missing steady returns by avoiding delayed allocations is spot on. It’s a straightforward approach that lets us capture consistent gains without unnecessary complexity.",
+          "id": "M1_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Philippa Keller",
+          "message": "I’m drawn to Option C because it lets us fully participate in every quarter, which feels right given how steady the current market is—no need to hold back when the environment’s not throwing surprises. I get why Options A and B might appeal to those who are more cautious, but in this context, they seem like we’d be leaving potential gains on the table. Option D is bold, but I’d rather not wait to ramp up our exposure when we can ride the market’s consistency from the get-go.",
+          "id": "M1_R1_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "Philippa, I appreciate how you’ve captured the spirit of taking advantage of a steady market by not holding back unnecessarily—your point about leaving gains on the table with Options A and B really resonates. I also agree that waiting to ramp up exposure like in Option D doesn’t make sense when we can benefit from consistency right away. Your comments help solidify the logic for a fully engaged, evenly distributed approach this year.",
+          "id": "M1_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Philippa Keller",
+          "message": "I appreciate that, Hafsa. I also think it’s important to highlight that by fully engaging from the start with Option C, we’re not only maximizing returns but also keeping things straightforward—no second-guessing or trying to time the market. In a stable year like this, that kind of decisive action gives us momentum and keeps us focused on growth rather than hesitation.",
+          "id": "M1_R1_8",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "Philippa, I think you’ve nailed an important advantage—by committing fully from the outset, we avoid the distraction of constantly questioning our timing and can channel our energy into executing our strategy. That decisiveness is especially valuable in a steady environment, and I agree it helps us build momentum and confidence as a team. Your insight reinforces why a straightforward, all-in approach is compelling for this year.",
+          "id": "M1_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Larissa Riggs",
+          "message": "I agree with the logic that in a stable market like this, Option C gives us the perfect balance—putting all our capital to work evenly means we’re not missing out on any quarter’s potential, and we’re not overcomplicating things by trying to outguess the market. While Option D is tempting for its aggressiveness, I think spreading our investments evenly keeps us nimble and reduces the risk of being caught off guard if anything shifts. I’m all for decisive action, and Option C lets us be bold without being reckless.",
+          "id": "M1_R1_10",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "Larissa, I appreciate your emphasis on staying nimble and not overcomplicating things—especially since a stable market doesn’t call for aggressive timing plays. Your point about Option C striking the right balance between boldness and caution really resonates with me. I agree that keeping all our capital working evenly lets us act decisively without exposing ourselves to unnecessary surprises.",
+          "id": "M1_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Larissa Riggs",
+          "message": "I appreciate that, Hafsa. I’d add that by keeping our allocations steady with Option C, we’re also setting ourselves up to quickly pivot if the market shifts—since we’re not locked into a single aggressive ramp-up or holding back capital. That flexibility is key for staying responsive and maximizing our advantage in a stable but still dynamic environment.",
+          "id": "M1_R1_12",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "Larissa, I think you’ve identified a key strategic advantage—by staying fully allocated and evenly spread, we’re not tying ourselves to any rigid plan that could limit our responsiveness. That flexibility to adapt if conditions shift is crucial, even in a stable market, and it makes Option C even more compelling as a foundation for our first year’s strategy.",
+          "id": "M1_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Dawson Brock",
+          "message": "I’m fully on board with the logic behind Option C—when the market’s this steady, I see no reason to hold back our capital or overcomplicate things. Deploying 100% evenly across all quarters keeps us active and lets us capture every bit of growth, without getting bogged down in unnecessary caution or timing games. For me, it’s about making the most of every opportunity this year and building momentum right out of the gate.",
+          "id": "M1_R1_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "Dawson, I appreciate your focus on keeping things active and straightforward—your point about avoiding unnecessary caution and timing games really resonates. By deploying 100% evenly, we’re putting ourselves in the best position to capitalize on every steady gain this market offers, and I agree that building momentum from the start is key to setting the tone for our company’s growth this year. Your perspective adds to the strong case for decisive, full engagement with Option C.",
+          "id": "M1_R1_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Erica Mack",
+          "message": "I agree with the points raised so far—Option C really does strike that sweet spot between making the most of a steady market and not overcomplicating our strategy. By putting all our capital to work evenly, we’re maximizing our upside without exposing ourselves to unnecessary risk or hesitation. In a stable year like this, I think the best move is to stay fully engaged and ready to adapt if anything unexpected comes up.",
+          "id": "M1_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "Erica, I appreciate how you’ve highlighted the balance between maximizing upside and keeping our approach straightforward—your point about avoiding unnecessary hesitation is especially relevant in a stable environment like this. Staying fully engaged while maintaining the flexibility to adapt if conditions change really captures the essence of what makes Option C compelling. Your insight helps round out our collective understanding of both the strategic and practical benefits of this approach.",
+          "id": "M1_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Erica Mack",
+          "message": "I appreciate that, Hafsa. I’d add that by committing to Option C, we’re also setting a strong precedent for decisive teamwork and shared confidence in our strategy right from the start. That kind of collective momentum can be just as important as the numbers when we’re building a new company together.",
+          "id": "M1_R1_18",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "Erica, you’ve raised a great point about the power of setting a precedent for decisive teamwork and shared confidence. Beyond the numbers, building a culture of bold, unified action can give us an edge as we grow together. That collective momentum is exactly the kind of energy I want to see driving our company forward this year.",
+          "id": "M1_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Erica Mack",
+          "message": "I completely agree, Hafsa. I think that by choosing Option C, we’re not just making a smart investment move—we’re also defining ourselves as a team that’s ready to act boldly and trust each other’s judgment. That mindset will set the tone for how we tackle challenges and opportunities in the years ahead.",
+          "id": "M1_R1_20",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q1": {
+      "round_1": [
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "Hafsa Brady My current thinking is that Stocks appears most promising because I’m naturally drawn to bold moves that can maximize our upside, especially when the market is stable and predictable—this is the perfect environment to take calculated risks. Stocks offer the highest potential return, and with volatility low, the downside feels manageable this quarter. Real estate is also appealing for its steady appreciation, but it lacks the dynamism I’m looking for as we launch our investment strategy. Bonds and cash feel too conservative right now; I want to set a confident, energetic tone, and stocks align best with that vision, though I'm interested in exploring all perspectives to refine our understanding. \n\nFor this round, let’s focus on a comparative analysis of each asset’s risk-return profile in this stable market, aiming to establish a shared baseline understanding of their potential performance this quarter. I encourage everyone to contribute concrete insights about how these assets align with our current needs and market conditions, so we can build a well-rounded foundation for our decision. \n\nIMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I invite you all to share any perspectives or considerations that might challenge or enhance our collective understanding as we move forward.",
+          "id": "M2_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Philippa Keller",
+          "message": "I see stocks as offering the best combination of excitement and upside in this steady environment—the risks are lower than usual, so the potential rewards really stand out. Real estate is a solid contender for steady growth, but it doesn’t have quite the same energy or return potential as stocks right now. Bonds and cash feel too safe for our first move; I’d rather we make a statement and set the tone for confident, growth-oriented investing from the start.",
+          "id": "M2_R1_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I appreciate your emphasis on both the excitement and upside potential of stocks in this environment—your point about lower-than-usual risks really sharpens the case for taking a confident first step. I also agree that while real estate is steady, it doesn’t quite match the dynamism we’re after as we establish our investment identity. Your comments help clarify why a bold, growth-oriented move makes sense this quarter.",
+          "id": "M2_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Philippa Keller",
+          "message": "I agree that our first investment isn’t just about returns—it’s also about setting the tone for how we approach opportunities as a team. Choosing stocks now signals that we’re confident and willing to embrace smart risks, which can build momentum and collective confidence for future decisions.",
+          "id": "M2_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I like how you’ve linked our investment decision to building team confidence and momentum—it’s not just about the numbers, but about how we define ourselves as a company from the outset. Setting a bold tone with stocks can absolutely shape our culture and signal our willingness to pursue smart risks together. This perspective adds important depth to our baseline understanding for this quarter’s choice.",
+          "id": "M2_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Philippa Keller",
+          "message": "Building on that, I think it’s also worth considering how successfully navigating the risks of stocks in a stable market could give us practical experience and strengthen our ability to handle more volatile conditions down the line. By starting with a bold but calculated move, we’re not only aiming for strong returns, but also developing the team’s confidence and skillset for whatever challenges come next.",
+          "id": "M2_R1_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "That’s a great point—by choosing stocks now, we’re not just chasing returns; we’re actively building our team’s experience in navigating calculated risk, which will pay dividends when the market inevitably gets bumpier. This approach lets us grow both our capital and our collective skillset, setting us up to adapt confidently as conditions evolve.",
+          "id": "M2_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Dawson Brock",
+          "message": "I see stocks as the best fit this quarter because the stable market means we can go after higher returns without facing the kind of volatility that would normally give me pause. Cash and bonds feel too defensive for our first move—we’d be missing out on real momentum. Real estate is steady, but it doesn’t offer the same agility or upside as stocks, and I think making a bold choice now will show we’re here to compete and grow from day one.",
+          "id": "M2_R1_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I agree—your focus on the rare chance to pursue higher returns in a stable market is spot on, and I appreciate how you’ve tied our choice to both agility and making a statement as a new company. By favoring stocks now, we’re not just aiming for growth; we’re also positioning ourselves as proactive and competitive from the outset, which is exactly the energy I want to see drive us forward.",
+          "id": "M2_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Dawson Brock",
+          "message": "I appreciate your point about setting a proactive tone—what excites me most is that by choosing stocks now, we’re not just committing to growth, but also building the kind of flexibility and confidence we’ll need to pivot quickly if the market shifts later on. This decision isn’t just about this quarter; it’s about developing a mindset that keeps us ahead of the curve as a team.",
+          "id": "M2_R1_10",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I really like how you’ve framed this—not just as a one-off decision, but as a way to develop the kind of adaptability and confidence we’ll need for whatever comes next. By starting with stocks, we’re making a statement about being ready to move fast and adjust as the environment changes, which is exactly the mindset I want us to cultivate from the very beginning.",
+          "id": "M2_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Dawson Brock",
+          "message": "I completely agree—by establishing this mindset now, we’re not just reacting to current conditions; we’re actively shaping a culture that’s comfortable taking calculated risks and learning from them. That kind of agility will be our edge, both in steady markets and when things get more unpredictable, ensuring we’re always positioned to capitalize on new opportunities.",
+          "id": "M2_R1_12",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Umar Gentry",
+          "message": "I see stocks as offering the best risk-return balance this quarter—stable market conditions keep volatility in check, so the upside is worth pursuing, especially as we look to build early momentum. Real estate is a reliable backup for steady growth, but it doesn’t provide the same potential for outsized gains or the dynamic start I think we need. Bonds and cash are simply too conservative right now; with risk so manageable, I’d rather we seize the opportunity to get ahead.",
+          "id": "M2_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I appreciate how you’ve weighed the risk-return profiles in light of this quarter’s stable market—your point about stocks offering the best chance to get ahead while volatility is low really resonates. I also agree that real estate, while steady, doesn’t provide the same dynamic boost or upside we’re looking for, and your clear dismissal of bonds and cash as too conservative helps sharpen our collective focus on growth. Your analysis adds valuable clarity as we shape our decision.",
+          "id": "M2_R1_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Umar Gentry",
+          "message": "I appreciate your feedback and want to underscore that our shared appetite for growth is only justified because the current market’s predictability keeps risk in check—this isn’t just boldness for its own sake. By being decisive now, we’re not only maximizing returns, but also demonstrating disciplined risk-taking that’s tailored to these specific conditions.",
+          "id": "M2_R1_15",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I completely agree—your emphasis on disciplined risk-taking is crucial. Our confidence in choosing stocks isn’t about chasing returns recklessly, but about leveraging the unique stability of this market to maximize growth while keeping risk in check. This kind of strategic decisiveness is exactly what will set us apart and position us for long-term success as we move forward.",
+          "id": "M2_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Larissa Riggs",
+          "message": "I see stocks as offering the best mix of upside and energy for us right now—stable markets mean the usual risks are dialed down, so we can go after higher returns without feeling reckless. Real estate is definitely steady and has its appeal, but it feels a bit slow for our first move; I want to keep us agile and ready to pivot if things change. Bonds and cash just don’t excite me in this environment—they’re too defensive when we have a real chance to set the pace for growth.",
+          "id": "M2_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I appreciate your focus on both upside and agility—your point about stable markets dialing down the usual risks really sharpens our collective case for stocks. I also share your view that real estate, while steady, doesn’t quite set the energetic, adaptable pace we want for our launch. Your comments help clarify why a confident, growth-oriented move is the right way to set the tone this quarter.",
+          "id": "M2_R1_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Larissa Riggs",
+          "message": "I appreciate how you’ve emphasized adaptability alongside growth—it’s that combination that really sets stocks apart this quarter. By choosing stocks, we’re not just aiming for strong returns, but making sure we stay nimble enough to respond if the market shifts, which feels like the smartest way to build both confidence and momentum from the start.",
+          "id": "M2_R1_19",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I agree—your emphasis on adaptability as a complement to growth really resonates. Choosing stocks isn’t just about chasing returns; it’s about positioning ourselves to stay nimble and ready to pivot if conditions change, which is exactly the kind of confident, forward-thinking approach I want us to embody from the outset. This perspective deepens our shared understanding of why stocks stand out this quarter.",
+          "id": "M2_R1_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Larissa Riggs",
+          "message": "I completely agree—by prioritizing stocks in this stable market, we’re not just setting ourselves up for immediate gains but also building the kind of resilient, quick-thinking culture that will help us weather any surprises down the line. This approach keeps us both ambitious and prepared, which feels like the ideal foundation for our company’s growth.",
+          "id": "M2_R1_21",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Erica Mack",
+          "message": "I’m fully aligned with the thinking so far—this stable market gives us the perfect window to go after higher returns with stocks without taking on wild risk. Real estate is reliable, but it doesn’t have the same energy or upside right now, and bonds or cash would mean missing out on momentum when conditions are this favorable. Starting with stocks not only maximizes our growth potential but also sets a bold, confident tone for the team, which I think is exactly what we need as we launch.",
+          "id": "M2_R1_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I appreciate how you’ve distilled the key elements—growth, momentum, and culture—into your analysis. Your point about leveraging this stable market to maximize returns while building a bold, confident team identity really sharpens our collective rationale for leading with stocks. This perspective helps solidify why stocks stand out as the clear frontrunner for our first move.",
+          "id": "M2_R1_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Erica Mack",
+          "message": "I appreciate your focus on culture as well as returns—it’s easy to overlook how an energetic, unified start can actually strengthen our team’s ability to handle tougher markets down the line. By choosing stocks now, we’re not just maximizing this quarter’s opportunity; we’re also building the kind of confidence and adaptability that will serve us well when things inevitably get more unpredictable.",
+          "id": "M2_R1_24",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I completely agree—your insight about how an energetic, unified start can build the confidence and adaptability we’ll need in tougher markets is spot on. By choosing stocks now, we’re not just chasing immediate gains; we’re also investing in our ability to stay resilient and cohesive as a team, no matter how market conditions evolve. That’s exactly the kind of foundation I want us to establish from day one.",
+          "id": "M2_R1_25",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Erica Mack",
+          "message": "I completely agree—by starting with stocks, we’re not just making a statement for this quarter, but also laying the groundwork for a culture where we embrace smart risks and learn together. This approach encourages everyone to stay engaged, adapt quickly, and hold each other accountable, which I believe will keep us sharp and united as our company grows.",
+          "id": "M2_R1_26",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "Hafsa Brady My current thinking is that Stocks appears most promising because the group’s consensus and the multifaceted rationale for stocks—high potential returns, manageable risk in a stable market, and the opportunity to set a confident, agile team culture—make stocks the clear frontrunner. This decision isn’t just about maximizing growth, but also about shaping our company’s identity and building adaptability for the future. The discussion solidified my belief that a bold, strategic move now will pay dividends both financially and culturally as we move forward, though I'm interested in exploring all perspectives to refine our understanding. For this round, our focus is on identifying and stress-testing key risks and uncertainties for our top asset choices, especially stocks, so we can surface any concerns or blind spots and clarify the risk landscape before making a final decision. I encourage everyone to challenge assumptions, share any reservations, and help us build a more robust understanding by integrating diverse viewpoints. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I invite you all to share any insights or concerns that might enhance our collective judgment and ensure we’re not overlooking critical factors.",
+          "id": "M2_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Philippa Keller",
+          "message": "I’m all for the upside of stocks in this stable market, but let’s not kid ourselves—if there’s even a temporary market dip, we could lose momentum and rattle team confidence right out of the gate. I think it’s worth asking: are we prepared to ride out a bumpy quarter if things don’t go as smoothly as we expect, or do we have a plan to keep morale and focus sharp if returns fall short?",
+          "id": "M2_R2_2",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "That’s a sharp observation, Philippa. Even in a stable market, we can’t ignore the possibility of short-term volatility, and I agree that being prepared to manage team morale and confidence is crucial if we hit a rough patch. I’d like us to discuss what specific steps we could put in place to maintain focus and adaptability if stocks underperform—let’s make sure we’re ready for both the upside and the bumps.",
+          "id": "M2_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Philippa Keller",
+          "message": "I think we should agree up front that if stocks underperform, we treat it as a learning opportunity—maybe set quick debriefs after each quarter to share what worked and what didn’t, so we stay nimble and positive. Also, keeping communication open and celebrating small wins, even if they aren’t huge gains, can help maintain momentum and remind everyone that a single quarter doesn’t define our long-term trajectory.",
+          "id": "M2_R2_4",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I really like your approach, Philippa—framing setbacks as learning opportunities and building in regular debriefs will help us stay agile and keep morale high, even if results fluctuate. Celebrating incremental wins and fostering transparent communication are spot-on ways to reinforce a growth mindset and ensure we don’t lose sight of our long-term goals. This kind of proactive planning makes me even more confident that we can handle whatever comes our way if we go with stocks.",
+          "id": "M2_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Dawson Brock",
+          "message": "I’m all in on stocks for the upside, but I want to call out that even in a stable market, there’s always the risk of an unexpected event—a geopolitical shock or surprise earnings miss could trigger a quick market dip. We need to be ready to move fast if the environment shifts, so I’d suggest we stay alert for early warning signs and keep our process flexible enough to pivot if needed.",
+          "id": "M2_R2_6",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "That’s a great call-out, Dawson—no market is immune to surprises, and I agree that we need to stay sharp for any early indicators that things are shifting. Building flexibility into our decision process will help us react quickly if needed, and I’m in favor of setting up a simple system to monitor for red flags each quarter. Let’s keep this mindset front and center so we’re not caught off guard and can pivot confidently if the situation demands it.",
+          "id": "M2_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Dawson Brock",
+          "message": "I appreciate your openness to building that monitoring system, Hafsa. If we’re proactive in tracking key indicators and keep our decision process nimble, we’ll be able to act decisively if the market shifts—turning potential setbacks into opportunities. I’m confident that this approach will help us capture upside while staying protected against surprises.",
+          "id": "M2_R2_8",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I appreciate your confidence, Dawson, and I share your belief that staying nimble and proactive will be key to maximizing our upside while protecting against surprises. By committing to regular monitoring and a flexible process, we’re building the kind of disciplined, adaptable culture that can turn even unexpected challenges into opportunities for growth. Let’s make this a core part of our approach as we move forward with stocks.",
+          "id": "M2_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Erica Mack",
+          "message": "I’m still firmly in favor of stocks for the reasons we’ve all discussed, but I want to stress-test one risk: even in a stable market, sector-specific shocks or sudden negative news can hit stock values quickly. Are we confident that our team can react fast enough if something unexpected happens, or could we get caught flat-footed? I think it’s worth agreeing now on how we’ll spot and respond to red flags so we’re not just bold, but also smart and prepared.",
+          "id": "M2_R2_10",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "That’s an excellent point, Erica. I agree that being bold only works if we’re also ready to act fast when the unexpected hits—so let’s lay out a clear process for monitoring sector news and setting up rapid response protocols. By agreeing now on how we’ll spot red flags and make decisions quickly, we’ll make sure our boldness is always matched by smart, disciplined action.",
+          "id": "M2_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Erica Mack",
+          "message": "I appreciate that, Hafsa. To make this actionable, I suggest we define what specific red flags we’ll monitor—like sudden sector news, earnings surprises, or regulatory changes—and agree on a simple protocol for immediate team check-ins if any of those pop up. That way, we don’t just talk about being nimble—we actually build it into our process from day one.",
+          "id": "M2_R2_12",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I really like how you’ve made this concrete, Erica—defining exactly which red flags we’ll track and committing to immediate team check-ins will turn our talk about agility into real, built-in discipline. This approach ensures we’re not just hoping for the best, but actively managing risk and staying ready to pivot if the situation changes. Let’s agree as a team on the key indicators to monitor so we’re all aligned and confident in our response process.",
+          "id": "M2_R2_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Erica Mack",
+          "message": "I agree—if we’re clear as a team on which indicators truly matter, we’ll avoid confusion and react faster when it counts. I suggest we prioritize things like major sector news, significant earnings reports, and any abrupt market sentiment shifts, so we’re not chasing noise but staying focused on what could actually impact our stock position.",
+          "id": "M2_R2_14",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I agree, Erica—prioritizing key indicators like major sector news, significant earnings reports, and real shifts in market sentiment will keep us focused and responsive without getting lost in background noise. By concentrating on signals that actually move the needle, we’ll be able to act quickly and confidently if conditions change. This level of clarity and discipline is exactly what will make our bold approach with stocks both smart and sustainable.",
+          "id": "M2_R2_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Umar Gentry",
+          "message": "I want to highlight that, even in a stable market, stocks can be hit by sudden, unpredictable shocks—think abrupt policy changes or a surprise earnings miss—that could temporarily erase gains or even put us in the red for the quarter. While I’m still convinced stocks offer the best upside, it’s important we acknowledge that these risks are real and potentially more immediate than the slower-moving risks of real estate or bonds. I’d suggest we agree upfront that if we do see a sharp dip, we treat it as a calculated risk, stay disciplined, and avoid knee-jerk reactions—otherwise, we risk undermining the very momentum and confidence we’re trying to build.",
+          "id": "M2_R2_16",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I appreciate you surfacing this, Umar—being upfront about the reality of sudden shocks is key to keeping our strategy grounded. I fully agree that if we hit a sharp dip, we need to treat it as a calculated risk, stick to our game plan, and avoid any impulsive moves that could shake our confidence or derail our momentum. Let’s make discipline and clear communication our default response, so we’re building resilience as well as returns.",
+          "id": "M2_R2_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Umar Gentry",
+          "message": "I appreciate your commitment to discipline, Hafsa. To make this actionable, I suggest we clarify what would actually trigger a review—maybe set clear thresholds or specific signals, so we’re not just reacting emotionally but making decisions based on agreed criteria. That way, we combine resilience with the proactive monitoring others have raised, and ensure our response is both confident and grounded.",
+          "id": "M2_R2_18",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I think that’s a smart, actionable step, Umar. If we agree now on specific thresholds or signals—like a defined percentage drop in value, major negative news, or a sharp sector shift—we’ll have a clear, objective basis for when to pause and review, rather than acting on gut reactions. This approach will help us stay both resilient and decisive, and I’d like to hear from the team which indicators or thresholds you’d consider most effective for keeping us on track.",
+          "id": "M2_R2_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Umar Gentry",
+          "message": "I’d propose we set a threshold like a 10% drop in our stock position’s value within the quarter or a major, credible negative news event as triggers for immediate review. This aligns with Erica’s focus on sector news and Dawson’s emphasis on early warning signs, ensuring we’re not overreacting to minor fluctuations but are ready to act if the fundamentals shift.",
+          "id": "M2_R2_20",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I like how you’ve brought together the team’s earlier ideas into a clear, actionable trigger system, Umar. Setting a 10% drop or major negative news as our review points gives us both discipline and flexibility—it’s exactly the kind of practical, team-driven risk management that will keep us sharp. Let’s make sure everyone’s comfortable with these thresholds, and if so, we’ll have a solid process to back up our bold strategy with stocks.",
+          "id": "M2_R2_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Larissa Riggs",
+          "message": "I completely agree that stocks carry the risk of sudden dips—even in a stable market—but I actually see that as a chance for us to test our team’s agility and build real resilience early on. If we’re proactive about defining our review triggers and commit to treating any short-term setbacks as learning moments, we turn risk into an advantage instead of something to fear. I’m all for bold moves, as long as we stay sharp, communicate openly, and act fast when it counts—let’s make sure our process keeps us both adventurous and disciplined.",
+          "id": "M2_R2_22",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I really appreciate your take, Larissa—seeing risk as an opportunity to build agility and resilience is exactly the mindset that will set us apart. By proactively defining our review triggers and treating setbacks as learning moments, we not only protect ourselves but actually gain strength from the process. Let’s commit to keeping that adventurous spirit balanced with sharp discipline so we’re ready to turn any challenge into a win for the team.",
+          "id": "M2_R2_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Larissa Riggs",
+          "message": "I appreciate that, Hafsa. I think if we’re intentional about reviewing our process after each quarter—celebrating what worked and quickly adapting where we missed—we’ll get stronger with every cycle. Turning risk into a tool for growth is what will help us stand out and keep the team energized, even when things get unpredictable.",
+          "id": "M2_R2_24",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I completely agree, Larissa—being deliberate about reviewing and adapting our process after each quarter will help us continuously sharpen our approach and keep the team energized. By treating risk as a tool for growth and making quick, honest adjustments, we’ll not only strengthen our results but also build a culture that thrives even when things get unpredictable. This mindset is exactly what will keep us ahead of the curve as we move forward.",
+          "id": "M2_R2_25",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q2": {
+      "round_1": [
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "Hafsa Brady My current thinking is that Stocks appears most promising because I’m drawn to stocks because, in a stable and predictable market like this, they’ve already proven to deliver the highest returns—20% last quarter is hard to ignore. I thrive on bold moves and seizing momentum, and stocks give us the best shot at meaningful growth without reckless risk, especially when volatility is low. Real estate is a solid fallback if we want to play it safer, but it just doesn’t have the same energy or upside. Bonds and cash are too conservative for my taste right now—they’d slow us down and miss the opportunity to build on our early success. I’m confident that sticking with stocks keeps us agile, ambitious, and in the best position to capitalize on this market, though I'm interested in exploring all perspectives to refine our understanding.\n\nFor this round, let’s focus on reviewing last quarter’s investment decision and performance—what key lessons can we draw, and does our experience validate sticking with stocks as our strategy in this stable market? I want to use this discussion to synthesize everyone’s insights, challenge our assumptions, and make sure we’re not missing any blind spots before we move forward. Let’s hear candidly from each of you about what worked, what could be improved, and whether our previous approach truly remains the best fit for Q2. \n\nIMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.\n\nI encourage you to share any perspectives or lessons that might sharpen our collective understanding, especially if you see risks or opportunities I haven’t fully considered yet.",
+          "id": "M3_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Dawson Brock",
+          "message": "Last quarter’s decision to go with stocks was spot on—the 20% return speaks for itself, and it’s clear that bold moves in a stable market pay off. I think the key lesson is that when conditions are this favorable, we shouldn’t hesitate to double down, as long as we keep our risk management sharp and stay alert for any signs of change. For me, sticking with stocks this quarter keeps us on the front foot and lets us keep building on our early momentum.",
+          "id": "M3_R1_2",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I appreciate your point, Dawson—our strong return last quarter definitely validates our bold approach, and I agree that momentum is key in this environment. Your emphasis on keeping risk management sharp and staying alert for any market shifts is spot on; it’s exactly the kind of discipline that keeps us agile and ready to pivot if conditions change. Let’s keep building on this energy while making sure we don’t get complacent.",
+          "id": "M3_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Dawson Brock",
+          "message": "I completely agree—maintaining discipline is what lets us keep pushing for high returns without getting blindsided. If we keep our eyes open for red flags and stay ready to pivot, there’s no reason not to keep leaning into stocks while the market’s in our favor. This approach lets us stay ambitious, but with the confidence that we can adapt fast if anything shifts.",
+          "id": "M3_R1_4",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "Absolutely, Dawson—discipline and readiness to pivot are what separate smart risk-taking from recklessness. Staying ambitious while keeping our eyes peeled for early warning signs means we can capture upside without leaving ourselves exposed. I want to make sure we’re all aligned on the triggers and signals we’ll monitor, so we’re prepared to act quickly if the market shifts.",
+          "id": "M3_R1_5",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Dawson Brock",
+          "message": "I think it’s smart to get specific about the triggers we’ll watch—like a sudden dip in the major indexes, unexpected negative news, or a 10% drop in our stock holdings. If we agree on those signals now, we’ll be able to react quickly and decisively, keeping our edge without second-guessing ourselves in the moment.",
+          "id": "M3_R1_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I like your thinking, Dawson—getting concrete about what signals we’ll act on, like a 10% drop or major negative news, will help us stay fast and decisive instead of scrambling when things get bumpy. Let’s make sure we clarify and document those triggers as a team so everyone’s on the same page and we’re ready to move if any red flags pop up.",
+          "id": "M3_R1_7",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Philippa Keller",
+          "message": "Last quarter’s 20% return from stocks really fired up the team and proved that calculated boldness pays off in a stable market. I think the biggest lesson is that when we’re clear about our risk controls and ready to treat any bumps as learning opportunities, there’s no reason to hold back—stocks keep us energized and moving forward. As long as we stay disciplined and keep our eyes open for any warning signs, I’m convinced sticking with stocks is still our best shot at driving real growth this quarter.",
+          "id": "M3_R1_8",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I completely agree, Philippa—the combination of clear risk controls and a growth mindset is what lets us take bold swings without losing our footing. Your point about treating bumps as learning opportunities is key; it keeps the team energized and adaptable, even if we hit turbulence. Let’s keep that balance front and center as we decide whether to double down on stocks this quarter.",
+          "id": "M3_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Philippa Keller",
+          "message": "I completely agree—when we keep that balance, we’re not just chasing upside, we’re building a team that thrives on challenges and grows stronger with every experience. That’s exactly the kind of culture I want to be part of, and I think it gives us a real edge over more cautious approaches like bonds or cash. As long as we stay sharp and keep learning, stocks are still the move that best fits our ambitions and the market we’re in.",
+          "id": "M3_R1_10",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I appreciate your focus on team culture, Philippa—it’s true that our willingness to embrace challenges and learn from every experience sets us apart from more cautious strategies. Staying sharp and open to growth not only drives performance, but also keeps the team motivated and resilient. As long as we maintain that mindset and our disciplined risk controls, I agree that stocks continue to align best with our ambitions in this stable market.",
+          "id": "M3_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Umar Gentry",
+          "message": "Last quarter’s results confirm that stocks are the right call when the market is stable and the upside is this strong—20% is exactly the kind of momentum we should be chasing. I agree with Dawson and Philippa: as long as we’re disciplined about our risk triggers and stay ready to pivot if conditions shift, there’s no reason to pull back now. For me, stocks remain the optimal choice for Q2, provided we keep our risk management protocols sharp and don’t get complacent.",
+          "id": "M3_R1_12",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I’m with you, Umar—the combination of momentum and disciplined risk management is what sets us up for continued success, but your reminder not to get complacent is crucial. Staying sharp on our protocols and ready to pivot if anything changes will keep us ahead of the curve. Let’s make sure we continue to challenge ourselves and refine our approach each quarter so we don’t miss any warning signs or new opportunities.",
+          "id": "M3_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Umar Gentry",
+          "message": "I completely agree—complacency is the real risk here, not the market itself. I think it’s smart to make regular, honest reassessment part of our process each quarter, so we catch any early signs of change and stay positioned to capture upside or pivot fast if needed. That discipline is what’ll keep us ahead and make sure we keep learning and improving as a team.",
+          "id": "M3_R1_14",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I completely agree, Umar—building regular, honest reassessment into our process is exactly how we’ll avoid complacency and stay ahead of any shifts in the market. That mindset not only protects our gains but also pushes us to keep learning and sharpening our edge as a team. Let’s make sure this discipline becomes a core part of every quarter’s review so we’re always ready to capture upside or pivot fast when needed.",
+          "id": "M3_R1_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Erica Mack",
+          "message": "I’m fully aligned with the momentum we’ve built—last quarter’s 20% return from stocks is exactly the kind of result that keeps me energized and confident in our approach, especially in a stable market like this. The biggest lesson for me is that bold, disciplined action pays off, but we can’t let early wins make us complacent—so I’m all for doubling down on stocks as long as we keep our risk triggers clear and stay ready to pivot if anything shifts. This way, we keep our edge sharp and our growth trajectory strong.",
+          "id": "M3_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I appreciate your energy and your focus on what really matters, Erica—bold, disciplined action is exactly what’s driving our results, but you’re absolutely right that we can’t let early wins lull us into complacency. Keeping our risk triggers front and center and staying ready to adapt is how we’ll maintain our edge and keep pushing our growth trajectory upward. Let’s make sure we keep this mindset strong as we move forward and continue building on our momentum.",
+          "id": "M3_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Erica Mack",
+          "message": "I appreciate that, and I think our discipline is what keeps bold moves from turning into reckless ones. If we keep pressure-testing our triggers and openly challenging our assumptions each quarter, we’ll be able to sustain this momentum without getting blindsided. I’m excited to see us keep raising the bar—staying bold, but never static.",
+          "id": "M3_R1_18",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I completely agree, Erica—our willingness to pressure-test our triggers and openly challenge our assumptions is what keeps us sharp and prevents boldness from tipping into recklessness. By making this kind of disciplined self-scrutiny part of our routine, we can keep driving strong results while staying agile and ready for whatever the market throws at us. Let’s keep pushing each other to raise the bar and ensure our bold strategy remains both smart and sustainable.",
+          "id": "M3_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Erica Mack",
+          "message": "I couldn’t agree more—making self-scrutiny routine doesn’t just keep us safe, it actually fuels our ability to outpace the market and spot new opportunities faster than more cautious players. If we keep that culture of open challenge and high standards alive, I’m confident we’ll keep setting the pace, not just following it.",
+          "id": "M3_R1_20",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Larissa Riggs",
+          "message": "Last quarter’s decision to go with stocks was exactly the kind of bold, high-energy move that fits this market and our team’s style—the 20% return proved that when conditions are steady, it pays to stay aggressive. What stands out to me is how our discipline around risk triggers kept things smart, not reckless, and I think doubling down on stocks makes sense as long as we keep that same sharp focus. If we stay proactive about reassessing our signals and don’t get complacent, I’m confident we can keep riding this momentum and adapt quickly if anything shifts.",
+          "id": "M3_R1_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I appreciate your focus on disciplined risk triggers and proactive reassessment, Larissa—those are exactly the habits that keep bold strategies smart and sustainable. Staying sharp and not letting complacency creep in will be key if we want to keep building on our momentum and adapt quickly to any changes. Let’s make sure we keep that sharp focus and open communication front and center as we decide whether to double down on stocks this quarter.",
+          "id": "M3_R1_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Larissa Riggs",
+          "message": "I completely agree—open, real-time communication is what lets us spot shifts early and make bold moves with confidence. If we keep pushing each other to flag potential risks and adapt on the fly, I’m convinced we’ll keep our edge sharp and our momentum strong. This mindset doesn’t just protect our gains—it actually positions us to seize new opportunities faster than anyone playing it safe.",
+          "id": "M3_R1_23",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I couldn’t agree more, Larissa—open, real-time communication is what lets us stay ahead of the curve and react quickly when the market shifts. By constantly flagging risks and adapting together, we’re not just protecting what we’ve built—we’re actually putting ourselves in the best position to spot and seize new opportunities before anyone else. Let’s keep that mindset at the core of our strategy as we move forward.",
+          "id": "M3_R1_24",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Larissa Riggs",
+          "message": "Absolutely—when we keep that mindset front and center, we’re not just reacting to change, we’re actually turning uncertainty into an advantage. The more we challenge each other to spot risks and think creatively, the more we’ll be able to capitalize on what others might miss. I’m excited to keep building on this approach and see how far it can take us this quarter.",
+          "id": "M3_R1_25",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q3": {
+      "round_1": [
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "Hafsa Brady My current thinking is that Stocks appears most promising because I’m drawn to stocks again because, even with last quarter’s dip, they’ve proven they can deliver the kind of high-impact growth that fits both my style and our company’s ambitions—especially in a stable, low-volatility market where the downside is manageable. Real estate is tempting for its steady returns, but it just doesn’t have the energy or upside to keep us on the front foot. Bonds and cash are just too safe for my taste right now; they’re not going to get us where we want to go. With clear risk triggers and a disciplined, agile approach, I’m confident that stocks give us the best shot at staying bold, adaptable, and ahead of the curve this quarter, though I'm interested in exploring all perspectives to refine our understanding.\n\nFor this round, let’s focus on reviewing our historical performance and pulling out the key lessons from our past investment results—what’s worked, what hasn’t, and how those outcomes should shape our thinking for this quarter. I want us to use this as a springboard for honest, energetic debate that helps us see the full picture, not just the highlights. By surfacing diverse insights, we can sharpen our collective judgment and make sure we’re learning from both our wins and setbacks.\n\nIMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.\n\nI invite everyone to share your takeaways from our previous quarters and how those experiences should inform our next move—especially if you see risks or opportunities I might not have fully considered.",
+          "id": "M4_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Philippa Keller",
+          "message": "Looking at our track record, stocks have clearly delivered the biggest upside and set the tone for bold, high-energy growth—even with last quarter’s dip, our overall momentum is still strong. The key lesson for me is that disciplined risk management and open communication let us ride out the bumps without losing our edge, so I see no reason to pull back now. Real estate is steady but just doesn’t have the same potential to push us forward, and bonds or cash would slow us down too much in this market.",
+          "id": "M4_R1_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I appreciate your focus on momentum and the way you’ve connected our biggest gains to the energy stocks bring to the table. Your point about disciplined risk management and open communication is spot on—those are what allow us to stay bold without getting blindsided. I agree that, as long as we keep those mechanisms sharp, we can keep leveraging stocks’ upside while staying agile if conditions shift.",
+          "id": "M4_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Philippa Keller",
+          "message": "I agree—staying bold only works if we’re relentless about keeping those risk checks front and center. I’d add that our best quarters have come when we’re not just reacting to setbacks, but using them to fuel smarter, faster decisions next time. If we keep that mindset, I’m confident stocks will keep working in our favor.",
+          "id": "M4_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I completely agree—turning setbacks into fuel for smarter, faster decisions is exactly the mindset that keeps us sharp and ahead of the curve. That adaptability is what lets us stay bold with stocks while managing the risks, and it’s a big part of why our team has been able to maintain momentum even when things get bumpy. Let’s keep pushing ourselves to not just react, but to actively learn and evolve with every outcome.",
+          "id": "M4_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Philippa Keller",
+          "message": "Absolutely—our willingness to learn on the fly and give each other unfiltered feedback is what keeps us nimble and ready to capitalize on opportunities as they come. If we keep that culture alive, I’m convinced we’ll not only manage the risks with stocks but actually turn volatility into a competitive advantage.",
+          "id": "M4_R1_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I think you’ve nailed a critical point—our ability to be brutally honest and adapt on the fly is a real differentiator. That culture of open feedback and fast learning doesn’t just help us weather volatility; it actually lets us turn it into an advantage. I’d love to hear if others see ways we can double down on these strengths, or if there are blind spots we still need to address as we lean into stocks this quarter.",
+          "id": "M4_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Larissa Riggs",
+          "message": "From what I’ve seen, our biggest wins have come when we’re willing to go bold—stocks gave us a huge boost in Q1, and even with last quarter’s dip, we showed we can handle volatility without losing our drive. The lesson for me is that as long as we keep our risk triggers sharp and stay ready to pivot, the upside in stocks is worth the ride. I’m all for using what we learned last quarter to make us even faster and more adaptable this time around.",
+          "id": "M4_R1_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I really appreciate your focus on bold action paired with disciplined risk management—those sharp risk triggers are what let us capitalize on upside without getting caught off guard. Your point about using last quarter’s lessons to become even faster and more adaptable is exactly the mindset that keeps us ahead. I’d like to hear from the rest of the team: are there specific ways we can make our risk protocols even more actionable as we double down on stocks, or do you see areas where we should be extra vigilant this quarter?",
+          "id": "M4_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Larissa Riggs",
+          "message": "One way we could make our risk protocols more actionable is by setting even clearer thresholds for when we pause and reassess—like if stocks drop a certain percentage or if a specific news event hits. I also think we should agree upfront on what signals would trigger a fast team huddle, so we’re ready to move quickly if needed. That way, we keep the energy up but stay disciplined about not letting surprises catch us flat-footed.",
+          "id": "M4_R1_10",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I like where you’re going with this—defining specific thresholds and clear triggers for a rapid response huddle makes our risk management much more actionable and keeps us ready to pivot if something unexpected hits. This level of discipline lets us keep pushing for upside with stocks while making sure we’re not blindsided. I encourage everyone to weigh in: what specific thresholds or signals do you think would be most effective for us this quarter?",
+          "id": "M4_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Larissa Riggs",
+          "message": "I’d suggest we set a clear threshold—say, if stocks drop by 8-10% in a quarter, that’s our cue for an immediate team huddle. We could also flag major sector news or sudden market shocks as automatic triggers, so we’re not waiting for consensus if something urgent comes up. That way, we stay proactive and can pivot fast if conditions change.",
+          "id": "M4_R1_12",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I think your idea of setting a specific drop—like 8-10%—as a hard trigger for an immediate team huddle, plus flagging major sector news or shocks, is exactly the kind of clarity that keeps us nimble and disciplined. By locking in these thresholds upfront, we make sure our bold moves with stocks are always backed by a safety net that’s both proactive and fast. I’d like to hear if anyone sees additional signals we should watch for, or if there are concerns about how we’d execute these rapid pivots in practice.",
+          "id": "M4_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Dawson Brock",
+          "message": "I see our track record with stocks as proof that boldness pays off when paired with sharp risk management—Q1’s big win set the tone, and even the Q2 dip didn’t knock us off course because we stayed disciplined and ready to adapt. The lesson for me is that we shouldn’t shy away from volatility if we’re prepared to move fast and keep our risk triggers tight. If we keep building on what we’ve learned—staying proactive, communicating openly, and locking in clear thresholds—I’m confident stocks will keep giving us the edge we need to drive real growth.",
+          "id": "M4_R1_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I completely agree—our experience has shown that being bold with stocks pays off as long as we stay disciplined and proactive about risk. Your emphasis on learning from both the wins and the dips, and locking in clear thresholds, is exactly what keeps us agile and ready to capitalize on opportunity without getting caught off guard. Let’s keep building on this mindset so we can keep turning volatility into real growth.",
+          "id": "M4_R1_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Dawson Brock",
+          "message": "I appreciate that, and I think the key is making sure our risk triggers aren’t just theoretical but something we’re all ready to act on the moment they’re hit. If we keep pressure-testing those thresholds and running quick drills on fast pivots, we’ll turn our playbook into muscle memory—so when volatility hits, we don’t hesitate, we execute. That’s how we keep the upside of stocks working for us without letting surprises set us back.",
+          "id": "M4_R1_16",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I think you’ve hit on something crucial—the best risk protocols in the world don’t mean much if we’re not ready to act the instant those triggers are hit. Running quick drills and pressure-testing our thresholds will make sure our response is second nature, not a scramble. Let’s make it a priority to keep those playbooks sharp so we can move with confidence and speed when it counts.",
+          "id": "M4_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Dawson Brock",
+          "message": "I completely agree—making our rapid response second nature is what separates teams that just talk about risk management from those that actually thrive in volatile moments. If we keep sharpening our playbook and stay committed to acting decisively, I’m confident we’ll keep turning the volatility in stocks into real wins for the company.",
+          "id": "M4_R1_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Umar Gentry",
+          "message": "Building on what’s already been said, our experience so far shows that boldness with stocks pays off as long as we’re relentless about setting and acting on clear risk triggers. The 20% gain in Q1 proves the upside is real, and even after the Q2 dip, our protocols kept us steady without knee-jerk reactions. If we keep pressure-testing those thresholds and treat every setback as a live-fire drill for our response systems, I’m confident stocks remain the best lever for growth in this stable market.",
+          "id": "M4_R1_19",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I really appreciate how you’ve framed setbacks as live-fire drills for our risk management systems—turning every challenge into a chance to get sharper and more disciplined. Your point about relentless follow-through on our risk triggers is exactly what keeps our bold strategy with stocks grounded and effective. Let’s make sure that mindset stays front and center as we decide how to move forward this quarter.",
+          "id": "M4_R1_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Umar Gentry",
+          "message": "I agree—keeping that mindset front and center means we need to treat our risk triggers as living tools, not just checkboxes. If we stay committed to real-time feedback and rapid adjustment, we’ll keep our edge and make sure every bold move with stocks is backed by action, not just intention.",
+          "id": "M4_R1_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I completely agree—risk triggers can’t just be a checklist item; they need to be dynamic tools we actually use to keep our edge sharp. Staying committed to real-time feedback and rapid adjustment is what turns bold intentions into real results, especially when we’re leaning into stocks. Let’s make sure we keep that discipline alive so every move we make is both ambitious and grounded in action.",
+          "id": "M4_R1_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Umar Gentry",
+          "message": "I’d add that making these risk triggers truly dynamic means we all have to hold each other accountable in real time—so if a threshold is hit, there’s no hesitation or debate, just immediate action. That level of shared responsibility is what will keep our bold approach with stocks both disciplined and effective, quarter after quarter.",
+          "id": "M4_R1_23",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I think you’ve zeroed in on something essential—shared accountability and real-time action are what separate a bold strategy from reckless risk-taking. If we’re all committed to acting immediately when a trigger is hit, without hesitation or debate, we turn our protocols into real safeguards that keep our edge sharp. That kind of discipline is exactly what will let us keep pushing for upside with stocks while making sure we’re never caught flat-footed.",
+          "id": "M4_R1_24",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Erica Mack",
+          "message": "From my perspective, our experience so far proves that bold, high-upside moves with stocks can drive real growth—as long as we keep our risk protocols sharp and dynamic. The key lesson for me is that discipline and speed go hand in hand with ambition: we need to keep pressure-testing our triggers, run quick response drills, and hold each other accountable in real time. If we keep learning fast and adapting as a team, I’m confident stocks will keep giving us the edge we want in this stable market.",
+          "id": "M4_R1_25",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I think you’re absolutely right—discipline and speed need to go hand in hand if we want to keep turning ambition into real results with stocks. Your focus on pressure-testing our triggers, running quick drills, and holding each other accountable is exactly what keeps our protocols from getting stale. If we keep pushing ourselves to learn and adapt in real time, I’m confident we’ll keep our edge sharp and our growth on track.",
+          "id": "M4_R1_26",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Erica Mack",
+          "message": "I appreciate you underscoring the need to keep our protocols fresh and actionable—it’s that ongoing drive to learn and adapt that really sets us apart. If we all stay committed to owning our part in this process and acting without hesitation when triggers hit, I’m confident we’ll not just manage risk but actually turn it into a source of strength for our stock strategy this quarter.",
+          "id": "M4_R1_27",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I couldn’t agree more—when everyone owns their part and we act immediately on our triggers, risk management becomes a real asset, not just a safety net. That kind of discipline and adaptability is what lets us stay bold with stocks while actually turning volatility into an opportunity. If we keep this drive alive, I’m confident we’ll keep outpacing the market and setting ourselves apart.",
+          "id": "M4_R1_28",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Erica Mack",
+          "message": "I completely agree—when we treat risk management as a core part of our team identity, it doesn’t just protect us, it actually fuels our confidence to keep making bold, well-timed moves with stocks. By holding each other to this high standard and staying relentlessly proactive, I believe we’ll keep turning both wins and setbacks into momentum for the whole company.",
+          "id": "M4_R1_29",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q4": {
+      "round_1": [
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "Hafsa Brady My current thinking is that Stocks appears most promising because I’m wired to chase opportunity and embrace calculated risk, especially when the numbers are this clear—stocks have delivered our biggest wins in this stable market, and our team’s discipline means we’re not just rolling the dice. Sure, there’s volatility, but I thrive on turning that into an edge with fast decision-making and sharp risk management. Bonds and cash just feel too safe and slow for where we want to go, and while real estate is steady, it lacks the upside and energy that keeps our momentum high. I’m confident that leaning into stocks again—with our protocols and agility—gives us the best shot at real growth this quarter, though I'm interested in exploring all perspectives to refine our understanding.\n\nFor this round, let’s focus on reviewing our historical performance and the lessons learned—specifically, what’s worked, what hasn’t, and how our past decisions around stocks have shaped our growth and risk management so far. By grounding ourselves in actual results and candidly assessing both wins and setbacks, we can build a solid foundation for this quarter’s decision.\n\nI want us to synthesize what each of us has observed—where our strategy has paid off, where it’s fallen short, and what that means for our approach going forward. This is a chance to integrate everyone’s insights and sharpen our collective understanding before we move to deeper analysis.\n\nIMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.\n\nI encourage each of you to share your take—especially if you see patterns or lessons I might have missed—so we can ensure our next move is grounded in both hard evidence and real experience.",
+          "id": "M5_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Larissa Riggs",
+          "message": "Looking at our track record, I’m struck by how stocks have consistently driven our biggest gains and kept the energy high—two quarters at +20% is hard to ignore, and even after the Q2 setback, we bounced right back. What stands out to me is that our willingness to take bold action, paired with sharp risk management, has let us turn volatility into an advantage rather than a liability. For me, the lesson is that in a stable market like this, stocks reward a team that’s quick, adaptable, and ready to learn fast from both wins and dips.",
+          "id": "M5_R1_2",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I appreciate how you’ve captured both the upside and the mindset that’s fueled our progress, Larissa. Your point about turning volatility into an advantage really resonates—our biggest gains have come not just from picking stocks, but from how we’ve managed risk and stayed nimble when things got bumpy. That adaptability is a strength we need to keep front and center as we weigh our options this quarter.",
+          "id": "M5_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Larissa Riggs",
+          "message": "I completely agree—our adaptability is what’s kept us ahead, and I think our evolution in real-time risk protocols is proof of that. Each time we’ve hit turbulence, we’ve tightened our triggers and gotten faster at responding, which only makes stocks more attractive as long as we keep that edge. I’m interested to hear if others feel our risk management could be pushed further or if there are blind spots we haven’t addressed yet.",
+          "id": "M5_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I agree—our progress in tightening risk protocols and responding faster has been a real differentiator for us. I’d welcome any input from the team on where we might still have gaps or if there’s a way to make our risk triggers even sharper, since staying ahead means never getting complacent. Let’s hear where you think we can push further or what concerns might still be lurking beneath the surface.",
+          "id": "M5_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Larissa Riggs",
+          "message": "One area we could push further is running scenario drills—quick “what if” exercises for sudden drops or sector news—to make sure our team’s response is second nature. That kind of hands-on practice would keep us sharp and help reveal any blind spots in our current protocols, especially since stocks can turn fast even in stable markets.",
+          "id": "M5_R1_6",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "That’s a sharp idea, Larissa—hands-on scenario drills would definitely help us stress-test our readiness and expose any weak spots before they become real issues. I see real value in making sure our response is instinctive, especially with stocks’ potential for fast swings. I’m interested to hear if others have thoughts on specific scenarios we should practice or if there are other ways to pressure-test our current approach.",
+          "id": "M5_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Philippa Keller",
+          "message": "What jumps out to me is that every time we’ve leaned into stocks, we’ve seen the biggest impact on our growth and team morale—even that Q2 dip didn’t slow us down for long because we treated it as a learning opportunity and tightened our risk triggers. Our willingness to move fast, adapt, and keep the energy high has made stocks work for us, and I think the lesson is that as long as we keep sharpening our risk management, we can keep turning volatility into an advantage instead of a threat.",
+          "id": "M5_R1_8",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I appreciate how you’ve tied our biggest wins not just to the asset itself but to the way we’ve handled setbacks and kept the team energized, Philippa. Your point about treating dips as learning opportunities and continually sharpening our risk management is spot on—it’s that mindset that’s allowed us to stay bold without getting blindsided. I’d like to hear if others see any areas where our approach could be even more resilient or if there are lessons we haven’t fully leveraged yet.",
+          "id": "M5_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Philippa Keller",
+          "message": "I really like Larissa’s point about scenario drills—practicing for sudden drops or sector shocks would make our fast, adaptive response even more instinctive. Building that muscle memory could help us catch any blind spots before they cost us, especially since we’ve seen how quickly momentum can swing with stocks. If we keep combining bold action with this kind of proactive readiness, I think we’ll stay ahead of the curve and keep maximizing our upside.",
+          "id": "M5_R1_10",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I agree, Philippa—combining bold action with scenario-based practice is exactly how we keep our edge sharp and avoid surprises. That kind of proactive readiness not only protects us from downside but also positions us to seize opportunities faster than the competition. Let’s keep identifying specific scenarios we should drill on so our response stays second nature and our momentum never stalls.",
+          "id": "M5_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Philippa Keller",
+          "message": "One scenario I’d focus on is a sudden 10% market drop mid-quarter—practicing our immediate response and communication plan would help us act fast and keep everyone aligned. We could also run through a sector-specific shock, like unexpected negative earnings in a key industry, to make sure our protocols hold up under pressure. The more we drill these situations, the more confident I am that we’ll spot issues early and keep our growth on track.",
+          "id": "M5_R1_12",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "Those are exactly the kinds of high-impact scenarios we need to drill, Philippa—practicing our communication and response for sudden market drops or sector shocks will make our protocols truly battle-tested. By building that muscle memory now, we’ll not only catch issues early but also keep our team aligned and ready to act decisively if volatility hits. I encourage others to weigh in on any additional scenarios or risk factors we should be stress-testing as we refine our approach.",
+          "id": "M5_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Erica Mack",
+          "message": "What stands out to me is that our best quarters with stocks weren’t just luck—they happened because we moved quickly, learned from every bump, and kept our risk triggers front and center. The Q2 dip was a wake-up call, but it actually made us sharper and more disciplined, which paid off right away in Q3. I think the lesson is clear: as long as we keep stress-testing our protocols and stay ready to pivot, stocks remain our best way to drive growth and keep the team fired up.",
+          "id": "M5_R1_14",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I completely agree, Erica—our strongest quarters weren’t just about picking the right asset, but about how quickly we adapted and tightened our protocols after setbacks like Q2. Your point about the Q2 dip making us sharper is key; it shows that setbacks can actually fuel our discipline and growth if we treat them as learning moments. Let’s keep stress-testing and refining our approach so we’re always ready to pivot and maximize our upside.",
+          "id": "M5_R1_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Erica Mack",
+          "message": "I appreciate that, Hafsa. Building on this, I think it’s worth pinpointing exactly which risk triggers or rapid-response steps helped us bounce back fastest after Q2, so we can make those habits second nature. If we keep turning every dip into a drill for the team, we’ll stay ahead of surprises and keep our momentum strong.",
+          "id": "M5_R1_16",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I think you’re right on target, Erica—identifying the exact triggers and rapid-response moves that worked best after Q2 will help us lock in those habits and make our reactions instinctive. I’d like us to call out the specific actions—like our 10% drop threshold or real-time team debriefs—that made the difference, so we can formalize them into our playbook and keep our momentum strong no matter what the market throws at us.",
+          "id": "M5_R1_17",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Erica Mack",
+          "message": "I agree, Hafsa—locking in habits like our 10% drop threshold and immediate team debriefs made a real difference after Q2. If we formalize those steps—clear triggers, rapid communication, and decisive action—we’ll make our response automatic and keep stocks working in our favor, even if volatility pops up again.",
+          "id": "M5_R1_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Dawson Brock",
+          "message": "What really jumps out at me is how our willingness to go bold with stocks, paired with disciplined risk protocols, has driven the biggest leaps in our company’s growth. The Q2 dip was a gut check, but it actually sharpened our reflexes and made us double down on rapid response—now, volatility feels like something we can use, not just survive. As long as we keep building that muscle memory with scenario drills and clear triggers, I’m convinced stocks are still our best shot at staying ahead and maximizing returns in this stable market.",
+          "id": "M5_R1_19",
+          "act_type": "Justify",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I appreciate how you’ve framed volatility as something we can actually harness, Dawson—your point about the Q2 dip sharpening our reflexes really resonates. Building muscle memory through scenario drills and sticking to clear triggers is exactly how we turn risk into opportunity, not just defense. Let’s keep pushing ourselves to make those responses second nature so we can stay bold and agile no matter what the market throws our way.",
+          "id": "M5_R1_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Dawson Brock",
+          "message": "I couldn’t agree more—those scenario drills don’t just keep us safe, they actually boost our confidence to act fast and decisively when it counts. That kind of operational readiness is what lets us lean into stocks without hesitation, knowing we can turn any surprise into an edge for the team.",
+          "id": "M5_R1_21",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I completely agree, Dawson—having that operational readiness in our back pocket makes all the difference when it’s time to act. The confidence we build through scenario drills isn’t just about safety; it’s what lets us lean into bold moves with stocks, knowing we can flip surprises into opportunities. Let’s keep sharpening that edge so our team’s first instinct is always decisive action, no matter what comes our way.",
+          "id": "M5_R1_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Dawson Brock",
+          "message": "Absolutely—when decisive action becomes instinctive, it doesn’t just protect us, it fuels the kind of ambitious, high-energy culture that makes stocks such a natural fit for us. By making rapid response second nature, we’re not just managing risk—we’re setting ourselves up to seize opportunities faster than anyone else.",
+          "id": "M5_R1_23",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Umar Gentry",
+          "message": "What stands out to me is that every time we’ve doubled down on stocks, our biggest gains have followed—not just because of the asset itself, but because we’ve treated every setback as a live-fire drill to sharpen our risk protocols. The Q2 dip didn’t slow us down; it actually made us faster and more disciplined, which paid off immediately in Q3. For me, the lesson is that as long as we keep pressure-testing our triggers and building team muscle memory, stocks remain our best engine for growth in this stable market.",
+          "id": "M5_R1_24",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I completely agree, Umar—your point about treating setbacks as live-fire drills really captures how we’ve turned every challenge into a chance to get sharper and more disciplined. That commitment to pressure-testing our triggers and building team muscle memory is exactly what’s kept stocks working in our favor, even when the market threw us a curveball. If we keep pushing ourselves to learn and adapt this way, I’m confident we’ll stay ahead and keep driving strong results.",
+          "id": "M5_R1_25",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Umar Gentry",
+          "message": "I appreciate that, Hafsa. To build on this, I think it’s worth calling out that our best quarters with stocks have followed right after we tightened our protocols—whether it was setting a clear drop threshold or running rapid debriefs. If we keep formalizing those habits and make scenario drills a regular part of our process, I’m convinced we’ll keep turning volatility into an advantage and maximize our upside.",
+          "id": "M5_R1_26",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I think you’re spot on, Umar—the direct link between tightening our protocols and delivering our best results is impossible to ignore. Making scenario drills a regular habit would lock in those gains and ensure our team’s response is always sharp and instinctive. I’d like to hear from others if there are additional habits or protocols we should formalize to keep this edge as we move forward with stocks.",
+          "id": "M5_R1_27",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Umar Gentry",
+          "message": "I agree, Hafsa—the more we make scenario drills and rapid debriefs a habit, the more automatic our response becomes when volatility hits. I’d also suggest we periodically review and update our risk triggers as a team, so we’re always calibrated to the current market. If we keep evolving our protocols together, we’ll stay both bold and resilient with stocks.",
+          "id": "M5_R1_28",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "I really like your point about regularly reviewing and updating our risk triggers as a team, Umar—that’s how we make sure our protocols never get stale and always match the current market environment. Keeping that process collaborative ensures we catch shifts early and stay both bold and resilient. Let’s keep this commitment to evolving together front and center as we refine our approach with stocks.",
+          "id": "M5_R1_29",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "Hafsa Brady My current thinking is that Stocks appears most promising because after reviewing the discussion, it’s clear that stocks remain our best vehicle for growth in this stable market, provided we keep evolving our risk management and operational readiness. The group’s insights about scenario drills, rapid debriefs, and regular protocol reviews give me confidence that we can turn volatility into an advantage and avoid complacency. While real estate offers steadiness, it lacks the upside and momentum we’ve consistently achieved with stocks, and bonds/cash remain too conservative for our ambitions. Our collective discipline and adaptability make stocks the optimal choice this quarter, though I'm interested in exploring all perspectives to refine our understanding. \n\nFor this round, we’ll rigorously stress-test the risk and reward profiles of all asset options—cash, bonds, real estate, and stocks—to uncover any blind spots and ensure our protocols are as sharp and actionable as possible. By challenging our assumptions and integrating diverse viewpoints, we can refine our approach and strengthen both our resilience and agility. I encourage everyone to speak up with any concerns, alternative scenarios, or operational risks that may not have been fully addressed so far. \n\nIMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.",
+          "id": "M5_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Philippa Keller",
+          "message": "I’m still strongly in favor of stocks, but I want to make sure we’re not letting past wins blind us to possible curveballs—like a sudden sector dip or a string of flat quarters that could sap our momentum. Real estate is the only other option that tempts me, since it’s steady and could help smooth out a rough patch, but I worry it just doesn’t have the juice to keep our team fired up or deliver the kind of growth we want. If we double down on stocks, I think the real key is making our scenario drills and rapid-response protocols second nature, so we’re ready to pivot fast and turn any surprise into a learning win.",
+          "id": "M5_R2_2",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "Philippa, I appreciate you calling out the risk of getting blinded by past wins—it’s exactly the kind of challenge we need to keep our edge sharp. I agree that making scenario drills and rapid-response protocols second nature is non-negotiable if we’re going to keep turning volatility into opportunity, and your point about real estate’s steadiness versus stocks’ momentum is a useful contrast for our decision. Let’s keep pressure-testing our assumptions so we’re ready for anything this quarter throws at us.",
+          "id": "M5_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Philippa Keller",
+          "message": "I completely agree—our edge comes from not just being bold, but having the muscle memory to react fast and smart when things shift. What’s really working for us is how everyone’s bought into regular drills and open debriefs, which keeps us nimble and stops us from getting complacent. If we keep building that culture of sharp, honest feedback, I think we’ll keep making the most of stocks’ upside without getting blindsided.",
+          "id": "M5_R2_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "Absolutely, Philippa—building that muscle memory through regular drills and open debriefs is what sets us apart and keeps us agile. I’m all for doubling down on a culture where honest feedback is the norm, because that’s how we’ll keep spotting blind spots before they become problems. If we keep this up, I’m confident we’ll stay ahead of the curve and keep maximizing our upside with stocks.",
+          "id": "M5_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Larissa Riggs",
+          "message": "I’m fully on board with stocks for the upside and momentum, but I think it’s smart to run a quick “what-if” on each option. If we hit a surprise flat quarter in real estate or a sudden dip in stocks, are our scenario drills sharp enough to catch it before it snowballs? I’d like us to pressure-test our protocols against both a bond market slowdown and a stock market shock, just to be sure we’re not missing anything that could throw us off our game.",
+          "id": "M5_R2_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "Larissa, I like your call for a targeted “what-if” on each asset—pressure-testing our scenario drills against a bond slowdown or a stock shock is exactly the kind of operational discipline that keeps us sharp. Let’s take a hard look at how our protocols would hold up if real estate goes flat or stocks take a sudden hit, and make sure we’re not overlooking any gaps that could trip us up. This is how we keep our edge and make sure our risk management is bulletproof, no matter which option we choose.",
+          "id": "M5_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Larissa Riggs",
+          "message": "I appreciate that, Hafsa. I’d add that these scenario drills don’t just keep us safe—they actually give us the confidence to stay bold with stocks, knowing we can handle whatever comes. If we keep making rapid-response habits second nature, I’m convinced we’ll not only sidestep surprises but also keep our momentum and team energy high, no matter which asset we choose.",
+          "id": "M5_R2_8",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "That’s a great way to frame it, Larissa—our scenario drills and rapid-response habits aren’t just about playing defense, they’re what give us the confidence to go after the upside with stocks. When we know our protocols are second nature, we can stay bold and keep our energy high without second-guessing ourselves. This mindset turns risk management into a launchpad for growth, and I want us to keep building on that as we finalize our decision.",
+          "id": "M5_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Dawson Brock",
+          "message": "I’m all for doubling down on stocks, but I think it’s smart to pressure-test how quickly we’d spot and respond to a sharp drop or a run of flat quarters—not just in stocks, but if we had to pivot to real estate or bonds midstream. Our momentum depends on turning drills into instinct, so I’d like us to run through a scenario where stocks tank unexpectedly, and another where real estate stalls, just to make sure our protocols are tight and we don’t get caught flat-footed. That way, we stay bold without getting blindsided.",
+          "id": "M5_R2_10",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "Dawson, I’m right there with you—turning scenario drills into instinct is what will keep us agile if things go sideways, whether it’s a sudden tank in stocks or a stall in real estate. Running through those “worst-case” scenarios now is how we make sure our protocols aren’t just theory but muscle memory, so we’re ready to pivot fast and keep our momentum no matter what. Let’s keep challenging ourselves to spot any gaps and make sure we’re never caught flat-footed.",
+          "id": "M5_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Dawson Brock",
+          "message": "I like where this is heading—let’s get specific and outline what our first moves would be in each scenario: stocks dropping 10% unexpectedly, real estate going flat, or bonds underperforming. If we can define those triggers and immediate actions now, we’ll be able to move fast and confidently no matter what comes our way.",
+          "id": "M5_R2_12",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "Dawson, I like your push for specificity—let’s nail down those triggers and first actions for each scenario so our response is automatic. For stocks, a 10% drop should trigger an immediate team huddle and review of market signals; for real estate going flat, we’d reassess allocation and monitor for early signs of a rebound; and if bonds underperform, we’d quickly evaluate if it’s a systemic issue or a blip and adjust accordingly. By defining these moves now, we set ourselves up to move fast and stay confident, whatever the market throws at us.",
+          "id": "M5_R2_13",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Dawson Brock",
+          "message": "I think it makes sense to put these triggers and first actions into a straightforward checklist or playbook for the team—something we can reference instantly if a scenario hits. That way, everyone’s clear on what to do, and we keep our responses sharp, fast, and consistent across any asset we choose.",
+          "id": "M5_R2_14",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "That’s a strong suggestion, Dawson—a straightforward checklist or playbook will make sure our team isn’t scrambling when something unexpected hits. If everyone knows exactly what to look for and how to act—no matter if it’s stocks, real estate, or bonds—we’ll keep our responses sharp and avoid hesitation. Let’s commit to building that playbook as part of our final risk management process for this quarter.",
+          "id": "M5_R2_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Umar Gentry",
+          "message": "I’m convinced stocks remain our best bet for growth in this stable market, but I agree with the team that our real advantage comes from turning risk management into instinct. To make sure we’re not missing anything, I suggest we actively simulate a sharp dip in stocks and a flat quarter in real estate, outlining exactly how and when we’d trigger a response—this way, we keep our protocols sharp and our confidence high, no matter which asset we pick.",
+          "id": "M5_R2_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "Umar, I like your focus on actively simulating sharp dips in stocks and flat quarters in real estate—it’s exactly the kind of hands-on approach that turns risk management from theory into instinct. By outlining concrete triggers and response steps for each scenario, we’ll keep our protocols sharp and our confidence high, no matter which asset we choose. Let’s make sure we’re crystal clear on when and how we’d pivot so we’re ready to act fast and stay ahead of any surprises.",
+          "id": "M5_R2_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Umar Gentry",
+          "message": "I agree—let’s make those triggers and response steps explicit for each asset and put them into a concise playbook. That way, if stocks dip or real estate stalls, we’re not wasting time debating—we just act, keeping our momentum and discipline no matter what the market throws at us.",
+          "id": "M5_R2_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "Umar, I’m with you—having a concise playbook with clear triggers and response steps for each asset will make sure our team isn’t hesitating when it counts. This approach keeps us disciplined and ready to move fast, whether stocks dip or real estate stalls, and it’s exactly the operational edge that lets us stay bold while managing risk smartly. Let’s commit to building out that playbook as part of our final decision process this quarter.",
+          "id": "M5_R2_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Umar Gentry",
+          "message": "I appreciate that, Hafsa. By making these response steps second nature across all assets, we’re not just protecting ourselves—we’re setting a higher standard for agility and discipline, regardless of which option we choose. This gives me even more confidence that we’ll stay ahead of risks and keep our growth trajectory strong.",
+          "id": "M5_R2_20",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Erica Mack",
+          "message": "I completely agree with the emphasis on scenario drills and having a clear playbook for each asset—what really sets us apart is how we turn those protocols into instinct, so we’re never caught flat-footed, even if stocks take an unexpected hit or real estate goes flat. For me, the real value in stress-testing every option isn’t just about defense—it’s about giving us the confidence to keep playing bold, knowing we can handle whatever comes our way. If we keep this operational edge sharp, I’m convinced stocks will keep delivering the upside we want, without sacrificing discipline or agility.",
+          "id": "M5_R2_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "Erica, I completely agree—what sets us apart isn’t just having protocols on paper, but making them instinctive so we’re always ready to act, no matter what the market throws at us. Your point about stress-testing every option as a way to fuel boldness, not just defense, really resonates with me; that’s how we keep our edge and maintain both discipline and agility. If we keep sharpening this operational mindset, I’m confident we’ll keep unlocking the upside from stocks without losing sight of what keeps us resilient.",
+          "id": "M5_R2_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Erica Mack",
+          "message": "I appreciate that, Hafsa. What really stands out to me is that this operational mindset doesn’t just give us confidence in stocks—it raises the bar for how we handle any asset, making us more adaptable and resilient across the board. By keeping our protocols sharp and instinctive, we’re setting ourselves up to capture upside wherever it appears, while knowing we can pivot quickly if the market shifts.",
+          "id": "M5_R2_23",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsa Brady(CEO)",
+          "message": "Erica, that’s a great perspective—by raising the bar on our operational discipline, we’re not just optimizing for stocks, but setting ourselves up to succeed with any asset if market conditions change. This adaptability is exactly what will keep us resilient and ready to capitalize on new opportunities, no matter where they emerge. Let’s keep sharpening those instincts so we’re always a step ahead, whatever the landscape.",
+          "id": "M5_R2_24",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    }
+  },
+  "company": {
+    "CEO": {
+      "name": "Hafsa Brady",
+      "mbti": "ESTP"
+    },
+    "shareholders": [
+      {
+        "name": "Erica Mack",
+        "mbti": "ESTP"
+      },
+      {
+        "name": "Dawson Brock",
+        "mbti": "ESTP"
+      },
+      {
+        "name": "Umar Gentry",
+        "mbti": "ESTP"
+      },
+      {
+        "name": "Philippa Keller",
+        "mbti": "ESTP"
+      },
+      {
+        "name": "Larissa Riggs",
+        "mbti": "ESTP"
+      }
+    ]
+  }
+}

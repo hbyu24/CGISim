@@ -1,0 +1,1559 @@
+{
+  "discussion_log": {
+    "annual_budget_year1": {
+      "round_1": [
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Soraya Naranjo-Mbele My current thinking is that Option C appears most promising because given our stable market environment and lack of historical data, I am inclined toward a balanced and methodical approach that maximizes our capital utilization while managing risk. Allocating 100% of our funds evenly across all quarters allows us to benefit from steady market opportunities without overexposing ourselves to any single period. This approach aligns with my preference for structured, consistent strategies and reflects my belief in disciplined planning, while remaining open to new insights as the discussion unfolds. I also value fostering a sense of shared responsibility, so I look forward to hearing everyone’s perspectives before finalizing our decision, though I'm interested in exploring all perspectives to refine our understanding. For this round, let’s focus on our initial assessment of each budget allocation strategy in the context of a stable market, aiming to establish a shared understanding of the relative risks and opportunities associated with each option. By thoughtfully sharing our perspectives, we can synthesize diverse viewpoints and develop a more comprehensive foundation for our decision. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Option A', 'Option B', 'Option C', 'Option D'. Please keep all discussion focused on evaluating these specific options. I encourage each of you to contribute any insights or considerations that might enhance our collective understanding, especially those I may not have fully considered.",
+          "id": "M1_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aisulu Oprea",
+          "message": "I appreciate the structured approach of Option C, as it maximizes our exposure to market opportunities in a stable environment; however, I remain somewhat cautious about committing the entirety of our capital without historical data to anchor our expectations. Option A, by allocating 50% of funds evenly, provides a prudent balance between participating in growth and maintaining a reserve for unforeseen circumstances, which I find reassuring at this early stage. Both options appear well-suited to the current conditions, but I lean slightly toward Option A for its emphasis on risk management alongside steady progress.",
+          "id": "M1_R1_2",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Aisulu. Your emphasis on risk management, particularly given our lack of historical data, is an important consideration. I agree that Option A’s more conservative approach offers a reassuring buffer, and I appreciate how your perspective highlights the value of maintaining flexibility early on while still participating in market opportunities.",
+          "id": "M1_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aisulu Oprea",
+          "message": "I appreciate your recognition of the value in maintaining flexibility, especially as we build our track record. It seems that both Option A and Option C reflect a disciplined approach, differing mainly in our appetite for initial exposure versus caution. As we continue, I believe comparing how each option positions us to adapt in subsequent years will further clarify the best path forward.",
+          "id": "M1_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Aisulu. I agree that evaluating how each option sets us up for future flexibility and growth will be crucial as we proceed. Your point encourages us to look beyond immediate risk and return, and I look forward to exploring these longer-term implications together in the next round of our discussion.",
+          "id": "M1_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Aisulu Oprea",
+          "message": "I agree that considering the longer-term implications is vital, especially as our initial strategy will influence our ability to respond to new information in future years. As we weigh Option A’s emphasis on maintaining a reserve against Option C’s full participation in market growth, it may be helpful to discuss how each approach could impact our strategic options and risk tolerance as our company evolves.",
+          "id": "M1_R1_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Linara Tavishvili",
+          "message": "I appreciate the thoughtful comparison between Options A and C, especially the focus on balancing risk management with capital utilization. In a stable market, I see particular merit in Option C’s even allocation, as it methodically leverages our full resources without introducing unnecessary timing risk, while still maintaining the discipline and structure that both approaches value. At this early stage, I believe a comprehensive, consistent investment plan best positions us to benefit from steady market conditions, though I remain open to further discussion about how each option might affect our adaptability in future years.",
+          "id": "M1_R1_7",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Linara. Your emphasis on methodical allocation and the avoidance of unnecessary timing risk aligns closely with my own reasoning in favor of Option C. I appreciate your openness to further discussion about adaptability, as this will be important for us to explore in the next phase of our decision-making.",
+          "id": "M1_R1_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Linara Tavishvili",
+          "message": "I agree that adaptability will be increasingly important as we gather more experience, and I see Option C as providing a strong foundation for that flexibility by fully engaging with stable market opportunities from the outset. By committing evenly across all quarters, we maintain the discipline to reassess and adjust our approach in subsequent years, should market conditions shift. This structured yet comprehensive strategy seems well-suited to both our immediate context and our long-term adaptability.",
+          "id": "M1_R1_9",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Linara. I appreciate your insight that Option C’s comprehensive approach allows us to fully participate in current opportunities while preserving the flexibility to adjust in the future. Your perspective reinforces the value of a disciplined, structured plan that also positions us to respond effectively as our company and the market evolve.",
+          "id": "M1_R1_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Arazhna Masego",
+          "message": "I appreciate the thoughtful points raised about balancing risk and opportunity. For me, Option C stands out because it enables us to fully participate in stable market growth while maintaining discipline through even distribution, which reduces the risk of poor market timing. At the same time, I recognize the merit in Option A’s cautious reserve, but in this particular environment, I feel the structured, comprehensive approach of Option C better positions us for both immediate growth and long-term adaptability.",
+          "id": "M1_R1_11",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Arazhna. Your point about Option C enabling us to fully participate in stable market growth while minimizing timing risk resonates with my own assessment. I also appreciate your recognition of Option A’s cautious reserve, and I agree that in our current environment, a structured and comprehensive approach seems well-suited to achieving both immediate and long-term objectives.",
+          "id": "M1_R1_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Arazhna Masego",
+          "message": "I appreciate your alignment on the importance of both immediate growth and long-term adaptability. By emphasizing disciplined structure through Option C, we create a strong foundation for future flexibility, which I believe is especially valuable as we navigate our early years. I look forward to integrating any additional perspectives that may arise, ensuring our final decision is robust and well-considered.",
+          "id": "M1_R1_13",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Arazhna. I agree that establishing a disciplined structure through Option C lays a solid groundwork for both immediate participation in market growth and adaptability as our company matures. Your emphasis on building a robust foundation resonates with our collective priorities, and I look forward to hearing further perspectives that might enhance our understanding before we reach a final decision.",
+          "id": "M1_R1_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Nayantara Basnet",
+          "message": "I see particular value in Option C’s even allocation, as it enables us to fully utilize our capital while distributing risk consistently across all quarters. In a stable market, this disciplined approach allows us to benefit from steady opportunities without overcommitting in any single period, and it leaves room for thoughtful, creative decisions about which assets to select each quarter. I also appreciate the points raised about adaptability—Option C provides a structured foundation that supports both immediate growth and future flexibility as our company evolves.",
+          "id": "M1_R1_15",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Nayantara. I appreciate your emphasis on disciplined risk distribution and the creative flexibility that Option C affords us in selecting assets each quarter. Your perspective reinforces the value of a structured approach that not only maximizes our capital utilization in a stable market, but also supports thoughtful decision-making and adaptability as we progress.",
+          "id": "M1_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Nayantara Basnet",
+          "message": "I appreciate your recognition of the balance between structure and flexibility, which I believe is particularly important as we establish our investment approach. Building on earlier points about adaptability and prudent risk management, I see Option C as offering a disciplined yet responsive framework that positions us to take full advantage of stable conditions while remaining prepared to adjust as our experience grows. This synthesis of structure, creative decision-making, and adaptability seems well-suited to our current context.",
+          "id": "M1_R1_17",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Nayantara. I agree that the synthesis of structure, creative decision-making, and adaptability is particularly valuable as we set the foundation for our company’s investment approach. Your perspective underscores how Option C enables us to maximize opportunities in a stable market while remaining agile and responsive as we gain experience, which is central to our long-term strategy.",
+          "id": "M1_R1_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Nayantara Basnet",
+          "message": "I’d like to add that while the more conservative options, such as Option A, provide reassurance through capital preservation, Option C’s disciplined full allocation better leverages the predictability of a stable market to support both growth and learning. By engaging fully yet methodically, we not only maximize our immediate opportunities but also gain valuable experience that will inform our adaptability in future, potentially more volatile, environments.",
+          "id": "M1_R1_19",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Nayantara. Your point about Option C supporting not only growth but also valuable experiential learning is well taken—gaining hands-on experience with full allocation in a stable environment will be instrumental as we prepare for future uncertainty. This perspective further reinforces the merits of a methodical yet engaged approach in our formative year.",
+          "id": "M1_R1_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Amara Nadege Mbaye",
+          "message": "I appreciate the careful comparisons drawn between the options, especially the emphasis on balancing opportunity and caution. In my view, Option C stands out because it allows us to fully engage with market opportunities while spreading our risk evenly—this discipline provides a strong foundation for both steady growth and adaptability. Given our stable environment, I believe this approach not only manages risk responsibly but also ensures we gather the broadest possible experience to inform our future decisions.",
+          "id": "M1_R1_21",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Amara. Your focus on disciplined risk distribution and the importance of building a strong foundation for both growth and future adaptability resonates with the direction of our discussion so far. I agree that Option C’s approach not only positions us to benefit from current market stability but also equips us with broad experience to inform our decisions in subsequent years.",
+          "id": "M1_R1_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Amara Nadege Mbaye",
+          "message": "I appreciate your comments, Soraya, and I agree that Option C’s disciplined structure not only positions us to benefit from stable conditions but also sets us up to adapt as we learn and grow. Building on earlier points, I see particular value in how this approach balances full participation with prudent risk management, ensuring we gain experience while maintaining the flexibility to adjust our strategy in future years.",
+          "id": "M1_R1_23",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Amara. I appreciate your emphasis on balancing full participation with prudent risk management, and I agree that Option C’s disciplined structure provides both the stability and flexibility necessary for long-term growth. Your perspective further underscores the value of gaining experience in a stable environment while maintaining the adaptability to refine our strategy as we move forward.",
+          "id": "M1_R1_24",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Soraya Naranjo-Mbele My current thinking is that Option C appears most promising because, after considering all perspectives, I remain convinced that Option C’s even allocation across all quarters offers the optimal balance of disciplined growth, risk management, and experiential learning in a stable market. The broad consensus among shareholders, coupled with the compelling arguments about adaptability and creative flexibility, reinforces my belief that fully engaging our capital in a structured manner will best position us for both immediate and future success. While I acknowledge the merits of a cautious reserve, the stability of the market and our need for foundational experience tip the balance decisively toward Option C, though I'm interested in exploring all perspectives to refine our understanding. For this round, I propose we focus on evaluating the long-term flexibility and growth potential of each allocation approach, aiming to identify which strategy best positions us for steady growth and adaptability throughout the year. I encourage everyone to share thoughtful insights, especially those that may challenge or expand our current view, so we can synthesize a robust decision. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Option A', 'Option B', 'Option C', 'Option D'. Please keep all discussion focused on evaluating these specific options.",
+          "id": "M1_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Nayantara Basnet",
+          "message": "I continue to support Option C, as its even, full allocation across all quarters not only maximizes our capital’s growth potential in a stable environment but also provides a disciplined framework for learning and adaptability. This approach allows us to build operational experience and refine our strategies each quarter, which I see as essential for developing the flexibility we will need in future, less predictable years. While I appreciate the merits of a reserve in Option A, I believe that engaging fully now will better position us for steady, informed growth and greater resilience over time.",
+          "id": "M1_R2_2",
+          "act_type": "Justify",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Nayantara, for highlighting how Option C’s even allocation not only supports immediate growth but also facilitates the operational learning and adaptability that will be crucial in future years. I agree that building this experiential foundation now positions us to navigate more complex environments ahead, and your emphasis on resilience and informed strategy development adds valuable depth to our assessment. Let’s continue to explore whether any other perspectives might further refine our approach before we move toward consensus.",
+          "id": "M1_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Nayantara Basnet",
+          "message": "I appreciate your emphasis on building an experiential foundation, Soraya. I would add that while Option C’s structure accelerates our development, the prudence highlighted in Option A reminds us to remain attentive to emerging risks, ensuring our learning process is both ambitious and grounded. This synthesis—full engagement with disciplined awareness—seems to best position us for sustainable growth and long-term flexibility.",
+          "id": "M1_R2_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Nayantara, for underscoring the value of maintaining disciplined awareness alongside full engagement. Your insight reinforces that while Option C enables us to capitalize on stable market conditions and accelerate our development, it’s essential we carry forward the mindset of vigilance and adaptability highlighted in Option A. This balance will help ensure our growth remains sustainable and responsive to any shifts that may arise throughout the year.",
+          "id": "M1_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Nayantara Basnet",
+          "message": "I agree that integrating the mindset of vigilance from Option A into our implementation of Option C will be key. As we proceed, I suggest we establish regular review points each quarter to reassess market conditions and our risk posture, ensuring our approach remains both ambitious and responsive. This will help us translate our shared intention for adaptability into concrete practice as we move forward.",
+          "id": "M1_R2_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Nayantara. I appreciate your suggestion to formalize regular review points each quarter, as this will help us remain attentive to evolving market conditions and ensure that our implementation of Option C stays both ambitious and responsive. Integrating this practice will strengthen our ability to adapt as needed while maintaining the structured approach that has garnered broad support.",
+          "id": "M1_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Arazhna Masego",
+          "message": "I appreciate the thoughtful points raised so far, especially the emphasis on experiential learning and vigilance. For me, Option C’s even allocation not only maximizes our growth potential in this stable environment but also provides a reliable framework that can flex with our evolving understanding each quarter. By fully engaging our capital while maintaining a disciplined process, we set ourselves up to adapt thoughtfully and confidently as we gain experience, which I see as essential for sustained, long-term success.",
+          "id": "M1_R2_8",
+          "act_type": "Justify",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Arazhna. Your emphasis on maintaining a disciplined yet flexible framework within Option C resonates strongly with our goal of sustained, long-term success. I agree that fully engaging our capital while remaining open to learning and adaptation each quarter will be key to building both confidence and capability as we navigate our first year together.",
+          "id": "M1_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Arazhna Masego",
+          "message": "I appreciate your focus on building both confidence and capability through active learning, Soraya. I believe that by approaching each quarter as an opportunity to reflect and adjust within the structure of Option C, we can cultivate a culture of continuous improvement that will serve us well beyond this first year. This mindset not only strengthens our immediate strategy but also lays the groundwork for resilience and adaptability as our company matures.",
+          "id": "M1_R2_10",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Arazhna. I fully agree that fostering a culture of reflection and adjustment within the disciplined framework of Option C will help us build both resilience and adaptability as we grow. By treating each quarter as an opportunity for active learning, we position ourselves to evolve thoughtfully and sustain success well beyond this initial year.",
+          "id": "M1_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Amara Nadege Mbaye",
+          "message": "Building on the thoughtful points raised, I believe Option C’s even, full allocation not only maximizes our exposure to growth opportunities but also gives us a disciplined framework for iterative learning and adjustment each quarter. This structure enables us to develop operational flexibility and informed decision-making from the outset, which are essential for adapting to future changes and sustaining growth over time. I remain convinced that this balanced, comprehensive approach best positions us for steady progress and resilience throughout the year.",
+          "id": "M1_R2_12",
+          "act_type": "Justify",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Amara. Your focus on iterative learning and operational flexibility within the disciplined structure of Option C aligns closely with our goal of sustained, adaptable growth. I appreciate how you’ve highlighted that this approach not only maximizes our immediate opportunities but also strengthens our capacity to adjust and thrive as circumstances evolve throughout the year.",
+          "id": "M1_R2_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Amara Nadege Mbaye",
+          "message": "I appreciate your emphasis on adaptability, Soraya. I also see value in Nayantara’s and Arazhna’s suggestions about regular reflection and maintaining vigilance, which can further strengthen Option C’s disciplined framework. By committing to ongoing assessment, we ensure our approach remains both ambitious and responsive, supporting steady growth and long-term flexibility.",
+          "id": "M1_R2_14",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Amara. I share your view that integrating regular reflection and vigilance into our disciplined approach will help ensure Option C remains both ambitious and responsive. By committing to ongoing assessment, we reinforce our ability to adapt proactively, supporting steady growth and sustained flexibility as we move through the year.",
+          "id": "M1_R2_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Amara Nadege Mbaye",
+          "message": "I agree, Soraya—our shared commitment to regular review points and open dialogue will be essential in translating Option C’s disciplined structure into practical adaptability. This collective approach not only maximizes our growth potential in a stable market but also ensures we remain agile and well-prepared for any shifts, laying a strong foundation for our company’s development.",
+          "id": "M1_R2_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Aisulu Oprea",
+          "message": "I appreciate the compelling arguments for Option C, especially the emphasis on disciplined structure fostering both operational learning and adaptability. From my perspective, while I initially valued the prudence of a reserve, I now recognize that engaging fully in a stable market—paired with regular reflection and risk assessment—can itself be a form of prudent risk management. By committing to ongoing review and maintaining an open, adaptive mindset, I believe Option C positions us well for steady growth and the flexibility to respond thoughtfully to any changes throughout the year.",
+          "id": "M1_R2_17",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Aisulu, for articulating how regular reflection and risk assessment can serve as effective forms of prudence within a fully engaged strategy. I appreciate your willingness to reconsider your initial stance and recognize how Option C, when paired with disciplined review, can balance growth and flexibility. Your insight further strengthens our shared commitment to a structured yet adaptive approach that positions us for steady progress throughout the year.",
+          "id": "M1_R2_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aisulu Oprea",
+          "message": "Thank you, Soraya. I agree that the key to sustained progress lies in operationalizing our commitment to both structure and adaptability. Establishing clear review processes each quarter will help us remain attentive to evolving conditions, ensuring that our disciplined approach under Option C truly translates into practical flexibility and steady development.",
+          "id": "M1_R2_19",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Aisulu. I fully agree that establishing clear quarterly review processes is essential for ensuring our disciplined approach under Option C remains both practical and responsive to changing conditions. By formalizing these checkpoints, we can translate our shared commitment to structure and adaptability into steady, sustainable development throughout the year.",
+          "id": "M1_R2_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Linara Tavishvili",
+          "message": "I am increasingly convinced that Option C’s even, full allocation offers the most robust foundation for steady growth and long-term flexibility, especially if we commit to structured quarterly reviews as discussed. This disciplined approach not only maximizes our participation in stable market opportunities but also ensures we remain attentive and adaptable, learning from each quarter to inform our strategy going forward. I appreciate how the group’s emphasis on operational reflection and vigilance complements this method, creating a comprehensive pathway for both immediate progress and resilient future development.",
+          "id": "M1_R2_21",
+          "act_type": "Justify",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Linara. Your summary captures the essence of our collective reasoning—Option C’s even allocation, combined with structured quarterly reviews and ongoing operational reflection, provides a disciplined yet adaptable pathway for both steady growth and resilient future development. I appreciate how you’ve articulated the importance of learning from each quarter to continually inform and strengthen our strategy, which aligns closely with the comprehensive approach we are building together.",
+          "id": "M1_R2_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Linara Tavishvili",
+          "message": "I appreciate your recognition of the value in structured reflection, Soraya. As we move forward, I think it will be important to continue drawing on the full range of perspectives within the group, including the initial emphasis on caution, to strengthen our adaptability and ensure we remain responsive to any shifts in the environment. This openness will help us refine our approach and maintain resilience throughout the year.",
+          "id": "M1_R2_23",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Linara. I agree that maintaining openness to the full range of perspectives—including the initial focus on caution—will be essential as we move forward with Option C. By continuing to reflect on diverse insights, we can further strengthen our adaptability and ensure our strategy remains robust and responsive throughout the year.",
+          "id": "M1_R2_24",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q1": {
+      "round_1": [
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Soraya Naranjo-Mbele My current thinking is that Real Estate appears most promising because in this stable and predictable market, I am drawn to an asset that balances growth with manageable risk. Real estate stands out for its steady appreciation and medium risk profile, which aligns with my conscientious preference for disciplined, sustainable progress. While my high openness keeps me attentive to innovative or higher-risk options like stocks, I believe that, without historical company data, a methodical approach is prudent for our first investment. Bonds offer safety but may limit our growth potential in these favorable conditions, and cash is too conservative for our objectives. Real estate provides the optimal foundation for learning and adaptability as we establish our track record, though I'm interested in exploring all perspectives to refine our understanding.\n\nFor this first round, our focus is to collaboratively establish baseline risk-return profiles for each asset—cash, bonds, real estate, and stocks—in the context of our stable market. By sharing our perspectives, we can build a shared understanding of each option’s theoretical performance and risk, laying a strong foundation for informed decision-making. I encourage everyone to contribute insights that may broaden or challenge my initial assessment, as integrating diverse viewpoints will help us reach a more complete understanding. \n\nIMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.",
+          "id": "M2_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Arazhna Masego",
+          "message": "In this stable environment, I see cash as providing absolute safety but offering minimal return, making it unsuitable if we seek meaningful growth. Bonds deliver consistent, low-to-medium returns with minimal risk, which is appealing for capital preservation but might limit our upside in such favorable conditions. Real estate, in my view, stands out for its steady appreciation and moderate risk—offering a disciplined path to growth without excessive volatility. Stocks present the highest return potential but come with greater uncertainty, which may not be optimal for our first quarter as we establish our baseline.",
+          "id": "M2_R1_2",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Arazhna, for your clear articulation of the trade-offs each asset presents in our current environment. I agree that real estate’s disciplined growth and moderate risk make it particularly compelling as we establish our investment track record, and I appreciate your emphasis on the need for a methodical approach in our inaugural quarter. Your insights help reinforce the importance of balancing growth potential with prudent risk management as we frame our decision.",
+          "id": "M2_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Arazhna Masego",
+          "message": "Thank you, Soraya. I agree that a disciplined approach is especially valuable as we establish our track record. At the same time, I believe maintaining openness to subtle shifts in market conditions—even in a stable environment—will help ensure our strategy remains both prudent and responsive as we move forward.",
+          "id": "M2_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "I appreciate your emphasis on remaining attentive to subtle changes in the market, Arazhna. While our environment is stable, your point underscores the importance of not becoming complacent and ensuring our approach remains adaptable as new information emerges. This mindset will serve us well as we strive for both steady progress and resilience in our investment strategy.",
+          "id": "M2_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Arazhna Masego",
+          "message": "I appreciate your recognition of the need for adaptability within our disciplined framework. By consciously pairing structured decision-making with ongoing vigilance, I believe we can better position ourselves to capitalize on opportunities and address risks as they arise, even in a stable market. This approach should help us build a resilient foundation for future growth.",
+          "id": "M2_R1_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Nayantara Basnet",
+          "message": "I appreciate the emphasis on balancing growth with risk management. In a stable market, I view cash as offering maximum safety but minimal return, which limits its strategic value for us. Bonds provide reliable, low-to-medium returns with little risk, but may not fully leverage the favorable environment. Real estate, in my assessment, offers steady appreciation and moderate risk—striking a pragmatic balance between ambition and caution—while stocks, though potentially lucrative, introduce volatility that may not be ideal for our first investment without historical data. I believe focusing on real estate aligns with both our need for disciplined structure and our aspiration for sustainable growth.",
+          "id": "M2_R1_7",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Nayantara, for your clear analysis of each asset’s risk-return profile in our current market context. I share your view that real estate offers a pragmatic balance between disciplined structure and sustainable growth, which is especially relevant as we build our initial track record. Your emphasis on aligning our choice with both ambition and caution further strengthens the case for real estate as a strong foundation for our first investment.",
+          "id": "M2_R1_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Nayantara Basnet",
+          "message": "I appreciate your recognition of the need to balance ambition with caution, and I agree that establishing a strong, reliable foundation is essential as we begin. At the same time, I believe that maintaining openness to quarterly reassessment—especially as we gather real performance data—will allow us to refine our strategy and remain responsive to evolving conditions, even in a stable market. This combination of structure and adaptability should position us well for both immediate progress and long-term resilience.",
+          "id": "M2_R1_9",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Nayantara, for highlighting the importance of ongoing reassessment as we accumulate real performance data. I agree that pairing a structured foundation with a commitment to regular review will help us remain both disciplined and adaptable, ensuring our strategy evolves in step with our experience and any subtle changes in the market. Your perspective reinforces the value of building flexibility into our decision-making process from the outset.",
+          "id": "M2_R1_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Linara Tavishvili",
+          "message": "I agree with the emphasis on disciplined growth and adaptability. In our current stable environment, cash offers security but does not support our growth mandate, while bonds provide reliable returns with minimal risk yet may underutilize the market’s potential. Real estate, in my view, stands out for its steady appreciation and manageable risk, making it a strong candidate for establishing our investment baseline; stocks, though potentially lucrative, introduce more volatility than may be warranted for our first quarter as we build experience.",
+          "id": "M2_R1_11",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Linara, for clearly outlining how real estate’s steady appreciation and manageable risk make it a strong candidate for our first investment. Your point about establishing a solid baseline as we build experience is particularly valuable, as it supports our goal of balancing growth with prudent risk management. This perspective further solidifies the rationale for prioritizing real estate in our current environment.",
+          "id": "M2_R1_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Linara Tavishvili",
+          "message": "I appreciate your acknowledgment, Soraya. As we move forward, I believe that pairing our disciplined approach with a mindset of continual learning will help us respond thoughtfully to any new insights or subtle changes in the market, even within a stable environment. This balance should serve as a strong foundation for both immediate and long-term success.",
+          "id": "M2_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Linara, for emphasizing the importance of continual learning alongside disciplined planning. I agree that maintaining an openness to new insights, even in a stable market, will help us refine our approach and ensure our strategy remains both resilient and responsive. Your perspective strengthens our collective commitment to thoughtful, adaptive decision-making as we move forward.",
+          "id": "M2_R1_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aisulu Oprea",
+          "message": "I appreciate the thoughtful analyses shared so far. In my view, cash provides certainty but does not meaningfully advance our growth objectives in a stable environment; bonds offer reliable, low-to-medium returns with minimal risk, but may underutilize current opportunities. Real estate, by contrast, stands out for its steady appreciation and moderate risk—aligning well with our need for both disciplined progress and a resilient foundation as we build our track record. While stocks are attractive for their higher return potential, I remain cautious about their volatility at this early stage without historical data.",
+          "id": "M2_R1_15",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Aisulu, for your detailed assessment of each asset’s risk-return profile in our current context. Your emphasis on real estate’s steady appreciation and moderate risk, particularly as a means of building both disciplined progress and resilience, resonates with our emerging consensus. I also appreciate your caution regarding stock volatility at this early stage, which reinforces the prudence of a methodical approach as we establish our track record.",
+          "id": "M2_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aisulu Oprea",
+          "message": "I appreciate your thoughtful summary, Soraya. As we move ahead, I believe it’s essential that we not only pursue disciplined growth through real estate but also remain attentive to new information and ready to reassess our approach each quarter. This combination of structure and adaptability should help us build a resilient foundation as we establish our investment track record.",
+          "id": "M2_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Aisulu, for highlighting the need to balance disciplined growth with ongoing attentiveness and readiness to reassess our strategy as new information becomes available. I agree that pairing structure with adaptability will help us build a resilient foundation and ensure our approach remains responsive as we gain experience. Your perspective further strengthens our collective commitment to both steady progress and continuous learning.",
+          "id": "M2_R1_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Amara Nadege Mbaye",
+          "message": "I agree that real estate offers the most balanced profile for our first investment—its steady appreciation and moderate risk align well with our need to establish a reliable track record in this stable market. At the same time, I believe our collective emphasis on disciplined structure should be paired with a commitment to regular review and openness to evolving data, ensuring we remain both resilient and responsive as we move forward. This approach will help us build a strong foundation while retaining the flexibility to adapt as our experience grows.",
+          "id": "M2_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Amara, for highlighting the importance of coupling disciplined structure with an ongoing commitment to regular review and openness to evolving data. I agree that this approach will help us build a strong, resilient foundation for our company while ensuring we remain flexible and responsive as our experience grows. Your perspective complements our shared emphasis on steady progress and continuous learning, which will be essential as we navigate future decisions.",
+          "id": "M2_R1_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Amara Nadege Mbaye",
+          "message": "I appreciate your emphasis on steady progress and continuous learning, Soraya. As we refine our understanding of each asset’s risk-return profile, I believe maintaining this balance between discipline and adaptability will help us remain objective in evaluating not only real estate, but also the merits of bonds and stocks as our experience deepens. This foundation should serve us well in both the immediate decision and our long-term investment strategy.",
+          "id": "M2_R1_21",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Amara, for underscoring the importance of maintaining objectivity and openness as we deepen our understanding of each asset’s risk-return profile. I agree that pairing disciplined progress with adaptability will help us make well-informed decisions—both now and as we accumulate experience. This mindset will be invaluable as we continue evaluating real estate alongside bonds and stocks in future quarters.",
+          "id": "M2_R1_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Amara Nadege Mbaye",
+          "message": "Thank you, Soraya. I believe that by embedding this commitment to both discipline and adaptability into our process now, we set a precedent for rigorous, reflective evaluation in each quarter ahead. This will help us remain well-positioned to capture opportunities and manage risks as our knowledge and the market environment evolve.",
+          "id": "M2_R1_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Soraya Naranjo-Mbele My current thinking is that Real Estate appears most promising because the broad consensus and nuanced reasoning presented by all shareholders have solidified my view that real estate offers the best balance of growth potential and manageable risk in this stable market environment. Its steady appreciation provides a reliable foundation for our inaugural investment, while the group’s collective commitment to ongoing assessment ensures we remain adaptable. This approach aligns with both my conscientious preference for disciplined progress and my openness to evolving our strategy as new information emerges, though I'm interested in exploring all perspectives to refine our understanding. For this round, we will focus on evaluating how each asset aligns with our company’s objectives and risk tolerance, aiming to identify which option best supports our goals for disciplined growth, learning, and adaptability in this first quarter. I encourage everyone to share any insights or concerns that could enhance our collective reasoning and strengthen our decision. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.",
+          "id": "M2_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Arazhna Masego",
+          "message": "I find that real estate best aligns with our objectives for disciplined growth and operational learning in this stable market. Its moderate risk and reliable appreciation provide a solid platform for our inaugural investment, while our commitment to ongoing review ensures we remain adaptable as new information emerges.",
+          "id": "M2_R2_2",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Arazhna. I appreciate your clear articulation of how real estate’s moderate risk and reliable appreciation align with our goals for disciplined growth and learning. Your emphasis on operational learning and adaptability through ongoing review resonates strongly with my own priorities, and I believe this approach will help us build a resilient foundation for our company’s future decisions.",
+          "id": "M2_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Arazhna Masego",
+          "message": "I appreciate your response and agree that maintaining adaptability through regular review will be essential as we move forward. I also welcome any additional perspectives from the group that might help us further refine our understanding of how each asset supports our long-term objectives, especially as we gain more data in future quarters.",
+          "id": "M2_R2_4",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Arazhna. Your openness to additional perspectives and emphasis on adaptability through regular review are critical as we continue to build our decision-making framework. I encourage others to share their insights on how each asset aligns with our objectives, so we can ensure our inaugural investment is both well-reasoned and responsive to evolving information.",
+          "id": "M2_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Linara Tavishvili",
+          "message": "I agree that real estate’s steady appreciation and moderate risk fit well with our goal of disciplined, sustainable growth, particularly as we establish our investment track record. Its tangible nature also supports operational learning, giving us practical experience to inform future decisions. By pairing this choice with our commitment to regular review, I believe we can build both resilience and adaptability as we move forward.",
+          "id": "M2_R2_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Linara. I appreciate your focus on the practical benefits of real estate for building our operational knowledge and track record. Your point about pairing this choice with regular review is especially valuable, as it ensures we remain both resilient and adaptable as our experience grows.",
+          "id": "M2_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Linara Tavishvili",
+          "message": "I appreciate your emphasis on adaptability, Soraya. As we gather more experience, maintaining openness to revisiting our assumptions about real estate—and the other asset classes—will be crucial. This mindset will help ensure our decisions continue to reflect both our evolving knowledge and the company’s long-term objectives.",
+          "id": "M2_R2_8",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Linara. Your point about remaining open to revisiting our assumptions as we accumulate more data is critical for ensuring our decisions stay aligned with both our evolving knowledge and long-term objectives. I share your view that fostering this mindset will help us build a culture of disciplined learning and adaptability as we move forward.",
+          "id": "M2_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Amara Nadege Mbaye",
+          "message": "I agree that real estate offers the most balanced alignment with our company’s objectives at this stage—its steady appreciation supports disciplined growth, while the moderate risk profile allows us to learn and adapt without exposing the company to undue volatility. Pairing this choice with a structured process of regular review ensures we remain responsive to new information, maintaining both resilience and openness as our investment journey begins.",
+          "id": "M2_R2_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Amara. Your emphasis on balancing disciplined growth with adaptability through regular review resonates strongly with our shared priorities. I agree that this structured approach will enable us to respond effectively to new information, building both resilience and openness as we establish our investment track record.",
+          "id": "M2_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Nayantara Basnet",
+          "message": "I find that real estate aligns closely with our goals for disciplined growth and operational learning in this stable market. Its moderate risk and steady appreciation provide a resilient foundation, while our commitment to regular review ensures we can adapt as new information emerges. This balance between structure and flexibility seems especially well-suited to our inaugural investment, supporting both immediate progress and long-term development.",
+          "id": "M2_R2_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Nayantara. I appreciate your clear articulation of how real estate’s moderate risk and steady appreciation provide both a resilient foundation and the flexibility we need for disciplined growth and learning. Your emphasis on balancing structure with adaptability aligns closely with our objectives and strengthens my confidence that this approach will serve us well as we move forward.",
+          "id": "M2_R2_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Nayantara Basnet",
+          "message": "I appreciate your emphasis on iterative learning, Soraya. As we move forward, maintaining this balance will allow us to refine our strategy with each quarter, ensuring that our approach to real estate remains grounded in both disciplined analysis and openness to new insights. This mindset will be key to building a resilient, adaptive investment culture from the outset.",
+          "id": "M2_R2_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Nayantara. Your focus on iterative learning and the need to continually refine our strategy is essential as we establish our investment culture. I agree that by grounding our decisions in disciplined analysis while remaining open to new perspectives, we can ensure our approach to real estate—and future investments—remains resilient and adaptive as our company evolves.",
+          "id": "M2_R2_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Nayantara Basnet",
+          "message": "I agree, Soraya—by embedding both rigor and openness into our process now, we create a template for future investment decisions that can evolve as our knowledge grows. This shared commitment to learning will help us not only optimize our initial real estate investment but also develop a culture of thoughtful, adaptive strategy company-wide.",
+          "id": "M2_R2_16",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aisulu Oprea",
+          "message": "I continue to see real estate as the asset best aligned with our objectives for this inaugural quarter. Its steady appreciation and moderate risk provide a disciplined foundation for growth, while the tangible nature of the investment offers practical opportunities for operational learning. By pairing this choice with our commitment to regular review, I believe we can remain both resilient and adaptable as new information emerges, ensuring our approach evolves alongside our experience.",
+          "id": "M2_R2_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Aisulu. Your emphasis on the tangible, operational learning benefits of real estate, alongside its steady appreciation and moderate risk, aligns closely with our objectives for disciplined, sustainable growth. I also appreciate your focus on adaptability through regular review—this ongoing reflection will be critical to ensuring our strategy remains responsive as we build experience in our first year.",
+          "id": "M2_R2_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Aisulu Oprea",
+          "message": "I appreciate your focus on ongoing reflection, Soraya. To ensure our strategy remains responsive, I suggest we explicitly document key lessons from each quarterly review, so that our decision-making process continuously integrates both successes and challenges. This will help us build a structured foundation for learning and adaptability as we move forward.",
+          "id": "M2_R2_19",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Aisulu. Your proposal to explicitly document key lessons from each quarterly review is an excellent way to ensure that our learning is systematic and actionable. By integrating this practice, we can create a strong feedback loop that continuously refines our decision-making and strengthens our adaptability as we advance with our chosen asset.",
+          "id": "M2_R2_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q2": {
+      "round_1": [
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Soraya Naranjo-Mbele My current thinking is that Real Estate appears most promising because it has demonstrated steady, moderate returns (10%) with manageable risk in our stable market—offering an appealing balance between growth and safety for our company’s current stage. While Stocks have outperformed in the last quarter, their higher volatility introduces uncertainty that feels premature for us to embrace fully, especially as we are still building our track record. This round, I invite us to reflect on our Q1 investment in Real Estate, identifying both the key strengths of our decision and any areas for improvement so we can clarify how these lessons should inform our approach this quarter. By thoughtfully integrating our diverse perspectives, we can refine our understanding and make a more robust decision moving forward. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I encourage each of you to share your insights—especially any observations or concerns I may not have fully considered—to help us collectively strengthen our decision-making process.",
+          "id": "M3_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Linara Tavishvili",
+          "message": "Building on last quarter’s experience, I see clear value in Real Estate’s consistent, moderate return and its role in supporting disciplined, tangible operational learning for our young company. However, I believe it’s important to remain attentive to the higher returns seen in stocks, weighing whether our current preference for stability might limit our growth potential if market conditions remain favorable. As we reflect, I suggest we clarify not only what worked well with Real Estate, but also what indicators might prompt us to thoughtfully consider a shift toward higher-growth assets in future quarters.",
+          "id": "M3_R1_2",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Linara, for highlighting both the strengths of our Real Estate investment and the need to remain vigilant about potential growth opportunities in Stocks. I agree that articulating clear indicators—such as sustained stable market conditions or evidence of consistently higher returns—will help us recognize when it may be appropriate to adapt our strategy. This balanced approach ensures we continue learning from our experience while staying open to disciplined, data-driven shifts in future quarters.",
+          "id": "M3_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Linara Tavishvili",
+          "message": "I appreciate your emphasis on defining clear indicators for potential strategic shifts. To strengthen our adaptability, I suggest we document concrete criteria—such as a pattern of outperformance by stocks over multiple quarters or changes in volatility—that would trigger a structured review of our asset allocation. This approach will help ensure our decision process remains both disciplined and responsive as new data emerges.",
+          "id": "M3_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "I appreciate your proposal to document specific criteria—such as a pattern of stock outperformance or shifts in volatility—that would prompt a structured review of our asset allocation. Establishing these triggers will help us formalize our commitment to disciplined adaptability, ensuring our decision-making remains both evidence-based and responsive as new information becomes available. This approach aligns well with our goal of continuous, reflective improvement.",
+          "id": "M3_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Arazhna Masego",
+          "message": "I agree that our Q1 investment in Real Estate validated the merits of a disciplined, stability-focused approach, especially as we build our track record in a stable market. At the same time, Linara’s suggestion to establish clear criteria for reviewing higher-growth options like Stocks resonates with me—I believe that explicitly documenting such triggers will help us remain both prudent and adaptable as conditions evolve. This balance between reliability and openness to change is essential for informed, resilient decision-making.",
+          "id": "M3_R1_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Arazhna, for underscoring the importance of balancing stability with adaptability as we refine our investment strategy. Your support for explicitly documenting triggers to review higher-growth options like Stocks reflects a shared commitment to both prudent discipline and openness to change. By formalizing these criteria, we can ensure our process remains resilient and well-informed as conditions evolve.",
+          "id": "M3_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Arazhna Masego",
+          "message": "I appreciate your emphasis on resilience and collective learning as outcomes of formalizing review criteria. By documenting both the specific indicators and our rationale for them, we create a transparent framework that invites ongoing input from all shareholders and ensures our decisions remain grounded in shared understanding as well as data.",
+          "id": "M3_R1_8",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "I fully agree that documenting not just the indicators, but also the rationale behind them, will help foster transparency and ongoing engagement from all shareholders. This approach ensures our decisions are grounded in both shared understanding and objective data, reinforcing a culture where learning and adaptability are central to how we operate. Your point highlights how process clarity can support both robust governance and collaborative growth.",
+          "id": "M3_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Aisulu Oprea",
+          "message": "I believe our Q1 investment in Real Estate demonstrated the strength of disciplined decision-making and the value of steady, moderate returns as we build our track record. One area for improvement is to formalize our process for documenting both the outcomes and the rationale behind our investment choices—this would support organizational learning and help us remain adaptable if market conditions or asset performance patterns shift. Building on Linara and Arazhna’s points, I support establishing explicit review criteria so we can transition thoughtfully if evidence consistently favors higher-growth assets like stocks.",
+          "id": "M3_R1_10",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Aisulu, for highlighting both the strength of our disciplined approach and the importance of formalizing our documentation process. Your suggestion to explicitly record both outcomes and rationales will strengthen our organizational learning and ensure we remain adaptable if conditions change. By establishing clear review criteria, we can transition thoughtfully and confidently, making our decision-making more robust as we continue to monitor asset performance and market trends.",
+          "id": "M3_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aisulu Oprea",
+          "message": "I appreciate your commitment to strengthening our documentation process, as this will not only support transparency but also empower all shareholders to engage more deeply with evolving data. By making our review criteria and rationales accessible, we can foster a culture where adaptive, evidence-based decision-making becomes second nature, ensuring we stay responsive to both market trends and the collective insights of our team.",
+          "id": "M3_R1_12",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "I share your view that accessible documentation is essential for fostering transparency and enabling all shareholders to engage meaningfully with our ongoing decision process. By making our review criteria and rationales available, we not only strengthen organizational learning but also create a culture where adaptive, evidence-based decisions are truly collaborative. This approach will help ensure we remain agile and united as we respond to new data and evolving market conditions.",
+          "id": "M3_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Nayantara Basnet",
+          "message": "I see our Q1 experience with Real Estate as affirming the strength of a structured, steady-growth approach, particularly for a company in its formative stage. At the same time, I agree with the suggestion to document explicit review criteria—by embedding this practice, we can preserve the benefits of reliability while remaining genuinely open to shifts should sustained outperformance or market changes emerge. This balance between structure and adaptability will help ensure our decisions continue to serve both our immediate and long-term objectives.",
+          "id": "M3_R1_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "I appreciate your emphasis on preserving the strengths of our structured approach while embedding explicit review criteria to maintain adaptability. By formalizing this balance, we can ensure our decision-making process remains both reliable and responsive to sustained outperformance or evolving market conditions, supporting our company’s growth at every stage. Your perspective reinforces the importance of aligning immediate actions with long-term objectives through disciplined, transparent practices.",
+          "id": "M3_R1_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Nayantara Basnet",
+          "message": "I appreciate your focus on disciplined, transparent practices as the foundation for aligning immediate actions with our long-term objectives. By ensuring that our review criteria and decision rationales are accessible to all shareholders, we foster both accountability and a shared sense of purpose, which I believe will further strengthen our collaborative culture as we navigate future investment choices.",
+          "id": "M3_R1_16",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "I agree that making our review criteria and decision rationales accessible is key to fostering both accountability and a shared purpose within our team. This transparency not only reinforces trust and collective engagement but also ensures that our investment process remains robust and adaptable as we move forward. Your insight highlights how clear, shared practices can underpin both effective governance and a resilient, collaborative culture.",
+          "id": "M3_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Amara Nadege Mbaye",
+          "message": "I agree that our Q1 investment in Real Estate validated the merits of a disciplined, steady-growth approach—its moderate return and manageable risk provided a strong foundation for our company’s development. At the same time, I see real value in the group’s suggestion to formalize explicit review criteria and documentation practices, as this will help us remain responsive to new data and ensure our decision-making evolves thoughtfully as market patterns emerge. By combining structured learning with openness to adapting our strategy, we can continue to balance reliability with prudent ambition in future quarters.",
+          "id": "M3_R1_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Amara, for underscoring how formalizing explicit review criteria and documentation practices will help us remain both responsive and thoughtful as new data emerges. By embedding structured learning alongside openness to adapting our strategy, we can ensure our investment process maintains a strong foundation while evolving to capture prudent opportunities. Your perspective reinforces the importance of balancing reliability with ambition as we continue to develop our company’s approach.",
+          "id": "M3_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Amara Nadege Mbaye",
+          "message": "I appreciate your focus on operationalizing the balance between reliability and ambition as we refine our asset selection. As we consider Cash, Bonds, Real Estate, and Stocks for this quarter, I believe our commitment to structured review and adaptive learning should guide us to weigh not only past performance but also how each option aligns with our evolving criteria for disciplined, resilient growth. This approach will help us remain intentional in our choices while preserving the flexibility to pursue greater opportunities as our confidence and data grow.",
+          "id": "M3_R1_20",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Amara, for highlighting the importance of weighing each asset option not only by past performance but also by how it aligns with our evolving criteria for disciplined, resilient growth. Your emphasis on structured review and adaptive learning reinforces our commitment to making intentional, well-informed choices while remaining flexible enough to pursue greater opportunities as our understanding and data mature. This perspective will be invaluable as we move forward in our evaluation of Cash, Bonds, Real Estate, and Stocks for this quarter.",
+          "id": "M3_R1_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Amara Nadege Mbaye",
+          "message": "I agree that applying our evolving criteria to each asset option is essential for intentional decision-making. For this quarter, I suggest we explicitly assess how the risk and return profiles of Cash, Bonds, Real Estate, and Stocks align with our current priorities—such as steady progress, manageable risk, and readiness to adapt—so we can select the option that best fits our stage of development and strategic goals.",
+          "id": "M3_R1_22",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Amara, for emphasizing the need to explicitly evaluate how each asset’s risk and return profile aligns with our current priorities—steady progress, manageable risk, and adaptability. This approach will ensure our decision remains intentional and grounded in our evolving criteria. I propose we use this framework as we move into our comparative analysis of Cash, Bonds, Real Estate, and Stocks for this quarter.",
+          "id": "M3_R1_23",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Soraya Naranjo-Mbele My current thinking is that Real Estate appears most promising because I remain most confident in Real Estate as the optimal choice for this quarter, given its proven track record of steady returns and manageable risk in our stable market. The group’s collective commitment to formalizing review criteria and documentation strengthens our ability to adapt responsibly should conditions change. While I acknowledge the potential upside of Stocks, I believe a disciplined, criteria-based process is essential before making any strategic shift. This approach aligns with our company’s focus on steady progress, risk management, and continuous learning, though I'm interested in exploring all perspectives to refine our understanding. \n\nThis round, we will conduct a comparative risk-return analysis of all asset options—Cash, Bonds, Real Estate, and Stocks—in the context of our current stable market, with the goal of establishing a clear, shared understanding of the projected outcomes, risks, and alignment with our company objectives for each available asset this quarter. By openly examining the merits and limitations of each option, we can synthesize our diverse perspectives and deepen our collective reasoning, ensuring our eventual decision is both robust and adaptive. I encourage everyone to share insights that might challenge or enhance our current assessment so we can integrate the best thinking from across the group. \n\nIMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.",
+          "id": "M3_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Nayantara Basnet",
+          "message": "In this stable market, Cash and Bonds offer safety but their lower returns do not sufficiently advance our growth objectives at this formative stage. Real Estate continues to provide a disciplined balance of steady appreciation and moderate risk, supporting both operational learning and adaptability, while Stocks—despite their higher potential return—introduce volatility that may be premature without clearer, evidence-based triggers. I support maintaining our structured approach with Real Estate this quarter, while ensuring our review process remains rigorous and transparent so we are prepared to pivot when the data justifies a strategic shift.",
+          "id": "M3_R2_2",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Nayantara, for articulating the balance between growth objectives and prudent risk management so clearly. I agree that Real Estate’s steady, moderate returns continue to align well with our current priorities, and I appreciate your emphasis on maintaining a rigorous, transparent review process to ensure we remain adaptable. Your point about being prepared to pivot when supported by clear, evidence-based triggers is especially valuable as we refine our criteria for future strategic shifts.",
+          "id": "M3_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Nayantara Basnet",
+          "message": "I appreciate your focus on refining our review criteria as a means of balancing discipline with adaptability. By explicitly linking our decision process to transparent, evidence-based triggers, we can remain open to assets like Stocks when conditions warrant, while maintaining the steady foundation Real Estate currently provides. This approach gives me confidence that our strategy will continue to evolve thoughtfully as new data emerges.",
+          "id": "M3_R2_4",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Nayantara. I share your conviction that explicitly connecting our decision process to objective, transparent criteria will allow us to maintain our disciplined foundation with Real Estate while ensuring we remain agile and responsive to new opportunities. This commitment to evolving our strategy thoughtfully as data emerges will help us balance steady progress with prudent adaptability, and I value your focus on keeping our approach both structured and open to future shifts.",
+          "id": "M3_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Arazhna Masego",
+          "message": "I continue to view Real Estate as the optimal choice this quarter, given its steady 10% return and moderate risk, which aligns with our goal of disciplined, reliable growth in a stable market. While the higher return of Stocks is attractive, the absence of clear, evidence-based triggers for a shift—along with our current priority on building a resilient foundation—leads me to favor maintaining our structured approach with Real Estate. I appreciate the group’s commitment to transparent review criteria, as this ensures we remain open to future opportunities while safeguarding our progress.",
+          "id": "M3_R2_6",
+          "act_type": "Justify",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Arazhna. I appreciate your emphasis on maintaining a structured approach with Real Estate while prioritizing the development of clear, evidence-based triggers for any potential shift. Your focus on transparent review criteria resonates with our collective goal of safeguarding progress while remaining receptive to future opportunities, ensuring our strategy remains both disciplined and adaptable.",
+          "id": "M3_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Arazhna Masego",
+          "message": "I agree that our shared focus on transparent, evidence-based review criteria not only safeguards our current progress but also cultivates a culture of continuous learning and thoughtful adaptation. By embedding these practices into our process, we ensure that any future consideration of Stocks or other options will be grounded in both disciplined analysis and collective insight, supporting resilient long-term growth.",
+          "id": "M3_R2_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Arazhna. I fully agree that embedding transparent, evidence-based review criteria into our process is vital for cultivating both resilience and adaptability. By grounding our future decisions in disciplined analysis and collective insight, we strengthen our ability to pursue steady growth while remaining prepared to thoughtfully adapt as new opportunities or data arise.",
+          "id": "M3_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Amara Nadege Mbaye",
+          "message": "I appreciate the thoughtful analysis shared so far. In comparing all options, I find that Real Estate continues to offer the most balanced alignment with our objectives—providing steady, moderate returns and manageable risk, which is especially important as we build our foundation. At the same time, I value our commitment to formal review criteria that ensure we remain attentive to shifts in market conditions, so we can confidently consider Stocks or other higher-return assets when warranted by clear, evidence-based indicators.",
+          "id": "M3_R2_10",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Amara, for clearly articulating the balance between steady, disciplined growth and the need for ongoing vigilance through formal review criteria. I agree that Real Estate’s alignment with our objectives remains strong at this stage, and your emphasis on being prepared to consider higher-return assets like Stocks—when supported by clear, evidence-based indicators—captures the thoughtful, adaptive mindset we are striving to embed in our process. This approach will help ensure our strategy remains both resilient and responsive as conditions evolve.",
+          "id": "M3_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Amara Nadege Mbaye",
+          "message": "I appreciate your emphasis on embedding adaptability within our disciplined approach. By formalizing our comparative risk-return analysis and review criteria, we not only strengthen our current decision but also create a robust framework for evaluating all asset options in future quarters. This process helps ensure our strategy remains principled yet responsive as new data and opportunities arise.",
+          "id": "M3_R2_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Amara. I agree that by formalizing our comparative risk-return analysis and review criteria, we not only enhance the rigor of our current decision, but also lay the groundwork for disciplined, adaptive evaluation of all asset options in future quarters. This structured approach will help us remain principled in our strategy while ensuring we are responsive to new information and evolving opportunities.",
+          "id": "M3_R2_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Linara Tavishvili",
+          "message": "I appreciate the thoughtful analysis shared by everyone. In reviewing all options, I see that Cash and Bonds provide safety but insufficient growth for our current stage, while Stocks offer greater upside but with volatility that may not yet suit our disciplined approach. Real Estate continues to deliver steady, moderate returns with manageable risk, making it the most aligned with our goals for steady progress, operational learning, and adaptability—especially as we formalize clear review criteria to guide future shifts if warranted by new data.",
+          "id": "M3_R2_14",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Linara. Your comparative analysis succinctly captures the strengths and limitations of each option in our current context. I agree that Real Estate’s steady, moderate returns and manageable risk remain most aligned with our objectives, and your emphasis on formalizing review criteria is crucial for ensuring we can adapt thoughtfully as new data emerges. This approach will help us maintain steady progress while remaining open to future opportunities.",
+          "id": "M3_R2_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Aisulu Oprea",
+          "message": "I appreciate the rigorous comparative analysis shared so far. In this stable market, Cash and Bonds offer safety but fall short of our growth objectives, while Stocks, despite their higher return, introduce volatility that may not be justified without sustained evidence of outperformance. Real Estate continues to provide the most balanced risk-return profile for our current objectives—steady appreciation, manageable risk, and tangible learning opportunities—especially as we formalize transparent review criteria that will enable us to adapt confidently if market conditions or performance patterns shift in the future.",
+          "id": "M3_R2_16",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Aisulu. Your rigorous analysis highlights the strengths and limitations of each option in our current stable market, and I agree that Real Estate continues to offer the most balanced risk-return profile for our objectives. I especially value your emphasis on formalizing transparent review criteria, as this will enable us to adapt confidently and responsibly should market conditions or performance patterns shift, ensuring our strategy remains both disciplined and flexible.",
+          "id": "M3_R2_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Aisulu Oprea",
+          "message": "I appreciate your focus on disciplined flexibility, Soraya. By embedding transparent review criteria into our process, we create a practical framework for recognizing when a strategic shift—such as considering Stocks—would be warranted by evidence, rather than speculation. This clarity helps ensure our decisions remain principled and adaptive as our company evolves.",
+          "id": "M3_R2_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Aisulu. I fully agree that embedding transparent review criteria into our process provides the clarity and discipline needed to recognize when a strategic shift is justified by evidence. This approach will help us remain principled and adaptive, enabling us to evolve our strategy thoughtfully as our company grows and new information becomes available.",
+          "id": "M3_R2_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q3": {
+      "round_1": [
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Soraya Naranjo-Mbele My current thinking is that Real Estate appears most promising because I am drawn to Real Estate this quarter because it continues to offer a disciplined balance between growth and risk in our stable market. Although last quarter’s return was flat, the overall pattern remains steady and aligns with my preference for structured, methodical progress without excessive volatility. Bonds and cash are reliable but do not advance our growth objectives sufficiently, while stocks, despite their upside, have demonstrated volatility that feels premature for a strategic shift at this stage. My conscientious nature favors a consistent, evidence-based approach, and I remain open to refining this view as new insights emerge from our discussion, though I'm interested in exploring all perspectives to refine our understanding.\n\nFor this first round, I propose that we focus on reviewing the historical performance of each asset class alongside our prior investment outcomes, aiming to establish a shared factual foundation and recognize any emerging patterns in returns and risk. By grounding our discussion in concrete past results, we can ensure that our subsequent analysis is both informed and balanced. I encourage everyone to share observations that might challenge or deepen our understanding of these patterns, so we can move forward with a more complete and nuanced perspective.\n\nIMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I invite each of you to contribute your insights on how the historical data informs our decision-making this quarter, especially if you see factors I may not have fully considered.",
+          "id": "M4_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Nayantara Basnet",
+          "message": "Reviewing our past two quarters, I notice that real estate has delivered a strong return followed by a flat period, reflecting moderate risk with generally steady performance—qualities that align well with disciplined growth in our stable market. In contrast, stocks have demonstrated both the highest upside and the sharpest downside, underscoring their volatility and the importance of timing, while cash and bonds have remained reliable but too modest to meaningfully advance our objectives. This pattern reinforces my view that real estate continues to offer the most balanced risk-return profile for our current context.",
+          "id": "M4_R1_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Nayantara, for articulating the risk-return dynamics so clearly. I agree that real estate’s pattern of steady performance with moderate risk stands out in our stable market, and your observation about the volatility of stocks is a valuable reminder of the importance of disciplined timing. Your perspective strengthens our shared understanding and supports a fact-based approach as we move forward in evaluating these options.",
+          "id": "M4_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Nayantara Basnet",
+          "message": "I appreciate your focus on disciplined timing, Soraya. Building on this, I think our review of the data suggests that while real estate’s reliability is valuable, maintaining openness to periodic reassessment—especially if market signals shift—will help us adapt without sacrificing our core stability. This balance between consistency and readiness to pivot seems central to our long-term success.",
+          "id": "M4_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you for highlighting the need to pair consistent strategy with openness to reassessment, Nayantara. I agree that maintaining a disciplined core while remaining attentive to evolving market signals will strengthen our ability to adapt responsibly over time. Your emphasis on balancing stability with readiness to pivot is an important consideration as we continue to review our options.",
+          "id": "M4_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Nayantara Basnet",
+          "message": "I agree, Soraya, and would add that our experience so far with real estate illustrates how a disciplined approach can still accommodate learning and adjustment over time. If we continue to document outcomes and periodically reassess, we can ensure our strategy remains both resilient and responsive to any evolving patterns in the data.",
+          "id": "M4_R1_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you for underscoring the importance of continuous documentation and periodic reassessment, Nayantara. I agree that our disciplined approach to real estate has not only provided stability but also created opportunities for reflective learning and adaptation. This ongoing commitment to structured review will be vital in ensuring our strategy remains resilient and well-informed as new data emerges.",
+          "id": "M4_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Linara Tavishvili",
+          "message": "Reviewing our outcomes, I notice that real estate’s initial strong return followed by a flat period illustrates both its potential for steady appreciation and the reality of occasional variability, yet overall it has avoided the sharp swings seen in stocks. This pattern supports my view that real estate’s moderate risk and generally stable returns remain well-suited for our disciplined, learning-oriented approach in a stable market. I also agree with the emphasis on ongoing documentation and periodic reassessment, as these practices will help us adapt thoughtfully if future data reveal new patterns.",
+          "id": "M4_R1_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Linara, for emphasizing both the steady appreciation and the variability we’ve observed in real estate, as well as the contrast with the volatility of stocks. Your point about integrating ongoing documentation and periodic reassessment is especially valuable—it reinforces our commitment to a disciplined yet adaptive approach that can evolve as new patterns emerge. This perspective will help ensure our decision-making remains both robust and flexible as we move forward.",
+          "id": "M4_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Linara Tavishvili",
+          "message": "I appreciate your emphasis on adaptability, Soraya. By systematically documenting outcomes and periodically reviewing not only real estate but also our experiences with cash, bonds, and stocks, we can develop a richer understanding of how each asset performs in different scenarios. This broader perspective will help us refine our criteria for future decisions and ensure our strategy remains both evidence-based and responsive to change.",
+          "id": "M4_R1_10",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Linara, for broadening the focus to include systematic review of all asset classes, not just real estate. I agree that by documenting and periodically reassessing our experiences across cash, bonds, real estate, and stocks, we will develop a more comprehensive understanding of each asset’s behavior in varying conditions. This practice will undoubtedly strengthen our evidence base and help us refine our decision criteria as we move forward.",
+          "id": "M4_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Linara Tavishvili",
+          "message": "I agree, Soraya, and would add that maintaining this comprehensive evidence base will enable us to detect emerging trends or shifts in risk-return profiles more quickly. This proactive awareness can inform timely discussions about adjusting our allocation among cash, bonds, real estate, or stocks, ensuring we remain both disciplined and adaptable as conditions evolve.",
+          "id": "M4_R1_12",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Linara, for emphasizing the importance of maintaining a comprehensive evidence base across all asset classes. I agree that this proactive approach will enable us to identify emerging trends or changes in risk-return profiles more effectively, allowing for disciplined yet timely adjustments among cash, bonds, real estate, or stocks as warranted. Your focus on both discipline and adaptability reinforces our commitment to building a resilient, learning-oriented investment strategy.",
+          "id": "M4_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Arazhna Masego",
+          "message": "Reviewing our historical results, I see that real estate has provided a strong initial return followed by a flat quarter—this pattern reflects a generally stable, moderate-risk profile, which aligns with our disciplined growth objectives in a stable market. While stocks have shown both the highest gain and the sharpest loss, their volatility stands in contrast to the steadier outcomes from real estate, bonds, and cash. I believe our ongoing practice of systematic documentation and periodic reassessment will be essential in identifying any shifts in these patterns, helping us adapt while maintaining a reliable foundation for growth.",
+          "id": "M4_R1_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Arazhna, for clearly articulating the contrast between the volatility of stocks and the steadier, moderate-risk profile of real estate, bonds, and cash. Your emphasis on systematic documentation and periodic reassessment is especially valuable, as these practices will help us remain vigilant to emerging shifts while sustaining a reliable foundation for disciplined growth. This perspective strengthens our collective commitment to both evidence-based decision-making and continuous adaptation as we evaluate our options.",
+          "id": "M4_R1_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Arazhna Masego",
+          "message": "I appreciate your focus on vigilance and adaptability, Soraya. Integrating systematic documentation with regular reassessment not only reinforces our disciplined foundation but also ensures we remain alert to early indicators of change—whether in real estate, stocks, bonds, or cash. This approach gives us both the structure for steady progress and the flexibility to recognize when a strategic pivot may be warranted.",
+          "id": "M4_R1_16",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Arazhna, for highlighting how systematic documentation and regular reassessment serve as both the backbone of disciplined progress and the mechanism for early detection of meaningful shifts across all asset classes. I agree that this integrated approach will help us sustain steady growth while remaining prepared to act decisively if new patterns or signals emerge in real estate, stocks, bonds, or cash. Your insight reinforces the importance of pairing structure with flexibility as we continue to refine our investment strategy.",
+          "id": "M4_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aisulu Oprea",
+          "message": "Reflecting on our historical outcomes, I notice that real estate has delivered both a strong return and a flat period, illustrating its overall stability with occasional variability—qualities that align well with our disciplined, learning-oriented approach. The volatility in stocks, despite their potential, reinforces my view that a sustained evidence base is necessary before considering a strategic shift. I support the group’s emphasis on systematic documentation and periodic reassessment, as these practices will ensure our decisions remain both grounded and responsive as new data emerges.",
+          "id": "M4_R1_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Aisulu, for synthesizing the historical patterns so clearly and for emphasizing the importance of a sustained evidence base before contemplating a strategic shift, particularly regarding stocks. I fully agree that systematic documentation and periodic reassessment are essential for keeping our decisions both grounded and responsive as new data emerges. Your perspective strengthens our collective commitment to a disciplined, learning-oriented approach as we continue to evaluate our options.",
+          "id": "M4_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Amara Nadege Mbaye",
+          "message": "I appreciate the thorough review of our historical outcomes and the emphasis on systematic documentation and reassessment. Real estate’s pattern—a strong initial return followed by a flat period—demonstrates both its general stability and the value of maintaining regular, evidence-based review cycles. This approach not only helps us preserve capital and manage risk but also creates space for learning and adaptability, ensuring our strategy remains resilient as new patterns emerge across all asset classes.",
+          "id": "M4_R1_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Amara, for highlighting how regular, evidence-based review cycles contribute not only to risk management but also to ongoing learning and adaptability. I agree that this disciplined approach helps us preserve capital while remaining open to new insights as patterns evolve across all asset classes. Your perspective further strengthens our foundation for resilient, responsive decision-making as we continue to assess our options.",
+          "id": "M4_R1_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Amara Nadege Mbaye",
+          "message": "I agree, Soraya, and would add that our commitment to disciplined review not only safeguards our capital in the present but also positions us to recognize and act on evolving trends across cash, bonds, real estate, and stocks. This dual focus—preserving stability while remaining receptive to change—will be essential as we continue building a resilient, adaptive investment strategy.",
+          "id": "M4_R1_22",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Amara, for emphasizing how disciplined review serves both to safeguard our current position and to enhance our readiness for future shifts across all asset options. I fully agree that maintaining this balance—preserving stability while remaining open to recognizing and acting on evolving trends—will be central to our continued resilience and adaptability as we navigate future investment decisions.",
+          "id": "M4_R1_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Amara Nadege Mbaye",
+          "message": "I appreciate your alignment, Soraya. By keeping this balance at the forefront of our process, we can ensure that each investment decision—whether in cash, bonds, real estate, or stocks—remains grounded in disciplined review while allowing us to adapt thoughtfully as new evidence emerges.",
+          "id": "M4_R1_24",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Soraya Naranjo-Mbele My current thinking is that Real Estate appears most promising because after a thorough review of historical performance and robust shareholder input, I am even more confident that Real Estate offers the best balance of growth and risk in our current stable market. Its pattern of steady, moderate returns aligns with our disciplined, learning-oriented approach, while systematic documentation and regular reassessment will ensure we remain adaptable. Although Bonds and Stocks present certain advantages, neither currently matches Real Estate’s alignment with our objectives for steady progress and prudent risk management, though I'm interested in exploring all perspectives to refine our understanding. For this round, we will conduct a comparative assessment of current risk-return profiles and evaluate how each asset option matches our risk tolerance and growth strategy. By sharing diverse perspectives, we can deepen our understanding and ensure our decision reflects both collective wisdom and disciplined analysis. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I encourage you to share any insights or considerations that might challenge or enhance our current thinking so we can arrive at the most robust decision for our company.",
+          "id": "M4_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Nayantara Basnet",
+          "message": "In this stable market, Real Estate continues to offer the most disciplined balance between steady growth and manageable risk, which closely matches our company’s objectives and current risk appetite. While Bonds and Cash provide reliability, their limited returns would likely constrain our progress toward meaningful growth, and Stocks—despite their upside—introduce volatility that feels misaligned with our current strategy. Our ongoing commitment to systematic documentation and regular review ensures we remain adaptable, allowing us to revisit these options as our evidence base and risk tolerance evolve.",
+          "id": "M4_R2_2",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Nayantara, for clearly summarizing how Real Estate’s steady growth and moderate risk align with our current objectives and risk tolerance, especially in the context of our stable market. I appreciate your emphasis on the importance of remaining adaptable through systematic documentation and regular review; this approach will help ensure our strategy remains responsive as conditions and our evidence base evolve. Your perspective helps crystallize the rationale for favoring Real Estate at this stage while keeping the door open for future reassessment.",
+          "id": "M4_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Linara Tavishvili",
+          "message": "I agree that Real Estate remains the most aligned with our objectives in this stable market, offering steady growth without exposing us to excessive volatility. While Bonds and Cash are appealing for their reliability, their limited returns do not sufficiently advance our goals at this stage; conversely, Stocks’ recent swings underscore the need for more sustained evidence before increasing our risk exposure. Maintaining a disciplined focus on Real Estate, paired with ongoing review and documentation, best supports both our immediate priorities and our commitment to adaptive learning.",
+          "id": "M4_R2_4",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Linara, for articulating how Real Estate’s steady growth and moderate risk best serve our objectives in the current environment, and for highlighting the limitations of Bonds, Cash, and Stocks relative to our goals. Your emphasis on disciplined focus, ongoing review, and documentation echoes our collective commitment to adaptive learning and strengthens our evidence-based approach to investment decision-making.",
+          "id": "M4_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Linara Tavishvili",
+          "message": "I appreciate your emphasis on adaptive learning, Soraya. By embedding systematic documentation and regular review into our process, we not only strengthen our current decision but also ensure we are well-positioned to detect emerging patterns in asset performance over time. This disciplined structure gives us both stability and the flexibility to pivot when justified by new evidence.",
+          "id": "M4_R2_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Linara. I agree that embedding systematic documentation and regular review into our process is essential—not only does it reinforce the stability of our current decision, but it also positions us to recognize and act on new trends as they emerge. This approach ensures we remain both disciplined and adaptable, supporting resilient growth as our evidence base evolves.",
+          "id": "M4_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Arazhna Masego",
+          "message": "I continue to see Real Estate as most closely aligned with our objective of steady, reliable growth, given its moderate risk and consistent performance in this stable market. While Bonds and Cash offer predictability, their lower returns make them less suitable for advancing our growth strategy at this stage, and Stocks’ recent volatility suggests we should remain cautious until we have stronger evidence of sustained upside. By maintaining disciplined documentation and regular review, we ensure our approach remains both stable and adaptable, allowing us to respond thoughtfully as new information emerges.",
+          "id": "M4_R2_8",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Arazhna, for highlighting how Real Estate’s moderate risk and consistent performance best align with our current growth objectives, especially when contrasted with the predictability but limited upside of Bonds and Cash and the volatility of Stocks. Your emphasis on maintaining disciplined documentation and regular review is crucial; it ensures our strategy remains resilient and responsive as new information becomes available. This approach strengthens our collective commitment to both stability and adaptability.",
+          "id": "M4_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Amara Nadege Mbaye",
+          "message": "I continue to view Real Estate as the most balanced option for this quarter, given its moderate risk and steady—if sometimes variable—returns in our stable market. While Bonds and Cash provide reliability, their limited growth potential does not sufficiently advance our objectives, and Stocks’ recent volatility suggests we should wait for clearer evidence before considering a shift. Our disciplined approach, anchored by regular review and systematic documentation, positions us to benefit from stability now while remaining ready to adapt as new trends emerge.",
+          "id": "M4_R2_10",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Amara, for articulating how Real Estate’s moderate risk and steady returns best match our objectives in this stable market, especially in light of the limitations you noted for Bonds, Cash, and Stocks. I appreciate your focus on anchoring our approach in disciplined review and systematic documentation, which ensures we benefit from current stability while remaining prepared to adapt as new trends or evidence emerge. Your contribution further supports the rationale for maintaining our current strategy, while keeping adaptability at the forefront.",
+          "id": "M4_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aisulu Oprea",
+          "message": "I agree that Real Estate continues to offer the strongest alignment with our objectives in this stable market, providing moderate risk and generally steady returns that support disciplined growth. At the same time, I value our shared commitment to systematic documentation and regular review, which ensures we remain alert to changing patterns and can confidently adjust our strategy if sustained evidence emerges in favor of another asset. This approach balances reliability with adaptability, which I believe is essential for our long-term resilience.",
+          "id": "M4_R2_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Aisulu. I share your view that Real Estate’s moderate risk and steady returns offer the best fit for our disciplined growth objectives in this stable market. Your point about maintaining vigilance through systematic documentation and regular review is critical—it ensures we remain both reliable and adaptable, positioning us well to respond confidently should sustained evidence indicate a need for strategic change in the future.",
+          "id": "M4_R2_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q4": {
+      "round_1": [
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Soraya Naranjo-Mbele My current thinking is that Real Estate appears most promising because my initial assessment is shaped by a preference for disciplined, steady growth paired with prudent risk management—an approach reinforced by my high conscientiousness and openness to evidence. Real Estate has delivered reliable, moderate returns in this stable market, with no observed losses and a risk profile that aligns with our company’s current objectives and learning orientation. While Stocks offer higher upside, their volatility and recent negative quarter introduce uncertainty that I do not find justified without a stronger, sustained trend. Cash and Bonds, though safe, do not provide sufficient growth to advance our long-term goals. I remain open to new insights but currently believe Real Estate offers the most balanced foundation for this quarter, though I'm interested in exploring all perspectives to refine our understanding. \n\nFor this round, our focus is to review Year 1’s historical performance and extract lessons learned, aiming to establish a factual foundation by identifying patterns in asset returns, risk, and alignment with our company’s objectives. By synthesizing our diverse experiences and observations, we can strengthen our shared understanding and ensure our next decision is grounded in both evidence and collective wisdom. I encourage everyone to contribute thoughtfully—especially if you see patterns or considerations I may have overlooked—so we can integrate the full breadth of insights into our decision-making process. \n\nIMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.",
+          "id": "M5_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aisulu Oprea",
+          "message": "I’ve observed that Real Estate has provided consistently positive or stable returns across the year, with no quarters of loss, which aligns well with our goal of disciplined, steady growth. In contrast, Stocks have shown both the highest gains and the sharpest decline, introducing a level of volatility that, in my view, is not yet justified given our current priority on building a reliable track record. Cash and Bonds have been predictably safe, but their limited returns would likely constrain our ability to achieve meaningful growth in this stable market.",
+          "id": "M5_R1_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Aisulu, for highlighting the consistent stability of Real Estate and drawing a clear contrast with the volatility observed in Stocks. Your emphasis on prioritizing a reliable track record at this stage resonates with my own thinking, and your point about the limited growth potential of Cash and Bonds further clarifies the trade-offs we face. Your analysis contributes meaningfully to our understanding of how each asset’s historical performance aligns with our disciplined growth objectives.",
+          "id": "M5_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aisulu Oprea",
+          "message": "I appreciate your feedback and agree that maintaining a disciplined, evidence-based approach is essential. While our historical experience supports Real Estate, I believe it’s prudent to remain attentive to any shifts in market patterns or sustained changes in asset performance, so we can adapt thoughtfully if new evidence warrants reconsideration.",
+          "id": "M5_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Aisulu. I agree that remaining attentive to shifts in asset performance is vital, even as our current evidence supports Real Estate. Your emphasis on adaptability ensures we do not become complacent and reminds us to continually reassess our assumptions as new information becomes available—this mindset is key to sustaining both steady progress and long-term resilience.",
+          "id": "M5_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Aisulu Oprea",
+          "message": "I agree—embedding regular, structured reviews into our process will help us remain both disciplined and responsive as conditions evolve. This approach not only safeguards our current progress but also positions us to recognize and act on meaningful shifts in asset performance, ensuring our strategy remains robust over time.",
+          "id": "M5_R1_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "I appreciate your focus on formalizing regular, structured reviews, Aisulu. Embedding this discipline into our process will help us remain both vigilant and responsive, ensuring our strategy evolves in step with any emerging trends or shifts in asset performance. This approach will further solidify our foundation for steady, resilient growth.",
+          "id": "M5_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Nayantara Basnet",
+          "message": "Reviewing our Year 1 results, I see Real Estate has offered a pattern of moderate, steady returns with limited downside, which has supported our objective of building a resilient foundation through disciplined growth. While Stocks have demonstrated significant upside, their volatility—evidenced by both a strong positive and a sharp negative quarter—suggests that shifting toward them would require more sustained evidence of reliable outperformance. Cash and Bonds, though stable, have not provided the growth necessary for our long-term goals. I believe our experience this year underscores the value of a methodical approach anchored in evidence, while remaining open to periodic reassessment as new data emerges.",
+          "id": "M5_R1_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Nayantara, for articulating how Real Estate’s steady performance has supported our disciplined growth objectives and for emphasizing the need for sustained evidence before considering a shift to more volatile assets like Stocks. Your point about anchoring our strategy in methodical, evidence-based decision-making—while remaining open to reassessment—resonates strongly with our collective experience and will help guide our continued progress.",
+          "id": "M5_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Nayantara Basnet",
+          "message": "I appreciate your recognition of the importance of evidence-based decision-making, Soraya. Building on both your and Aisulu’s points, I believe our commitment to structured, periodic review ensures we remain grounded in discipline while preserving the agility needed to adapt if new trends emerge. This balance between reliability and openness is, in my view, central to sustaining our progress as the market evolves.",
+          "id": "M5_R1_10",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Nayantara. Your emphasis on the interplay between disciplined, evidence-based review and adaptive agility is well-taken—this dual commitment is indeed what allows us to build resilience without sacrificing responsiveness. By maintaining structured, periodic reviews, we ensure our strategy remains both grounded and flexible, positioning us to respond thoughtfully to evolving market conditions while staying true to our long-term objectives.",
+          "id": "M5_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Nayantara Basnet",
+          "message": "I agree that this dual commitment is what positions us to navigate uncertainty with confidence. As we synthesize lessons from this year, I believe it’s essential we continue fostering an environment where both rigor and openness are actively practiced, ensuring our decisions remain robust and aligned with our evolving goals.",
+          "id": "M5_R1_12",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Amara Nadege Mbaye",
+          "message": "I’ve noticed that Real Estate has provided us with a reliable pattern of moderate returns and no losses this year, which has reinforced the disciplined, learning-oriented strategy we set out to implement. While I remain curious about the higher returns possible with Stocks, the volatility we observed—particularly the sharp negative quarter—suggests it would be premature to shift away from the stability Real Estate has offered in this environment. Our experience this year highlights the value of a methodical approach, anchored in evidence and regular review, to ensure we remain both resilient and open to adapting as new patterns emerge.",
+          "id": "M5_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Amara, for emphasizing how Real Estate’s reliable performance has validated our disciplined, learning-oriented strategy this year. Your point about remaining open to adaptation—while not losing sight of the value in regular, evidence-based review—captures the essence of how we can sustain resilience without prematurely pursuing higher-risk opportunities. This perspective further strengthens our shared commitment to balancing steady progress with thoughtful openness to change.",
+          "id": "M5_R1_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Amara Nadege Mbaye",
+          "message": "I appreciate your recognition of the need to balance steady progress with openness to change. I believe our commitment to structured, evidence-based reviews not only safeguards our current strategy but also equips us to detect early signals if asset dynamics begin to shift. This ongoing vigilance will help ensure our decisions remain robust and responsive as we move forward.",
+          "id": "M5_R1_15",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Amara. I agree that our commitment to structured, evidence-based reviews is what enables us to balance steady progress with timely responsiveness. By embedding this ongoing vigilance into our process, we ensure that our strategy remains both resilient and capable of adapting as asset dynamics evolve, supporting the long-term strength of our company.",
+          "id": "M5_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Amara Nadege Mbaye",
+          "message": "I agree, and I think our ability to systematically integrate lessons learned from each review cycle will be crucial in strengthening both our adaptability and our decision-making over time. This discipline not only helps us respond effectively to evolving conditions, but also builds a shared culture of continuous improvement that supports our long-term objectives.",
+          "id": "M5_R1_17",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Linara Tavishvili",
+          "message": "Reflecting on Year 1, I see that Real Estate has consistently delivered moderate, positive returns with minimal downside, which has supported our disciplined growth and operational learning objectives in this stable market. While Stocks have shown higher upside, the volatility—including a significant negative quarter—suggests that prioritizing steady progress and resilience remains prudent at this stage. I believe our experience underscores the value of formalizing regular reviews so we can remain responsive to new evidence, ensuring our strategy continues to balance reliability with adaptability.",
+          "id": "M5_R1_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Linara, for highlighting the consistent, moderate returns Real Estate has provided and for underscoring the prudence of prioritizing steady progress in this environment. Your suggestion to formalize regular reviews is particularly valuable—it will help ensure our strategy remains both reliable and adaptable, enabling us to respond proactively as new evidence emerges. This approach strengthens our capacity for operational learning and long-term resilience.",
+          "id": "M5_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Linara Tavishvili",
+          "message": "I appreciate your perspective, Soraya, and would add that by formalizing regular reviews, we create a structured space for identifying early signals of change—whether in Real Estate or other assets. This discipline not only consolidates our learning from each cycle but also positions us to recognize when a shift in strategy may be warranted, ensuring our approach remains both evidence-based and forward-looking.",
+          "id": "M5_R1_20",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Linara. Your point about regular reviews providing a structured space to identify early signals of change is especially insightful. By embedding this discipline, we ensure our process remains both evidence-based and agile—allowing us to learn continuously and adjust our strategy proactively if warranted by new patterns in asset performance.",
+          "id": "M5_R1_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Linara Tavishvili",
+          "message": "I agree, Soraya—embedding this discipline into our process not only enables timely strategic adjustments, but also deepens our collective transparency and shared learning. This culture of open review helps ensure that all voices are heard and that we remain aligned in both our decision-making and our long-term objectives.",
+          "id": "M5_R1_22",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Arazhna Masego",
+          "message": "In reviewing Year 1, I see a clear pattern: Real Estate has offered steady, moderate returns with no losses, aligning closely with our goal of disciplined growth and operational learning in this stable market. While Stocks presented greater upside, their volatility—including a sharp negative quarter—underscores the importance of prioritizing reliability at this stage. I believe our experience validates the value of a methodical, evidence-based approach anchored in regular, structured review to ensure both resilience and adaptability as we move forward.",
+          "id": "M5_R1_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Arazhna, for highlighting the pattern of steady, loss-free returns from Real Estate and for connecting this to our broader objective of disciplined growth and operational learning. Your emphasis on the importance of a methodical, evidence-based approach—anchored in structured review—complements and strengthens our collective commitment to resilience and adaptability as we move forward.",
+          "id": "M5_R1_24",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Arazhna Masego",
+          "message": "I appreciate your recognition, Soraya. I’d add that by embedding structured reviews into our process, we not only reinforce resilience in our current Real Estate strategy but also position ourselves to detect early signals of sustained change across all asset classes. This discipline ensures our decisions remain grounded in evidence while allowing us to pivot thoughtfully if new trends emerge.",
+          "id": "M5_R1_25",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Arazhna. Your point about structured reviews serving as both a foundation for resilience and an early warning system for emerging trends is especially valuable. By institutionalizing this discipline, we ensure our process remains dynamic and responsive, empowering us to pivot thoughtfully as new evidence develops while maintaining a strong, evidence-based core.",
+          "id": "M5_R1_26",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Soraya Naranjo-Mbele My current thinking is that Real Estate appears most promising because after a thorough review of Year 1’s historical asset performance and careful consideration of shareholder input, I am even more convinced that Real Estate offers the most balanced foundation for this quarter. Its consistent, moderate returns and absence of losses align directly with our disciplined growth mandate, while the process improvements discussed ensure we remain adaptable. Although I remain open to future shifts if evidence warrants, at this stage Real Estate is clearly the optimal choice for supporting both steady progress and long-term resilience, though I'm interested in exploring all perspectives to refine our understanding. For this round, we will conduct a comparative risk-return assessment of all asset options in the current stable market, aiming to surface key considerations, uncertainties, and projected outcomes for each option this quarter. I encourage everyone to share thoughtful perspectives—including any reservations or overlooked factors—to help us synthesize a more complete view. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.",
+          "id": "M5_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Nayantara Basnet",
+          "message": "In reviewing our options, I see that Real Estate continues to provide the most balanced profile for disciplined growth—its moderate, steady returns and absence of losses this year offer both reliability and a platform for operational learning. While Stocks present higher upside, the volatility we witnessed, including a sharp negative quarter, suggests that shifting toward them would expose us to risks that may not be justified without a stronger evidence base. Bonds and Cash, though safe, offer returns that seem insufficient to advance our long-term objectives in this stable market. I believe maintaining our focus on Real Estate, paired with structured reviews, best supports both our current goals and our readiness to adapt as new data emerges.",
+          "id": "M5_R2_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Nayantara, for articulating a clear rationale that aligns strongly with our objectives of disciplined growth and prudent risk management. I especially appreciate your emphasis on pairing our Real Estate focus with structured, ongoing reviews, which ensures we remain both resilient and adaptable as new evidence emerges. Your perspective helps reinforce the importance of maintaining a rigorous, evidence-based process while remaining open to future shifts as warranted.",
+          "id": "M5_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Nayantara Basnet",
+          "message": "I appreciate your focus on maintaining openness to future shifts as warranted by evidence. By systematically documenting our rationale and outcomes each quarter, we create a robust foundation for identifying early signals that might justify reconsidering options like Stocks or Bonds, ensuring our process remains both disciplined and responsive.",
+          "id": "M5_R2_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Nayantara. I fully agree that systematic documentation of our rationale and outcomes is essential for maintaining both discipline and responsiveness in our process. By capturing lessons learned each quarter, we not only strengthen our current decision-making but also create a framework for timely, evidence-based shifts should new trends in Stocks or Bonds emerge.",
+          "id": "M5_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Nayantara Basnet",
+          "message": "I agree that this disciplined documentation does more than preserve our process—it actively equips us to recognize subtle shifts in risk-return dynamics across all options, supporting timely, well-founded pivots if sustained trends emerge. This collective vigilance is integral to balancing steady progress with our capacity to adapt, which I see as a core strength of our approach.",
+          "id": "M5_R2_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "I appreciate your focus on how disciplined documentation serves as an active tool for adaptability, not just a safeguard. This collective vigilance—rooted in transparent, systematic review—truly positions us to respond thoughtfully to emerging trends, ensuring our progress remains both steady and adaptive. Thank you for highlighting this important dimension as we continue our comparative assessment.",
+          "id": "M5_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Arazhna Masego",
+          "message": "I continue to see Real Estate as the most balanced choice this quarter, given its track record of steady, moderate returns and absence of losses in our stable market. While Stocks offer higher potential gains, their recent volatility—including a sharp negative quarter—introduces risks that seem disproportionate to our current growth mandate. Bonds and Cash provide safety but their limited returns do not sufficiently advance our objectives, so maintaining our disciplined focus on Real Estate, paired with ongoing structured review, seems best suited to support both steady progress and readiness to adapt as new evidence emerges.",
+          "id": "M5_R2_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Arazhna. Your emphasis on the disciplined focus on Real Estate, combined with ongoing structured review, resonates strongly with our shared priorities. I agree that this approach not only supports steady progress but also ensures we remain vigilant and ready to adapt should new evidence warrant a shift in strategy.",
+          "id": "M5_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Arazhna Masego",
+          "message": "I appreciate your recognition of the importance of vigilance paired with structured review. I would add that this disciplined approach not only safeguards our current progress but also systematically builds our capacity to learn and adapt over time, ensuring that we’re well-positioned to respond thoughtfully if market conditions warrant a future shift toward options like Stocks or Bonds.",
+          "id": "M5_R2_10",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Arazhna. I agree that pairing vigilance with structured review does more than protect our current position—it actively cultivates our organizational capacity to learn and adapt over time. This deliberate, disciplined approach ensures we’re not only advancing steadily now, but also building the readiness and insight needed to respond confidently should future evidence support a shift to Stocks or Bonds.",
+          "id": "M5_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aisulu Oprea",
+          "message": "I continue to see Real Estate as offering the most balanced risk-return profile in our stable market, given its consistent moderate returns and absence of losses this year. While Stocks are appealing for their higher potential gains, the volatility we observed—including a sharp negative quarter—suggests that a shift toward them would not align with our disciplined growth mandate until we see more sustained positive evidence. Bonds and Cash remain valuable for capital preservation, but their limited returns do not sufficiently support our long-term objectives. I believe that maintaining our focus on Real Estate, paired with systematic documentation and regular review, best positions us for steady progress while preserving adaptability for future shifts.",
+          "id": "M5_R2_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Aisulu. Your focus on requiring sustained positive evidence before shifting toward riskier options like Stocks, and your emphasis on systematic documentation and regular review, aligns closely with our disciplined growth mandate. This approach not only supports steady progress in our current environment but also preserves the adaptability we need to respond confidently if future trends warrant a strategic shift.",
+          "id": "M5_R2_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Amara Nadege Mbaye",
+          "message": "In comparing all options, I find that Real Estate continues to offer the optimal balance between steady growth and manageable risk in this stable market—its moderate, consistent returns and absence of losses this year provide a strong foundation for disciplined progress. While Stocks remain intriguing for their higher upside, the volatility and sharp negative quarter we observed suggest that a shift would not be justified without more sustained positive evidence. Bonds and Cash, though safe, offer returns that are too limited to meet our growth objectives at this stage. I believe our structured, evidence-based review process is essential for staying both resilient and adaptable, ensuring we remain open to future shifts if clear signals emerge.",
+          "id": "M5_R2_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Amara. Your comparative assessment clearly articulates the strengths and limitations of each asset in our current context, and I especially appreciate your emphasis on disciplined progress paired with ongoing adaptability. Your point about remaining open to future shifts—grounded in clear, evidence-based signals—reinforces the importance of our structured review process in supporting both resilience and long-term growth.",
+          "id": "M5_R2_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Linara Tavishvili",
+          "message": "I agree with the group’s emphasis on Real Estate’s steady, moderate returns and minimal downside as best aligned with our disciplined, evidence-based approach in this stable market. While Stocks’ higher upside remains intriguing, the volatility and negative quarter introduce uncertainties that seem disproportionate to our current objectives, and Bonds and Cash, though safe, offer insufficient growth to advance our goals. By maintaining our focus on Real Estate and embedding systematic review, we balance reliability with adaptability, ensuring we can respond thoughtfully if future evidence supports a shift in strategy.",
+          "id": "M5_R2_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Soraya Naranjo-Mbele(CEO)",
+          "message": "Thank you, Linara. Your summary captures the essence of our disciplined, evidence-based approach and the rationale for prioritizing Real Estate in this stable market. I especially appreciate your emphasis on embedding systematic review, which ensures we remain both reliable in our progress and adaptable should future evidence support a strategic shift.",
+          "id": "M5_R2_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    }
+  },
+  "company": {
+    "CEO": {
+      "name": "Soraya Naranjo-Mbele",
+      "BFI": "high Openness, high Conscientiousness, low Extraversion, high Agreeableness, low Neuroticism",
+      "type": "OCeAn"
+    },
+    "shareholders": [
+      {
+        "name": "Amara Nadege Mbaye",
+        "BFI": "high Openness, high Conscientiousness, low Extraversion, high Agreeableness, low Neuroticism",
+        "type": "OCeAn"
+      },
+      {
+        "name": "Nayantara Basnet",
+        "BFI": "high Openness, high Conscientiousness, low Extraversion, high Agreeableness, low Neuroticism",
+        "type": "OCeAn"
+      },
+      {
+        "name": "Aisulu Oprea",
+        "BFI": "high Openness, high Conscientiousness, low Extraversion, high Agreeableness, low Neuroticism",
+        "type": "OCeAn"
+      },
+      {
+        "name": "Linara Tavishvili",
+        "BFI": "high Openness, high Conscientiousness, low Extraversion, high Agreeableness, low Neuroticism",
+        "type": "OCeAn"
+      },
+      {
+        "name": "Arazhna Masego",
+        "BFI": "high Openness, high Conscientiousness, low Extraversion, high Agreeableness, low Neuroticism",
+        "type": "OCeAn"
+      }
+    ]
+  }
+}

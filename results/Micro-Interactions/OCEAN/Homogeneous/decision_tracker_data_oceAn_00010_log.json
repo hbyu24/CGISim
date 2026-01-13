@@ -1,0 +1,1088 @@
+{
+  "discussion_log": {
+    "annual_budget_year1": {
+      "round_1": [
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Aysu Demirkan My current thinking is that Option A appears most promising because I am most comfortable with Option A because it allows us to start cautiously in our first year, preserving half of our capital while still participating in the market in a steady, predictable way. Even distribution each quarter feels safe and familiar, reducing the risk of large losses and avoiding abrupt changes. I am less drawn to more aggressive or complex allocations since they introduce more uncertainty and require stricter planning, which doesn't suit my natural style. Option A also aligns with my preference for stability and minimizing conflict, as it is a compromise between growth and caution. I am open to hearing other perspectives, but my initial inclination is to prioritize security and gradual progress, though I'm interested in exploring all perspectives to refine our understanding. For this round, I’d like us to focus on assessing the risks, benefits, and trade-offs of each option in the context of our company’s risk tolerance and the current stable market. By sharing our initial reactions, we can build a shared understanding and set a solid foundation for our decision. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Option A', 'Option B', 'Option C', 'Option D'. Please keep all discussion focused on evaluating these specific options. I encourage everyone to contribute their perspectives so we can integrate different viewpoints and arrive at the most balanced assessment possible.",
+          "id": "M1_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Sabira Niyazgulova",
+          "message": "I agree that Option A best matches our current situation, as it allows us to participate in each quarter without putting too much at risk up front. This approach feels sensible given our inexperience and the stable market, helping us avoid any sudden losses while we build our understanding. It also leaves us with flexibility in case we need to adapt as the year progresses.",
+          "id": "M1_R1_2",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Sabira. I appreciate how you highlighted the importance of flexibility, especially as we’re still building our understanding in this first year. Your point about avoiding sudden losses while keeping options open for future adjustments really complements the cautious approach of Option A and strengthens the case for starting conservatively.",
+          "id": "M1_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Sabira Niyazgulova",
+          "message": "I appreciate your emphasis on adaptability, Aysu. By committing only half of our capital and spreading it evenly, Option A gives us the space to observe how our strategies perform and make informed decisions in future years. I think this measured pace will help us build confidence and experience without feeling pressured to take unnecessary risks.",
+          "id": "M1_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Sabira. I agree that adopting a steady, measured approach with Option A will allow us to learn from our decisions without feeling rushed or exposed to unnecessary risk. Your point about building confidence and making informed decisions in future years adds valuable depth to why a conservative start is wise for us.",
+          "id": "M1_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Mikayla Tsegaye",
+          "message": "I share the preference for Option A, as it feels like the most prudent way to balance growth with security—especially since we’re just starting out and have no track record yet. Committing only half of our funds and spreading it evenly means we’re less likely to face major losses, which I find reassuring in a stable market. While Options C and D might offer higher returns, I worry that putting all our capital at risk so early could create unnecessary stress and pressure if things don’t go as planned.",
+          "id": "M1_R1_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Mikayla. Your emphasis on the reassurance that Option A provides, especially in our first year without a track record, resonates with my own thinking. I also appreciate your caution regarding the potential stress of riskier strategies—this helps us stay focused on maintaining stability and peace of mind as we build our foundation.",
+          "id": "M1_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Mikayla Tsegaye",
+          "message": "I appreciate that you see value in prioritizing stability and peace of mind. I also think Option A helps foster unity among us as shareholders by avoiding divisive high-risk moves and giving everyone time to adjust. This shared sense of security can make our collaboration smoother as we learn together in this first year.",
+          "id": "M1_R1_8",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Mikayla. I agree that starting with a strategy that promotes unity and gives everyone time to adjust is especially important in our first year. Your perspective on how Option A supports smoother collaboration and helps us build a strong, trusting foundation together is a valuable addition to our assessment.",
+          "id": "M1_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Melek Yariv",
+          "message": "I also feel that Option A is the safest way to approach our first year, as it allows us to participate in the market while keeping a significant portion of our funds protected. This measured pace gives us room to learn and adapt without unnecessary pressure, and I think it supports a collaborative and harmonious environment among us as shareholders.",
+          "id": "M1_R1_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Melek. I appreciate your focus on how Option A not only safeguards our capital but also supports a harmonious and collaborative environment among us. Your point about having room to learn and adapt without unnecessary pressure aligns well with our goal of building a stable foundation in our first year.",
+          "id": "M1_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Melek Yariv",
+          "message": "I appreciate your recognition of the collaborative benefits, Aysu. In my experience, starting with a strategy that encourages open communication and minimizes anxiety helps everyone feel more comfortable contributing their ideas. I believe Option A’s steady pace will give us the confidence to work together effectively as we gain experience.",
+          "id": "M1_R1_12",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Melek. I agree that a steady, predictable approach like Option A does help create an environment where everyone feels comfortable sharing their thoughts and participating fully. By minimizing anxiety and encouraging open communication, we give ourselves the best chance to work together successfully as we build our experience.",
+          "id": "M1_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rimma Shamsidova",
+          "message": "I agree with the points raised so far about Option A offering the most balanced and secure path for our first year, especially since we lack historical data and want to avoid unnecessary risk. Keeping half of our capital uncommitted gives us a safety net, while even distribution allows us to participate in the market without sudden changes. I think this steady approach will help us build trust and confidence as a team, which feels important as we start out together.",
+          "id": "M1_R1_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Rimma. I agree that maintaining a safety net by keeping half of our capital uncommitted is especially prudent as we begin, and your point about building trust and confidence through steady, predictable action is very important. This approach gives us the reassurance we need to focus on learning and working together effectively in our first year.",
+          "id": "M1_R1_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Veena Khatri",
+          "message": "I agree with the emphasis on caution and stability that’s been shared. In a stable market, starting with Option A feels most responsible, since it allows us to participate without putting all our resources at risk and gives us time to learn as a team. I think this approach helps us avoid unnecessary stress and supports a harmonious, collaborative environment as we gain confidence in our decisions.",
+          "id": "M1_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Veena. I appreciate your focus on how Option A helps us avoid unnecessary stress and supports a harmonious, collaborative environment as we learn together. Your emphasis on responsible participation and building confidence as a team strengthens our shared understanding of why a cautious approach is especially well-suited for our first year.",
+          "id": "M1_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Khatri",
+          "message": "I appreciate your recognition of the value in building confidence together, Aysu. I also think that Option A’s predictability will help each of us feel more secure in our roles, making it easier to contribute thoughtfully and learn from our experiences as a group. This steady foundation seems especially important as we establish our company’s culture and decision-making habits.",
+          "id": "M1_R1_18",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Veena. I agree that predictability in our approach will help each of us feel more secure and able to contribute meaningfully, especially as we define our company’s culture and habits. Your point about laying a steady foundation for our group’s learning and collaboration is an important aspect of why Option A stands out as a responsible starting point.",
+          "id": "M1_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Khatri",
+          "message": "I agree, Aysu—predictability really does make it easier for everyone to participate openly and build trust in our processes. By starting with Option A, we give ourselves the space to develop good habits and ensure all voices are heard as we grow together. This foundation feels essential for both our company’s stability and our ability to work effectively as a team.",
+          "id": "M1_R1_20",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Aysu Demirkan My current thinking is that Option A appears most promising because Option A stands out as the most prudent and widely supported choice for our first year, balancing participation in the market with significant capital preservation. It fosters a steady, predictable environment that reduces stress and allows us to learn together without unnecessary pressure. The unanimous support from shareholders and the focus on group cohesion, flexibility, and risk management reinforce my confidence that Option A is the best starting point for our company, though I'm interested in exploring all perspectives to refine our understanding. In this round, I would like us to focus specifically on the long-term flexibility and capital preservation potential of each allocation approach, aiming to identify which strategy best balances steady participation with prudent reserve management for future opportunities. By sharing our varied perspectives, we can deepen our understanding and ensure our chosen strategy supports both our immediate and long-term goals. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Option A', 'Option B', 'Option C', 'Option D'. Please keep all discussion focused on evaluating these specific options. I encourage everyone to share any insights or concerns they may have, especially those that could help us see the strengths or weaknesses of each option more clearly.",
+          "id": "M1_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Veena Khatri",
+          "message": "I continue to believe that Option A best supports our need for long-term flexibility and prudent reserve management. By investing only half our capital and spreading it evenly, we maintain a strong safety net that allows us to respond to unexpected opportunities or market changes in future years. This approach feels especially important since we’re just starting out and have no prior results to guide us.",
+          "id": "M1_R2_2",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Veena, for highlighting how Option A preserves our ability to adapt as new opportunities or challenges arise. I agree that having a strong safety net is especially important in our first year, and your point about not having prior results underlines the need for caution. This perspective strengthens my confidence that Option A provides the balance we need between steady participation and prudent reserve management.",
+          "id": "M1_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Khatri",
+          "message": "I appreciate your emphasis on adapting to new opportunities, Aysu. By starting with a measured approach, we not only protect our capital but also give ourselves space to learn and adjust as we gain experience. This foundation should help us make more confident decisions in the years ahead.",
+          "id": "M1_R2_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Veena. I agree that giving ourselves time to learn and adjust is essential, especially in our first year. By taking a steady, measured approach, we create an environment where we can build confidence and make thoughtful decisions as new opportunities arise, which is exactly the kind of foundation we need for sustainable growth.",
+          "id": "M1_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Sabira Niyazgulova",
+          "message": "I agree that Option A gives us the most flexibility for the future by keeping a significant portion of our capital in reserve. This approach feels especially reassuring since we are still learning and do not yet know what challenges or opportunities might arise in later years. By not committing all our funds now, we maintain the ability to adapt our strategy as our experience grows and circumstances change.",
+          "id": "M1_R2_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Sabira, for highlighting the reassurance that comes from keeping a significant portion of our capital in reserve. I agree that, as we are still building our experience, maintaining this flexibility will help us respond thoughtfully to whatever opportunities or challenges the future brings. Your insight reinforces the importance of balancing steady participation with prudent reserve management as we move forward.",
+          "id": "M1_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Melek Yariv",
+          "message": "I agree with what’s been said about Option A supporting flexibility and capital preservation. Keeping half of our funds in reserve feels especially important as we’re still finding our footing and don’t know what unexpected needs or opportunities might come up in the future. This approach helps us participate steadily in the market while ensuring we have resources available if circumstances change, which gives me a lot of reassurance as we plan ahead.",
+          "id": "M1_R2_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Melek. I share your view that keeping half of our funds in reserve is especially important while we are still establishing ourselves. Your point about having resources available for unexpected needs or opportunities highlights why a steady, cautious approach like Option A can provide us with both stability and the flexibility to adapt as circumstances change.",
+          "id": "M1_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Melek Yariv",
+          "message": "I appreciate your focus on stability and flexibility, Aysu. Knowing that we’re all prioritizing a strong foundation and room to adapt makes me feel even more confident in our direction. I think this approach will help us grow together as a team and make thoughtful decisions in the years ahead.",
+          "id": "M1_R2_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Melek. I’m glad to hear that this focus on building a strong, adaptable foundation resonates with you. I agree that by prioritizing stability and flexibility, we’re creating the right conditions for our team to grow together and make careful, well-considered choices as we move forward.",
+          "id": "M1_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rimma Shamsidova",
+          "message": "I agree with the points raised so far—Option A gives us the reassurance of a strong reserve while allowing us to participate steadily in the market. By not committing all our funds at once, we have the flexibility to respond to whatever the future brings, and I think this approach also helps maintain a sense of security and trust among us as we build experience together.",
+          "id": "M1_R2_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Rimma. I agree that maintaining a strong reserve not only gives us the flexibility to adapt but also fosters a sense of security and trust within our team. Your point about building experience together highlights how Option A supports both our immediate needs and our long-term growth as a cohesive group.",
+          "id": "M1_R2_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Mikayla Tsegaye",
+          "message": "I agree with everyone that Option A allows us to participate in the market while keeping enough in reserve to respond to any changes or opportunities down the line. For me, having that safety net is important—not just for capital preservation, but also because it gives us peace of mind and the flexibility to make careful decisions as we gain more experience. This approach feels like the best way to balance steady progress with the ability to adapt as our company grows.",
+          "id": "M1_R2_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Mikayla. I agree that having a safety net is essential not only for preserving our capital but also for giving us the confidence to make thoughtful decisions as we grow. Your focus on balancing steady participation with the flexibility to adapt aligns closely with our goal of building a resilient and responsive company for the future.",
+          "id": "M1_R2_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q1": {
+      "round_1": [
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Aysu Demirkan My current thinking is that Bonds appears most promising because as someone who values stability and tradition, I am most comfortable with options that prioritize capital preservation and steady, predictable returns. Bonds offer a low to medium risk profile with consistent, if modest, returns that fit well with my preference for caution, especially in our first quarter with no historical data. While cash is the safest, its low returns may not justify choosing it over bonds in a stable market. Real estate and stocks introduce more uncertainty and require a level of risk tolerance and planning that I do not naturally gravitate toward. Overall, bonds seem to provide the best balance of safety and reasonable growth for our company at this early stage, though I'm interested in exploring all perspectives to refine our understanding. \n\nFor this round, our focus is to establish a clear, shared understanding of the risk and return profiles of cash, bonds, real estate, and stocks in a stable market. By openly discussing each asset’s characteristics, we can build a strong foundation for our future decisions and ensure everyone is aligned on the facts. I encourage everyone to contribute thoughtfully, as integrating our diverse perspectives will help us reach a deeper, more complete understanding. \n\nIMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I welcome any insights or considerations I may not have fully addressed—your perspectives are essential to making the best decision for our company.",
+          "id": "M2_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Melek Yariv",
+          "message": "I agree that bonds offer a reassuring level of safety and consistency, which feels especially important as we’re just starting out and learning to work together. While cash is the safest, its returns seem too low to support our growth, and I feel that real estate and stocks introduce more risk than we need right now. In this stable market, bonds seem to strike the right balance between protecting our capital and allowing for steady, manageable progress.",
+          "id": "M2_R1_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Melek, for emphasizing the value of safety and consistency, especially as we are just starting out. I agree that bonds offer a reassuring balance between protecting our capital and enabling steady progress, and your point about minimizing unnecessary risk at this early stage is well taken. This perspective helps confirm that our priorities are aligned and strengthens our shared understanding of bonds as a prudent option in the current market.",
+          "id": "M2_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Khatri",
+          "message": "I agree with the emphasis on safety and steady returns at this early stage. In a stable market, bonds provide consistent performance with lower risk than real estate or stocks, while still giving us an opportunity for modest growth—something cash alone cannot offer. This feels like the most responsible way to participate in the market without exposing ourselves to unnecessary uncertainty.",
+          "id": "M2_R1_4",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Veena, for highlighting how bonds can provide steady returns while minimizing risk, especially as we navigate our first investment decision. I appreciate your point that bonds allow us to participate responsibly in the market without unnecessary uncertainty, and this further strengthens our collective assessment of bonds as a suitable choice in these conditions. Your perspective helps clarify the practical trade-offs between cash and bonds for our team.",
+          "id": "M2_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Khatri",
+          "message": "I appreciate your summary, and I think it’s important to keep in mind that starting with bonds gives us the flexibility to adjust our strategy as we gain more experience and data. While cash preserves capital, choosing bonds means we’re taking a careful step forward—participating in the market without overextending ourselves, which feels appropriate for our company’s first investment.",
+          "id": "M2_R1_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Veena, for emphasizing the flexibility that bonds offer as we begin our investment journey. I agree that starting with bonds allows us to participate carefully in the market, preserving our ability to adapt as we learn more and build confidence. Your point adds important depth to our understanding of why bonds may be the most suitable option for our first quarter.",
+          "id": "M2_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rimma Shamsidova",
+          "message": "I agree that bonds are the most suitable option for our first investment in this stable market. Their predictable returns and lower risk feel reassuring, especially since we’re just starting and still building trust and experience together. While cash is safest, I think bonds offer a better balance between protecting our capital and making steady, manageable progress without introducing unnecessary uncertainty.",
+          "id": "M2_R1_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Rimma, for highlighting the reassurance that predictable returns and lower risk provide as we start building trust and experience together. I agree that bonds offer a thoughtful balance between safeguarding our capital and enabling steady, manageable progress, which is especially important as we establish our foundation. Your perspective helps reinforce why bonds stand out as a prudent choice in our current situation.",
+          "id": "M2_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Mikayla Tsegaye",
+          "message": "I appreciate how everyone has highlighted the importance of stability and steady returns, especially as we’re just starting out. For me, bonds feel like the most practical choice in this stable market because they provide consistent returns with less risk than real estate or stocks, while still offering more growth than cash. I think this approach helps us build trust and confidence as a group without taking on unnecessary uncertainty.",
+          "id": "M2_R1_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Mikayla, for articulating how bonds offer a practical balance between steady growth and lower risk, especially at this early stage. I agree that this approach supports our collective need for stability and helps foster trust and confidence within the group. Your perspective further strengthens our shared understanding of why bonds may be the most suitable option for our first investment.",
+          "id": "M2_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Sabira Niyazgulova",
+          "message": "I agree with the points already raised—bonds seem to offer the right mix of security and steady returns for our first investment, especially since we’re still learning and building trust as a team. In a stable market, I feel most comfortable with an option that minimizes risk but still allows us to participate and make progress, and bonds fit that need well. While cash is safest, its low returns feel too limiting, and I think we should avoid unnecessary risk from real estate or stocks at this early stage.",
+          "id": "M2_R1_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Sabira, for summarizing the key considerations so clearly—your focus on minimizing risk while still participating in the market is very much in line with our collective priorities at this early stage. I agree that bonds provide the right mix of security and steady returns, and your perspective helps reinforce why this option stands out as the most appropriate choice for our first investment in a stable market. Your input adds further clarity to our shared understanding and supports our emerging consensus.",
+          "id": "M2_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q2": {
+      "round_1": [
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Aysu Demirkan My current thinking is that Bonds appears most promising because I feel most confident in bonds for this quarter because they provide a steady, predictable return with minimal risk, which aligns with my strong preference for stability and capital preservation. While real estate and stocks offer higher potential returns, their greater uncertainty makes me uncomfortable, especially given our early stage and the importance of building trust and a solid foundation. Cash feels overly conservative, as its low return could limit our progress. Overall, bonds represent a practical, familiar choice that supports our gradual, cautious approach while still allowing for some growth, though I'm interested in exploring all perspectives to refine our understanding. \n\nFor this round, I’d like us to review our previous quarter’s investment decision in bonds—what worked well, any concerns that arose, and the lessons we can take forward. By sharing our reflections, we can synthesize diverse experiences and deepen our understanding of how our investment approach is serving the company’s needs. I encourage everyone to contribute thoughtfully, as your perspectives will help us integrate lessons learned and strengthen our decision-making process. \n\nIMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.",
+          "id": "M3_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Mikayla Tsegaye",
+          "message": "I felt that investing in bonds last quarter worked well for us because it provided a sense of security and allowed us to see steady, predictable growth without unnecessary stress. This approach seemed to strengthen trust and harmony within the group, which I value highly. My main takeaway is that prioritizing stability and gradual progress helps us build confidence as a team, and I am comfortable continuing with a similar approach unless there are strong reasons to change.",
+          "id": "M3_R1_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Mikayla. I agree that the sense of security and steady progress from our bond investment has been reassuring, and I also appreciate how this approach has supported group harmony and confidence. Your emphasis on stability and gradual growth resonates with my own priorities, and I believe these are important lessons to carry forward as we consider our next steps.",
+          "id": "M3_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Mikayla Tsegaye",
+          "message": "I appreciate your recognition of the benefits we’ve experienced so far, and I agree that carrying these lessons forward is important. At the same time, I think it’s helpful to keep listening to any concerns or new insights from others, so we can continue making decisions that feel secure and supportive for everyone.",
+          "id": "M3_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "I appreciate your suggestion to remain open to any concerns or new insights from others, Mikayla. Staying attentive to different viewpoints will help us make decisions that everyone feels secure and comfortable with, and I encourage all shareholders to share any reflections or questions they may have about our previous or future investments.",
+          "id": "M3_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Mikayla Tsegaye",
+          "message": "I agree that fostering an environment where everyone feels comfortable sharing their thoughts is essential, especially as we consider options like bonds or cash that emphasize security. If anyone has concerns about potential missed opportunities with real estate or stocks, I’d appreciate hearing those as well, since understanding all sides will help us move forward with greater confidence.",
+          "id": "M3_R1_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Mikayla. Your encouragement to hear concerns about real estate or stocks is helpful as it ensures we’re not overlooking any important considerations. I also invite anyone who may have reservations or see potential in those options to share their thoughts, so we can make a fully informed decision together.",
+          "id": "M3_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Khatri",
+          "message": "I agree that our decision to invest in bonds last quarter worked well, providing steady returns and a reassuring sense of security that helped strengthen trust within the group. I appreciate that this approach allowed us to avoid unnecessary risk and stay aligned with our shared priorities, especially as we are still building experience together. While I remain comfortable with bonds, I am open to hearing any concerns about missed opportunities with real estate or stocks, so we can ensure our approach continues to serve the company’s best interests.",
+          "id": "M3_R1_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Veena. I share your appreciation for the steady returns and security that bonds provided, and I agree that this approach has helped us stay aligned and build trust as we gain experience. Your openness to exploring concerns about real estate or stocks is valuable—if anyone has thoughts on those options, I encourage you to share them so we can ensure our strategy continues to serve the company’s long-term interests.",
+          "id": "M3_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Khatri",
+          "message": "I appreciate your emphasis on ensuring our strategy serves the company’s long-term interests. Even though I still lean toward bonds for their predictability, I agree that carefully considering any concerns or insights about real estate or stocks helps us make more balanced and confident choices together.",
+          "id": "M3_R1_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Veena. I agree that maintaining predictability is reassuring at this stage, but I also appreciate your willingness to consider insights about real estate or stocks. By thoughtfully weighing all relevant concerns, we can make choices that best support our company’s stability and long-term success.",
+          "id": "M3_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Khatri",
+          "message": "I agree that taking time to thoughtfully weigh all concerns not only helps us make prudent choices but also fosters a sense of unity and trust within the group. This careful, inclusive process makes me more confident that our decisions—whether we continue with bonds or consider other options—will genuinely reflect our shared priorities and support steady company growth.",
+          "id": "M3_R1_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Melek Yariv",
+          "message": "I felt reassured by our decision to invest in bonds last quarter, as the steady and predictable return helped maintain a sense of calm and trust within the group. This approach made it easier for me to focus on learning and adapting without feeling pressured by uncertainty. I agree with Mikayla and Veena that continuing to prioritize stability is important, but I’m also open to hearing if anyone has concerns about missed opportunities with real estate or stocks, so we can make sure our path forward feels comfortable for everyone.",
+          "id": "M3_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Melek. I appreciate your emphasis on how steady, predictable returns from bonds have supported our learning and sense of trust. Your openness to hearing concerns about real estate or stocks is valuable—by considering all perspectives, we can be confident that our path forward will continue to feel comfortable and secure for everyone.",
+          "id": "M3_R1_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Melek Yariv",
+          "message": "I appreciate your focus on making sure everyone feels secure and heard in this process. From my perspective, taking time to listen to any concerns about real estate or stocks not only helps us avoid overlooking important risks or opportunities, but also reinforces the sense of trust and support within our group. That sense of harmony makes it easier for me—and I think for others as well—to move forward with confidence, even if we ultimately choose the more familiar option of bonds.",
+          "id": "M3_R1_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Melek. I agree that creating space for all concerns—even about less familiar options like real estate or stocks—strengthens our trust and helps us avoid overlooking important factors. By maintaining this openness, we can ensure our decisions continue to reflect both our priorities and any valuable insights that might arise.",
+          "id": "M3_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Melek Yariv",
+          "message": "I agree, and I find that when everyone feels comfortable bringing up their perspectives—whether about bonds, cash, real estate, or stocks—it not only helps us make well-rounded decisions but also creates a more supportive environment. That sense of belonging and mutual respect is something I value highly, and it gives me greater confidence in the choices we make together.",
+          "id": "M3_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Sabira Niyazgulova",
+          "message": "I found our decision to invest in bonds last quarter reassuring, as it provided the steady, predictable return I hoped for and helped maintain a sense of calm within the group. This approach made it easier for me to focus on learning and adapting without feeling pressured by uncertainty, and I appreciate how it supported trust and collaboration among us. I’m comfortable continuing with bonds for now, though I remain open to hearing if anyone has strong concerns or new insights about the other options.",
+          "id": "M3_R1_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Sabira. I share your appreciation for the steady returns and sense of calm that bonds have provided, and I agree that this approach has supported trust and collaboration within our group. Your openness to hearing strong concerns or new insights about the other options is important—by considering all valid perspectives, we can ensure our decisions remain well-informed and comfortable for everyone.",
+          "id": "M3_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Sabira Niyazgulova",
+          "message": "I agree that considering all valid perspectives helps us make decisions that everyone can feel comfortable with. For me, the process of listening to each other and weighing concerns thoughtfully has been just as important as the steady returns from bonds. This approach makes it easier for me to support our decisions, knowing we are prioritizing both stability and collective well-being.",
+          "id": "M3_R1_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Sabira. I agree that the process of thoughtfully listening to each other and weighing concerns is just as important as the steady returns we’ve achieved. By prioritizing both stability and collective well-being, we create a decision-making environment where everyone can feel comfortable and confident moving forward together.",
+          "id": "M3_R1_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rimma Shamsidova",
+          "message": "I found our decision to invest in bonds last quarter reassuring, as it provided the predictability and stability I value, especially in a new company without much historical data. The steady return helped maintain a calm, trusting environment where everyone could focus on learning and adapting without unnecessary stress. I agree with others that this approach has fostered harmony and collaboration, and I am comfortable continuing with bonds unless compelling concerns about missed opportunities with other options arise.",
+          "id": "M3_R1_22",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Rimma. I share your appreciation for the predictability and stability that bonds have provided, especially as we continue building our company’s foundation. Your point about remaining attentive to any compelling concerns regarding other options is valuable—by staying open to these possibilities, we can ensure our decisions continue to support both harmony and steady progress for the group.",
+          "id": "M3_R1_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rimma Shamsidova",
+          "message": "I appreciate your emphasis on staying open to new concerns, as it helps us adapt thoughtfully while maintaining the stability we value. By carefully listening to any strong arguments for other options, we can make sure our decisions remain both prudent and inclusive, which further supports trust and confidence within the group.",
+          "id": "M3_R1_24",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Rimma. I agree that carefully listening to strong arguments for any of our valid options helps us adapt thoughtfully without sacrificing the stability we value. By maintaining this openness, we can ensure our decisions remain both prudent and inclusive, further strengthening trust and confidence within the group.",
+          "id": "M3_R1_25",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Aysu Demirkan My current thinking is that Bonds appears most promising because after reviewing the group’s reflections, I am even more convinced that bonds best align with our priorities of capital preservation, steady progress, and trust-building. The predictable returns and low risk make bonds a practical choice for our situation, and the group’s unanimous support further reassures me that this approach will maintain harmony and confidence as we continue to learn together. While I remain open to future insights about other options, bonds remain the most suitable asset for this quarter, though I'm interested in exploring all perspectives to refine our understanding. For this round, we will conduct a comparative assessment of risk and return for all asset options in the current stable market, aiming to clarify the projected benefits and drawbacks of each class and ensure alignment with our company’s risk tolerance and priorities. This discussion is an opportunity to integrate diverse viewpoints, deepen our collective understanding, and confirm we are making the best-informed decision. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I encourage everyone to share any perspectives or considerations, especially those I may not have fully addressed, so we can build the most complete view possible.",
+          "id": "M3_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Mikayla Tsegaye",
+          "message": "I continue to see bonds as the most suitable option for us in this stable market, given their steady returns and low risk, which align closely with our company’s current priorities. While I recognize that real estate and stocks offer higher potential returns, their increased risk and unpredictability do not feel appropriate at our early stage when trust and gradual progress matter most. Cash remains the safest, but its very low return seems too limiting for our goals—so for me, bonds still strike the right balance between security and reasonable growth.",
+          "id": "M3_R2_2",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Mikayla, for articulating how bonds continue to align with our risk tolerance and company priorities. I appreciate your balanced assessment of the other options as well—recognizing their potential but also their drawbacks in our current context—which helps clarify why bonds remain the most practical choice for us at this stage. Your perspective supports our focus on gradual, steady growth while ensuring we aren’t taking on unnecessary risk.",
+          "id": "M3_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Melek Yariv",
+          "message": "I agree that bonds continue to offer the right mix of steady returns and low risk, which feels most appropriate given our company’s early stage and desire for stability. While I see that real estate and stocks could provide higher returns, I am concerned about their unpredictability and the potential stress they might introduce, especially when we are still building trust and learning together. Cash is certainly the safest, but its low return seems too limiting for our goals, so for now, I feel most comfortable supporting bonds as a practical, reassuring choice.",
+          "id": "M3_R2_4",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Melek, for clearly outlining the balance between risk and return across our options and emphasizing the importance of stability as we build trust together. Your concerns about the unpredictability of real estate and stocks, as well as your recognition of cash’s limitations, help clarify why bonds remain the most suitable choice for our current stage. Your perspective strengthens our shared understanding and supports a cautious, practical approach for this quarter.",
+          "id": "M3_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rimma Shamsidova",
+          "message": "I appreciate the thoughtful comparisons offered so far. For me, cash is the safest but its very low return does not support our growth goals; real estate and stocks have higher returns but also more unpredictability, which feels unnecessary at our early stage. Bonds continue to offer the steady, predictable returns and low risk that best align with our focus on stability and trust-building as we learn together.",
+          "id": "M3_R2_6",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Rimma, for your clear comparison of each asset and for highlighting how our focus on stability and gradual progress shapes our decision. Your point about the unpredictability of real estate and stocks, as well as the limitations of cash, reinforces why bonds remain the most practical and reassuring choice for us right now. Your perspective adds valuable clarity to our collective understanding and supports our continued emphasis on trust-building and steady growth.",
+          "id": "M3_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Khatri",
+          "message": "I agree with the points raised so far—bonds provide a reassuring balance of steady returns and low risk, which suits our emphasis on stability and gradual growth at this stage. While real estate and stocks do offer higher returns, their unpredictability feels unnecessary given our company’s early development and focus on trust-building. Cash is certainly the safest, but its low return would likely limit our progress, so I continue to see bonds as the most responsible and practical choice for this quarter.",
+          "id": "M3_R2_8",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Veena, for articulating how bonds offer the right balance of steady returns and low risk for our current stage. Your recognition of the higher potential returns—but also the increased unpredictability—of real estate and stocks, as well as the limitations of cash, further clarifies why bonds remain the most practical and responsible choice for us. Your perspective helps solidify our group’s focus on stability and gradual growth as we continue building trust together.",
+          "id": "M3_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Sabira Niyazgulova",
+          "message": "I appreciate the thoughtful comparisons so far and agree that bonds remain the most practical option for us. While cash is the safest, its low return could slow our progress, and although real estate and stocks offer higher returns, their unpredictability feels unnecessary at this early stage. For our priorities—stability, steady growth, and trust-building—I continue to see bonds as the best fit in the current stable market.",
+          "id": "M3_R2_10",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Sabira, for your thoughtful summary of how each asset aligns with our priorities at this stage. Your emphasis on stability, steady growth, and trust-building reflects the group’s core values and helps clarify why bonds remain the most practical choice for us in this stable market. Your perspective contributes to a well-rounded understanding and supports our ongoing focus on prudent, gradual progress.",
+          "id": "M3_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q3": {
+      "round_1": [
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Aysu Demirkan My current thinking is that Bonds appears most promising because I feel most comfortable with bonds this quarter because they have consistently delivered steady, predictable returns in our stable market, minimizing the chance of unexpected losses. My personality leads me to favor familiar, reliable options over those with higher volatility or uncertainty, and bonds align well with my preference for stability and gradual progress. While I recognize that real estate and stocks might offer higher returns, their recent swings reinforce my caution and desire to avoid unnecessary risk at this early stage. Cash, though completely safe, does not support our growth goals enough to justify prioritizing it. Overall, bonds best match my practical, steady approach and help maintain group harmony, though I'm interested in exploring all perspectives to refine our understanding.\n\nFor this round, I’d like us to review our previous quarters’ investment decisions and lessons learned, focusing on what worked well and any concerns about our approach so far. By reflecting on our recent experience, we can establish a factual and experiential foundation for this quarter’s decision and ensure we’re learning as we go. This is an opportunity to synthesize diverse perspectives, highlight what has supported our progress, and surface any challenges or reservations that could inform how we move forward.\n\nIMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.\n\nI invite each of you to share your thoughts on what has worked well, any concerns you may have, and any insights that might help us deepen our collective understanding as we prepare to decide on this quarter’s investment.",
+          "id": "M4_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Sabira Niyazgulova",
+          "message": "Over the past two quarters, investing in bonds has provided us with steady, predictable returns and helped maintain a sense of stability within the group. This consistency has made it easier for me to feel comfortable with our decisions and to trust that we are protecting our capital as we learn together. While I recognize that real estate and stocks can sometimes offer higher returns, the recent swings in their performance make me hesitant to move away from the steady progress bonds have given us, especially since our main goal seems to be gradual, reliable growth at this stage.",
+          "id": "M4_R1_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Sabira, for highlighting how the steady, predictable returns from bonds have contributed to both your comfort and our group’s sense of stability. Your point about the recent swings in real estate and stocks is important, as it reminds us that higher returns often come with greater unpredictability—something we’ve chosen to avoid at this stage. I appreciate your focus on gradual, reliable growth, which aligns closely with my own priorities and helps clarify our experiential foundation as we move forward.",
+          "id": "M4_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Sabira Niyazgulova",
+          "message": "I appreciate your thoughtful summary, and I agree that reviewing our progress together has reinforced my confidence in steady, predictable options like bonds. I do think it’s helpful for us to keep an open mind about any concerns or lessons others might have, so we can continue making well-grounded decisions as a group.",
+          "id": "M4_R1_4",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Sabira. I agree that keeping an open mind to any concerns or lessons others might raise is essential for making solid, well-informed decisions. Your encouragement to consider all viewpoints will help us deepen our understanding and ensure our approach remains both steady and responsive to new insights as we move forward.",
+          "id": "M4_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Melek Yariv",
+          "message": "I’ve found our decision to invest in bonds each quarter has worked well so far, providing steady returns and a sense of security that feels especially important as we’re still building experience together. This approach has helped maintain trust and a calm environment, which I value. At the same time, I agree it’s wise to stay open to any concerns or lessons that come up, so we can continue learning and make sure our decisions remain well-grounded.",
+          "id": "M4_R1_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Melek. I appreciate your focus on how steady returns from bonds have helped maintain trust and a calm environment as we build experience together. Your reminder to remain open to any concerns or lessons is important—it ensures we continue learning as a group and keep our decisions well-grounded as we move forward.",
+          "id": "M4_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Melek Yariv",
+          "message": "I appreciate your emphasis on group learning, Aysu. I think that by regularly reflecting on our decisions and encouraging open communication, we can maintain the stability we value while staying flexible enough to adapt if our experience or the market changes. This gives me confidence that our cautious approach with bonds remains appropriate, but I’m glad we’re attentive to any new lessons that might arise.",
+          "id": "M4_R1_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Melek. I agree that regular reflection and open communication are key to maintaining both the stability we value and the flexibility to adapt as needed. Your perspective reassures me that our cautious approach with bonds remains appropriate, and I appreciate your emphasis on staying attentive to new lessons as we continue to grow together.",
+          "id": "M4_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Khatri",
+          "message": "Over the past two quarters, I’ve found that investing in bonds has worked well for us, providing steady, predictable returns and supporting a calm, collaborative environment. This consistency has made it easier for me to feel comfortable with our decisions and to trust that we’re protecting our capital as we learn together. While I recognize that real estate and stocks offer higher potential returns, their recent volatility reinforces my preference for the stability and gradual progress that bonds provide at this stage.",
+          "id": "M4_R1_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Veena. I appreciate how you’ve highlighted the comfort and trust that steady, predictable returns from bonds have provided, as well as the way this has supported our collaborative environment. Your recognition of the recent volatility in real estate and stocks adds important context, reinforcing why our preference for stability and gradual progress remains well-suited to our current stage.",
+          "id": "M4_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Khatri",
+          "message": "I appreciate your reflections, Aysu. I think our shared focus on stability and gradual progress has really helped strengthen group cohesion and confidence. At the same time, I agree it’s important for us to keep reflecting on our experiences so we remain attentive to any lessons or concerns that could inform future decisions.",
+          "id": "M4_R1_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Veena. I agree that our shared commitment to stability and gradual progress has been central to building trust and group cohesion. Your point about the importance of ongoing reflection is well taken—it ensures we stay attentive to new lessons or concerns that may arise, helping us make decisions that remain grounded in both our experience and our evolving understanding.",
+          "id": "M4_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Rimma Shamsidova",
+          "message": "Over the past two quarters, our decision to invest in bonds has worked well by providing steady, predictable returns and helping maintain a sense of stability and trust within the group. I feel that this cautious approach has supported a calm environment for learning and gradual progress, which is especially important to me as we build experience together. While I am comfortable continuing with bonds, I agree it’s important for us to keep reflecting on our choices and remain attentive to any concerns or new insights that could guide our decisions going forward.",
+          "id": "M4_R1_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Rimma. I appreciate how you’ve emphasized the sense of stability and trust that our cautious approach with bonds has provided, as well as the calm environment it has fostered for learning and gradual progress. Your reminder to keep reflecting on our choices and stay attentive to new insights is important, as it helps ensure our decisions remain grounded in both experience and thoughtful evaluation as we move forward.",
+          "id": "M4_R1_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rimma Shamsidova",
+          "message": "Thank you, Aysu. I find it reassuring that our approach continues to be grounded in both our experience and careful evaluation. I hope others will also share any concerns or lessons they’ve noticed, so we can ensure our decisions remain well-informed and truly reflect the group’s priorities.",
+          "id": "M4_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Rimma. I share your view that grounding our approach in both experience and careful evaluation is essential for making well-informed decisions. Your encouragement for others to share any concerns or lessons helps us maintain a thoughtful, inclusive process, and I hope this will support a comprehensive understanding as we move toward our decision for this quarter.",
+          "id": "M4_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Mikayla Tsegaye",
+          "message": "Over the past two quarters, I’ve found that investing in bonds has worked well for us, providing the steady, predictable returns and sense of security that I value. This approach has helped maintain group harmony and a calm environment for learning, which is especially important to me as we build experience together. I agree with others that it’s wise to keep reflecting on our choices and remain open to any lessons or concerns, so we can continue making decisions that support both our progress and group trust.",
+          "id": "M4_R1_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Mikayla. I appreciate how you’ve highlighted the sense of security and group harmony that steady returns from bonds have provided, as well as the calm environment this has created for our learning. Your point about the importance of ongoing reflection and openness to lessons or concerns is well taken—it ensures that our decisions continue to support both our progress and the trust we’ve built as a group.",
+          "id": "M4_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Mikayla Tsegaye",
+          "message": "I appreciate your focus on how reflection and openness help us maintain both progress and trust as a group. For me, knowing that we’re consistently learning from our experience and listening to each other’s concerns makes it easier to support decisions like bonds, which align with our priorities and keep everyone comfortable moving forward.",
+          "id": "M4_R1_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Mikayla. I agree that consistently learning from our experience and listening to each other’s concerns are key to supporting decisions that align with our shared priorities. Your perspective highlights how reflection and openness not only make it easier to support steady options like bonds, but also help maintain the comfort and trust that are central to our group’s progress.",
+          "id": "M4_R1_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Mikayla Tsegaye",
+          "message": "I agree that comfort and trust are central to our progress, and I think our steady approach with bonds has made it easier for everyone to feel secure and responsible for our shared outcomes. By prioritizing stability, we not only protect our capital but also support a positive, reassuring environment where each person feels valued and able to contribute.",
+          "id": "M4_R1_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Aysu Demirkan My current thinking is that Bonds appears most promising because after reviewing the group’s unanimous support and reflecting on our positive experience with bonds, I am even more confident that bonds offer the best balance of steady returns and low risk in our current stable market. This option aligns with both my personal preference for reliability and the group’s collective priorities of capital preservation, trust, and gradual growth. For this round, we will focus on a comparative assessment of the risk and return profiles for each asset—cash, bonds, real estate, and stocks—so we can clarify how each aligns with our risk tolerance and company priorities, and surface any new considerations or concerns. I encourage everyone to share perspectives that might deepen our understanding or highlight factors I may not have fully considered, so we can synthesize diverse viewpoints into a well-informed decision. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.",
+          "id": "M4_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Mikayla Tsegaye",
+          "message": "I continue to feel that bonds offer the best fit for our company’s priorities in this stable market, since they provide steady, predictable returns without exposing us to the sharp swings we’ve seen with stocks or real estate. While cash is completely safe, its low return seems too limiting for our growth goals, and the recent volatility in both real estate and stocks makes me hesitant to take on more risk at this stage. For me, bonds strike the right balance between safety and progress, supporting the kind of calm, consensus-driven environment that has worked well for us so far.",
+          "id": "M4_R2_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Mikayla. I appreciate how clearly you’ve articulated the trade-offs between safety and growth, especially in the context of our company’s priorities and recent market volatility. Your emphasis on bonds as a way to maintain both stability and progress aligns closely with my own thinking, and I agree that this calm, consensus-driven approach has served us well so far.",
+          "id": "M4_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Sabira Niyazgulova",
+          "message": "I agree that bonds continue to offer the best fit for our priorities, as they provide steady returns without exposing us to unpredictable swings. While cash is the safest, its low return could slow our progress too much, and the recent volatility in real estate and stocks makes me uncomfortable with taking on additional risk at this stage. For me, bonds remain the most practical and reassuring choice for supporting steady growth and maintaining trust within our group.",
+          "id": "M4_R2_4",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Sabira. Your assessment highlights the importance of balancing growth with stability, and I share your view that bonds continue to align best with our priorities in this market. Your focus on minimizing risk while maintaining group trust and steady progress is very much in line with our collective approach, and I appreciate your thoughtful comparison of the options.",
+          "id": "M4_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Khatri",
+          "message": "I agree with the points raised so far—bonds have consistently offered the steady, predictable returns that make me comfortable, especially given our early-stage context and the stable market. While I recognize that real estate and stocks could deliver higher returns, the recent swings in their performance highlight risks that I feel are unnecessary for us right now. Cash, though completely safe, would limit our growth too much, so I continue to see bonds as the most practical and responsible choice for supporting our company’s steady progress.",
+          "id": "M4_R2_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Veena. I appreciate how you’ve weighed the risks and returns of each option, especially in light of our early-stage context and the stable market. Your focus on bonds as the most practical and responsible choice echoes my own thinking and further strengthens our shared commitment to steady, sustainable progress.",
+          "id": "M4_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rimma Shamsidova",
+          "message": "I agree with the thoughtful points raised so far—bonds have consistently provided the steady, predictable returns that fit our preference for minimizing risk and supporting group trust. While I see that real estate and stocks offer higher potential returns, their recent volatility and unpredictability make them less suitable for us at this stage. Cash remains the safest, but its low return does not support our goal of steady progress, so I continue to see bonds as the most practical and reassuring choice for our company right now.",
+          "id": "M4_R2_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Rimma. Your clear comparison of the options and focus on minimizing risk while supporting group trust resonates with our priorities. I agree that, given the recent volatility in real estate and stocks and the limited growth from cash, bonds remain the most practical and reassuring choice for us at this stage.",
+          "id": "M4_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Melek Yariv",
+          "message": "I agree with the thoughtful points everyone has raised. Bonds have consistently provided steady, predictable returns that match our preference for minimizing risk and supporting trust within the group. While I recognize that real estate and stocks might offer higher returns, their recent volatility feels unnecessary for us right now, and cash seems too limiting for growth. For this quarter, I continue to see bonds as the most practical and supportive choice for our company’s steady progress.",
+          "id": "M4_R2_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Melek. Your emphasis on steady, predictable returns and the importance of minimizing unnecessary risk aligns closely with our group’s shared values. I appreciate how you’ve weighed the trade-offs among the options, and your support for bonds as the most practical and supportive choice further strengthens our consensus around a stable, trust-based approach to company growth.",
+          "id": "M4_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q4": {
+      "round_1": [
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Aysu Demirkan My current thinking is that Bonds appears most promising because I feel most comfortable with bonds because they have provided steady, predictable returns throughout the year, which aligns with my preference for stability and minimizing risk. While real estate and stocks have shown higher returns in some quarters, their unpredictability and potential for loss make me uneasy, especially as our company is still in its early stages. Cash is the safest option, but its low return does not support our goal of gradual growth. Continuing with bonds feels like the most practical and reassuring choice, allowing us to preserve capital and maintain group harmony while still achieving reasonable progress, though I'm interested in exploring all perspectives to refine our understanding.\n\nFor this round, we will focus on reviewing our historical investment performance and the lessons we can draw from our experience with bonds so far. The goal is to establish a factual foundation by identifying what has worked well and what could be improved from our previous bond investments. By sharing our observations and reflections, we can synthesize diverse perspectives and deepen our understanding of how our choices have shaped our progress.\n\nAs we discuss, let’s aim to integrate valuable insights from each participant to form a more complete view of our investment approach and its outcomes. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.\n\nI encourage everyone to share their honest perspectives, especially any lessons or observations I may not have fully considered, so we can collectively strengthen our decision-making for this quarter.",
+          "id": "M5_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Veena Khatri",
+          "message": "Based on our results this year, I feel that choosing bonds has worked well for us—they have provided steady, predictable returns without exposing us to sudden losses or stress. This consistency has supported group trust and made our decision-making process less stressful, which I value. While higher returns from real estate or stocks can look appealing in hindsight, I think the stability and gradual growth from bonds have been most appropriate for our company’s early stage.",
+          "id": "M5_R1_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Veena, for highlighting how bonds have contributed to both steady returns and a supportive group environment. I agree that the predictability and low stress of bonds have helped us build trust and confidence as a team, which feels especially important in our early stage. Your point about the temptation of higher returns from other assets is well taken, but I also share your view that prioritizing stability has served us well so far.",
+          "id": "M5_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Khatri",
+          "message": "I appreciate your agreement, Aysu. I think it’s important to recognize that while real estate and stocks do offer higher returns at times, the unpredictability and potential for setbacks could undermine the steady progress and trust we’ve built. For now, I feel maintaining our focus on stability and gradual growth is the most responsible path for our company.",
+          "id": "M5_R1_4",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Veena. I agree that maintaining our focus on stability and gradual growth has allowed us to avoid setbacks and foster a sense of security within the group. Your emphasis on how unpredictability could disrupt our progress is a valuable reminder of why our cautious approach has been effective at this stage.",
+          "id": "M5_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Melek Yariv",
+          "message": "I agree with what’s been said about bonds providing steady, predictable returns that have helped us avoid unnecessary stress or losses. I’ve found that this consistency has made it easier for everyone to feel comfortable and confident in our decisions, which is important to me. Looking back, I think sticking with bonds has supported a calm, trusting environment, and while higher returns from other options are tempting, I still feel the stability we’ve experienced is more valuable for where we are as a company.",
+          "id": "M5_R1_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Melek. I share your appreciation for the sense of comfort and confidence that steady bond returns have given us as a group. Your point about the value of a calm, trusting environment highlights how stability can be more beneficial than chasing higher but unpredictable returns, especially as we continue to build our foundation.",
+          "id": "M5_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Melek Yariv",
+          "message": "I appreciate that, Aysu. I think our experience this year shows how much a steady approach can help everyone feel included and reduce anxiety about unexpected outcomes. For me, that sense of reliability is just as important as the returns themselves, and I believe it’s made our teamwork stronger.",
+          "id": "M5_R1_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Melek. I agree that the reliability we’ve experienced with bonds has helped everyone feel more secure and included, which is just as important as financial returns. Your observation about reduced anxiety and stronger teamwork reinforces the idea that a steady approach supports not only our financial goals but also our group’s sense of trust and collaboration.",
+          "id": "M5_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rimma Shamsidova",
+          "message": "I agree with what’s been said about the benefits of bonds this year. The steady, predictable returns have not only protected us from sudden losses but have also helped maintain a calm, trusting atmosphere in our group, which I value highly. Looking back, I think our choice to prioritize stability has worked well for us, and while higher returns from other assets can be appealing, I feel most comfortable continuing with what has proven reliable for our company’s early stage.",
+          "id": "M5_R1_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Rimma. I agree that prioritizing stability has allowed us to avoid sudden losses and maintain a calm, trusting group environment, which is especially important as we establish our company’s foundation. Your point about feeling most comfortable with what has proven reliable highlights why our cautious approach has worked well for us so far.",
+          "id": "M5_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rimma Shamsidova",
+          "message": "I appreciate your emphasis on how stability and reliability have supported our group trust and gradual progress. For me, knowing that our investments consistently deliver as expected helps everyone feel secure and focused, which I believe is just as important as the returns themselves. This steady approach continues to feel like the most practical way to build our foundation together.",
+          "id": "M5_R1_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Rimma. I agree that the consistency of our bond investments has played a key role in helping everyone feel secure and able to concentrate on our shared goals. Your point about how reliability supports both focus and gradual progress is a strong reminder of why our steady approach has been so practical for building our company’s foundation.",
+          "id": "M5_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rimma Shamsidova",
+          "message": "I agree, and I think our experience this year shows that having predictable outcomes allows us to focus on careful decision-making rather than worrying about surprises. This has helped us work together more smoothly and keep our attention on steady growth, which I believe is the right approach for us at this stage.",
+          "id": "M5_R1_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Sabira Niyazgulova",
+          "message": "I agree with what’s been shared so far—bonds have given us reliable, steady returns without unexpected losses, which has helped me feel comfortable and confident in our decisions. This predictability has made it easier for me to focus on supporting the group and maintaining trust, rather than worrying about sudden setbacks. Looking back, I feel that our cautious approach has worked well for us, and I believe continuing with what’s proven stable remains the most practical choice for where we are right now.",
+          "id": "M5_R1_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Sabira. I appreciate your reflection on how steady, reliable returns from bonds have made it easier for you to support the group and maintain trust. Your experience highlights how predictability not only benefits our financial results but also strengthens our teamwork and confidence, which I believe is essential as we continue building our foundation.",
+          "id": "M5_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Mikayla Tsegaye",
+          "message": "I agree with what’s been shared about the value of steady, predictable returns from bonds. For me, this consistency has helped reduce stress and made it easier to support group decisions without worrying about unexpected losses. Looking back, I feel our cautious approach has worked well, and I appreciate how it has fostered a calm, trusting environment for everyone.",
+          "id": "M5_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Mikayla. I agree that the consistency of our bond investments has played a significant role in reducing stress and making it easier for everyone to support our decisions as a group. Your point about how this has fostered a calm, trusting environment is a valuable reminder of the broader benefits our cautious approach has brought to the team.",
+          "id": "M5_R1_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Aysu Demirkan My current thinking is that Bonds appears most promising because after reviewing our historical performance and listening to every shareholder, I am even more confident that bonds are the most prudent and reassuring choice for this quarter. Their steady returns and low risk have supported not only our financial progress but also group trust and a calm, collaborative environment. While I acknowledge the potential upside of other assets, the value of predictability and stability at our current stage is paramount. Continuing with bonds best aligns with both our company’s needs and my own preference for minimizing risk and supporting group harmony, though I'm interested in exploring all perspectives to refine our understanding.\n\nFor this round, we will focus on a comparative risk-return assessment of all asset options in the current stable market. Our goal is to clarify the projected outcomes for cash, bonds, real estate, and stocks this quarter and assess how each aligns with our company’s risk tolerance and priorities.\n\nThis is an opportunity to thoughtfully consider the strengths and drawbacks of each option, drawing on our collective experience to ensure our decision is well-informed and inclusive. By integrating diverse viewpoints, we can deepen our understanding and confirm that our choice truly serves the company’s best interests.\n\nIMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.\n\nI encourage each of you to share your perspectives, especially if you see potential benefits or risks I may not have fully considered, so we can make the most balanced and prudent decision together.",
+          "id": "M5_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Mikayla Tsegaye",
+          "message": "I continue to feel that bonds offer the best balance for us right now—they have consistently provided steady returns without the stress of sudden losses, which matches both our company’s risk tolerance and my own comfort level. Cash is certainly the safest, but its low returns would slow our progress too much, while real estate and stocks seem too unpredictable given the ups and downs we’ve seen, even in this stable market. I think our experience so far supports staying with bonds, as they allow us to grow steadily without unnecessary risk or anxiety.",
+          "id": "M5_R2_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Mikayla, for articulating so clearly how the steady returns from bonds have matched both our company’s risk tolerance and your personal comfort level. Your point about cash being too limiting for growth and the unpredictability of real estate and stocks, even in a stable market, is well taken. I agree that our experience so far supports a cautious approach, and your comments help affirm why bonds remain such a reassuring choice for us at this stage.",
+          "id": "M5_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Khatri",
+          "message": "I agree that bonds continue to offer the most suitable combination of steady returns and low risk for our company in this stable market, especially given our early stage and shared priority for gradual, reliable growth. While cash is the safest, its low returns would slow our progress, and real estate or stocks, though sometimes more profitable, have shown unpredictable results that could disrupt the stability and trust we’ve built. I think maintaining our focus on bonds is the most practical and responsible approach, but I remain open to considering any new insights others might share about these options.",
+          "id": "M5_R2_4",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Veena, for summarizing so clearly how bonds align with our priorities for steady returns and low risk, especially as we continue building trust and stability in our early stage. I appreciate your openness to new insights, and I agree that while higher-return assets can be tempting, the unpredictability they introduce could undermine the progress and harmony we’ve achieved. Your comments help confirm that focusing on bonds remains the most practical path for our company right now.",
+          "id": "M5_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Melek Yariv",
+          "message": "I still feel most comfortable with bonds because their steady, predictable returns have minimized stress and allowed us to focus on gradual progress as a group. While cash is the safest, its low returns don’t support our growth, and the unpredictability of real estate and stocks makes me hesitant to take on more risk at this stage. I think bonds remain the best fit for our company’s priorities of stability, trust, and steady development.",
+          "id": "M5_R2_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Melek, for emphasizing how bonds have helped us maintain low stress and focus on gradual progress as a group. Your point about the risks of real estate and stocks, as well as the limitations of cash, highlights why bonds best support our priorities of stability, trust, and steady development at this stage. Your reflections contribute meaningfully to our understanding and reinforce the practical value of continuing with bonds.",
+          "id": "M5_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Sabira Niyazgulova",
+          "message": "I continue to feel that bonds are the most practical choice for us in this stable market. Their steady, predictable returns have created a sense of comfort and trust within our group, and I am hesitant to introduce the higher risks that come with real estate or stocks, especially when our priority is gradual, reliable growth. While cash is completely safe, its low returns do not support our development goals, so I believe bonds best balance our need for security and steady progress.",
+          "id": "M5_R2_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Sabira, for highlighting how bonds have contributed to our sense of comfort and trust as a group. Your caution about introducing higher risks from real estate or stocks, especially given our emphasis on gradual, reliable growth, is well aligned with our priorities. I agree that bonds continue to offer the best balance between security and progress for us at this stage.",
+          "id": "M5_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rimma Shamsidova",
+          "message": "I agree with what’s been shared—bonds have provided steady, predictable returns that fit our company’s cautious approach and need for gradual growth. Cash is certainly the safest, but its low returns would slow our progress too much, while real estate and stocks, despite their higher potential, introduce unpredictability that could disrupt the stability and trust we’ve built. For me, bonds continue to offer the best balance between security and meaningful development in this stable environment.",
+          "id": "M5_R2_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Aysu Demirkan(CEO)",
+          "message": "Thank you, Rimma, for clearly summarizing how bonds align with our cautious approach and the need for gradual, meaningful development. Your point about the unpredictability of real estate and stocks, and the limitations of cash, highlights why bonds continue to offer the best balance for our company in this stable environment. Your reflections help affirm the consensus and strengthen our confidence in a steady, risk-aware strategy.",
+          "id": "M5_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        }
+      ]
+    }
+  },
+  "company": {
+    "CEO": {
+      "name": "Aysu Demirkan",
+      "BFI": "low Openness, low Conscientiousness, low Extraversion, high Agreeableness, low Neuroticism",
+      "type": "oceAn"
+    },
+    "shareholders": [
+      {
+        "name": "Melek Yariv",
+        "BFI": "low Openness, low Conscientiousness, low Extraversion, high Agreeableness, low Neuroticism",
+        "type": "oceAn"
+      },
+      {
+        "name": "Sabira Niyazgulova",
+        "BFI": "low Openness, low Conscientiousness, low Extraversion, high Agreeableness, low Neuroticism",
+        "type": "oceAn"
+      },
+      {
+        "name": "Rimma Shamsidova",
+        "BFI": "low Openness, low Conscientiousness, low Extraversion, high Agreeableness, low Neuroticism",
+        "type": "oceAn"
+      },
+      {
+        "name": "Veena Khatri",
+        "BFI": "low Openness, low Conscientiousness, low Extraversion, high Agreeableness, low Neuroticism",
+        "type": "oceAn"
+      },
+      {
+        "name": "Mikayla Tsegaye",
+        "BFI": "low Openness, low Conscientiousness, low Extraversion, high Agreeableness, low Neuroticism",
+        "type": "oceAn"
+      }
+    ]
+  }
+}

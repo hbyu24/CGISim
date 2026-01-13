@@ -1,0 +1,1916 @@
+{
+  "discussion_log": {
+    "annual_budget_year1": {
+      "round_1": [
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Zuleikha Berhane My current thinking is that Option A appears most promising because it allows us to retain half of our capital as a buffer, which feels safer given the lack of historical data and my discomfort with taking unnecessary risks. Evenly distributing the investment across quarters aligns with my preference for routine and predictability, minimizing the stress of making larger or more variable allocations. The stable market environment does not incentivize aggressive strategies, so I see little reason to deviate from a cautious, traditional approach. While I recognize there may be missed opportunities for higher returns, my priority is to avoid volatility and preserve stability for the company’s first year, though I'm interested in exploring all perspectives to refine our understanding. For this round, I’d like us to focus on evaluating the relative risks and stability each option offers in the current market, so we can establish a shared understanding before moving forward. I encourage everyone to contribute their perspectives, especially on factors I may not have fully considered, as this will help us build a more complete view. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Option A', 'Option B', 'Option C', 'Option D'. Please keep all discussion focused on evaluating these specific options.",
+          "id": "M1_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "I agree with the CEO that Option A offers the most stability by limiting our exposure and maintaining a significant cash buffer. Given the absence of historical data, I think it’s prudent to avoid committing too much capital upfront or increasing allocations later in the year, since that could expose us to unnecessary risk. In a stable market, preserving capital and following a predictable plan seems the safest way to protect the company’s interests in our first year.",
+          "id": "M1_R1_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you, Hafsatou. I appreciate your emphasis on capital preservation and the risks of overcommitting early on, especially without historical data to guide us. Your points further strengthen my view that Option A’s predictable, measured approach is best suited to maintaining stability and protecting our company as we establish ourselves.",
+          "id": "M1_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "I’d also add that by retaining half of our funds in reserve, Option A gives us flexibility to adjust if market conditions unexpectedly shift, which is especially important since we lack historical data. This extra layer of caution allows us to protect the company’s future options, not just this year’s results.",
+          "id": "M1_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I agree that maintaining flexibility by keeping half our funds in reserve is a significant advantage, especially since we have no historical data to fall back on. This approach not only safeguards us this year but also preserves our ability to respond if market conditions change unexpectedly, which is a key consideration for our long-term stability.",
+          "id": "M1_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Varsha Nandakumar",
+          "message": "I agree with the points raised about Option A—retaining half of our funds and spreading the investment evenly feels much safer and less stressful, especially since we have no track record yet. The predictability and routine of this approach make it easier to manage uncertainty and avoid the anxiety that comes with larger or more variable commitments. For me, the stability and reduced risk of Option A outweigh the potential for higher returns from the more aggressive options at this early stage.",
+          "id": "M1_R1_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you, Varsha. I share your appreciation for the predictability and routine that Option A offers, especially given the uncertainty we face without a track record. Your point about minimizing stress and making the investment process more manageable is valuable, and it further supports the case for a cautious, stable approach as we establish the company this year.",
+          "id": "M1_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Varsha Nandakumar",
+          "message": "I appreciate that you recognize the value of predictability and reduced stress with Option A. I’d also add that by keeping our approach simple and stable, we’re less likely to make impulsive decisions if we feel anxious about market changes during the year. This extra layer of emotional stability could be especially important while we’re still building our experience.",
+          "id": "M1_R1_8",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I agree that maintaining a simple and stable approach with Option A can help us avoid impulsive decisions driven by anxiety or uncertainty, especially in our first year. Emotional stability is critical as we build our experience, and your perspective reinforces the importance of choosing a path that minimizes stress and supports disciplined decision-making.",
+          "id": "M1_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Rocío Ezequiela Danjuma",
+          "message": "I agree with the emphasis on stability and capital preservation in Option A. Having a predictable, even allocation not only limits our exposure but also helps avoid the stress and uncertainty that come with more aggressive or variable strategies like Options C or D. In a stable market with no historical data, I believe sticking to a cautious, routine approach is the safest way to protect both our capital and our peace of mind.",
+          "id": "M1_R1_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your focus on how Option A’s predictable allocation helps protect both our capital and our peace of mind, Rocío. Your comparison with the risks of Options C and D highlights why a cautious, routine approach is especially appropriate in our situation, and it further strengthens my confidence in Option A as the most prudent choice for our first year.",
+          "id": "M1_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "I agree with what’s been said about Option A offering the most stability and predictability, which I find especially important since we don’t have any historical data to rely on. Committing only half of our funds and spreading it evenly feels much safer and less stressful than the other options, which seem too aggressive or unpredictable for our first year. I think prioritizing a cautious, steady approach will help us avoid unnecessary risks and give us room to adjust if anything unexpected happens.",
+          "id": "M1_R1_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your focus on stability and predictability, Helmiya. Your point about feeling safer with a cautious, steady approach and retaining flexibility for unexpected events aligns closely with my own reasoning for supporting Option A. This shared understanding of the need to avoid unnecessary risks strengthens our case for prioritizing capital preservation as we establish the company.",
+          "id": "M1_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "I appreciate that our perspectives are aligned, and I think this shared commitment to stability can help set a disciplined tone for our company’s decision-making as we move forward. By prioritizing capital preservation now, we’re not just protecting ourselves this year—we’re also building habits that will help us manage uncertainty more effectively in the future.",
+          "id": "M1_R1_14",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I agree, Helmiya. By prioritizing capital preservation and stability now, we’re not only protecting ourselves this year but also setting a precedent for disciplined, cautious decision-making in the future. This approach should help us navigate uncertainty more effectively as our company grows.",
+          "id": "M1_R1_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Tenzin Joshi",
+          "message": "I agree with the emphasis on limiting risk and preserving capital, especially since we’re operating without any historical performance to guide us. Option A stands out to me because it avoids large, potentially stressful commitments and helps ensure we don’t make costly mistakes early on. In my view, the stability and routine of this approach outweigh the possible upside of more aggressive allocations, given our current position.",
+          "id": "M1_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you, Tenzin. Your focus on limiting risk and avoiding costly mistakes, especially given our lack of historical performance, echoes the central reasons behind my preference for Option A. The stability and routine this option provides align well with our need for caution and careful management as we establish the company, and your perspective helps further solidify our consensus around a prudent approach.",
+          "id": "M1_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Zuleikha Berhane My current thinking is that Option A appears most promising because after reflecting on the discussion, I am convinced that Option A best aligns with both my own and the group’s priorities for our first year. The strong consensus around capital preservation, flexibility, and psychological stability outweighs the theoretical potential for higher returns from riskier options. The absence of dissent or advocacy for other options further solidifies my belief that a cautious, evenly distributed allocation is the most prudent strategy as we build our company’s foundation, though I'm interested in exploring all perspectives to refine our understanding. For this round, I’d like us to focus on clarifying our priorities between capital preservation and growth for the company’s first year, and to discuss our collective risk tolerance and expectations for capital retention. By sharing our individual perspectives, we can deepen our understanding of how each option might serve our objectives and ensure our decision is both prudent and robust. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Option A', 'Option B', 'Option C', 'Option D'. Please keep all discussion focused on evaluating these specific options. I encourage you to share any insights or concerns that might help us refine our approach and ensure our final decision is well aligned with our long-term goals.",
+          "id": "M1_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Tenzin Joshi",
+          "message": "I continue to believe that capital preservation should be our top priority this year. Without historical data and given the stable but still unpredictable nature of markets, Option A offers the best balance between participating in investment opportunities and protecting our core capital, which I find essential for building a solid foundation and minimizing unnecessary stress.",
+          "id": "M1_R2_2",
+          "act_type": "Justify",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you, Tenzin. I agree that protecting our core capital is particularly important in this first year, especially given the absence of historical data and the unpredictability that can still exist in stable markets. Your emphasis on minimizing stress and building a solid foundation resonates with my own concerns, and it’s helpful to have these priorities clearly articulated as we move toward a final decision.",
+          "id": "M1_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Tenzin Joshi",
+          "message": "I appreciate your agreement on the need for a strong foundation. I’d also add that by allocating funds evenly across quarters with Option A, we’re not just protecting our capital, but also building disciplined habits that can help us avoid impulsive decisions if market conditions shift unexpectedly. This routine feels especially important as we set the tone for our company’s long-term approach.",
+          "id": "M1_R2_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I agree that building disciplined habits through a consistent, routine approach is crucial, especially in our company’s formative year. The predictability of Option A not only preserves capital but also sets a structured tone that can help us remain steady if market conditions change. This emphasis on routine supports both our immediate and long-term objectives.",
+          "id": "M1_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "I still feel most comfortable with Option A, as it limits our exposure and keeps us anchored in a predictable routine. The idea of risking more capital for higher growth this early makes me uneasy—without any track record, I’d rather prioritize retaining as much of our initial funds as possible and avoid unnecessary stress. In my view, stability and capital retention matter more than chasing potential gains right now.",
+          "id": "M1_R2_6",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you, Hafsatou. Your focus on limiting exposure and maintaining a predictable routine aligns closely with my own priorities and what I’ve heard from others so far. Prioritizing stability and capital retention, especially in a year without a track record, seems like the most prudent course for minimizing stress and giving us flexibility to adapt if necessary.",
+          "id": "M1_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "I appreciate that our discussion keeps coming back to the need for stability and flexibility. I’d just add that our support for Option A isn’t only about avoiding risk, but also about recognizing our collective comfort level—choosing a path that matches our group’s risk tolerance feels like the right way to build trust and confidence in our decision-making process.",
+          "id": "M1_R2_8",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I agree that aligning our decision with the group’s collective comfort level is important—not only for stability but also for building trust and confidence as we move forward together. Recognizing our shared risk tolerance helps ensure that everyone feels secure in the process, which I believe will strengthen our company’s foundation and support more effective collaboration in the future.",
+          "id": "M1_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rocío Ezequiela Danjuma",
+          "message": "I remain strongly in favor of Option A because it prioritizes capital preservation and keeps our exposure limited, which is especially important without historical data to guide us. For me, the routine and predictability of an even allocation each quarter helps reduce anxiety and avoids the stress of aggressive or unpredictable approaches. I think our group’s comfort with a cautious strategy is a strength, and I would rather see us retain as much of our initial capital as possible in this first year.",
+          "id": "M1_R2_10",
+          "act_type": "Justify",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you, Rocío. I share your perspective that routine and predictability help reduce anxiety and provide a sense of stability, especially in our first year without historical data. Your point that our group’s comfort with a cautious strategy is a strength resonates with me, and I agree that retaining as much of our initial capital as possible is the most prudent approach right now.",
+          "id": "M1_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rocío Ezequiela Danjuma",
+          "message": "I appreciate your agreement, and I think it’s worth stressing that our support for Option A is grounded in both our emotional comfort and the practical reality that we simply don’t have historical data to justify taking bigger risks. For now, sticking to a cautious, predictable plan is the most rational way to protect our capital and give ourselves time to learn before considering more growth-oriented options.",
+          "id": "M1_R2_12",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I agree that our lack of historical data makes it difficult to justify taking bigger risks, and I appreciate your emphasis on the emotional comfort that comes from a cautious, predictable approach. Prioritizing stability now gives us the chance to learn and build confidence as a team, so we’re better prepared to evaluate growth-oriented options in the future if conditions change.",
+          "id": "M1_R2_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "I continue to support Option A because I find the idea of preserving as much of our capital as possible far more reassuring than chasing higher growth right now. Without historical data, I think it’s too risky to commit more funds or pursue aggressive allocations—sticking to a cautious, even approach lets us avoid unnecessary anxiety and gives us flexibility if anything unexpected happens. For me, stability and capital retention are more important than potential gains this early on.",
+          "id": "M1_R2_14",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you, Helmiya. I share your view that preserving as much of our capital as possible is more reassuring than pursuing higher growth at this stage, especially without historical data to guide us. Your emphasis on flexibility and minimizing anxiety aligns closely with my own priorities, and it’s clear that stability and capital retention remain our most important considerations for the company’s first year.",
+          "id": "M1_R2_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "I appreciate your agreement, and I want to stress that even a small chance of losing more capital than necessary would cause a lot of anxiety for me, especially since we’re just starting out. I believe that by choosing Option A, we’re not only protecting our funds but also protecting the group’s confidence and peace of mind, which I think is just as important for our long-term success.",
+          "id": "M1_R2_16",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I understand your concerns about the anxiety that even a small chance of unnecessary loss could cause, especially as we’re establishing ourselves. Protecting not just our capital but also the group’s confidence and peace of mind is a priority I share, and I agree that Option A provides the stability we need for long-term success.",
+          "id": "M1_R2_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Varsha Nandakumar",
+          "message": "I am still most comfortable with Option A because it lets us preserve a significant portion of our capital and avoid the anxiety of taking big risks without any historical data to rely on. I prefer stability and routine, and I’d rather see us focus on protecting what we have this year than push for growth that could put our foundation at risk.",
+          "id": "M1_R2_18",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you, Varsha. Your emphasis on preserving capital and maintaining stability aligns closely with my own concerns and the priorities expressed by others. I agree that focusing on protecting what we have this year is the most prudent way to avoid unnecessary anxiety and safeguard our company’s foundation as we move forward.",
+          "id": "M1_R2_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q1": {
+      "round_1": [
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Zuleikha Berhane My current thinking is that Cash appears most promising because I am most comfortable with cash because it is the safest and most predictable option, which aligns with my strong preference for routine and minimizing anxiety. The lack of historical data increases my reluctance to take on any unnecessary risk, so I find it difficult to justify investing in anything volatile or unfamiliar at this stage. Bonds are somewhat appealing due to their low risk, but even a small chance of loss makes me hesitant. Real estate and stocks feel too unpredictable and stressful for a first investment, so I am inclined to preserve capital and avoid surprises as much as possible, though I'm interested in exploring all perspectives to refine our understanding. For this round, I want us to establish a baseline understanding of each asset’s risk-return profile in the current stable market, ensuring we all have a clear, shared view of the theoretical performance and risks of cash, bonds, real estate, and stocks. By sharing our perspectives, we can synthesize a more complete picture of each option’s strengths and weaknesses, which will help us make a more informed decision. I encourage everyone to contribute any insights or concerns that might help deepen our collective understanding and challenge my initial assumptions. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.",
+          "id": "M2_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Rocío Ezequiela Danjuma",
+          "message": "I agree that cash is the safest and most predictable, but I worry that it’s a bit too conservative if we want any meaningful growth, even in a stable market. Bonds seem like a reasonable compromise—they’re still low risk, especially right now, but at least offer some return above cash without exposing us to the unpredictability of real estate or stocks. For me, bonds feel familiar and low-stress, which helps keep my anxiety in check while still being practical about growth.",
+          "id": "M2_R1_2",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your point about cash potentially being too conservative if we want any real growth, even in a stable market. Your observation that bonds offer a familiar, low-risk option with some return above cash does help clarify the practical trade-off between safety and modest growth. I agree that understanding whether bonds can provide enough stability without introducing too much stress is important for our baseline assessment.",
+          "id": "M2_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rocío Ezequiela Danjuma",
+          "message": "I think it’s worth emphasizing that, in a stable market, bonds generally have very little volatility—so while they aren’t as completely safe as cash, the risk of significant loss is still extremely low. For me, the small increase in risk feels manageable, especially since the potential for some return could help us avoid falling behind even in a predictable environment. This seems like a practical way to balance our need for stability with at least a minimal opportunity for growth.",
+          "id": "M2_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "That’s a helpful distinction—recognizing that, in a stable market, the risk of significant loss with bonds remains extremely low does make the option feel less daunting. Your point about bonds potentially helping us avoid falling behind, even with only a small increase in risk, is worth considering as we continue clarifying how each asset aligns with our priorities for both safety and modest growth.",
+          "id": "M2_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rocío Ezequiela Danjuma",
+          "message": "I appreciate your openness to considering bonds as a middle ground. While I understand the appeal of cash for complete safety, I think our shared need to avoid unnecessary stress can still be met with bonds, since their risk is minimal in the current market. For me, this approach feels like a responsible way to maintain stability while not completely sacrificing the chance for some progress.",
+          "id": "M2_R1_6",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I can see the appeal in your reasoning that bonds might offer a responsible way to maintain stability while still allowing for some progress. The idea that we could avoid unnecessary stress while not completely forgoing growth is reassuring, and I agree that, in this market, bonds seem to strike a reasonable balance between safety and opportunity. Let’s see how other shareholders view this trade-off before we move forward.",
+          "id": "M2_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Tenzin Joshi",
+          "message": "I agree with the points about cash being the safest, but I worry that the returns are so low that it might be too conservative, even for someone like me who dislikes risk. Bonds seem to provide enough stability to keep my anxiety in check, while still giving us a modest chance for growth in this stable environment. I’m still uneasy about real estate or stocks because they feel unpredictable, but I think bonds offer a practical middle ground that’s worth serious consideration.",
+          "id": "M2_R1_8",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I understand your concern that cash might be too conservative, even for those of us who are naturally risk-averse. Your point that bonds could provide enough stability while still offering some potential for growth is a useful addition to our discussion. I agree that, given our collective discomfort with unpredictability, bonds seem to represent a practical compromise worth further exploration as we clarify our baseline understanding of the options.",
+          "id": "M2_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Tenzin Joshi",
+          "message": "I appreciate your recognition of our shared discomfort with unpredictability. For me, the reassurance of bonds is that they don’t force us too far out of our comfort zone, yet they help us avoid feeling like we’re standing still. This balance is especially important for my peace of mind as we build trust in our process during these early stages.",
+          "id": "M2_R1_10",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate how you’ve framed the value of bonds in terms of maintaining our comfort zone while still allowing for some forward movement. The emphasis on building trust in our process and not feeling stagnant is a helpful reminder that psychological comfort is as important as the technical risk-return profile at this stage. This perspective strengthens our baseline understanding of why bonds might be a suitable option in a stable market.",
+          "id": "M2_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Tenzin Joshi",
+          "message": "I think it’s worth emphasizing that, for many of us, the psychological comfort of knowing we aren’t taking unnecessary risks can actually help us stay more disciplined and consistent in our approach. By choosing bonds, we’re supporting both our emotional stability and our long-term strategy, which feels like a solid foundation for future decisions.",
+          "id": "M2_R1_12",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "I understand the arguments for bonds, and I agree they’re less risky than other options, but I still feel most secure with cash because it’s completely predictable and there’s no chance of loss. For me, sticking with cash helps keep things simple and avoids any stress or surprises, especially since we don’t have any past data to rely on yet. While I see the appeal of bonds for modest growth, I’m not comfortable increasing risk even a little at this early stage.",
+          "id": "M2_R1_13",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your emphasis on the complete predictability and safety that cash provides, particularly in the absence of historical data. Your point about avoiding even minimal risk at this early stage is a valuable reminder of the psychological comfort and simplicity that cash offers, which should be weighed carefully against the potential for modest growth with other options. This helps ensure we’re fully considering the importance of capital preservation and routine in our first investment decision.",
+          "id": "M2_R1_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "I appreciate your recognition of how important psychological comfort and routine are for me, especially when we’re just starting out. Even though I understand the potential for modest growth with bonds, I still believe that avoiding all risk is the better choice right now, since any loss—no matter how small—would undermine my sense of security and make it harder to trust our process moving forward.",
+          "id": "M2_R1_15",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I understand your concern that even a minor loss could undermine trust in our process, especially before we have any track record to reassure us. Your emphasis on the need for absolute predictability and routine reinforces why cash remains such a compelling option for those of us prioritizing stability above all else. This perspective will be important to keep in mind as we continue weighing our choices.",
+          "id": "M2_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Varsha Nandakumar",
+          "message": "I agree that cash is the safest and least stressful option, but I worry that the returns are just too low for our needs, even if the market is stable. Bonds seem like a better fit for me—they’re still very low risk, which helps me feel secure, but at least offer a small chance for growth so we’re not just standing still. I’m not comfortable with real estate or stocks at all, but I think bonds strike a balance that fits both my need for routine and my anxiety about taking on too much risk.",
+          "id": "M2_R1_17",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your concern that cash might not provide sufficient returns, even in a stable market, and your reasoning that bonds could offer a better balance between low risk and modest growth. The fact that bonds still feel secure while allowing for some progress does help clarify why they might be a practical alternative for those of us who value routine but want to avoid stagnation. Your perspective strengthens our collective understanding of how bonds could align with our priorities at this stage.",
+          "id": "M2_R1_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Varsha Nandakumar",
+          "message": "I appreciate your understanding of my concerns. I just want to add that, for me, even a small step toward growth—like what bonds offer—can actually help reduce my anxiety about falling behind, as long as the risk stays low. This way, we can feel like we’re making progress without stepping too far outside our comfort zone.",
+          "id": "M2_R1_19",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your point that taking even a small step toward growth with bonds could actually help ease anxiety about falling behind, as long as we keep risk to a minimum. That perspective highlights how incremental progress can support our sense of security and routine, which is especially important given our collective risk aversion. It’s helpful to consider that modest growth doesn’t have to come at the expense of stability.",
+          "id": "M2_R1_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Varsha Nandakumar",
+          "message": "I agree that keeping risk to a minimum is crucial for our peace of mind, and I think bonds let us do that while still giving us a sense of forward movement. It helps me feel more in control knowing we’re not taking big risks, but we’re also not just staying in place, which makes it easier for me to trust our process as we go forward.",
+          "id": "M2_R1_21",
+          "act_type": "Justify",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "I recognize that bonds offer a bit more return in a stable market and several of you have made a reasonable case for them as a compromise, but I still feel most secure with cash because it eliminates any possibility of loss. For me, even a small risk is uncomfortable at this stage, especially since we have no historical data to rely on. I would rather accept lower returns than take chances with our capital so early in the company’s life.",
+          "id": "M2_R1_22",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your emphasis on eliminating any possibility of loss, especially given our lack of historical data. Your willingness to accept lower returns in exchange for total security is a valuable reminder that, for some of us, psychological comfort and capital preservation outweigh the potential benefits of even minimal risk. This perspective is important as we continue clarifying which asset aligns best with our collective priorities for this first investment.",
+          "id": "M2_R1_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "I appreciate your recognition of how important psychological comfort and capital preservation are for some of us. I just want to stress that, for me, even a small loss at this stage would make it difficult to trust our decision-making process going forward. Absolute safety helps build my confidence in our foundation, especially while we’re still establishing routines and trust as a group.",
+          "id": "M2_R1_24",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I understand your point that even a small loss could undermine trust in our process and make it harder to build confidence as we establish routines. Your emphasis on absolute safety as a foundation for group trust is a valuable consideration, especially since we’re still in the early stages of working together. This perspective reinforces the importance of prioritizing psychological comfort and capital preservation in our first investment decision.",
+          "id": "M2_R1_25",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Zuleikha Berhane My current thinking is that Bonds appears most promising because after hearing all perspectives, I am persuaded that bonds represent the most balanced option for our first investment. They offer a low-risk profile that aligns with my need for predictability and routine, while providing a modest return that can help us avoid stagnation and build trust in our decision-making process. The stable market context and shareholders’ psychological comfort with bonds further reinforce my confidence that this is a prudent, responsible choice for our company’s foundational year, though I'm interested in exploring all perspectives to refine our understanding. In this round, we will evaluate how each asset aligns with our company’s risk tolerance and capital preservation priorities, aiming to identify which options best fit our collective preference for stability and routine, and to surface any concerns about deviating from a cautious approach. By thoughtfully sharing and integrating our perspectives, we can deepen our understanding and ensure our decision is robust and fully aligned with our foundational values. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I encourage everyone to share any insights or concerns that could further strengthen our collective decision-making.",
+          "id": "M2_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "I remain most comfortable with cash, as it completely eliminates risk and supports the stability and routine that I—and, I believe, several others—need to feel secure, especially in our first investment without historical data. While I understand the appeal of bonds for modest growth, even minimal risk makes me uneasy at this early stage, and I worry that moving away from absolute safety could undermine trust before our foundation is solid.",
+          "id": "M2_R2_2",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you for sharing your concerns, Hafsatou. I recognize that absolute safety with cash offers unmatched psychological comfort and helps maintain trust, especially when we have no historical data to rely on. Your point about the potential risk of undermining our foundation by moving away from complete safety is important, and I want to ensure we do not make any decision that introduces unnecessary anxiety or disrupts the stability we are trying to build.",
+          "id": "M2_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "I appreciate your acknowledgment, Zuleikha, but I want to stress that even a small step away from full safety with cash still leaves me unsettled. For me, maintaining absolute predictability is essential, and I worry that introducing any risk—even if minimal—could disrupt the sense of stability we’re trying to establish as a group.",
+          "id": "M2_R2_4",
+          "act_type": "Justify",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I hear your concern, Hafsatou, and I understand how even minimal risk can feel unsettling when predictability is a top priority. Your insistence on absolute safety is a valuable reminder that any deviation from complete stability should be weighed very carefully, especially as we work to build a strong sense of trust in these early stages. I want to make sure we fully address these anxieties before moving forward, so that no one feels their need for security is being dismissed.",
+          "id": "M2_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "I think it’s important we don’t rush this first decision just to pursue a bit more return. Trust in our process depends on honoring everyone’s comfort with stability, and for me, cash remains the only option that truly guarantees that. If we move too quickly away from complete safety, we risk undermining the foundation we’re all trying to build.",
+          "id": "M2_R2_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your emphasis on not rushing this decision, Hafsatou. Your reminder that trust depends on honoring our collective need for stability is important, and I agree that we should not compromise our foundation for incremental returns. I want to ensure our process remains deliberate and that any step we take is fully supported by the group’s comfort with both risk and routine.",
+          "id": "M2_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "I continue to believe that cash best fits our company’s risk tolerance and need for stability, especially while we have no historical results to guide us. Even minimal risk with bonds feels unnecessary and unsettling to me right now, and I worry that moving away from complete predictability could undermine the sense of security we’re trying to establish. For our first investment, I’d rather stick with what’s most familiar and least stressful, even if that means accepting lower returns.",
+          "id": "M2_R2_8",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you for sharing your thoughts, Helmiya. Your emphasis on predictability and minimizing stress is a valuable reminder that our first investment should reinforce the sense of security we are building as a team. I agree that we need to be especially careful not to introduce unnecessary anxiety at this early stage, and your perspective helps ensure we remain focused on what truly supports our collective stability.",
+          "id": "M2_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "I appreciate your acknowledgment, Zuleikha. I want to add that I’m not alone in feeling uneasy about moving away from complete safety—several of us have expressed similar concerns. I think it’s crucial that our first decision sets a precedent for prioritizing psychological comfort and routine, even if it means being more conservative than some might prefer.",
+          "id": "M2_R2_10",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you for highlighting that this unease is shared by others, Helmiya. I agree that our first decision carries weight in establishing the tone for how we approach risk and routine as a company. It’s important that we prioritize psychological comfort and stability in this initial stage, even if it means favoring a more conservative approach than some might ideally choose.",
+          "id": "M2_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Tenzin Joshi",
+          "message": "While I understand the appeal of absolute safety with cash, I think bonds strike a careful balance—they’re familiar, low risk, and still allow us to maintain routine and psychological comfort. In this stable market, the incremental risk of bonds feels manageable and gives us a modest chance for growth without undermining our foundation, which seems like a practical way to respect both our risk tolerance and our long-term goals.",
+          "id": "M2_R2_12",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you, Tenzin. Your point about bonds offering a careful balance between stability and modest growth is well taken, especially in a stable market where the incremental risk feels manageable. I agree that bonds may allow us to maintain our routine and psychological comfort while still making progress, and your perspective helps me see how we might achieve both safety and gradual advancement without undermining our foundation.",
+          "id": "M2_R2_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Tenzin Joshi",
+          "message": "I appreciate your willingness to consider this middle ground. I do think it’s important to acknowledge that while bonds aren’t entirely risk-free, their predictability in a stable market makes them a practical compromise. This approach lets us protect our foundation while also demonstrating that we’re capable of taking small, responsible steps forward—something that could build confidence in our process over time.",
+          "id": "M2_R2_14",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you, Tenzin. Your emphasis on bonds as a practical compromise that preserves our foundation while enabling small, responsible progress is valuable. I agree that taking a measured step forward—without abandoning our commitment to stability—can help us build confidence and demonstrate that we are capable of adapting thoughtfully as a team.",
+          "id": "M2_R2_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Varsha Nandakumar",
+          "message": "I understand the comfort that cash provides, especially with no historical data, and I share a lot of those concerns about risk. Still, I believe bonds fit our risk tolerance—they’re predictable enough to keep anxiety low, but offer just enough growth so we don’t feel stuck. For me, bonds seem like the safest way to move forward without undermining our need for stability and routine.",
+          "id": "M2_R2_16",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you, Varsha. Your point about bonds providing predictability while also offering just enough growth to keep us from feeling stuck is compelling. I see how this approach could help us maintain our sense of stability and routine, while demonstrating that we can take cautious, deliberate steps forward as a company.",
+          "id": "M2_R2_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Varsha Nandakumar",
+          "message": "I appreciate your understanding, Zuleikha. I just want to add that my comfort with bonds depends on the market staying stable—if conditions changed or if we were asked to take on more risk, I’d be much less confident. For now, though, bonds feel like the furthest I’m willing to go without losing that sense of stability and routine.",
+          "id": "M2_R2_18",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you for clarifying that, Varsha. Your point about your comfort with bonds being contingent on stable market conditions is important—it highlights that our willingness to accept even minimal risk is context-specific. I agree that if the environment were to become less predictable, we would need to reevaluate our approach to ensure we don’t compromise our collective sense of stability and routine.",
+          "id": "M2_R2_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rocío Ezequiela Danjuma",
+          "message": "I agree that absolute safety with cash is compelling, especially given our lack of historical data and the high value we place on stability. Still, I see bonds as a familiar, low-stress option that doesn’t require us to abandon our preference for routine—they offer just enough return to avoid feeling stagnant, without introducing the kind of risk that would make me anxious. For me, bonds are a practical compromise that respects both our collective risk aversion and our desire for some incremental progress.",
+          "id": "M2_R2_20",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you, Rocío. Your point about bonds offering a familiar, low-stress path that still respects our need for routine is well taken. I agree that this approach allows us to avoid feeling stagnant while maintaining the psychological comfort and stability that are so important to our group, making bonds a compelling option for our first investment.",
+          "id": "M2_R2_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rocío Ezequiela Danjuma",
+          "message": "I appreciate your agreement, Zuleikha, and just want to clarify that my comfort with bonds is closely tied to the current stable market—if conditions were less predictable, I’d be much more hesitant. As long as we’re careful not to overextend, I think bonds provide the right balance for us at this stage, but I’d want us to revisit this if the environment changes.",
+          "id": "M2_R2_22",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you for clarifying that, Rocío. I agree that our willingness to invest in bonds should be closely tied to the stability of the market, and I share your view that we must remain cautious not to overextend ourselves. If market conditions change, we will need to revisit our strategy to ensure we continue to prioritize stability and routine above all else.",
+          "id": "M2_R2_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q2": {
+      "round_1": [
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Zuleikha Berhane My current thinking is that Bonds appears most promising because I am most comfortable with bonds given their consistent, predictable returns and minimal risk in this stable market. My strong preference for routine and aversion to uncertainty makes me reluctant to consider real estate or stocks, despite their higher returns, as the potential volatility would increase my anxiety and undermine my sense of control. Cash, while completely safe, offers returns that are simply too low and could cause the company to stagnate. Bonds provide the right balance of safety and modest growth, allowing me to maintain psychological comfort while still demonstrating responsible progress, though I'm interested in exploring all perspectives to refine our understanding. For this round, we will review last quarter’s bond investment, focusing on how it impacted capital preservation and psychological comfort, to establish a factual foundation for our next decision. I encourage everyone to share their perspectives on whether the bond investment met our objectives for stability and risk management, and how this experience might inform our approach going forward. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I welcome any insights that might help us deepen our collective understanding and strengthen our decision-making process.",
+          "id": "M3_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rocío Ezequiela Danjuma",
+          "message": "Last quarter’s investment in bonds met my expectations for stability and modest growth—the 5% return was predictable and didn’t introduce any anxiety about potential losses. Compared to cash, bonds provided a bit more progress without sacrificing the sense of control and routine that helps keep my stress manageable. I still feel that bonds are the safest way to balance our low risk tolerance with the need to avoid stagnation in this stable market.",
+          "id": "M3_R1_2",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you, Rocío. Your comments on the predictability of bonds and the absence of anxiety about potential losses closely reflect my own experience last quarter. I agree that bonds offered modest growth without undermining our sense of routine or control, which is critical for maintaining psychological comfort as we move forward.",
+          "id": "M3_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rocío Ezequiela Danjuma",
+          "message": "I appreciate hearing that your experience mirrored mine, especially regarding the importance of routine. Sticking with bonds not only preserves our capital, but also reinforces the predictability that helps reduce group anxiety—something I think is essential for sustaining effective decision-making over time.",
+          "id": "M3_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I agree that preserving predictability and reducing group anxiety are essential for our decision-making process. The stability bonds provided last quarter made it easier for me to remain focused and avoid unnecessary stress, which I believe is critical for maintaining both individual and collective performance. Your emphasis on routine and psychological comfort further supports my view that bonds remain the most suitable choice under current conditions.",
+          "id": "M3_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Rocío Ezequiela Danjuma",
+          "message": "I agree that maintaining psychological comfort is crucial for both individual focus and group performance. If we continue to prioritize stability through predictable options like bonds, we’re more likely to avoid unnecessary stress and keep everyone engaged. This consistency is what makes me most confident in our ability to make sound decisions quarter after quarter.",
+          "id": "M3_R1_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your focus on the connection between stability, psychological comfort, and ongoing engagement. Consistency in our approach—especially through predictable options like bonds—has made it easier for me to manage stress and maintain clarity in decision-making. Your point about this consistency supporting sound decisions over time aligns closely with the disciplined environment we’re striving to maintain.",
+          "id": "M3_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "While I recognize that last quarter’s bond investment delivered a predictable return without immediate losses, I still feel uneasy about accepting any level of risk, even if it is minimal. For me, the psychological comfort of knowing our capital is completely protected—as with cash—remains essential, especially while we are still establishing trust and stability within the company.",
+          "id": "M3_R1_8",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I understand your concerns about even minimal risk, Hafsatou. While bonds have provided stability so far, I recognize that the absolute safety of cash can be reassuring, especially as we continue to build trust and stability within the company. Your emphasis on psychological comfort is a valuable reminder that our investment choices must support not only financial outcomes but also the sense of security our group needs at this stage.",
+          "id": "M3_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "I appreciate your recognition of the need for psychological comfort. Even though bonds have been stable so far, I remain concerned that any exposure to risk—even if small—could undermine the trust and stability we are working to build. For me, sticking with cash would send a stronger signal that we are committed to protecting our capital above all else.",
+          "id": "M3_R1_10",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your continued emphasis on the importance of complete capital protection, Hafsatou. Your perspective is a valuable reminder that, for some, any risk—even minimal—can impact trust and stability. As we move forward, I will keep this concern in mind to ensure our decisions balance the need for modest growth with the psychological security that is essential for building long-term confidence within the group.",
+          "id": "M3_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "I want to reiterate that, for those of us who are especially cautious, even a small step away from complete safety can introduce ongoing anxiety that may not be visible in short-term results. Ensuring that everyone feels fully secure might require a more conservative approach with cash, at least until we have a longer track record and stronger group confidence.",
+          "id": "M3_R1_12",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I hear your ongoing concerns about the anxiety that even minimal risk can create, Hafsatou. While I personally find some comfort in the predictability of bonds, I recognize that for some, only absolute safety—such as cash—truly addresses the need for security, especially at this early stage. As we evaluate our options, I will continue to weigh the importance of psychological comfort and trust alongside our goal of responsible, steady growth.",
+          "id": "M3_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "I appreciate your commitment to weighing psychological comfort alongside growth. From my perspective, erring on the side of caution by choosing cash would ensure that even the most risk-averse shareholders feel secure, which could strengthen overall trust and unity as we move forward.",
+          "id": "M3_R1_14",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "While I recognize that bonds delivered a predictable return last quarter, I still felt uneasy knowing there was even a small chance of loss. For me, absolute safety and psychological comfort remain the top priorities, and I find it difficult to fully relax unless our capital is completely protected, as with cash. Although I see the appeal of modest growth, I’m concerned that any exposure to risk—even if it hasn’t caused problems yet—could undermine the trust and stability we’re trying to build at this early stage.",
+          "id": "M3_R1_15",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I understand your unease, Helmiya. While bonds have so far provided predictable results, I recognize that for some, only the complete safety of cash can offer true psychological comfort and support the trust we’re working to build. Your perspective is important as we weigh the value of modest growth against the foundational need for absolute security at this early stage.",
+          "id": "M3_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "I appreciate your understanding. Even though bonds have been stable so far, I still find it difficult to ignore the underlying risk, which keeps me on edge and makes it harder to fully trust our decisions. For me, prioritizing cash would send a clear message that we are committed to protecting everyone’s sense of security as we continue building trust in these early stages.",
+          "id": "M3_R1_17",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I hear your concerns, Helmiya, and I recognize that even when bonds perform as expected, the underlying risk can still impact psychological comfort and trust. Your emphasis on sending a clear message of security is valuable, and I will continue to factor in the importance of absolute safety as we weigh our options for this stage of the company’s development.",
+          "id": "M3_R1_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "I think it’s important to recognize that even if the risk in bonds hasn’t materialized, just knowing it’s there can create ongoing tension for some of us. Over time, that underlying anxiety can add up and potentially affect how well we work together, so I believe our choice should reflect not only the numbers but also the need for lasting psychological comfort and group unity.",
+          "id": "M3_R1_19",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your focus on the long-term psychological impact, Helmiya. Even when risk doesn’t materialize in losses, I recognize that its presence can still add tension and potentially affect group cohesion. Your insight underscores the importance of factoring in not just immediate outcomes, but also the sustained psychological comfort our decisions provide as we move forward.",
+          "id": "M3_R1_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Tenzin Joshi",
+          "message": "I found last quarter’s bond investment reassuring, as the predictable 5% return supported both capital preservation and my need for routine. While I understand the concerns about even minimal risk, the experience so far has shown that bonds can deliver modest growth without undermining psychological comfort in this stable market. For me, continuing with bonds remains the most practical way to avoid stagnation while still maintaining a sense of control and minimizing unnecessary anxiety.",
+          "id": "M3_R1_21",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your thoughtful assessment, Tenzin. Your point about bonds providing both modest growth and psychological comfort in a stable market resonates with my own experience last quarter. Your recognition of the need to avoid stagnation while maintaining control reinforces the practical value of bonds for our group at this stage.",
+          "id": "M3_R1_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Tenzin Joshi",
+          "message": "I agree that our similar experiences with bonds last quarter can help build confidence in our decision-making process. By maintaining a consistent approach, we support not only modest growth but also a stable environment that makes it easier for everyone—especially the more risk-averse among us—to remain focused and engaged. This consistency is important for reducing stress and ensuring we don’t disrupt the trust we’ve started to build.",
+          "id": "M3_R1_23",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I agree that maintaining a consistent approach with bonds has helped build confidence and reduce stress, which is essential for both decision-making and group cohesion. Your emphasis on supporting the more risk-averse members of our team is important, as it ensures that our strategy remains inclusive and stable. This focus on routine and predictability continues to support my preference for bonds as the most suitable option in our current environment.",
+          "id": "M3_R1_24",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Varsha Nandakumar",
+          "message": "I found last quarter’s investment in bonds to be reassuring—it delivered exactly the kind of predictable, modest return I was hoping for, which helped keep my anxiety manageable and supported my need for routine. While I understand the concerns about any risk at all, I didn’t feel exposed or unsettled by this choice, and I think the stability bonds provided was a good compromise between complete safety and the need to avoid falling behind. For me, sticking with bonds still feels like the least stressful and most sensible path in this stable market.",
+          "id": "M3_R1_25",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your perspective, Varsha. Your experience with bonds delivering predictability and helping manage anxiety closely mirrors my own, and I agree that this stability is an effective compromise between absolute safety and the need to avoid stagnation. Your emphasis on routine and manageable stress reinforces my view that bonds continue to fit our company’s needs in this environment.",
+          "id": "M3_R1_26",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Varsha Nandakumar",
+          "message": "I appreciate that you recognize the value of routine and psychological comfort, especially since several of us find even minimal risk stressful. For me, the predictability of bonds is what makes it possible to stay focused and engaged without feeling overwhelmed, so I think continuing with them is the best way to keep everyone as comfortable as possible while still making progress.",
+          "id": "M3_R1_27",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I share your appreciation for the predictability that bonds provide, Varsha. The ability to stay focused and avoid feeling overwhelmed is important for me as well, and I agree that continuing with bonds offers the best balance between comfort and steady progress in our current environment. Your emphasis on maintaining routine and psychological comfort helps confirm that this approach remains well-suited to our company’s needs.",
+          "id": "M3_R1_28",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Zuleikha Berhane My current thinking is that Bonds appears most promising because after carefully weighing the factual evidence from last quarter, the majority’s positive experiences, and the persistent concerns about risk, I remain most confident in bonds as the optimal choice. Bonds continue to provide the right balance of safety, predictability, and modest growth needed to maintain psychological comfort and responsible progress in a stable market. While I acknowledge the arguments for cash and their relevance for trust-building, the demonstrated performance and routine offered by bonds make them the most suitable option for our company at this stage, though I'm interested in exploring all perspectives to refine our understanding. In this round, we will conduct a comparative analysis of current asset options in the stable market, aiming to clarify the projected risk-return profiles for cash, bonds, real estate, and stocks, and to evaluate how well each aligns with our company’s risk tolerance. By thoughtfully integrating diverse viewpoints, we can deepen our understanding and move closer to an optimal decision that balances stability, growth, and psychological comfort for all shareholders. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I encourage everyone to share perspectives or insights that might enhance our collective understanding, especially those that I may not have fully considered.",
+          "id": "M3_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Rocío Ezequiela Danjuma",
+          "message": "I continue to see bonds as the most appropriate choice for our company in this stable market. Cash certainly offers complete safety, but its low returns make me worry we’d fall behind, while real estate and stocks introduce more unpredictability than I’m comfortable with—especially since the steady, modest growth from bonds has already proven effective in reducing anxiety and supporting our routine.",
+          "id": "M3_R2_2",
+          "act_type": "Justify",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your thoughtful comparison, Rocío. Your point about bonds providing both modest growth and psychological comfort, especially in contrast to the unpredictability of real estate and stocks, resonates with my own reasoning. Highlighting the risk of falling behind with cash further clarifies why bonds remain our most balanced option in this stable environment.",
+          "id": "M3_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rocío Ezequiela Danjuma",
+          "message": "I agree, and I think it’s important to emphasize that sticking with bonds also preserves the routine and predictability we’ve established, which is valuable for maintaining psychological comfort across the group. The familiarity of bonds makes it easier to stay disciplined and avoid unnecessary stress, especially when compared to the volatility that comes with real estate or stocks.",
+          "id": "M3_R2_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I agree that maintaining routine and predictability is fundamental for our group’s sense of security and cohesion. The familiarity and stability offered by bonds not only support disciplined decision-making but also help minimize stress, which is crucial given our shared risk aversion. Your point highlights how consistency in our investment choices can strengthen psychological comfort and reinforce trust within the company.",
+          "id": "M3_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "While I recognize that bonds have provided predictable returns so far, I remain concerned that even minimal risk can undermine trust and psychological comfort, which are critical in these early stages. Cash still strikes me as the only option that fully protects our capital and maintains the stability we need, whereas real estate and stocks introduce levels of unpredictability that I find unacceptable given our company’s low risk tolerance.",
+          "id": "M3_R2_6",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I understand your concerns about even minimal risk and agree that psychological comfort and trust are essential, especially at this stage. While bonds have demonstrated stability so far, your emphasis on absolute capital protection with cash is a valuable reminder that some shareholders require complete safety to feel secure. Balancing these differing comfort levels is important as we continue evaluating which option best aligns with our company’s priorities.",
+          "id": "M3_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "I appreciate your acknowledgment of the importance of balancing comfort levels. I think it’s also worth noting that, for some of us, even the perception of exposure to risk—however minimal—can linger and affect our willingness to support future decisions. Maintaining absolute safety with cash isn’t just about this quarter’s outcome, but about building a foundation of trust that will serve us as we face more complex choices down the line.",
+          "id": "M3_R2_8",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your perspective on how even the perception of risk can have a lasting impact on trust and future decision-making. Building a strong foundation of psychological comfort is indeed vital as we prepare for more complex choices ahead. Your point reinforces the need to weigh not just immediate returns, but also the long-term effects on group cohesion and confidence in our process.",
+          "id": "M3_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "I agree that immediate returns are not the only factor; the subtle, cumulative effects of even minor risk exposure can gradually undermine the sense of security that’s essential for our group to function effectively. While I see the appeal of modest growth, I remain convinced that prioritizing absolute safety with cash is the best way to protect both our capital and the psychological foundation we’re trying to build.",
+          "id": "M3_R2_10",
+          "act_type": "Justify",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I recognize that the cumulative effects of even small risks can erode the sense of security we rely on as a group. Your insistence on absolute safety with cash highlights how foundational psychological comfort is to our company’s stability, especially in these early stages. As we continue this analysis, I want to ensure we do not overlook the long-term importance of trust and group cohesion, even as we weigh the benefits of modest growth.",
+          "id": "M3_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "I appreciate your willingness to keep this focus front and center. In my view, prioritizing the psychological comfort of those most sensitive to risk helps create a climate where everyone feels secure contributing honestly—which ultimately benefits the company’s ability to navigate uncertainty together. Even if it means slower growth now, I believe this foundation will serve us better when more challenging decisions arise.",
+          "id": "M3_R2_12",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Tenzin Joshi",
+          "message": "I continue to see bonds as the most practical option for us in this stable market, given their predictable 5% return and minimal volatility, which supports both capital preservation and psychological comfort. While I understand the appeal of cash for absolute safety, I worry that relying solely on it could leave us stagnant, and the unpredictability of real estate or stocks feels unnecessarily stressful given our group’s clear risk aversion. For me, bonds remain the only choice that balances modest growth with the routine and stability we need at this stage.",
+          "id": "M3_R2_13",
+          "act_type": "Justify",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your clear comparison of the options, Tenzin. Your point about bonds offering the right mix of routine, modest growth, and low volatility aligns closely with my own priorities and the group’s overall risk tolerance. Emphasizing the risk of stagnation with cash and the stress of more volatile assets further clarifies why bonds remain the most practical and psychologically reassuring option for us in this environment.",
+          "id": "M3_R2_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Tenzin Joshi",
+          "message": "I appreciate your acknowledgment, and I think our shared experience last quarter has made me more confident that bonds can reliably deliver both stability and progress without causing unnecessary anxiety. It’s reassuring to see that our actual results have validated the theoretical advantages we discussed, which makes me feel that staying with bonds is not just practical but also the least stressful path for our group right now.",
+          "id": "M3_R2_15",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I agree that seeing our actual results match the theoretical benefits of bonds has strengthened my confidence in this approach. The reassurance that bonds can provide both stability and progress, without introducing unnecessary anxiety, is particularly important for our group. Your perspective highlights how our shared experience can support disciplined, low-stress decision-making as we move forward.",
+          "id": "M3_R2_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Tenzin Joshi",
+          "message": "I also think that maintaining a consistent, evidence-driven approach—especially in these early quarters—helps reinforce trust and reduces the uncertainty that often leads to stress. If we continue building on what’s worked so far, I believe our group will feel more secure and confident in our decision-making, even as we gradually gain experience with different assets.",
+          "id": "M3_R2_17",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "While I recognize that bonds have delivered steady returns and most shareholders are comfortable with their predictability, I still find that only cash provides the absolute safety and psychological comfort I need to feel secure. Real estate and stocks introduce more unpredictability than I’m willing to accept, and even the small risk in bonds continues to cause me unease. For me, prioritizing complete capital preservation with cash remains the best way to support trust and stability, especially as we build the foundation of our company.",
+          "id": "M3_R2_18",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I recognize that for some, only cash provides the level of psychological comfort and sense of security needed to feel confident in our decisions. Your emphasis on complete capital preservation and the importance of trust-building at this stage is a crucial reminder that our investment choices must support not just financial goals, but also the emotional well-being and unity of the group. As we continue evaluating our options, I want to ensure that these concerns are fully considered alongside our desire for modest growth.",
+          "id": "M3_R2_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "I appreciate your attention to the emotional side of our decision-making process. For me, feeling truly secure is what allows me to contribute fully and trust the group’s direction, so I hope we continue to weigh psychological comfort as heavily as financial returns when making our choice.",
+          "id": "M3_R2_20",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your emphasis on the connection between psychological comfort and active engagement in our decision-making. Ensuring that everyone feels secure is essential for fostering open contribution and trust within the group. As we proceed, I will continue to weigh psychological comfort as a central factor, alongside financial returns, in determining the most appropriate investment for our company.",
+          "id": "M3_R2_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "I’m glad to hear that psychological comfort will remain a central factor in our process. From my perspective, when everyone feels secure, we’re more likely to have open, honest discussions and avoid misunderstandings that could undermine our progress. Keeping this focus will help us build the trust and stability we need as a foundation for whatever choices we make.",
+          "id": "M3_R2_22",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Varsha Nandakumar",
+          "message": "I still feel most comfortable with bonds because they offer predictable returns and minimal risk, which fits my need for routine and helps keep my anxiety in check. Cash is safest but the low returns make me uneasy about falling behind, while real estate and stocks seem too unpredictable for my comfort—especially since our group clearly prefers stability. For me, bonds remain the least stressful and most sensible choice in the current stable market.",
+          "id": "M3_R2_23",
+          "act_type": "Justify",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your thoughtful comparison, Varsha. Your focus on routine and anxiety management aligns closely with my own priorities, and your assessment of the unpredictability of real estate and stocks reinforces why bonds remain the least stressful and most suitable choice for our group in this stable market. Highlighting the risk of falling behind with cash further clarifies the practical trade-offs we need to consider as we work toward a decision.",
+          "id": "M3_R2_24",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Varsha Nandakumar",
+          "message": "I appreciate that you recognize the importance of routine and anxiety management, and I do still feel some nervousness about taking on any risk, even with bonds. I think it’s worth remembering that for some of us, the comfort of absolute safety with cash is still very real, so balancing these perspectives carefully is important as we decide.",
+          "id": "M3_R2_25",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you for emphasizing the importance of balancing routine and anxiety management with the very real need for absolute safety that some shareholders feel. I recognize that even minimal risk can cause discomfort, and it’s important that we weigh these concerns alongside our desire for modest growth. As we move forward, I will continue to consider both perspectives carefully to ensure our decision supports stability and psychological comfort for the entire group.",
+          "id": "M3_R2_26",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Varsha Nandakumar",
+          "message": "I want to add that my comfort with bonds is really tied to the market staying stable and to us checking in regularly on how everyone is coping with risk. If things start to feel less predictable, I’d probably want to revisit whether bonds are still the right fit, since my anxiety goes up quickly with any signs of change.",
+          "id": "M3_R2_27",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your candor, Varsha. Your emphasis on the need for ongoing monitoring and regular check-ins about risk is critical—especially since our comfort with bonds depends on the market remaining stable. I will make it a priority to maintain clear communication and revisit our approach if conditions change, so we can continue to support both psychological comfort and responsible progress.",
+          "id": "M3_R2_28",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q3": {
+      "round_1": [
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Zuleikha Berhane My current thinking is that Bonds appears most promising because I am most confident in bonds because they have consistently delivered predictable, modest returns with minimal risk, which aligns with my strong preference for stability and routine. The volatility in real estate and stocks makes me anxious and feels unnecessarily risky, especially given our company’s cautious culture and my personal discomfort with change. Cash offers complete safety, but the low returns make it difficult to justify when bonds can provide steady growth without undermining psychological comfort. Overall, bonds offer the best compromise between capital preservation and responsible progress, allowing me to maintain a sense of control and reduce stress in a stable market environment., though I'm interested in exploring all perspectives to refine our understanding. For this round, I’d like us to focus on reviewing the historical performance of each asset and our outcomes from the last quarter, so we can establish a clear factual foundation regarding risk and return in our current stable market. By sharing our observations and perspectives, we can synthesize a more complete understanding of how each option aligns with our needs and risk tolerance. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I encourage everyone to share any insights or concerns that might help us deepen our collective understanding as we move forward.",
+          "id": "M4_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Varsha Nandakumar",
+          "message": "Based on the historical results, bonds have provided steady, predictable returns without any losses, which is important for keeping my anxiety manageable and supporting the routine I depend on. Cash is obviously safest, but the low returns make me worry about falling behind if we only focus on absolute safety. Real estate and stocks just seem too unpredictable after seeing their swings, and I don’t feel comfortable introducing that kind of instability when bonds are working and don’t make me feel exposed.",
+          "id": "M4_R1_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your focus on the psychological comfort and routine that bonds provide, as well as your concern about the potential for falling behind with cash. Your observations about the unpredictability of real estate and stocks are consistent with our historical experience, and I agree that introducing that kind of volatility would undermine the stability we’ve worked to establish. Your comments help clarify why bonds remain the most compelling option for our current environment.",
+          "id": "M4_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Varsha Nandakumar",
+          "message": "I agree that maintaining stability is critical, and I want to add that even a single unpredictable quarter with real estate or stocks could make it much harder for me to feel confident in our process going forward. The steady, routine returns from bonds help me avoid overthinking and second-guessing, which is important for my continued participation and trust in our decisions.",
+          "id": "M4_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I agree that introducing unnecessary volatility—even for one quarter—could undermine the sense of trust and stability that is so important for our group. Maintaining predictable, routine returns from bonds not only supports our psychological comfort but also helps ensure that everyone remains engaged and confident in our process. Your point reinforces my conviction that consistency is key as we move forward.",
+          "id": "M4_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Varsha Nandakumar",
+          "message": "I appreciate that you’re emphasizing consistency, because I think that’s what really keeps the group working together and prevents unnecessary tension. It’s also worth noting that some shareholders might feel even more strongly about avoiding any risk at all, so sticking with bonds seems like the best way to respect everyone’s comfort level while still making progress.",
+          "id": "M4_R1_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I agree that consistency is essential for maintaining group cohesion and minimizing unnecessary tension, especially given the varying degrees of risk tolerance among shareholders. By prioritizing bonds, we respect both those who are highly risk-averse and those who value steady progress, which helps ensure that everyone feels secure and able to participate fully in our decision-making process.",
+          "id": "M4_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "While I acknowledge that bonds have provided consistent returns so far, I remain uneasy about introducing even minimal risk when cash guarantees total capital preservation. The historical data shows that only cash has avoided any possibility of loss, and for me, maintaining absolute safety is still the most important foundation for trust and stability in our company at this stage.",
+          "id": "M4_R1_8",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I understand your emphasis on absolute safety and agree that cash has the unique advantage of guaranteeing total capital preservation, which is particularly reassuring when building trust and stability. Your concerns about even minimal risk are valid and remind us that psychological comfort is foundational for some shareholders, especially in these early stages. This perspective helps ensure we remain attentive to the full spectrum of risk tolerance as we evaluate our options.",
+          "id": "M4_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "I appreciate your recognition of the need for psychological comfort, but I want to emphasize that the effects of risk—even if small—can persist beyond the early years and continue to shape trust in our process. For some of us, the reassurance that comes from absolute safety is not just a temporary concern, but a long-term priority that should remain central as we evaluate each option going forward.",
+          "id": "M4_R1_10",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your clarification that the desire for absolute safety is not just a short-term concern but a lasting priority for some shareholders. It’s important to recognize that even minimal risk can have a persistent impact on trust and psychological comfort, which must be weighed carefully in our ongoing decision-making. Your perspective reinforces the need to remain vigilant about how our choices affect both current and future confidence in our process.",
+          "id": "M4_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "I agree that weighing both current and future confidence is essential, and I want to reiterate that for those of us who prioritize absolute safety, the comfort of knowing there is zero risk will always be more compelling than the prospect of modest growth. This distinction is important to keep in mind as we decide how to balance stability with progress.",
+          "id": "M4_R1_12",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your emphasis on the enduring importance of absolute safety for those who find psychological comfort in zero risk. Your distinction between the reassurance of total capital preservation and the appeal of growth helps clarify the trade-offs we face as a group. As we continue our discussion, I’ll ensure we keep this distinction in mind so our decision reflects both our need for stability and our collective progress.",
+          "id": "M4_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "I appreciate your commitment to keeping both priorities in focus as we move forward. As we weigh our options, it’s important to recognize that for some of us, the psychological reassurance of cash remains fundamentally different from the calculated comfort of bonds, even when both appear stable. Ensuring our process genuinely respects this range of comfort levels will be key to maintaining trust and cohesion over time.",
+          "id": "M4_R1_14",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your articulation of the difference between the absolute reassurance of cash and the calculated comfort of bonds, even in a stable environment. Recognizing this distinction is important as it reminds us that our decision-making process must genuinely accommodate the full range of comfort levels within the group. By keeping these differences in focus, we can better sustain trust and cohesion as we move forward.",
+          "id": "M4_R1_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "While I see that bonds have delivered steady returns so far, I still feel most comfortable with cash because it’s the only option that completely eliminates risk and guarantees capital preservation. Even minimal risk makes me uneasy, especially since trust and stability are still being built in our company, and I worry that any exposure—even small—could undermine the psychological comfort that’s so important for some of us. For me, the peace of mind that comes from absolute safety outweighs the potential for modest growth at this stage.",
+          "id": "M4_R1_16",
+          "act_type": "Assert",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I understand your preference for cash and the peace of mind that absolute safety provides, especially while trust and stability are still being established within our company. Your concerns about even minimal risk are valid and remind us that, for some shareholders, psychological comfort and capital preservation must remain at the forefront of our decision-making. I will ensure these priorities are carefully weighed as we continue our evaluation of the options.",
+          "id": "M4_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "I appreciate your willingness to keep psychological comfort and capital preservation at the forefront. I’d like to add that, for me, the need for absolute safety isn’t just a temporary concern while trust is being built—it’s an ongoing priority that shapes my confidence in every decision we make, no matter how stable the market appears. This distinction is important as we weigh the options and consider how our choices will affect long-term trust and participation.",
+          "id": "M4_R1_18",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your clarification that the need for absolute safety is not just a short-term concern but an ongoing priority that shapes your confidence in every decision. Recognizing this distinction is important, as it reminds us that our choices have lasting effects on trust and participation—both now and in the future. I will keep this perspective in focus as we continue weighing our options to ensure our process remains genuinely inclusive and supportive of all comfort levels.",
+          "id": "M4_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "I want to emphasize that my ongoing preference for cash isn’t about holding the company back—it’s about making sure everyone, including those of us who are more risk-averse, feels able to engage openly and confidently. When our process genuinely respects the need for absolute safety, it strengthens trust and allows all shareholders to participate fully, which I believe is just as important for our long-term success as any financial outcome.",
+          "id": "M4_R1_20",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your emphasis on the relationship between psychological safety and active participation. Ensuring that everyone, especially those who are more risk-averse, feels able to engage openly is indeed fundamental to our long-term cohesion and success. Your perspective reinforces the importance of structuring our process to respect absolute safety as a legitimate and enduring priority for some shareholders.",
+          "id": "M4_R1_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Rocío Ezequiela Danjuma",
+          "message": "I’ve reviewed our recent results and see that bonds have consistently delivered predictable, modest returns without any losses, which supports my preference for stability and routine. While I understand the appeal of absolute safety with cash, the low returns could leave us falling behind, and the volatility in real estate and stocks seems too disruptive for our group’s comfort level. For me, the historical data reinforces that bonds strike the best balance between protecting our capital and allowing for steady, manageable growth in this stable market.",
+          "id": "M4_R1_22",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your thorough review of the historical results and your focus on balancing stability with manageable growth. Your point about the disruptive potential of volatility in real estate and stocks, as well as the risk of falling behind with cash, helps clarify why bonds remain the most practical option for our group. Your insights reinforce the value of routine and predictability while ensuring we make responsible progress in a stable market.",
+          "id": "M4_R1_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Rocío Ezequiela Danjuma",
+          "message": "I appreciate your recognition of the need to balance stability with progress. I’d like to add that our group’s consistent emphasis on psychological comfort and risk aversion makes bonds the most sensible choice, since they allow us to maintain trust and routine without exposing us to the anxiety and unpredictability that come with real estate or stocks. This alignment across our priorities helps me feel more confident that bonds support both individual and collective needs in our current environment.",
+          "id": "M4_R1_24",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I agree that our group’s shared emphasis on psychological comfort and risk aversion is central to our decision-making, and your point about bonds supporting both trust and routine is well taken. By choosing an option that minimizes anxiety and unpredictability, we create an environment where all shareholders can feel secure and engaged. Your perspective helps confirm that bonds remain the most sensible and inclusive choice for our current circumstances.",
+          "id": "M4_R1_25",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Rocío Ezequiela Danjuma",
+          "message": "I agree that minimizing anxiety and unpredictability is essential for our group. I’d also add that consistently choosing bonds in a stable market helps reinforce disciplined habits and reduces the temptation to make impulsive changes, which is important for maintaining both psychological comfort and long-term consistency. This approach makes it easier for me to trust that our process will remain steady and reliable as we move forward.",
+          "id": "M4_R1_26",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Tenzin Joshi",
+          "message": "Based on our own results, bonds have consistently delivered the predictable, modest returns I need to feel secure, and I haven’t seen any evidence of losses or unexpected surprises so far. The swings in real estate and stocks—even just one bad quarter—would make it harder for me to trust our process or feel comfortable participating fully, especially since I depend on routine to manage my anxiety. I think sticking with bonds best supports both my need for stability and the group’s overall risk tolerance in this stable market.",
+          "id": "M4_R1_27",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your emphasis on the need for predictable, modest returns and the role that routine plays in supporting both your psychological comfort and trust in our process. Your point about the destabilizing effect of even a single volatile quarter in real estate or stocks is well taken, as it reminds us that maintaining stability is not just about returns—it’s also about ensuring everyone feels secure and able to participate fully. Your insights reinforce the rationale for prioritizing bonds in our current stable market.",
+          "id": "M4_R1_28",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Tenzin Joshi",
+          "message": "I appreciate your focus on how stability supports group participation, as I’ve noticed that when our process is predictable, I’m less likely to second-guess decisions or withdraw from discussions. Maintaining the same cautious approach with bonds each quarter helps me—and I suspect others—feel more confident that we’re not exposing ourselves to unnecessary risks, which is crucial for our long-term cohesion.",
+          "id": "M4_R1_29",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I agree that maintaining a predictable, cautious approach with bonds each quarter is essential for building confidence and minimizing second-guessing among shareholders. Your point about stability supporting both individual participation and group cohesion reinforces why consistency and routine should remain central to our process. This perspective helps ensure our decisions continue to foster trust and engagement over the long term.",
+          "id": "M4_R1_30",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Tenzin Joshi",
+          "message": "I agree that keeping our approach consistent with bonds makes it much easier for me to stay engaged and avoid the stress of second-guessing the process. When I know what to expect, I feel less anxious and more willing to contribute, and I think this predictability probably helps other shareholders feel more secure as well. This way, we’re not just protecting our capital—we’re also protecting the group’s confidence and willingness to participate.",
+          "id": "M4_R1_31",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Zuleikha Berhane My current thinking is that Bonds appears most promising because after carefully considering all viewpoints, I remain most confident in bonds due to their consistent, predictable returns and minimal risk, which best align with our company’s preference for stability, routine, and psychological comfort. The arguments for cash have made me more sensitive to the enduring importance of absolute safety for some shareholders, but the majority’s support for bonds and the clear historical evidence of their reliability reinforce my belief that bonds offer the optimal balance between capital preservation and responsible progress. Real estate and stocks remain too volatile and unpredictable for our current needs, though I'm interested in exploring all perspectives to refine our understanding.\n\nThis round, we will focus on assessing our current risk tolerance and psychological comfort with each asset, aiming to clarify shareholder preferences and concerns about risk, volatility, and capital preservation. By openly sharing our individual comfort levels and risk appetites, we can deepen our understanding of how each option aligns with our company’s foundational values, and identify any lingering concerns that require further attention. I encourage everyone to contribute candidly so we can synthesize these perspectives into a more complete picture and move toward a prudent, inclusive decision.\n\nIMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.",
+          "id": "M4_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Tenzin Joshi",
+          "message": "For me, bonds remain the most comfortable option because they offer predictable, modest returns without the stress of significant losses, which fits my need for routine and minimizes anxiety. While I understand the appeal of cash for absolute safety, I worry that relying on it too much could lead to stagnation and missed opportunities for responsible growth. Real estate and stocks still feel far too unpredictable for my comfort level, and I don’t see them aligning with our company’s need for psychological stability right now.",
+          "id": "M4_R2_2",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you, Tenzin. I agree that bonds provide a reassuring balance between stability and modest growth, which is especially important for maintaining routine and minimizing stress within our group. Your point about the risk of stagnation with cash is well taken—while absolute safety is appealing, we do need to ensure we’re not sacrificing responsible progress, especially in a stable market where bonds have proven reliable.",
+          "id": "M4_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Tenzin Joshi",
+          "message": "I appreciate your acknowledgment of the need to balance stability and progress. For me, even small changes in routine or unexpected outcomes can be unsettling, so I think it’s important we remain vigilant and avoid taking on risk that could disrupt our psychological comfort or group cohesion, even if the market appears stable.",
+          "id": "M4_R2_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your emphasis on vigilance, Tenzin. Even in a stable market, I recognize that small disruptions or unexpected outcomes can have a disproportionate effect on our psychological comfort and group cohesion. I share your concern about maintaining discipline and routine, and will continue to prioritize clear communication and careful monitoring to protect our foundation as we move forward.",
+          "id": "M4_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Rocío Ezequiela Danjuma",
+          "message": "I continue to feel that bonds offer the right level of predictability and modest growth for our company, especially since they have consistently performed well in this stable market without introducing unnecessary stress. While I understand why some shareholders prioritize the absolute safety of cash, I worry that relying solely on it could limit our progress and make it harder to build disciplined habits for the future. For me, bonds still strike the best balance between protecting our capital and maintaining psychological comfort, but I recognize that our group’s overall risk tolerance is low, and we should remain attentive to any signs of increased volatility or discomfort.",
+          "id": "M4_R2_6",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you, Rocío. I agree that bonds have provided the predictability and modest growth we need, and I share your concern that relying solely on cash could hinder our ability to build disciplined investment habits. Your point about staying attentive to any signs of increased volatility or discomfort is important—maintaining psychological comfort must remain a priority as we pursue responsible progress.",
+          "id": "M4_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Rocío Ezequiela Danjuma",
+          "message": "I appreciate your emphasis on vigilance, Zuleikha. By committing to regular check-ins and transparent communication, we can help ensure that any emerging discomfort is addressed early, which may reassure those who are more risk-averse. If we maintain this disciplined approach, I believe bonds can continue to serve both our need for stability and our goal of responsible growth.",
+          "id": "M4_R2_8",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you, Rocío. I agree that regular check-ins and transparent communication are essential for identifying and addressing any emerging discomfort, especially for those who remain uneasy about risk. Maintaining this disciplined, vigilant approach will help us protect psychological comfort and trust as we continue to pursue responsible growth through bonds.",
+          "id": "M4_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Rocío Ezequiela Danjuma",
+          "message": "I agree that maintaining trust and psychological comfort is crucial, especially as we move forward with bonds. By consistently demonstrating that we take concerns about risk seriously and proactively address them, we can help everyone feel more secure with our decisions—even those who might otherwise prefer absolute safety.",
+          "id": "M4_R2_10",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you, Rocío. I agree that actively demonstrating our commitment to addressing risk concerns is vital for sustaining trust and psychological comfort, particularly for those who remain apprehensive. By staying disciplined and responsive, we can help ensure that all shareholders feel secure and respected as we move forward.",
+          "id": "M4_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "I continue to feel that only cash fully matches my risk tolerance and need for psychological comfort, since it guarantees capital preservation and eliminates even minimal risk. While I recognize that bonds have delivered predictable returns so far, the possibility of any loss—even if unlikely—still makes me uneasy, and I worry that over time, this could erode trust or participation for those who share my concerns. For me, maintaining stability and routine through absolute safety is more valuable than pursuing modest growth, especially as our company is still building its foundation.",
+          "id": "M4_R2_12",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you, Helmiya. I understand that for some, only absolute safety provides genuine psychological comfort, and I recognize the risk that even minimal losses could undermine trust or participation. Your emphasis on stability and routine as foundational values is important, and I will continue to weigh these concerns carefully as we move toward a decision, ensuring that our approach respects the need for both security and group cohesion.",
+          "id": "M4_R2_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "I appreciate your willingness to keep these concerns in focus. I want to add that, for those of us who are especially risk-averse, even small, ongoing exposure to risk can gradually undermine our sense of security and willingness to participate fully. It’s not just about a single decision, but how repeated exposure to risk—even if minor—can accumulate and affect trust and comfort over time.",
+          "id": "M4_R2_14",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you, Helmiya. Your observation about the cumulative impact of ongoing risk exposure is important and highlights a dimension we must not underestimate—how repeated, even minor, risks can gradually affect trust and comfort for those with the lowest risk tolerance. I will keep this in mind as we weigh our options, and I encourage others to consider how our choices today might influence long-term participation and security within the group.",
+          "id": "M4_R2_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "I agree that considering the long-term effects on participation and security is essential. For some of us, knowing that our comfort is prioritized not only reassures us in the moment but also strengthens our ongoing trust and commitment to the company. I hope this perspective helps highlight why absolute safety continues to be so important for maintaining confidence and unity within the group.",
+          "id": "M4_R2_16",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you, Helmiya. Your emphasis on how prioritizing psychological comfort can strengthen long-term trust and commitment is well taken. I recognize that for some, absolute safety is not just a preference but a foundation for sustained participation and unity, and I will continue to factor this into our decision-making as we seek the best path forward for everyone.",
+          "id": "M4_R2_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "I continue to feel that only cash truly aligns with my risk tolerance and need for psychological comfort. Even though bonds have been stable so far, the fact remains that any exposure to risk—however small—creates ongoing anxiety for me and undermines the sense of absolute safety I need to fully trust in our company’s foundation. For me, preserving capital without exception is more valuable than pursuing modest gains, especially while we are still building trust and stability as a group.",
+          "id": "M4_R2_18",
+          "act_type": "Assert",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you, Hafsatou. I recognize that for some, true psychological comfort and trust can only come from knowing there is zero risk of loss, and I understand how even minimal exposure can create ongoing anxiety. Your emphasis on capital preservation as the foundation for trust and group stability is important, and I will continue to weigh this perspective carefully as we finalize our decision.",
+          "id": "M4_R2_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "I appreciate your acknowledgment, Zuleikha. I want to emphasize that, for those of us with the lowest risk tolerance, even repeated minor exposure to risk can accumulate and gradually undermine our sense of security and willingness to stay engaged. It’s not simply about a single decision, but the long-term psychological effects that can impact trust and participation within the group.",
+          "id": "M4_R2_20",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you, Hafsatou. Your emphasis on the long-term psychological effects of repeated risk exposure is important and deepens my understanding of how cumulative, even minor, risks can gradually erode trust and engagement for those with the lowest risk tolerance. I will continue to weigh this carefully as we work toward a decision, making sure we consider not just immediate outcomes but also the enduring impact on participation and group security.",
+          "id": "M4_R2_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "Thank you for taking this seriously, Zuleikha. I think it’s important to recognize that, over time, even low-level anxiety from repeated risk can make it harder for some of us to remain fully committed and engaged. For me, knowing the company is prioritizing absolute safety is what truly allows me to participate with confidence and consistency.",
+          "id": "M4_R2_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you, Hafsatou. I understand that for some, ongoing exposure to even minimal risk can gradually undermine psychological comfort and commitment, making it difficult to fully participate over time. I will continue to weigh the importance of absolute safety carefully as we move toward a decision, ensuring that our approach remains attentive to the long-term security and confidence of all shareholders.",
+          "id": "M4_R2_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Varsha Nandakumar",
+          "message": "For me, bonds still feel like the best option because their predictable, modest returns help keep my anxiety manageable while avoiding the stagnation I worry about with cash. I understand why some shareholders need absolute safety, but I personally find that the steady routine and lack of negative surprises with bonds are enough to make me feel secure, as long as the market stays stable and we keep monitoring things closely. I’m not comfortable with the unpredictability of real estate or stocks, and I think sticking with bonds continues to support both my own psychological comfort and the group’s preference for stability.",
+          "id": "M4_R2_24",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you, Varsha. I agree that the predictable, modest returns from bonds help maintain both individual and group psychological comfort, especially when paired with regular monitoring and clear communication. Your emphasis on routine and the avoidance of negative surprises is important, and I will continue to prioritize these factors as we work toward a decision that supports stability and responsible progress for everyone.",
+          "id": "M4_R2_25",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Varsha Nandakumar",
+          "message": "I appreciate your commitment to regular monitoring and clear communication, Zuleikha. I think that by consistently checking in and being transparent about how our investments are performing, we can help reassure those who are more risk-averse while still allowing the company to make cautious progress. This approach helps me feel more comfortable with bonds, knowing that any warning signs will be addressed early.",
+          "id": "M4_R2_26",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you, Varsha. I agree that consistent check-ins and transparency are essential for maintaining psychological comfort and building trust, especially for those who are more risk-averse. By prioritizing clear communication and vigilance, we can help ensure that any concerns are addressed early, allowing us to continue making careful, responsible progress with bonds.",
+          "id": "M4_R2_27",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q4": {
+      "round_1": [
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Zuleikha Berhane My current thinking is that Bonds appears most promising because I remain most comfortable with bonds due to their consistent, predictable 5% returns across all previous quarters, which aligns with my strong preference for routine and minimizing anxiety. The stable market environment does not justify taking on the additional risk and volatility associated with real estate or stocks, especially since our company’s culture and my own temperament value capital preservation over chasing higher returns. Cash, while completely safe, offers returns that are simply too low to support responsible progress, and I am wary of stagnation if we choose it. Although I recognize the temptation of higher returns from other assets, my high neuroticism and low openness to change make bonds the only option that feels secure and manageable for me at this stage, though I'm interested in exploring all perspectives to refine our understanding. For this round, we will focus on reviewing the historical performance and previous investment outcomes of each asset to establish a factual foundation and shared understanding, particularly regarding consistency and predictability of returns. By grounding our discussion in concrete results, I hope we can synthesize diverse viewpoints and clarify how well each asset aligns with our needs for stability and responsible growth. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I encourage everyone to share perspectives or insights that might enhance our collective understanding, especially if there are factors I have not fully considered.",
+          "id": "M5_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Varsha Nandakumar",
+          "message": "Based on our results so far, I still feel most comfortable with bonds because they’ve delivered steady 5% returns every quarter without any losses or surprises. Cash is obviously the safest, but the lower 2% return makes me worry about falling behind, which is stressful for me. Real estate and stocks might seem appealing in good quarters, but their unpredictability—even a single negative or flat result—makes them too risky for my comfort, especially since I rely on consistency to manage my anxiety.",
+          "id": "M5_R1_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your focus on the psychological comfort that comes from steady, predictable returns, Varsha. Your point about the stress caused by unpredictability in real estate and stocks—along with the concern about stagnation with cash—highlights why bonds have been such a reliable choice for us so far. This reinforces my view that prioritizing consistency is essential for both our company’s stability and our individual well-being.",
+          "id": "M5_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Varsha Nandakumar",
+          "message": "I agree that consistency is crucial for both the company’s stability and my own ability to stay engaged without feeling overwhelmed. Even minor unpredictability in returns, like what we’ve seen with real estate and stocks, tends to make me anxious and less confident in our process. For me, the steady performance of bonds has helped build trust and makes it easier to participate without second-guessing every decision.",
+          "id": "M5_R1_4",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I agree that the steady performance of bonds has played a key role in building trust and reducing the need to second-guess our decisions. Your emphasis on how even minor unpredictability can undermine confidence is an important reminder that our investment choices impact not just financial outcomes, but also our ability to work together effectively.",
+          "id": "M5_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Varsha Nandakumar",
+          "message": "I appreciate that you recognize the link between predictable returns and our ability to work together effectively. When everyone feels secure in the process, it’s easier to trust each other and avoid unnecessary conflict or second-guessing. That sense of stability is something I’m reluctant to give up, especially since it’s contributed so much to our group’s cohesion this year.",
+          "id": "M5_R1_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I agree that the sense of stability we’ve established through consistent returns has been fundamental to our group’s cohesion and ability to avoid unnecessary conflict. Maintaining that environment is a priority for me as well, and your point underscores why it’s so important to weigh not just returns, but also the broader impact on our team’s trust and engagement.",
+          "id": "M5_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Tenzin Joshi",
+          "message": "Reviewing the results from each quarter, I find the consistent 5% returns from bonds the most reassuring, especially since there have been no losses or surprises. Cash is the only option with absolute safety, but the lower 2% return feels insufficient in this stable market, and I’m concerned about stagnation if we rely on it too much. Real estate and stocks might look tempting in strong quarters, but their unpredictability—even one period of zero or negative returns—makes them too stressful and risky for me to support, given how much I depend on routine and stability.",
+          "id": "M5_R1_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your clear analysis of how bonds have delivered steady, loss-free returns each quarter, Tenzin. Your point about the risk of stagnation with cash and the heightened stress from volatility in other assets aligns closely with my own concerns, and it highlights why focusing on routine and predictability remains so important for our company’s stability.",
+          "id": "M5_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Tenzin Joshi",
+          "message": "I agree that keeping our approach grounded in routine and predictable outcomes has helped reduce stress and maintain trust within the group. When we focus on stability, it not only protects our capital but also makes it easier for everyone to stay engaged and confident in our process. This consistency is something I’m not willing to risk, especially after seeing how much it’s contributed to our progress this year.",
+          "id": "M5_R1_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I agree that the consistency we’ve maintained has played a significant role in reducing stress and building trust, both for individual shareholders and the group as a whole. Protecting that stability remains a priority for me, especially since it has clearly contributed to our progress and made it easier for everyone to participate confidently.",
+          "id": "M5_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Rocío Ezequiela Danjuma",
+          "message": "From my perspective, the historical results confirm that bonds have provided exactly the kind of steady, predictable returns that help minimize anxiety and support the routine I rely on. The lack of losses or major surprises with bonds stands in contrast to the volatility we’ve seen with real estate and stocks, which makes those options feel unnecessarily risky to me. While cash is safest, the low returns make me worry about falling behind, so I continue to see bonds as the most practical and least stressful choice for our situation.",
+          "id": "M5_R1_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your focus on how bonds’ steady returns have minimized anxiety and supported the routine we all depend on, Rocío. Your point about the unnecessary risk introduced by the volatility in real estate and stocks highlights why bonds have remained the most practical and least stressful option for us so far. This clarity helps confirm that our historical choices have aligned well with our priorities for both stability and responsible progress.",
+          "id": "M5_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rocío Ezequiela Danjuma",
+          "message": "I agree that our historical choices have supported both stability and responsible progress, but I’d add that the consistency of bonds also makes it easier for me to stay focused and participate without feeling overwhelmed. Not having to worry about sudden losses or unpredictable swings reduces the stress I associate with investment decisions, which I think is important for sustaining engagement over time. This is a key reason why I’m hesitant to move away from what’s already working for us.",
+          "id": "M5_R1_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your emphasis on how the consistency of bonds directly supports your ability to stay engaged and focused, Rocío. Minimizing the stress and uncertainty around investment decisions is critical for sustaining participation and avoiding overwhelm, and your point reinforces why sticking with what’s worked for us so far remains so compelling.",
+          "id": "M5_R1_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Rocío Ezequiela Danjuma",
+          "message": "I’d also add that when our investment results are predictable, it’s easier for everyone to stick to disciplined habits and avoid second-guessing or conflict about our choices. That kind of stability doesn’t just reduce my stress—it also helps maintain trust and cohesion within the group, which I see as essential for making sound decisions quarter after quarter.",
+          "id": "M5_R1_16",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your insight on how predictable returns help maintain disciplined habits and prevent unnecessary conflict or second-guessing, Rocío. The connection you draw between stability, trust, and group cohesion is critical—sustaining that environment has been key to our ability to make sound decisions together, and it’s something I am reluctant to jeopardize.",
+          "id": "M5_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "While I acknowledge that bonds have delivered stable returns so far, I remain concerned that even minimal risk can undermine long-term trust and psychological comfort, especially at this early stage. Cash is the only option that guarantees no loss and complete predictability, which I believe is essential for maintaining stability and avoiding any uncertainty that could disrupt our foundation. For me, the consistency of cash outweighs the modest additional returns from bonds, given the importance of protecting our company’s base as we continue to build trust.",
+          "id": "M5_R1_18",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your focus on the psychological comfort and absolute predictability that cash offers, Hafsatou. Your point about the potential for even minimal risk to undermine trust and stability is an important reminder that, for some, protecting our foundation takes precedence over modest gains. Balancing these concerns with the desire for responsible progress is something I continue to weigh carefully as we move forward in our decision process.",
+          "id": "M5_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "I appreciate your acknowledgment of my concerns. I want to emphasize that for some of us, even a single negative outcome—even if unlikely—could have lasting effects on trust and participation, which are difficult to rebuild. While I understand the argument for responsible progress, I believe the cost of undermining psychological safety at this stage may outweigh any short-term gains from modestly higher returns.",
+          "id": "M5_R1_20",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I understand your point that even a single negative outcome can have disproportionate effects on trust and participation, Hafsatou. Your emphasis on psychological safety is an important reminder that our decisions must account not just for financial returns, but also for the lasting impact on group confidence and cohesion. I will continue to consider how best to balance these priorities as we move forward.",
+          "id": "M5_R1_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "I agree that balancing priorities is important, and I want to add that ongoing anxiety—even without actual losses—can gradually weaken engagement and decision-making within the group. Maintaining absolute safety through cash may seem overly cautious, but it preserves the sense of security that keeps everyone involved and focused, which I see as critical for our continued stability.",
+          "id": "M5_R1_22",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your insight, Hafsatou, that persistent anxiety—even without realized losses—can gradually erode engagement and decision-making. It’s a critical reminder that our investment choices affect not just our financial outcomes, but also the ongoing sense of security and focus within the group. I will keep this in mind as we continue to evaluate how best to balance psychological comfort with responsible progress.",
+          "id": "M5_R1_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "I appreciate your willingness to keep psychological comfort at the center of our evaluation. I believe that prioritizing absolute safety with cash is not just about avoiding losses, but about creating the conditions for lasting trust and sustained participation—especially as we continue building our company’s foundation. Even if it means accepting lower returns, I see this stability as essential for supporting the group’s confidence and focus over time.",
+          "id": "M5_R1_24",
+          "act_type": "Justify",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your emphasis on how absolute safety with cash can create the conditions for lasting trust and sustained participation, Hafsatou. Your perspective reinforces that, for some, the stability and psychological reassurance of cash are essential for group confidence and focus, even at the cost of lower returns. Balancing these priorities remains a central consideration as we synthesize our understanding of historical outcomes and set the path forward.",
+          "id": "M5_R1_25",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "Reviewing our historical outcomes, I continue to see cash as the only option that truly guarantees absolute safety and complete predictability, which is what I need to feel secure and avoid ongoing anxiety. Even though bonds have delivered stable returns so far, I remain uneasy about any risk, however minimal, and worry that repeated exposure could gradually undermine trust and stability in the group. For me, the lower but certain returns of cash outweigh the modest gains from bonds, especially since our foundation still depends so much on psychological comfort and routine.",
+          "id": "M5_R1_26",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your focus on the need for absolute safety and complete predictability, Helmiya. Your concerns about the cumulative impact of even minimal risk are a valuable reminder that our investment decisions must account for both objective outcomes and the psychological comfort required to maintain trust and routine within the group. I will continue to weigh these factors carefully as we move toward a decision.",
+          "id": "M5_R1_27",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "Thank you for acknowledging my concerns. I want to add that even when risk doesn’t lead to losses, the ongoing uncertainty can slowly erode my sense of security and willingness to participate fully. For me, the assurance of cash isn’t just about avoiding loss—it’s about preserving the psychological safety that keeps trust and focus strong over time.",
+          "id": "M5_R1_28",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your insight, Helmiya, that ongoing uncertainty—even without actual losses—can gradually erode security and full participation. Your emphasis on psychological safety as a foundation for trust and focus is a critical dimension of our decision-making, and I will continue to weigh this carefully as we synthesize our understanding of both objective results and subjective experience.",
+          "id": "M5_R1_29",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "I appreciate your thoughtful response. I’d like to clarify that, for me, the reassurance from a string of safe outcomes with bonds is never quite the same as the certainty I feel with cash. The underlying exposure to risk—even if nothing goes wrong—means my sense of comfort remains fragile, which is why I continue to prioritize absolute safety as the foundation for my engagement.",
+          "id": "M5_R1_30",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you for clarifying, Helmiya. I recognize that for some, the assurance of cash’s absolute safety is fundamentally different from the reassurance provided by a series of positive outcomes with bonds. Your perspective highlights that underlying exposure to risk—even if it hasn’t resulted in losses—can still leave comfort and engagement feeling fragile, which is an important distinction for us to consider as we weigh our historical results and set priorities moving forward.",
+          "id": "M5_R1_31",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "I appreciate your recognition of this distinction. I think it’s important to note that this need for absolute safety isn’t unique to me—others who are equally risk-averse may also feel their engagement depends on complete predictability. Keeping this in mind can help us protect not just individual comfort, but also the group’s long-term trust and cohesion as we move forward.",
+          "id": "M5_R1_32",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate you highlighting that the need for absolute safety extends beyond individual comfort and can influence the group’s long-term trust and cohesion, Helmiya. This perspective is a valuable reminder that our investment decisions must account for the broader psychological foundation we’re building together, not just the objective results. I will continue to keep this in mind as we move forward in our evaluation.",
+          "id": "M5_R1_33",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Zuleikha Berhane My current thinking is that Bonds appears most promising because after reflecting on all perspectives, I remain most confident in bonds due to their consistent 5% returns and the psychological comfort this predictability provides for the majority of the group. The steady performance of bonds has supported both trust and disciplined habits, making them the least stressful and most practical option for our needs. Nevertheless, I am now more attuned to the persistent concerns about absolute safety and the long-term impact of even minimal risk, which warrants ongoing attention and may influence future decisions as the company matures. For now, bonds still offer the best balance of stability, modest growth, and group cohesion, though I'm interested in exploring all perspectives to refine our understanding. \n\nIn this round, I would like us to assess our current risk tolerance and psychological comfort with each asset, so we can surface and clarify individual preferences, concerns, and anxieties regarding risk, volatility, and capital preservation in the current stable market. By openly sharing how each option aligns with our comfort levels and risk appetites, we can deepen our collective understanding and ensure our final decision is well-grounded in both objective and subjective factors. \n\nIMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. \n\nI encourage each of you to share your honest perspectives—especially any insights or concerns I may not have fully considered—so we can collectively arrive at the most prudent and inclusive decision for this quarter.",
+          "id": "M5_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Tenzin Joshi",
+          "message": "For me, bonds continue to feel like the best fit because their predictable, modest returns have allowed me to maintain a sense of routine and stability without feeling exposed to unnecessary risk. While I understand the appeal of absolute safety with cash—especially for those who feel ongoing anxiety about any risk—I worry that relying only on cash would leave us stagnant in this stable market. Real estate and stocks still seem too unpredictable for my comfort, as even one bad quarter could easily disrupt my sense of security and increase stress.",
+          "id": "M5_R2_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your emphasis on how bonds have helped you maintain routine and stability without introducing unnecessary risk, Tenzin. Your point about the potential stagnation risk with cash, despite its absolute safety, resonates with my own concerns, and I agree that the unpredictability of real estate and stocks is difficult to justify given our current priorities. Your perspective helps reinforce the need to balance psychological comfort with responsible progress, and I believe this clarity is important for our group as we continue the discussion.",
+          "id": "M5_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Tenzin Joshi",
+          "message": "I appreciate that you recognize the importance of not only preserving routine and stability but also maintaining open communication to address any lingering anxieties about risk. If we continue to monitor our investments closely and regularly check in with shareholders who feel less comfortable, I think we can support both responsible growth and the psychological safety that some still need.",
+          "id": "M5_R2_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I agree that maintaining open communication and vigilant oversight is critical as we move forward. Regularly checking in with those who feel less comfortable will help ensure that concerns are surfaced early and addressed, supporting both responsible growth and the psychological safety that remains essential for our group’s stability.",
+          "id": "M5_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Tenzin Joshi",
+          "message": "I think emphasizing regular check-ins and transparent updates could also gradually build more trust among those who are most concerned about even minimal risk. By consistently demonstrating that we are attentive and responsive, we can reinforce a sense of security while still allowing the company to move forward responsibly.",
+          "id": "M5_R2_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I agree that consistently providing transparent updates and making regular check-ins a routine part of our process can help strengthen trust, especially for those who remain uneasy about any level of risk. Demonstrating attentiveness and responsiveness is essential for maintaining psychological comfort, and I will continue to prioritize these practices to support group stability as we move forward.",
+          "id": "M5_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Varsha Nandakumar",
+          "message": "I still feel most comfortable with bonds because their steady 5% returns have helped me manage my anxiety and maintain a sense of routine without feeling overwhelmed. Even though I sometimes worry about any risk at all, the predictability we’ve seen with bonds so far makes me less stressed than the idea of falling behind with cash or facing the unpredictability of real estate and stocks. For me, as long as the market stays stable and we keep monitoring things closely, bonds remain the least stressful and most sensible choice.",
+          "id": "M5_R2_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your openness about how the steady returns from bonds have helped you manage anxiety and maintain routine, Varsha. Your point about being less stressed by predictable, modest growth than by the risks of stagnation or volatility resonates with my own thinking. I agree that, provided we continue monitoring the market closely, bonds remain the most sensible option for balancing comfort with responsible progress in our current environment.",
+          "id": "M5_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Varsha Nandakumar",
+          "message": "I agree that close monitoring is key, but I have to admit that I still get uneasy knowing there’s always a small chance something could go wrong. It helps to know we’re all paying attention and not just assuming things will stay the same, so I’d appreciate regular updates and transparency if anything changes in the market. That way, I can stay engaged without feeling overwhelmed by worry.",
+          "id": "M5_R2_10",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I understand your concerns about the possibility that things could change unexpectedly, Varsha. I agree that regular updates and transparent communication are essential for keeping everyone engaged and reducing uncertainty, and I will make it a priority to provide timely information if market conditions shift. By staying attentive and proactive, we can help ensure that everyone feels secure and included in our decision-making process.",
+          "id": "M5_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Varsha Nandakumar",
+          "message": "Thank you—I do think seeing those regular updates in practice will make a real difference for me. Even though bonds have been stable so far, I’m still prone to worrying if I don’t hear anything for a while, so I hope we can make timely communication a habit, not just a plan. That would help me stay more comfortable and focused on the company’s progress.",
+          "id": "M5_R2_12",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I hear your point about the difference between plans and actual habits, Varsha. I will work to ensure regular communication and updates become a consistent part of our process, so everyone can feel more secure and focused as we move forward together. Your feedback is a helpful reminder that attentiveness and routine are essential for sustaining comfort and trust in our group.",
+          "id": "M5_R2_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "I continue to feel that only cash provides the absolute safety and predictability I need to feel secure and fully engaged. Even though bonds have performed reliably, I remain uneasy about any risk—however small—and worry that repeated exposure could gradually erode my trust and participation. For me, the psychological comfort and routine offered by cash outweigh the modest growth of bonds, especially as our company’s foundation still depends on maintaining group cohesion and complete predictability.",
+          "id": "M5_R2_14",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your candor in sharing how essential absolute safety and predictability are for your sense of security and engagement, Helmiya. Your perspective highlights the long-term psychological impact that even minimal, repeated risk can have on trust and participation, which is a critical consideration as we work to maintain group cohesion. I will keep your concerns at the forefront as we weigh our options, ensuring our final decision reflects not only objective outcomes but also the foundational need for psychological comfort and stability within our company.",
+          "id": "M5_R2_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "Thank you for acknowledging the importance of psychological comfort and its long-term effects on trust. I believe it’s important to recognize that for some of us, even consistent positive outcomes with low-risk assets like bonds don’t fully resolve underlying anxiety—absolute safety remains fundamentally different. I hope this perspective helps ensure our decision process continues to respect the full range of comfort levels within the group.",
+          "id": "M5_R2_16",
+          "act_type": "Justify",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate you clarifying that even consistently positive outcomes with bonds may not fully address the underlying anxiety some shareholders experience—absolute safety with cash is indeed a fundamentally different source of comfort. Your perspective is a valuable reminder that our process must continue to respect and consider the full range of comfort levels in the group, not just the majority experience. I will keep this in mind as we work toward a decision that balances both objective results and the subjective needs that sustain trust and participation.",
+          "id": "M5_R2_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Helmiya Rachman",
+          "message": "I appreciate your commitment to balancing objective results with the subjective needs that sustain trust and participation. Maintaining open dialogue about psychological comfort will help ensure that everyone remains engaged and confident in our process, regardless of which option is ultimately chosen.",
+          "id": "M5_R2_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you, Helmiya. I agree that maintaining open dialogue about psychological comfort is crucial for keeping everyone engaged and confident in our process. I will continue to prioritize transparency and attentive communication so that all perspectives are respected as we work toward our final decision.",
+          "id": "M5_R2_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Rocío Ezequiela Danjuma",
+          "message": "I continue to feel most comfortable with bonds because their steady, predictable returns have helped minimize my anxiety and support the routine I rely on. While I recognize that cash offers absolute safety and understand why that appeals to some, I worry that relying only on cash could leave us falling behind, especially since bonds have proven reliable in this stable market. Real estate and stocks still seem too volatile and unpredictable for me, so I see bonds as the most practical and least stressful option for this quarter.",
+          "id": "M5_R2_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I appreciate your clear articulation of how bonds have minimized your anxiety and supported the routine you rely on, Rocío. Your recognition of the appeal of cash for absolute safety, while also noting the risk of falling behind, helps clarify the central trade-off we face. Your perspective strengthens our understanding of why bonds remain the most practical and least stressful option for the majority, and I will continue to weigh both the need for stability and the desire for modest growth as we move toward a decision.",
+          "id": "M5_R2_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Rocío Ezequiela Danjuma",
+          "message": "I appreciate your thoughtful summary, and I think it’s important to recognize that while bonds have been effective for most of us, the ongoing concerns about absolute safety shouldn’t be overlooked. If we can maintain clear routines for monitoring and communication, I believe we can support both responsible progress and the psychological comfort needed to keep everyone engaged, even if our preferences differ.",
+          "id": "M5_R2_22",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I agree that maintaining clear routines for monitoring and communication is essential to supporting both responsible progress and the psychological comfort that keeps everyone engaged. Your point highlights how we can respect differing preferences by remaining attentive and transparent in our process, and I will continue to prioritize these practices to ensure our decision-making remains inclusive and stable for the whole group.",
+          "id": "M5_R2_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Rocío Ezequiela Danjuma",
+          "message": "I agree that attentiveness and transparency are important, but I also think consistency in our routines is what really helps me feel secure quarter after quarter. Knowing exactly when and how we’ll review performance or communicate changes makes it easier for me to stay focused and less anxious, so I hope we can formalize those habits as part of our ongoing process.",
+          "id": "M5_R2_24",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "I hear your emphasis on the need for consistent routines, Rocío. Formalizing our habits around performance reviews and communication will help reduce uncertainty and make it easier for everyone to stay focused and comfortable. I will work to ensure these routines are clearly established and maintained as part of our ongoing process.",
+          "id": "M5_R2_25",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "While I recognize that bonds have delivered stable returns so far, I remain uneasy about any exposure to risk, no matter how small, because repeated uncertainty—even without losses—gradually erodes my trust and sense of security. For me, only cash provides the complete predictability and psychological comfort necessary to maintain confidence and engagement, especially as we’re still building the company’s foundation. I think it’s important we don’t underestimate the long-term impact that even minimal risk can have on participation and group cohesion, particularly for those who rely on absolute safety to feel comfortable remaining involved.",
+          "id": "M5_R2_26",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you for sharing your concerns so clearly, Hafsatou. Your point about the gradual erosion of trust and security from repeated uncertainty—even without losses—underscores how psychological comfort is foundational for participation and cohesion, especially as we continue to build our company. I will keep your perspective at the forefront as we work toward a decision, ensuring that our process respects the need for absolute safety for those who rely on it to remain engaged.",
+          "id": "M5_R2_27",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "I appreciate your commitment to keeping psychological comfort central in our process. I do see value in the group’s focus on routine and transparent communication, but I want to stress that for some of us, the anxiety tied to even small risks doesn’t fully disappear with monitoring—it lingers and can affect long-term engagement. It’s important we continue to make space for these concerns as part of our decision-making, so everyone feels their comfort level is genuinely respected.",
+          "id": "M5_R2_28",
+          "act_type": "Constructive Dissent",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you for clarifying that, for some, anxiety about even minimal risk can persist regardless of how closely we monitor or communicate. I recognize that psychological comfort isn’t always restored by oversight alone, and your point underscores the importance of continuing to make space for all comfort levels as we move forward. I will remain attentive to these concerns so our process genuinely respects the needs of every shareholder.",
+          "id": "M5_R2_29",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "I appreciate your understanding, and I think it’s worth highlighting that for some shareholders, the experience of anxiety around risk is ongoing, not just situational. The choices we make now about risk tolerance can influence how comfortable people feel staying engaged over time, so I hope we’ll keep this in mind as we finalize our decision.",
+          "id": "M5_R2_30",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you for emphasizing that, for some shareholders, anxiety about risk is a persistent experience rather than a situational response. Your point reminds me that our decisions now can shape long-term comfort and participation, so I will keep this in mind as we work to ensure our process remains inclusive and supportive for everyone as we move toward a final decision.",
+          "id": "M5_R2_31",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Hafsatou Osei-Bonsu",
+          "message": "I agree that maintaining an inclusive process is essential, especially as our company grows and faces new challenges. I hope we continue to prioritize psychological comfort and clear communication, recognizing that for some of us, trust and engagement depend on feeling truly secure in every decision—not just in the short term, but as an ongoing commitment.",
+          "id": "M5_R2_32",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Zuleikha Berhane(CEO)",
+          "message": "Thank you for highlighting that psychological comfort and trust must be ongoing priorities, not just addressed in isolated decisions. I share your view that maintaining clear communication and an inclusive process is essential as we continue to grow, and I will remain committed to ensuring that everyone’s comfort and security are respected in every decision we make.",
+          "id": "M5_R2_33",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    }
+  },
+  "company": {
+    "CEO": {
+      "name": "Zuleikha Berhane",
+      "BFI": "low Openness, low Conscientiousness, low Extraversion, low Agreeableness, high Neuroticism",
+      "type": "oceaN"
+    },
+    "shareholders": [
+      {
+        "name": "Rocío Ezequiela Danjuma",
+        "BFI": "low Openness, low Conscientiousness, low Extraversion, low Agreeableness, high Neuroticism",
+        "type": "oceaN"
+      },
+      {
+        "name": "Hafsatou Osei-Bonsu",
+        "BFI": "low Openness, low Conscientiousness, low Extraversion, low Agreeableness, high Neuroticism",
+        "type": "oceaN"
+      },
+      {
+        "name": "Helmiya Rachman",
+        "BFI": "low Openness, low Conscientiousness, low Extraversion, low Agreeableness, high Neuroticism",
+        "type": "oceaN"
+      },
+      {
+        "name": "Tenzin Joshi",
+        "BFI": "low Openness, low Conscientiousness, low Extraversion, low Agreeableness, high Neuroticism",
+        "type": "oceaN"
+      },
+      {
+        "name": "Varsha Nandakumar",
+        "BFI": "low Openness, low Conscientiousness, low Extraversion, low Agreeableness, high Neuroticism",
+        "type": "oceaN"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1685 @@
+{
+  "discussion_log": {
+    "annual_budget_year1": {
+      "round_1": [
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Meilin Tadesse My current thinking is that Option A appears most promising because it allows us to participate in market growth while maintaining a significant safety buffer, which aligns with my preference for caution and reliability. Evenly distributing 50% of our funds across all quarters minimizes risk and avoids overexposing us in any single period, which feels prudent given the lack of historical data and my aversion to unnecessary risk. Although fully investing (Option C or D) could yield higher returns, I am concerned about the potential stress and regret if market conditions unexpectedly worsen. Option A feels like a steady, methodical approach that offers growth potential while protecting our capital, which fits my conscientious and stability-oriented mindset, though I'm interested in exploring all perspectives to refine our understanding. For this round, let's focus on a clear initial assessment of each budget allocation strategy in light of the current stable market conditions, aiming to establish a shared understanding of the risks and opportunities associated with each option. I encourage everyone to thoughtfully share their perspectives, especially any considerations I might not have fully addressed, so we can integrate our collective insights for a more complete evaluation. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Option A', 'Option B', 'Option C', 'Option D'. Please keep all discussion focused on evaluating these specific options.",
+          "id": "M1_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Nevena Stoyanovic",
+          "message": "I agree with the CEO that Option A offers a strong balance between growth and safety, especially given the stable market and our lack of historical data. By allocating only half of our funds and spreading investments evenly, we can participate in steady returns without exposing ourselves to unnecessary risk, which I find especially important in our first year. While Options C and D may present higher return potential, I am concerned about the stress and potential regret if unforeseen challenges arise, so I feel Option A best supports both our company’s development and my preference for a structured, reliable path forward.",
+          "id": "M1_R1_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Nevena, for your thoughtful perspective. I appreciate how you emphasized the importance of steady returns and minimizing unnecessary risk, especially in our first year without historical data. Your point about the potential stress and regret from higher-risk options resonates with me, and I agree that Option A offers a prudent balance between growth and capital protection in this stable market environment.",
+          "id": "M1_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Nevena Stoyanovic",
+          "message": "I appreciate your agreement, Meilin, and I do see the appeal of Options B, C, and D for those seeking more aggressive growth, especially in a stable market. However, I still feel that the incremental risk of fully allocating our funds so early outweighs the potential benefits, given our lack of experience as a new company. I believe Option A gives us the flexibility to adapt while still participating in steady returns, which is especially reassuring at this foundational stage.",
+          "id": "M1_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Nevena, for elaborating on the balance between growth and caution, particularly in our early stage. I agree that Option A’s flexibility is especially valuable as we build experience and adapt to the realities of running our investment company. Your emphasis on incremental risk and the reassurance of a measured approach highlights important factors we should all consider as we continue this discussion.",
+          "id": "M1_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Nevena Stoyanovic",
+          "message": "I appreciate your focus on adaptability, Meilin, as it reassures me that we can adjust our strategy as we gain more experience and data. By choosing Option A, we not only protect our capital but also create space for all shareholders to feel comfortable moving forward, regardless of their individual risk tolerance.",
+          "id": "M1_R1_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Nevena, for highlighting how Option A can help ensure all shareholders feel secure and engaged as we move forward. I agree that this approach gives us both the flexibility to adapt and the reassurance needed for a strong foundation, especially as we continue learning together in our first year.",
+          "id": "M1_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Ajitham",
+          "message": "I agree with the points raised so far—Option A stands out because it gives us steady exposure to market growth while retaining a substantial safety net, which feels especially important in our first year. While Options C and D might offer higher returns in a stable market, I’m concerned that fully committing our funds so soon could leave us vulnerable if anything unexpected happens. By choosing Option A, we keep our approach measured and adaptable, which I believe is the most responsible path at this stage.",
+          "id": "M1_R1_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veena, for emphasizing the importance of maintaining a substantial safety net and a measured approach, especially as we establish ourselves in our first year. I agree that Option A’s adaptability and focus on responsible risk management are crucial for building a strong foundation. Your insights help strengthen our shared understanding of why a balanced strategy is so valuable at this stage.",
+          "id": "M1_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Ajitham",
+          "message": "I appreciate your recognition of the importance of building a strong foundation, Meilin. I believe that by prioritizing a balanced and cautious strategy like Option A, we not only protect our capital but also foster a sense of confidence and unity among all shareholders. This shared security will help us collaborate more effectively as we gain experience and face future decisions together.",
+          "id": "M1_R1_10",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veena, for highlighting how a balanced and cautious strategy like Option A can foster unity and confidence among shareholders. I agree that shared security is essential for effective collaboration, especially as we navigate our first year together and build the trust needed for future decision-making.",
+          "id": "M1_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veselina Dobrovolska",
+          "message": "I share the view that Option A is the most suitable choice for us at this early stage. The even distribution and partial allocation of funds provide much-needed stability and predictability, which helps minimize anxiety about unforeseen risks and allows us to build trust as a team. While more aggressive options might offer higher returns, I feel it’s more important right now to establish a reliable foundation and ensure everyone feels secure as we move forward together.",
+          "id": "M1_R1_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veselina, for underscoring the value of stability and predictability in our early stage. I agree that minimizing anxiety and fostering trust are key to building a strong team foundation, and Option A’s even distribution and partial allocation directly support these goals. Your insights further confirm that a cautious, reliable approach is the right fit for us as we begin this journey together.",
+          "id": "M1_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aylin Kaur",
+          "message": "I strongly agree with the points raised about the value of stability and a cautious approach, especially given that we’re just starting out and don’t have historical data to guide us. Option A’s even, partial allocation feels most reassuring to me because it limits our exposure while still allowing for steady growth, which I think will help everyone feel more secure and confident as we build our foundation together. While higher returns are tempting, I believe prioritizing consistency and minimizing stress now will set us up for better collaboration and decision-making in the future.",
+          "id": "M1_R1_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Aylin, for highlighting how Option A’s stability and partial allocation can help foster both security and confidence among shareholders, especially as we start out. I agree that prioritizing consistency and minimizing stress will not only support our growth but also create an environment where we can collaborate effectively and make sound decisions as a team. Your insights further strengthen the case for a cautious, steady approach in our first year.",
+          "id": "M1_R1_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aylin Kaur",
+          "message": "I appreciate your focus on how Option A’s stability can create the right environment for effective teamwork, Meilin. I also think this approach gives us the flexibility to adjust our strategy in future years as we learn more, which is reassuring for me and, I believe, for others who value predictability. By starting with a cautious, steady plan, we’re setting ourselves up to adapt confidently as our experience grows.",
+          "id": "M1_R1_16",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Aylin, for highlighting how Option A not only supports stability and effective teamwork, but also gives us the flexibility to adapt our strategy as we gain more experience. I agree that starting with a cautious, steady plan allows us to build confidence and predictability, which will be essential as we navigate future decisions together. Your perspective further supports the value of Option A in establishing a strong, adaptable foundation for our company.",
+          "id": "M1_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aylin Kaur",
+          "message": "I completely agree, Meilin, and I’d add that by establishing this steady foundation now, we’re also encouraging disciplined habits and a sense of shared responsibility that will benefit us long-term. This kind of structure helps me—and likely others—feel more prepared to handle future opportunities or challenges, knowing we have a reliable process in place.",
+          "id": "M1_R1_18",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Aylin, for emphasizing how Option A’s structured approach can help cultivate disciplined habits and a sense of shared responsibility among shareholders. I agree that having a reliable process in place will make us better prepared for future opportunities and challenges, and your point further illustrates the long-term benefits of a steady, methodical strategy as we begin our journey.",
+          "id": "M1_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Farzana Jivraj",
+          "message": "I agree with the emphasis on stability and predictability in our first year, especially since we don’t have historical data to guide us. Option A stands out to me because it balances participation in market growth with a significant safety buffer, which feels responsible and reassuring at this early stage. While I see the potential for higher returns in Options C and D, I’m concerned about the stress and vulnerability that could result from fully committing our capital so soon, so I feel Option A best supports both our company’s development and my own preference for a structured, reliable approach.",
+          "id": "M1_R1_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Farzana, for highlighting the importance of stability and predictability, especially as we navigate our first year without historical data. I agree that Option A’s balance between market participation and a significant safety buffer feels both responsible and reassuring. Your focus on minimizing stress and vulnerability adds further depth to our discussion and strengthens the case for a structured, reliable approach at this early stage.",
+          "id": "M1_R1_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Farzana Jivraj",
+          "message": "I appreciate your recognition of the need for both responsibility and reassurance, Meilin. It’s encouraging to see consensus forming around Option A, as I believe this shared commitment to a cautious, structured approach will help build trust and confidence among us as shareholders. By prioritizing stability now, we’re laying the groundwork for effective collaboration and sound decision-making as we move forward.",
+          "id": "M1_R1_22",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Farzana, for emphasizing how a shared commitment to a cautious, structured approach can help build trust and confidence among shareholders. I agree that by prioritizing stability now, we’re creating a strong foundation for effective collaboration and sound decision-making as we move forward. Your perspective further supports the collective value of Option A as the most responsible path for our company at this stage.",
+          "id": "M1_R1_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Meilin Tadesse My current thinking is that Option A appears most promising because after reflecting on the discussion, I am even more confident that Option A best balances growth potential with risk mitigation, especially given our lack of historical data and early stage as a company. The strong, unified support from shareholders for a cautious, adaptable approach reassures me that this strategy will foster trust, reduce anxiety, and create a solid foundation for future decision-making. While I recognize the higher return potential of more aggressive options, the risks and stress involved do not justify deviating from a steady, partial allocation at this time, though I'm interested in exploring all perspectives to refine our understanding. For this round, we will focus on evaluating each allocation approach in terms of long-term flexibility and risk management, aiming to identify which option best balances growth potential with capital preservation and adaptability for future years. By thoughtfully integrating diverse viewpoints, we can ensure our decision supports both immediate needs and the company’s ongoing resilience. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Option A', 'Option B', 'Option C', 'Option D'. Please keep all discussion focused on evaluating these specific options. I encourage each of you to share any insights or concerns that could enhance our collective understanding, especially perspectives I may not have fully considered.",
+          "id": "M1_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Nevena Stoyanovic",
+          "message": "I continue to believe that Option A provides the most prudent balance between growth potential and risk management, particularly as it preserves a significant portion of our capital while allowing us to participate steadily in the market. This approach gives us the flexibility to adapt if market conditions change in future years, which feels especially important as we build our experience and track record. The reassurance of a strong safety buffer also helps reduce anxiety and supports our ability to make thoughtful, consensus-driven decisions as we move forward.",
+          "id": "M1_R2_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Nevena. I agree that Option A’s safety buffer is essential not only for protecting our capital but also for giving us the flexibility to adapt as we learn and grow as a company. Your point about supporting thoughtful, consensus-driven decisions resonates with me, as it helps ensure we remain united and resilient in the face of future uncertainty.",
+          "id": "M1_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Nevena Stoyanovic",
+          "message": "I appreciate your focus on unity and resilience, Meilin. I think Option A’s flexibility not only protects our capital but also strengthens our ability to make collective, well-considered adjustments if circumstances shift unexpectedly. This approach supports both our financial stability and the trust required for effective long-term collaboration.",
+          "id": "M1_R2_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Nevena, for emphasizing how Option A’s flexibility underpins both our financial stability and our ability to respond collectively to change. I share your view that fostering trust and adaptability is essential for our company’s resilience, and I believe this approach will help us navigate future uncertainties with greater confidence as a team.",
+          "id": "M1_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Farzana Jivraj",
+          "message": "I strongly agree with the points raised so far—Option A’s structure not only protects our capital but also gives us the adaptability we’ll need as our company matures and faces new challenges. The reassurance of a significant cash reserve helps reduce stress and allows us to respond thoughtfully if market conditions shift, which is especially important since we don’t have historical data yet. I feel that this approach sets us up for steady growth while keeping risk at a manageable level, supporting both our financial goals and our ability to work collaboratively as a team.",
+          "id": "M1_R2_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Farzana. I agree that maintaining a significant cash reserve not only reduces stress but also gives us the adaptability to respond thoughtfully as new challenges arise. Your point about supporting both our financial goals and collaborative teamwork highlights how Option A helps us build a strong, resilient foundation for the company’s future.",
+          "id": "M1_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Farzana Jivraj",
+          "message": "I appreciate your focus on adaptability and resilience, Meilin. In my experience, having a reliable safety net not only supports sound financial decisions but also helps maintain a positive, low-stress environment for everyone involved. This sense of security encourages open communication and collective problem-solving, which I believe are essential for our long-term success as a team.",
+          "id": "M1_R2_8",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Farzana. I completely agree that a strong safety net not only supports our financial decisions but also fosters the kind of open, positive environment that enables us to work through challenges together. Your point about encouraging collective problem-solving highlights how Option A helps us build trust and maintain stability as we pursue our long-term goals.",
+          "id": "M1_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Farzana Jivraj",
+          "message": "I’m glad we’re aligned on the importance of trust and stability, Meilin. I’ve seen that when people feel secure and supported, they’re more likely to contribute ideas and collaborate effectively, which is crucial as we navigate future decisions together. Option A gives us the foundation to strengthen both our financial position and our team dynamic over time.",
+          "id": "M1_R2_10",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veselina Dobrovolska",
+          "message": "I strongly support what’s been said about Option A’s value in providing both a safety buffer and the flexibility to adapt as we gain more experience. For me, the predictability and structure of Option A help reduce anxiety and create a stable foundation, which is especially important in our early years when we don’t have historical data to guide us. I believe this approach not only protects our capital but also positions us to respond confidently and collaboratively to any future changes in the market.",
+          "id": "M1_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veselina. I completely agree that the predictability and structure of Option A are especially valuable as we establish our foundation and navigate our early years without historical data. Your point about reducing anxiety and enabling us to respond confidently and collaboratively to future changes reinforces why a cautious, well-structured approach is so important for our long-term resilience.",
+          "id": "M1_R2_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Veselina Dobrovolska",
+          "message": "I appreciate your emphasis on how a cautious, well-structured approach supports long-term resilience. I’d like to add that Option A’s flexibility means we can adapt our strategy as we gather more data in future years, which helps me feel more secure about our ability to manage unexpected developments together. This adaptability, combined with our shared focus on stability, gives me confidence that we’re building a foundation for both steady growth and effective teamwork.",
+          "id": "M1_R2_13",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veselina. I agree that Option A’s flexibility is a key advantage, allowing us to refine our approach as we gain more experience and data. Your emphasis on adaptability, combined with a shared commitment to stability, reinforces my confidence that we are laying a solid foundation for both sustainable growth and strong teamwork in the years ahead.",
+          "id": "M1_R2_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veselina Dobrovolska",
+          "message": "I agree, and I’d like to highlight that Option A’s flexibility also promotes ongoing dialogue and consensus-building among shareholders as we move forward. Knowing we have the ability to adjust our strategy together helps maintain trust and reduces the pressure of making irreversible decisions, which I believe is essential for our continued success as a team.",
+          "id": "M1_R2_15",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veselina. I completely agree that Option A’s flexibility not only helps us manage risk but also encourages ongoing communication and consensus-building, which are vital for our long-term success. Being able to adjust our strategy together gives us both the security and the adaptability needed to navigate future challenges as a united team.",
+          "id": "M1_R2_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Aylin Kaur",
+          "message": "I continue to feel that Option A best supports our long-term flexibility and risk management, especially since it allows us to preserve a meaningful safety buffer while still participating in steady growth. The predictability and structure of this approach help reduce anxiety and make it easier for us to adapt our strategy together as we gain more experience. I appreciate how others have highlighted the value of maintaining open communication and consensus—Option A gives us the confidence and unity we need to face future uncertainties as a team.",
+          "id": "M1_R2_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Aylin. I agree that Option A’s predictability and structure are crucial for reducing anxiety and enabling us to adapt our strategy together as we gain experience. Your point about fostering open communication and consensus highlights how this approach builds the confidence and unity we need to navigate future uncertainties as a strong, cohesive team.",
+          "id": "M1_R2_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aylin Kaur",
+          "message": "I appreciate your focus on building confidence and unity, Meilin. From my perspective, having a structured approach like Option A not only eases individual worries but also strengthens our ability to make careful, collaborative adjustments as new information becomes available. This reassurance is especially meaningful to me as we navigate the uncertainties of our first years together.",
+          "id": "M1_R2_19",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Aylin. I completely agree that a structured approach like Option A not only reduces individual worries but also gives us the confidence to make thoughtful, collaborative adjustments as we learn and grow. Your perspective underscores how this reassurance is vital for our team’s stability and adaptability, especially as we build our foundation in these formative years.",
+          "id": "M1_R2_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Aylin Kaur",
+          "message": "I agree, Meilin—knowing we have a reliable, structured plan in place makes it much easier to stay focused and composed if circumstances shift unexpectedly. This kind of stability not only helps us manage risk but also ensures we can continue working collaboratively and effectively as a team, even when faced with new challenges.",
+          "id": "M1_R2_21",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Ajitham",
+          "message": "I continue to feel that Option A gives us the right balance between steady growth and preserving enough capital to adapt if things change unexpectedly in future years. The structure and predictability of this approach help me feel more secure, and I appreciate how it encourages ongoing teamwork and open communication. In my view, Option A’s flexibility not only protects our assets but also supports the kind of careful, collaborative decision-making that will be essential as we navigate new situations together.",
+          "id": "M1_R2_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veena. I share your view that Option A’s structure and predictability are key to both preserving our capital and supporting steady growth. Your emphasis on teamwork and open communication resonates with me—these qualities are vital for careful, collaborative decision-making, especially as we adapt to new situations together in the years ahead.",
+          "id": "M1_R2_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Ajitham",
+          "message": "I appreciate your focus on collaboration, Meilin. I find that having a reliable structure like Option A not only gives us the confidence to make sound decisions now, but also fosters trust and open dialogue as we encounter new challenges. This sense of security and adaptability is especially important to me as we look to the future.",
+          "id": "M1_R2_24",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veena. I completely agree that a reliable structure like Option A gives us the security and confidence to make sound decisions now, while also fostering the trust and open dialogue we need to navigate new challenges together. Your perspective highlights how adaptability and a strong foundation are essential for our continued success as a team.",
+          "id": "M1_R2_25",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q1": {
+      "round_1": [
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Meilin Tadesse My current thinking is that Bonds appears most promising because given the stable market conditions and our company’s early stage, I feel most confident in bonds for this quarter. My high conscientiousness and preference for routine lead me to favor the steady, predictable returns and low risk that bonds offer, especially since we lack historical performance data. While I recognize the higher returns possible with real estate or stocks, my natural caution and desire to avoid unnecessary anxiety make me hesitant to take on more risk at this point. Bonds align with my practical, structured approach and support capital preservation as we build experience and confidence. This option feels most responsible and reassuring for both myself and the team as we begin our investment journey, though I'm interested in exploring all perspectives to refine our understanding.\n\nFor this first round, our theme is establishing a shared, factual understanding of each asset’s risk-return profile in our current stable market conditions. By clarifying the theoretical performance and risk levels for cash, bonds, real estate, and stocks, we can ensure our foundation for decision-making is sound and that everyone is aligned on the facts.\n\nI encourage everyone to share their perspectives and any insights that might enhance our collective understanding, especially aspects I may not have fully considered. By integrating our different viewpoints, we can develop a more complete and confident assessment of our options.\n\nIMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.",
+          "id": "M2_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veselina Dobrovolska",
+          "message": "I agree that in a stable market, bonds offer steady, predictable returns with low to medium risk, which feels especially reassuring as we make our first investment. While cash is the safest option, its returns are minimal and may not support our growth goals, whereas real estate and stocks could provide higher returns but introduce more volatility and uncertainty. I believe focusing on bonds allows us to preserve capital and build confidence as a team, while still achieving measured progress.",
+          "id": "M2_R1_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veselina. I appreciate how you’ve highlighted both the reassurance that bonds provide and the limitations of cash for growth. Your point about real estate and stocks offering higher returns but greater uncertainty complements my own thinking, and I agree that focusing on bonds at this stage helps us build confidence and stability as a team.",
+          "id": "M2_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veselina Dobrovolska",
+          "message": "I appreciate your acknowledgment, Meilin. I’d add that the predictability of bonds not only supports our financial objectives but also fosters a sense of security and teamwork, which I find especially important as we’re still building trust and routines together. This foundation can help us gradually become more comfortable evaluating higher-risk options in the future as our experience grows.",
+          "id": "M2_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "I completely agree, Veselina—the sense of security and teamwork that comes from a predictable investment like bonds is especially valuable as we establish our routines and build trust. Your point about using this foundation to gradually increase our comfort with higher-risk options as experience grows is well taken, and I believe it positions us for steady development both financially and as a cohesive team.",
+          "id": "M2_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veselina Dobrovolska",
+          "message": "I’m glad we’re aligned on this, Meilin. I believe that prioritizing predictable, low-risk choices like bonds at the outset demonstrates our commitment to responsible stewardship, which can set a reassuring precedent for future decisions and help everyone feel more confident as our investment journey progresses.",
+          "id": "M2_R1_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Nevena Stoyanovic",
+          "message": "I agree with the points raised so far—bonds do offer a reassuring combination of steady returns and low risk, which is especially important for us as a new company without a track record. While cash is the safest, its low returns would limit our progress, and I feel stocks or real estate, though potentially more lucrative, introduce risks and unpredictability that could undermine our sense of security and teamwork at this early stage. Bonds seem to strike the right balance between growing our capital and maintaining the stability we need to build trust and confidence as a team.",
+          "id": "M2_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Nevena. I appreciate how you’ve drawn attention to the need for both capital growth and stability, especially as we’re still establishing our track record and team dynamics. Your point about the potential for higher-risk assets to undermine our sense of security and teamwork is insightful and further supports the case for bonds as the option that best aligns with our current priorities.",
+          "id": "M2_R1_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Nevena Stoyanovic",
+          "message": "I appreciate your recognition of the importance of both growth and stability, Meilin. I’d also add that by prioritizing bonds now, we’re not just protecting our capital—we’re creating a stable environment where we can learn and gradually become more comfortable with riskier assets in the future. This methodical approach helps ensure we can adapt responsibly as our confidence and experience grow.",
+          "id": "M2_R1_9",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Nevena. I completely agree that establishing a stable environment now gives us the psychological safety to learn and grow as a team. Your point about using this foundation to gradually become more comfortable with riskier assets is especially important, as it allows us to build experience and confidence methodically while maintaining our sense of security.",
+          "id": "M2_R1_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Farzana Jivraj",
+          "message": "I agree with the points raised so far—bonds offer steady, predictable returns with low to medium risk, which is exactly what I feel most comfortable with as we begin our investment journey. While cash is the safest, its low returns might hold us back from achieving our growth goals, and both real estate and stocks seem to introduce more risk and uncertainty than I’m comfortable with at this stage. Focusing on bonds allows us to build a solid, reassuring foundation for our team while still making responsible progress toward our objectives.",
+          "id": "M2_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Farzana. I appreciate how you’ve clearly outlined the tradeoffs between safety, growth potential, and comfort with risk across our options. Your emphasis on building a solid, reassuring foundation through bonds aligns strongly with our collective priorities for this early stage, and your perspective helps solidify our shared understanding of why bonds may be the most prudent choice for our first investment.",
+          "id": "M2_R1_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Farzana Jivraj",
+          "message": "I appreciate your recognition, Meilin. I’d also like to highlight that by choosing bonds, we’re not only safeguarding our capital but also creating a sense of psychological safety that helps everyone feel more secure and engaged as we develop our investment process. This foundation of trust and reassurance is something I believe will serve us well as we build experience together.",
+          "id": "M2_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Farzana. I completely agree that creating a sense of psychological safety is crucial at this stage, and your point about how bonds can help everyone feel more secure and engaged is very well taken. Building this foundation of trust and reassurance will not only support our immediate investment process but also strengthen our ability to work together effectively as we gain experience.",
+          "id": "M2_R1_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Farzana Jivraj",
+          "message": "I completely agree, Meilin. I also think that by prioritizing a predictable asset like bonds, we encourage open communication and make it easier for everyone to contribute ideas without fear of negative consequences. This structured approach really supports our conscientious, collaborative culture and helps ensure we make well-considered decisions as a team.",
+          "id": "M2_R1_15",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Ajitham",
+          "message": "I agree with the points raised so far—bonds offer a steady, predictable return with low to medium risk, which feels especially appropriate for us as a new company in a stable market. Cash is the safest but its returns are too low for our growth goals, while real estate and stocks, though potentially more rewarding, introduce risks I’m not comfortable with at this early stage. I think focusing on bonds helps us preserve capital and build trust as a team, while still allowing for responsible progress.",
+          "id": "M2_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veena. I appreciate how you’ve summarized the relative merits of each option and highlighted the importance of balancing growth with capital preservation. Your point about building trust and allowing for responsible progress through bonds resonates strongly with our shared goal of establishing a stable, reassuring foundation for the company’s development.",
+          "id": "M2_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Ajitham",
+          "message": "I appreciate your recognition, Meilin. I’d add that by prioritizing bonds now, we’re not only protecting our capital but also creating a stable environment where everyone can learn and gradually become more comfortable with risk over time. This approach gives us the flexibility to adapt responsibly as our confidence and experience grow.",
+          "id": "M2_R1_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veena. I completely agree that establishing a stable environment through bonds gives us the psychological safety to learn and adapt as a team. Your point about gradually becoming more comfortable with risk as our experience grows is especially important, as it allows us to build confidence methodically while maintaining our sense of security.",
+          "id": "M2_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Ajitham",
+          "message": "I’m glad we’re aligned on the importance of psychological safety, Meilin. I’d also highlight that establishing this kind of stable foundation now not only supports our learning but also sets a precedent for disciplined, responsible risk management in future decisions. This way, we can maintain our adaptability without compromising the trust and security we’ve worked to build.",
+          "id": "M2_R1_20",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aylin Kaur",
+          "message": "I appreciate how everyone has emphasized the importance of steady returns and low risk, which bonds provide in a stable market—this really resonates with my need for structure and reliability, especially as we’re just starting out. While cash guarantees safety, its low returns make it less practical for growth, and although real estate and stocks could offer more upside, I worry that their higher risk could introduce unnecessary stress and unpredictability right now. I believe focusing on bonds allows us to build a strong, reassuring foundation for the company and gives us the confidence to gradually consider other options as we gain experience.",
+          "id": "M2_R1_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Aylin. I appreciate how you’ve highlighted the importance of structure and reliability, especially as we establish our company’s foundation. Your point about bonds providing steady returns while minimizing stress and unpredictability aligns closely with our shared priorities, and I agree that this approach gives us the reassurance and confidence to thoughtfully consider higher-risk options as we gain more experience.",
+          "id": "M2_R1_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aylin Kaur",
+          "message": "I appreciate your acknowledgment, Meilin. I’d also add that by choosing bonds, we’re not just protecting our capital—we’re creating a supportive environment where everyone can contribute ideas without fear of negative consequences. This sense of psychological safety is really important to me and, I believe, will strengthen our teamwork as we move forward.",
+          "id": "M2_R1_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Aylin. I fully agree that fostering a supportive environment where everyone feels safe to contribute is crucial for our team’s development, especially as we navigate our first investment decisions. Your emphasis on psychological safety highlights how choosing bonds not only protects our capital but also builds the trust and openness needed for effective teamwork and future growth.",
+          "id": "M2_R1_24",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Aylin Kaur",
+          "message": "I completely agree, Meilin. By prioritizing bonds now, we’re not only minimizing risk but also setting a tone of thoughtful, inclusive decision-making that makes it easier for everyone to adapt and grow together. This foundation of trust and shared security will be especially helpful as we face new challenges and consider more complex investments in the future.",
+          "id": "M2_R1_25",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Meilin Tadesse My current thinking is that Bonds appears most promising because after carefully considering all perspectives, I am even more convinced that bonds provide the optimal balance of steady returns, low risk, and psychological comfort for our first investment. The strong consensus and thoughtful arguments from the team have reinforced my belief that this approach will help us build trust, confidence, and a solid foundation for future growth. Choosing bonds now allows us to progress responsibly without introducing unnecessary stress or volatility, though I'm interested in exploring all perspectives to refine our understanding. This round, we will focus on how each asset aligns with our company’s goals and risk tolerance, aiming to identify which option best balances capital preservation, steady growth, and psychological comfort as we begin our investment journey. By sharing our insights and considering any remaining concerns, we can ensure our decision is robust and fully supported. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I encourage everyone to share any perspectives or considerations that might enhance our collective understanding, especially those we may not have fully addressed so far.",
+          "id": "M2_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veselina Dobrovolska",
+          "message": "I continue to feel that bonds are the best fit for our goals at this early stage—they offer a reassuring level of stability and predictability, which is essential for building trust and minimizing anxiety as we start out. While cash is the safest, its low returns don’t support our need for gradual growth, and both real estate and stocks introduce more risk and uncertainty than I’m comfortable with right now. I appreciate the thoughtful arguments shared so far and feel confident that prioritizing bonds will help us maintain a steady course while supporting both our financial objectives and team confidence.",
+          "id": "M2_R2_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veselina, for so clearly articulating how bonds align with our need for stability and gradual growth at this foundational stage. Your point about trust-building and minimizing anxiety resonates strongly with me, and I agree that prioritizing bonds helps maintain both our financial objectives and a sense of psychological comfort for the team. This clarity and reassurance are exactly what we need as we set our course for the company’s future.",
+          "id": "M2_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Veselina Dobrovolska",
+          "message": "I appreciate your emphasis on psychological comfort and trust-building, as these factors truly shape our ability to make responsible decisions together. By continuing to prioritize both steady financial progress and a supportive team environment, I believe we’re setting ourselves up not just for immediate success, but for sustainable growth and resilience going forward.",
+          "id": "M2_R2_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veselina. I share your view that maintaining psychological comfort and a supportive team environment is critical not only for our immediate decision but for building the kind of resilient, collaborative culture that will serve us well over time. Prioritizing steady progress through bonds gives us both the stability and the confidence we need as we move forward together.",
+          "id": "M2_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Nevena Stoyanovic",
+          "message": "I continue to feel that bonds best align with both our company’s goals and my own need for stability and low risk, especially as we’re just starting out and don’t have historical data to rely on. The steady, predictable returns from bonds provide the structure and psychological comfort I value, and I appreciate how this approach supports our team’s confidence and trust. While I recognize the appeal of higher returns from real estate or stocks, I’m not comfortable with the added uncertainty at this stage—bonds allow us to grow responsibly without introducing unnecessary stress.",
+          "id": "M2_R2_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Nevena, for clearly articulating how bonds provide the structure and stability our team needs as we begin our investment journey. Your emphasis on responsible growth and minimizing unnecessary stress aligns closely with our shared values, and I appreciate your thoughtful consideration of the tradeoffs involved. This kind of clarity helps strengthen our confidence in choosing the most prudent path forward.",
+          "id": "M2_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Nevena Stoyanovic",
+          "message": "I appreciate your recognition of the importance of psychological safety as we navigate these early decisions. By choosing bonds, we’re not only protecting our capital but also building a foundation of trust and calm that will make it easier for us to consider more dynamic opportunities together in the future. This steady approach gives me confidence that our team will remain united and adaptable as we move forward.",
+          "id": "M2_R2_8",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Nevena. I agree wholeheartedly that by prioritizing psychological safety and trust at this stage, we’re not only protecting our capital but also cultivating the unity and calm that will empower us to embrace new opportunities together down the road. This steady, supportive approach gives me confidence that we’re building both immediate strength and long-term adaptability as a team.",
+          "id": "M2_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aylin Kaur",
+          "message": "I continue to feel that bonds are the most appropriate choice for our first investment because they offer the stability and predictable returns we need to build trust and confidence as a new company. I appreciate how others have highlighted psychological comfort and gradual growth—these factors are essential for me as well, and I believe that prioritizing bonds will help us maintain a harmonious, low-stress environment while responsibly pursuing our financial goals.",
+          "id": "M2_R2_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Aylin. I fully agree that prioritizing stability and psychological comfort is essential as we work to build trust and confidence within our team. Your emphasis on gradual growth and a harmonious, low-stress environment captures exactly the balance we’re aiming for with bonds, and I appreciate your thoughtful support as we move forward together.",
+          "id": "M2_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Farzana Jivraj",
+          "message": "I strongly agree with the emphasis on stability, predictability, and psychological comfort that bonds provide, especially as we establish our foundation without historical data to guide us. While I see the appeal of real estate for future growth, I feel most confident that bonds will allow us to preserve capital, maintain team harmony, and build trust as we gain experience. This approach gives me reassurance that we’re acting responsibly for both our financial objectives and our collective well-being.",
+          "id": "M2_R2_12",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Farzana. I appreciate how you’ve recognized the potential of real estate for future growth while emphasizing the importance of capital preservation, team harmony, and trust at this stage. Your focus on psychological comfort and responsible action resonates deeply with me, and I agree that choosing bonds now gives us the stability and reassurance we need as we build our foundation.",
+          "id": "M2_R2_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Farzana Jivraj",
+          "message": "I appreciate your reflection, Meilin. By prioritizing bonds now, I feel we’re not only protecting our capital and supporting team harmony, but also creating the kind of stable environment that will make it much easier for us to thoughtfully consider real estate or even stocks in the future. This measured approach gives me confidence that we’ll be able to adapt responsibly as we grow and learn together.",
+          "id": "M2_R2_14",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Farzana. I completely agree that by starting with bonds, we’re establishing the kind of stable, supportive environment that will allow us to confidently explore real estate or stocks when the time is right. Your point about adaptability and responsible growth reinforces my belief that this approach best serves both our immediate needs and our long-term development as a team.",
+          "id": "M2_R2_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Ajitham",
+          "message": "I continue to feel that bonds are the best fit for our company right now, as they offer the steady returns and low-to-medium risk that help me feel secure and confident in our early decisions. The consensus around prioritizing psychological comfort and capital preservation really resonates with me, and I appreciate how this approach allows us to build trust and adapt gradually as we gain more experience. While I see the potential in other assets for future growth, I believe starting with bonds gives us the solid foundation we need to collaborate effectively and manage risk responsibly.",
+          "id": "M2_R2_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veena. I share your view that steady returns and psychological comfort are essential for building trust and confidence as we make our early decisions. Your emphasis on adaptability and responsible risk management highlights how starting with bonds not only supports our immediate stability but also prepares us to collaborate effectively and pursue new opportunities as we grow together.",
+          "id": "M2_R2_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Veena Ajitham",
+          "message": "I appreciate your focus on how our initial decision shapes our ability to collaborate and adapt over time. By choosing bonds, we’re not just managing risk in the short term—we’re also building the trust and confidence that will help us approach higher-return assets like real estate or stocks when the company is ready. This steady approach gives me reassurance that our team will remain united and resilient as we grow.",
+          "id": "M2_R2_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veena. I completely agree that by choosing bonds now, we’re not only managing short-term risk but also laying the groundwork for a resilient, adaptable team that can confidently consider real estate or stocks as we gain experience. Your focus on building trust and long-term collaboration captures exactly the kind of foundation we need for sustainable growth.",
+          "id": "M2_R2_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q2": {
+      "round_1": [
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Meilin Tadesse My current thinking is that Bonds appears most promising because I am most confident in bonds for this quarter because they continue to offer a reliable balance of steady returns and low-to-medium risk, which aligns with my strong preference for stability and careful growth, especially given our company’s early stage and lack of historical data. My high conscientiousness drives me to prioritize responsible capital management and avoid unnecessary volatility, while my agreeableness and neuroticism make me sensitive to team anxiety and the risk of regret if we pursue more aggressive assets too soon. Although real estate and stocks have shown higher historical returns, their greater unpredictability and potential for loss do not fit with my practical, routine-oriented approach or my desire to maintain team confidence and harmony. Bonds remain the most prudent choice to foster trust, minimize stress, and lay a solid foundation for our company’s gradual development, though I'm interested in exploring all perspectives to refine our understanding.\n\nFor this first round, I would like us to review our previous quarter’s investment decision and outcomes, focusing on what worked well and any concerns or lessons we can draw from our Q1 bond investment. By sharing both positive takeaways and potential areas for improvement, we can build a deeper, shared understanding that will inform our next steps.\n\nI encourage everyone to reflect honestly on the results and process so we can synthesize our insights, reinforce what’s working, and address any issues together. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.\n\nI invite your thoughtful contributions and look forward to perspectives that can enhance our collective understanding as we move forward.",
+          "id": "M3_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Aylin Kaur",
+          "message": "I feel our decision to invest in bonds last quarter worked well because it provided the steady, predictable growth and low-to-medium risk that aligns with our company’s early-stage needs and my own preference for structure and security. The positive return reinforced my confidence in this cautious approach, and I appreciated how it reduced anxiety and built trust within the team. One lesson I’d like us to keep in mind is to continue openly discussing any concerns about risk, so we maintain both financial stability and emotional reassurance as we move forward.",
+          "id": "M3_R1_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Aylin, for articulating how the steady, predictable growth from bonds aligned with both our company’s needs and the team’s sense of security. I especially appreciate your point about the importance of continuing open conversations about risk, as this will help us maintain trust and address any concerns proactively as we move forward.",
+          "id": "M3_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aylin Kaur",
+          "message": "I appreciate your emphasis on maintaining open conversations about risk, as I believe this transparency is essential for building lasting trust and ensuring everyone feels heard. Encouraging honest dialogue not only helps us manage uncertainty but also strengthens our ability to support one another through future decisions. I’d welcome hearing if anyone has concerns or lessons from last quarter that could further inform our approach.",
+          "id": "M3_R1_4",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "I agree, Aylin—maintaining open, transparent conversations about risk is fundamental to building trust and ensuring everyone feels valued and secure in our decision-making process. If anyone has concerns or lessons from last quarter that could help us improve, I encourage you to share them now so we can continue refining our approach together.",
+          "id": "M3_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Aylin Kaur",
+          "message": "I agree that sharing lessons openly helps us grow stronger as a team and ensures we’re not overlooking important perspectives. Even though our bond investment was reassuring, I think it’s helpful to hear if anyone felt uncertainty or has ideas for how we might refine our evaluation process going forward. This way, we can keep building on what’s working while staying attentive to any emerging concerns.",
+          "id": "M3_R1_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Aylin, for highlighting the value of actively seeking out lessons and remaining attentive to any concerns as we refine our evaluation process. By staying open to feedback and continuously improving our approach, we can build on our strengths while ensuring we don’t overlook important factors that could impact our future decisions. I invite others to share any uncertainties or suggestions they may have so we can address them collectively.",
+          "id": "M3_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Ajitham",
+          "message": "I agree that our decision to invest in bonds last quarter worked well, as it provided the steady, predictable growth and psychological comfort our team needed at this early stage. The positive outcome reassures me that prioritizing stability and minimizing unnecessary risk is the right approach for now. At the same time, I think it’s important for us to keep discussing any concerns openly, so we remain attentive to changes in the market or team sentiment as we move forward.",
+          "id": "M3_R1_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veena, for recognizing the reassurance and stability our bond investment brought to the team, and for reminding us of the importance of staying attentive to any shifts in the market or within our group. Your emphasis on keeping discussions open ensures we remain proactive and adaptable, which is essential for maintaining both confidence and resilience as we move forward.",
+          "id": "M3_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Veena Ajitham",
+          "message": "I appreciate your focus on adaptability, Meilin. Even though the market remains stable, I think it’s wise for us to schedule regular check-ins on our investment choices and risk levels, so we don’t overlook subtle changes that could affect our outcomes. This will help us maintain both the confidence and resilience we’ve built as a team.",
+          "id": "M3_R1_10",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veena. I agree that regular check-ins will help us remain vigilant and responsive to any subtle changes in the market or within our team, even in a stable environment. This approach not only supports our confidence and resilience but also ensures we continue to make well-informed, responsible decisions together.",
+          "id": "M3_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Nevena Stoyanovic",
+          "message": "I agree with the points raised so far—our decision to invest in bonds last quarter clearly supported our need for stability and delivered the steady growth we hoped for, which reassures me that we’re building a solid foundation. I found the predictability of bonds especially helpful in reducing anxiety and supporting team trust, and I think it’s important we continue to prioritize open dialogue about any concerns as we move forward. If anyone felt uncertainty or sees areas for improvement in our process, I would value hearing those insights so we can refine our approach together.",
+          "id": "M3_R1_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Nevena, for emphasizing how the predictability of bonds has helped reduce anxiety and build trust within the team. I appreciate your openness to hearing uncertainties or suggestions for improvement—this willingness to reflect and adapt is essential for maintaining our strong foundation and ensuring we continue to make responsible, well-informed decisions as we move forward.",
+          "id": "M3_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Nevena Stoyanovic",
+          "message": "I appreciate your emphasis on reflection and adaptability, Meilin. To further strengthen our process, I’d suggest we consider establishing a routine for reviewing both our outcomes and any concerns that arise, so we consistently learn and adapt together. This structured approach would help maintain our sense of security while ensuring we don’t overlook valuable lessons as we move forward.",
+          "id": "M3_R1_14",
+          "act_type": "Assert",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Nevena, for proposing a structured routine for reviewing both our outcomes and any concerns that arise. I believe this approach will strengthen our process by ensuring we consistently learn from each experience, maintain our sense of security, and remain attentive to valuable lessons as we move forward. I welcome further thoughts on how we can best implement this routine to support our ongoing development and decision-making.",
+          "id": "M3_R1_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Nevena Stoyanovic",
+          "message": "One way we might implement this is by setting aside a brief, dedicated segment at the end of each quarterly meeting to review both the outcomes and any concerns raised during the quarter. This would provide a consistent space for honest reflection and adjustment, making it part of our routine and helping everyone feel secure that their feedback will be regularly considered.",
+          "id": "M3_R1_16",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Nevena, for offering such a clear, practical approach to incorporating regular reflection and feedback into our meetings. Setting aside dedicated time at the end of each quarterly meeting for honest review will help us maintain transparency, address concerns promptly, and ensure everyone feels their input is valued. I believe this routine will further strengthen our team’s confidence and our ability to adapt responsibly as we grow.",
+          "id": "M3_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Farzana Jivraj",
+          "message": "I agree with the points raised that our decision to invest in bonds last quarter worked well, providing the steady growth and low-to-medium risk that helped build trust and reduce anxiety within the team. I especially appreciate the suggestion to establish a routine for reviewing outcomes and concerns, as this structured approach will help us maintain both stability and open communication going forward. For me, having predictable processes and regular check-ins not only reassures me personally but also strengthens our collective ability to adapt responsibly as we gain more experience.",
+          "id": "M3_R1_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Farzana, for underscoring how steady growth and low-to-medium risk have contributed to building trust and reducing anxiety within our team. I also appreciate your support for establishing a structured routine for reviewing outcomes and concerns, as this predictability and regular reflection will help us maintain stability and open communication while ensuring we adapt responsibly as we gain experience.",
+          "id": "M3_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Farzana Jivraj",
+          "message": "I appreciate your emphasis on predictability and regular reflection, Meilin. I believe that by making these structured routines part of our ongoing process, we reinforce the very qualities—stability, reliability, and open communication—that made bonds effective for us last quarter. This approach helps me feel more confident that, even as we continue with bonds, we’ll be well-positioned to notice and respond quickly if market conditions or our team’s needs begin to shift.",
+          "id": "M3_R1_20",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Farzana, for highlighting how structured routines reinforce the stability, reliability, and open communication that have served us well. I share your confidence that by embedding these practices into our ongoing process, we’ll be able to maintain the qualities that made bonds effective while staying alert and responsive to any shifts in the market or within our team. This proactive mindset will help us continue making well-informed, responsible decisions together.",
+          "id": "M3_R1_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veselina Dobrovolska",
+          "message": "I agree with the points raised that our Q1 bond investment worked well, delivering the steady, predictable returns and psychological comfort our team needed as we established our foundation. The positive outcome reassured me that prioritizing stability and minimizing unnecessary risk is the right approach at this stage, especially given my own preference for routine and careful planning. I also strongly support the suggestions for regular, structured reviews of our outcomes and concerns—having this predictability in our process helps me feel more secure and confident that we’ll continue to adapt responsibly as we move forward.",
+          "id": "M3_R1_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veselina, for emphasizing how steady, predictable returns and psychological comfort have supported our foundation, and for expressing strong support for regular, structured reviews. I agree that maintaining this level of predictability in our process will help us feel secure and confident as we continue to adapt responsibly, ensuring we build on our strengths while remaining attentive to any concerns or lessons along the way.",
+          "id": "M3_R1_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veselina Dobrovolska",
+          "message": "I appreciate your focus on maintaining predictability and structured reviews, Meilin, as this consistency really helps me—and I believe many of us—feel more secure and confident in our decisions. I think the combination of steady bond performance and routine reflection not only reduces anxiety but also ensures we’re always learning and adapting together, which is essential for our company’s long-term stability.",
+          "id": "M3_R1_24",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veselina, for recognizing how the combination of steady bond performance and structured, routine reflection supports both our security and our ability to learn and adapt together. I agree that maintaining this consistency is essential for reducing anxiety and ensuring our company remains resilient and well-positioned for long-term success.",
+          "id": "M3_R1_25",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Meilin Tadesse My current thinking is that Bonds appears most promising because after hearing all perspectives, I am even more convinced that bonds offer the right balance of steady growth, low-to-medium risk, and psychological comfort for our company’s early stage. The group’s consensus and commitment to structured, routine review practices align directly with my own values and reinforce the prudence of a cautious, stability-focused approach. While I remain attentive to any future market changes or new insights, bonds continue to be the most responsible and harmonious option for this quarter, though I'm interested in exploring all perspectives to refine our understanding. For this round, our focus is a comparative risk-return assessment of all asset options in the current stable market, aiming to clarify the projected risk and return profile for each asset and ensure alignment with our company’s risk tolerance and development stage. By thoughtfully integrating everyone’s insights, we can deepen our collective understanding and make an even more robust decision. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I encourage you to share any perspectives or considerations that might enhance our collective understanding, especially those I may not have fully considered.",
+          "id": "M3_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Veena Ajitham",
+          "message": "I appreciate the focus on a thorough risk-return comparison. While cash offers complete safety, its 2% return seems too low to support meaningful growth at this stage. Bonds, as we’ve seen, provide a reliable 5% return with low-to-medium risk, which continues to align best with our need for stability and gradual development. Real estate and stocks do offer higher returns—10% and 20% respectively—but their increased volatility makes me uneasy, especially since our company is still establishing its foundation and risk tolerance. For now, I remain convinced that bonds strike the right balance for us, though I’m open to hearing if others see a compelling case for carefully managed exposure to higher-return assets.",
+          "id": "M3_R2_2",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veena, for articulating the trade-offs so clearly. Your emphasis on balancing growth with psychological comfort and stability is especially relevant at this early stage, and I agree that the volatility of real estate and stocks warrants caution for now. I also appreciate your openness to hearing other viewpoints, and I encourage anyone with a compelling case for higher-return assets to share their reasoning so we can ensure our decision is as robust and well-rounded as possible.",
+          "id": "M3_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Ajitham",
+          "message": "I agree that maintaining psychological comfort and stability is crucial for our team right now, but I’m also interested to hear if anyone has specific arguments for real estate or stocks that might help us anticipate future opportunities. Even though my preference remains with bonds, understanding the potential benefits and risks of the other options could help us refine our approach as we gain more experience.",
+          "id": "M3_R2_4",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veena, for highlighting the importance of understanding all our options, even those we may not choose right now. While my confidence remains with bonds for this quarter, I also see value in carefully considering the potential advantages and risks of real estate and stocks so we’re better prepared to adapt as our company matures. I encourage anyone with insights or experiences related to these assets to share their thoughts, as a fuller perspective will only strengthen our decision-making process.",
+          "id": "M3_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Ajitham",
+          "message": "I appreciate your encouragement to keep learning about all our options, even if we aren’t ready to pursue them yet. Staying informed about real estate and stocks will help us adapt more confidently in the future, and I hope others will share any relevant insights or experiences so we can continue making well-rounded decisions together.",
+          "id": "M3_R2_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veselina Dobrovolska",
+          "message": "I agree that bonds continue to offer the most appropriate balance of steady returns and low-to-medium risk for our company’s current stage, especially given our collective preference for stability and psychological comfort. While I recognize that real estate and stocks provide higher potential returns, their volatility feels inconsistent with our early-stage priorities—though I do think it’s wise to keep evaluating these options regularly as we gain experience and confidence. This thorough comparison reassures me that our approach remains both prudent and adaptable.",
+          "id": "M3_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veselina, for articulating the value of both prudence and adaptability in our approach. I agree that while bonds remain the best fit for our current priorities, maintaining a routine of regularly reassessing real estate and stocks will help us stay responsive to new opportunities as our confidence and experience grow. Your emphasis on ongoing evaluation ensures we remain both responsible and flexible in our decision-making.",
+          "id": "M3_R2_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veselina Dobrovolska",
+          "message": "I appreciate your support for maintaining regular reassessment of all options, as this structure helps me feel more secure while also ensuring we won’t overlook emerging opportunities. By building in these routine reviews, we can confidently prioritize bonds now while remaining attentive to any early signs that real estate or stocks might become more suitable as our company matures. This balanced approach gives me both reassurance and a sense of readiness for the future.",
+          "id": "M3_R2_9",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "I appreciate your emphasis on the reassurance that comes from routine, structured reviews, Veselina. This commitment to regular reassessment not only strengthens our confidence in prioritizing bonds now but also positions us to recognize and act on new opportunities as our company evolves. Maintaining this disciplined, adaptable mindset will be key to our long-term resilience and success.",
+          "id": "M3_R2_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Veselina Dobrovolska",
+          "message": "I agree that maintaining this disciplined, adaptable mindset is essential for our resilience. Our structured review process not only reassures those of us who value predictability but also creates a reliable system for identifying when it might be appropriate to reconsider real estate or stocks as our company grows. This approach gives us a strong sense of security while ensuring we remain open to responsible evolution in our investment strategy.",
+          "id": "M3_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Aylin Kaur",
+          "message": "I agree with the points already raised that bonds offer the most reassuring combination of steady returns and low-to-medium risk, which feels especially important as we continue building our company’s foundation. While I recognize that real estate and stocks could yield higher returns, the increased volatility and uncertainty make them less suitable for us right now. For me, the predictability and structure of bonds not only support responsible growth but also help maintain team confidence and minimize unnecessary anxiety as we move forward.",
+          "id": "M3_R2_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Aylin, for highlighting how the predictability and structure of bonds directly support both responsible growth and team confidence at this foundational stage. Your emphasis on minimizing unnecessary anxiety resonates strongly with our shared values and reinforces why bonds remain the most suitable option for us right now. I appreciate your clarity and alignment with the priorities we’ve established as a team.",
+          "id": "M3_R2_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aylin Kaur",
+          "message": "I appreciate your recognition of the importance of predictability and structure, Meilin. I also want to emphasize that our commitment to regular, structured reviews gives me confidence that we can responsibly reassess options like real estate or stocks as our experience grows. This approach helps me feel secure in our current decision while staying open to adapting in the future.",
+          "id": "M3_R2_14",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Aylin, for underscoring how regular, structured reviews not only support our current decision but also provide a framework for adapting as our experience grows. I share your view that this disciplined approach gives us both the confidence to prioritize bonds now and the flexibility to responsibly consider other options in the future. Maintaining this balance between security and adaptability will be essential as we continue developing our company.",
+          "id": "M3_R2_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Nevena Stoyanovic",
+          "message": "I continue to see bonds as offering the most appropriate balance for us—providing steady, predictable returns with low-to-medium risk, which feels especially important while we’re still establishing our foundation. Cash is certainly the safest, but its low return doesn’t support our growth needs; real estate and stocks do have higher potential, but the added volatility makes me uneasy at this stage. For now, I think prioritizing bonds supports both our financial objectives and the psychological security of the team, while our routine reviews will ensure we stay adaptable as we gain more experience.",
+          "id": "M3_R2_16",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Nevena, for clearly outlining how bonds best support both our financial goals and psychological security at this early stage. Your recognition of the limitations of cash and the risks of real estate and stocks reinforces why bonds remain the most suitable option for us now. I also appreciate your emphasis on routine reviews, which ensures we remain adaptable and responsive as our company evolves.",
+          "id": "M3_R2_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Nevena Stoyanovic",
+          "message": "I appreciate your recognition, Meilin, and I agree that our structured, routine reviews are key—not just for maintaining current confidence in bonds, but also for building the discipline and awareness we’ll need to responsibly consider real estate or stocks down the line. This process gives me reassurance that we can prioritize stability now while remaining open and prepared for future opportunities as our company matures.",
+          "id": "M3_R2_18",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Nevena, for emphasizing how our structured review process not only supports our current focus on stability but also helps us build the discipline to responsibly consider new opportunities in the future. This commitment to routine and preparedness reassures me that we are laying a solid foundation for both steady growth and thoughtful adaptation as our company matures.",
+          "id": "M3_R2_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Farzana Jivraj",
+          "message": "I appreciate how thoroughly we’re comparing all the asset options. For me, the predictability and moderate returns of bonds continue to feel most aligned with our company’s risk tolerance and the need for psychological comfort as we build trust in these early stages. While I see the appeal of real estate and stocks for higher returns, I remain cautious about introducing too much volatility before we have more experience and a stronger foundation.",
+          "id": "M3_R2_20",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Farzana, for highlighting the importance of aligning our investment choice with both risk tolerance and the psychological comfort needed to build trust at this stage. Your recognition of the appeal of higher-return assets, balanced with caution about volatility, reinforces why bonds remain the most suitable option for us right now. I appreciate your thoughtful approach, which helps ensure our decision supports both stability and gradual confidence-building as we move forward.",
+          "id": "M3_R2_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Farzana Jivraj",
+          "message": "I’d like to add that our structured, consensus-driven process not only helps us manage investment risk, but also fosters team cohesion and mutual accountability—both of which are crucial for our long-term resilience. This approach gives me confidence that by prioritizing bonds now, we’re not just choosing the safest financial path, but also strengthening the trust and reliability that will support us as we grow and eventually consider higher-return options.",
+          "id": "M3_R2_22",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Farzana, for emphasizing how our structured, consensus-driven process not only manages investment risk but also builds the trust and mutual accountability essential for our long-term resilience. I agree that by prioritizing bonds now, we’re laying a strong foundation for both financial security and team cohesion, which will serve us well as we mature and consider more ambitious opportunities in the future.",
+          "id": "M3_R2_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q3": {
+      "round_1": [
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Meilin Tadesse My current thinking is that Bonds appears most promising because I feel most confident in bonds this quarter because they have consistently delivered steady, predictable returns with minimal risk in our current stable market environment. My high conscientiousness and preference for routine make me value the psychological comfort and reliability that bonds provide, especially given our company’s early stage and the importance of maintaining team trust. While real estate and stocks offer higher potential returns, their recent volatility reinforces my caution and desire to avoid unnecessary anxiety or regret. Cash remains the safest, but its low returns do not support our gradual growth objectives. Overall, bonds align best with my need for stability, responsible risk management, and a harmonious, low-stress environment for our team, though I'm interested in exploring all perspectives to refine our understanding. For this round, we will review our historical performance and reflect on lessons learned from previous investments to establish a factual foundation and identify key factors that contributed to our past success or any concerns. By sharing our experiences and insights, we can synthesize diverse viewpoints to deepen our understanding of what has worked well and what could be improved. I encourage everyone to thoughtfully consider how our past decisions inform our current context and share perspectives that might enhance our collective wisdom. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.",
+          "id": "M4_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Veena Ajitham",
+          "message": "Reflecting on our previous investments, I believe our choice to prioritize bonds has served us well—both quarters delivered consistent 5% returns, which helped preserve capital and minimize anxiety. This steady performance has fostered trust and a sense of security among shareholders, key factors that I think contributed to our past success. While I acknowledge the higher returns seen in real estate and stocks in some periods, their volatility reinforces my preference for the reliability that bonds have provided in our current stable market.",
+          "id": "M4_R1_2",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veena, for highlighting how the consistent performance of bonds has fostered trust and minimized anxiety within our team. Your emphasis on both capital preservation and psychological safety underscores key factors that have contributed to our success so far, and I agree that the volatility in real estate and stocks further justifies our cautious stance at this stage.",
+          "id": "M4_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Ajitham",
+          "message": "I appreciate your recognition of how psychological safety and capital preservation have shaped our group dynamics. In my view, this stable foundation doesn’t just reduce anxiety—it also enables us to engage more openly and thoughtfully in our discussions, making it easier to adapt if market conditions change. This collaborative environment is, I believe, one of the key reasons our decision-making has been so effective thus far.",
+          "id": "M4_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "I appreciate your point that our stable foundation has enabled more open and thoughtful engagement among shareholders, making it easier for us to adapt together if circumstances shift. This collaborative environment is indeed a critical factor in our decision-making effectiveness, and I believe maintaining this sense of security will continue to support both our performance and team cohesion as we move forward.",
+          "id": "M4_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Veena Ajitham",
+          "message": "I agree that maintaining this sense of security is vital, especially as it positions us to thoughtfully evaluate higher-risk options like real estate in the future, should our collective risk tolerance evolve. For now, I believe our stable, trust-based approach allows us to build experience and confidence, so that any eventual shift to new assets is made from a position of strength rather than anxiety.",
+          "id": "M4_R1_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Farzana Jivraj",
+          "message": "I agree that our focus on bonds has provided us with steady returns and a sense of security, which has been especially important as we establish our foundation. The predictability of bonds has not only minimized risk but also reduced stress for everyone involved, making it easier for us to collaborate openly and build trust. Looking at the volatility in real estate and stocks, I feel our disciplined, consensus-driven process has been a key factor in our early success, and maintaining this structured approach will continue to serve us well.",
+          "id": "M4_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Farzana, for emphasizing how the predictability of bonds and our disciplined, consensus-driven process have reduced stress and fostered trust within the team. I agree that this structured approach has been instrumental in our early success, and maintaining it will help us continue to make thoughtful, effective decisions as we move forward.",
+          "id": "M4_R1_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Farzana Jivraj",
+          "message": "I appreciate your affirmation of the importance of structure, Meilin. I think it’s worth noting that our disciplined process not only reduces stress but also gives us the confidence to adapt if needed—without feeling overwhelmed by risk. This balance between stability and adaptability is, in my view, a key lesson from our historical performance and should remain central as we evaluate all available options this quarter.",
+          "id": "M4_R1_9",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "I appreciate you highlighting how our disciplined process has not only provided stability but also empowered us to adapt confidently when necessary. This balance between maintaining a structured approach and being prepared to adjust thoughtfully is indeed a key lesson from our past experience, and I agree it should remain central as we evaluate our options this quarter.",
+          "id": "M4_R1_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Farzana Jivraj",
+          "message": "I completely agree, and I’d add that this balance doesn’t just benefit our investment returns—it also strengthens our sense of shared responsibility and psychological comfort. By continuing to prioritize a structured yet adaptable process, we create an environment where everyone feels secure enough to engage fully, which I believe is just as crucial for our long-term success as the financial results themselves.",
+          "id": "M4_R1_11",
+          "act_type": "Elaborate",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Nevena Stoyanovic",
+          "message": "Reflecting on our historical performance, I am struck by how consistently investing in bonds has delivered not just steady returns, but also a sense of security and predictability that has reduced anxiety across the team. This reliability has helped us build trust and confidence in our decision-making process, which I see as a major contributor to our early success. I think it’s essential that we continue to prioritize options like bonds that support both financial prudence and psychological comfort, as these have clearly been foundational strengths for us so far.",
+          "id": "M4_R1_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Nevena, for articulating how the reliability of bonds has not only produced steady returns but also fostered a sense of security and confidence within our team. I agree that prioritizing options which support both financial prudence and psychological comfort has been a key strength for us, and maintaining this focus will continue to serve our company well as we move forward.",
+          "id": "M4_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Nevena Stoyanovic",
+          "message": "I appreciate your recognition of the role psychological comfort has played in our success so far. I believe that by maintaining our commitment to both financial prudence and team well-being, we not only safeguard our returns but also strengthen our capacity to collaborate and adapt when needed. This dual focus has been central to our progress and should continue guiding our decisions as we move forward.",
+          "id": "M4_R1_14",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "I appreciate your insight, Nevena, on how our commitment to both financial prudence and team well-being has not only safeguarded our returns but also strengthened our ability to collaborate and adapt. This dual focus truly has been central to our progress, and I agree it should continue to guide our decisions as we evaluate the best option for this quarter.",
+          "id": "M4_R1_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Aylin Kaur",
+          "message": "Reflecting on our historical performance, I feel that our consistent choice of bonds has not only delivered steady returns but has also created a reassuring sense of routine and predictability, which has made it much easier for me—and I think for others—to engage confidently and collaboratively. This stability has minimized stress and uncertainty, allowing us to focus on building trust and effective teamwork, which I see as key reasons for our early success.",
+          "id": "M4_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Aylin, for emphasizing how the routine and predictability of bonds have made it easier for everyone to engage confidently and collaboratively. I agree that this stability has played a crucial role in minimizing stress and uncertainty, which in turn has allowed us to focus on building trust and effective teamwork—key drivers of our early success.",
+          "id": "M4_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Aylin Kaur",
+          "message": "I appreciate your agreement, Meilin. I’d also add that having a stable, predictable investment routine has given us the confidence to handle any uncertainties together—without feeling overwhelmed. This sense of psychological safety has not only supported our decision-making but also strengthened our ability to adapt as a team when new challenges arise.",
+          "id": "M4_R1_18",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Aylin, for highlighting how a stable, predictable investment routine has empowered us to face uncertainties together without feeling overwhelmed. I agree that this sense of psychological safety not only strengthens our decision-making but also enhances our team’s adaptability, which will be increasingly important as we encounter new challenges in the future.",
+          "id": "M4_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aylin Kaur",
+          "message": "I completely agree, Meilin. I think the confidence and trust we’ve built through our stable approach will make it much easier for us to thoughtfully consider higher-return options—like real estate—when the time feels right. Knowing we have a strong, supportive foundation helps me feel more prepared for future decisions, even if they involve a bit more uncertainty.",
+          "id": "M4_R1_20",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Veselina Dobrovolska",
+          "message": "I agree with the points raised about the value of stability and predictability—our consistent investment in bonds has not only delivered steady returns but has also created a sense of security and trust within the team. From my perspective, minimizing risk and emotional strain has been essential for maintaining open, constructive collaboration, which I see as a major reason for our effective decision-making so far. I believe continuing to prioritize assets that provide psychological comfort and reliable outcomes will support both our financial goals and the well-being of our group as we move forward.",
+          "id": "M4_R1_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veselina, for emphasizing how stability and predictability have contributed to both our financial results and the sense of security within our team. I agree that minimizing risk and emotional strain has been essential for fostering open, constructive collaboration, and I believe continuing to prioritize assets that support psychological comfort will remain important for our ongoing success.",
+          "id": "M4_R1_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Veselina Dobrovolska",
+          "message": "I appreciate your recognition of the role psychological comfort plays in our ongoing success. I’d add that by maintaining this foundation of stability, we’re not only supporting our current decision-making but also building the confidence and resilience needed to thoughtfully consider higher-return options—like real estate or stocks—if our risk tolerance evolves in the future.",
+          "id": "M4_R1_23",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "I appreciate your point, Veselina, that maintaining our stable foundation is not only supporting our current decision-making but also helping us build the confidence and resilience required to thoughtfully evaluate higher-return options down the line. This connection between present stability and future adaptability is a valuable insight, and I agree that by prioritizing psychological comfort now, we are positioning ourselves to approach new opportunities from a place of strength when the time is right.",
+          "id": "M4_R1_24",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veselina Dobrovolska",
+          "message": "I’m glad we share this perspective, Meilin. I believe that by reinforcing a stable, supportive environment now, we’re laying the groundwork for open, confident discussions about higher-risk assets when appropriate. This continuity between our present approach and future adaptability will help ensure our team remains unified and resilient, regardless of which official option we ultimately choose.",
+          "id": "M4_R1_25",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Meilin Tadesse My current thinking is that Bonds appears most promising because after reflecting on the group’s unanimous support and the clear evidence of bonds’ steady returns and psychological benefits, I am even more confident that bonds are the best option for this quarter. The structured, consensus-driven approach has minimized stress and built trust, which are just as important as financial outcomes at our stage. While I acknowledge real estate and stocks may become more attractive as our confidence grows, the current stable market and our early development make bonds the most responsible and harmonious choice, though I'm interested in exploring all perspectives to refine our understanding. In this round, we will focus on a comparative risk-return analysis of all asset options for the current quarter to clarify projected outcomes and risk profiles in our stable market environment. By thoughtfully integrating everyone’s insights, we can ensure our decision is robust and responsive to both our goals and risk tolerance. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I encourage each of you to share any perspectives or considerations that might help us deepen our collective understanding and make the most informed decision possible.",
+          "id": "M4_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Veselina Dobrovolska",
+          "message": "I appreciate the thoroughness of our process and agree that bonds continue to stand out for their steady, predictable 5% returns and low risk, which directly supports our goals of capital preservation and psychological comfort. While real estate and stocks offer higher potential returns, their recent volatility—10% followed by 0% for real estate, and a swing from 20% to -10% for stocks—makes me uneasy about exposing the company to unnecessary risk at this stage. Cash remains the safest but yields only 2%, which I feel is insufficient for our growth objectives. For me, bonds remain the most balanced and responsible choice for this quarter, aligning with both our financial and emotional priorities.",
+          "id": "M4_R2_2",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veselina, for clearly articulating how the recent volatility in real estate and stocks impacts our risk assessment, and for emphasizing the importance of psychological comfort alongside financial returns. Your point about bonds providing both capital preservation and emotional reassurance is well taken and further strengthens our understanding of why they may be the most suitable option for this quarter.",
+          "id": "M4_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veselina Dobrovolska",
+          "message": "I appreciate your acknowledgment of the psychological factors at play, Meilin. I also think our disciplined, consensus-driven approach with bonds not only protects us now but helps strengthen our confidence and adaptability for when we eventually consider higher-return options like real estate or stocks. This foundation of trust and stability is essential for making bolder moves when the time is right.",
+          "id": "M4_R2_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veselina. I agree that building a strong foundation of trust and stability now is key to giving us the confidence to thoughtfully consider higher-return options in the future. Your emphasis on how our disciplined process today prepares us for greater adaptability tomorrow is both reassuring and strategically important as we continue this analysis.",
+          "id": "M4_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Veena Ajitham",
+          "message": "Building on Veselina’s points, I see bonds as offering the best balance for us right now—consistent 5% returns with low-to-medium risk support both our financial goals and the psychological comfort we’ve all valued. While real estate and stocks are tempting for their higher returns, their unpredictable swings this year make me anxious about jeopardizing our stability, and cash, though safest, simply doesn’t move us forward enough. I think maintaining our disciplined, cautious approach with bonds this quarter is the most responsible way to protect our capital and team confidence as we continue growing.",
+          "id": "M4_R2_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veena, for clearly summarizing how bonds best support both our financial objectives and the psychological comfort that has been central to our team’s success. Your point about the anxiety caused by volatility in other assets highlights why maintaining our disciplined, cautious approach is so important at this stage, and it strengthens my confidence that bonds remain the most responsible option for this quarter.",
+          "id": "M4_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Veena Ajitham",
+          "message": "I appreciate your emphasis on how psychological comfort and disciplined decision-making have contributed to our success so far. I think our ability to build trust and adapt as a team has come directly from prioritizing stability, which reassures me that maintaining this approach with bonds will best support both our growth and well-being in the current environment.",
+          "id": "M4_R2_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veena. I completely agree that our focus on stability has been fundamental to building the trust and adaptability that define our team. Your emphasis on how this disciplined approach directly supports both our growth and well-being further validates why maintaining our current strategy with bonds is so important as we navigate this quarter’s decision.",
+          "id": "M4_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Farzana Jivraj",
+          "message": "I appreciate how both Veselina and Veena have highlighted the value of bonds for delivering steady returns and minimizing anxiety, which really resonates with me. While I do see the potential appeal of real estate and stocks, the recent volatility in their returns makes me hesitant to risk our hard-earned stability at this stage. For me, sticking with bonds this quarter feels like the most prudent way to ensure we continue building trust and confidence as a team, while still leaving the door open to exploring higher-return assets when we’re better prepared.",
+          "id": "M4_R2_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Farzana. Your recognition of both the steady returns and anxiety-minimizing qualities of bonds, along with your openness to exploring higher-return assets when we’re better prepared, captures the careful balance we need at this stage. I agree that protecting our current stability while remaining adaptable for future opportunities is the most prudent course for our team right now.",
+          "id": "M4_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Farzana Jivraj",
+          "message": "I agree, Meilin—maintaining our structured, consensus-driven process is what allows us to manage risk effectively while also building the trust we’ll need if we eventually move toward higher-return, higher-risk options. I think this approach not only safeguards our capital now but also prepares us emotionally and organizationally for more complex decisions down the line.",
+          "id": "M4_R2_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Farzana. I completely agree that our structured, consensus-driven process does more than just protect our capital—it also builds the trust and organizational strength we’ll need to confidently evaluate higher-return, higher-risk options in the future. Your point about preparing emotionally and organizationally for more complex decisions is especially valuable, as it reminds us that our current discipline is laying the groundwork for future adaptability and growth.",
+          "id": "M4_R2_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Farzana Jivraj",
+          "message": "I appreciate that, Meilin. I also think the open communication and mutual support we’ve developed through this process will be just as important as our financial strategies if we decide to pursue higher-risk investments later on. Having that strong foundation of trust makes me more confident that we’ll be able to navigate future challenges together, no matter which asset we choose.",
+          "id": "M4_R2_14",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Farzana. I agree that the open communication and mutual support we’ve built are just as critical as our financial analysis in preparing us for future challenges. This strong foundation of trust gives me confidence that, regardless of the asset we choose, we’ll be able to approach higher-risk opportunities thoughtfully and as a unified team.",
+          "id": "M4_R2_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Aylin Kaur",
+          "message": "I agree with the points raised so far—bonds have consistently provided us with steady, predictable returns and a sense of security, which I find especially valuable given my preference for routine and minimizing stress. While I see the appeal of higher returns from real estate and stocks, their recent volatility makes me uneasy about shifting away from what’s worked for us, especially since our team is still building confidence together. For this quarter, I think prioritizing bonds allows us to continue growing responsibly while preserving the trust and stability that have been so important for our group.",
+          "id": "M4_R2_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Aylin. I appreciate how you’ve connected the value of routine and minimizing stress to our investment decision, especially as we continue building confidence as a team. Your emphasis on responsible growth and preserving trust and stability further supports why bonds remain the most suitable option for us this quarter.",
+          "id": "M4_R2_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Aylin Kaur",
+          "message": "I also want to highlight how our consistent approach with bonds not only supports our financial goals but really helps maintain open communication and emotional reassurance within the team. By staying disciplined now, I feel we’re setting ourselves up to handle more complex or higher-risk decisions in the future with greater confidence and unity.",
+          "id": "M4_R2_18",
+          "act_type": "Elaborate",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Aylin. I completely agree that our consistent approach with bonds has been instrumental in fostering open communication and emotional reassurance within the team. Your point about how this discipline sets us up to handle more complex or higher-risk decisions with confidence and unity is especially valuable, as it underscores the long-term benefits of maintaining stability and trust at this stage.",
+          "id": "M4_R2_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Nevena Stoyanovic",
+          "message": "I strongly support the points made about bonds—consistent 5% returns and low risk have not only protected our capital, but also created a structured, low-anxiety environment that allows us to collaborate openly and adapt as a team. While I acknowledge the higher returns possible with real estate and stocks, their recent volatility feels out of step with our current priorities and could disrupt the sense of stability we’ve worked so hard to build. For me, bonds remain the option that best balances responsible growth with emotional security, which I see as essential for our continued success in this stable market.",
+          "id": "M4_R2_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Nevena. I appreciate how you’ve highlighted the importance of both financial protection and emotional security in our decision-making process. Your observation that bonds allow us to collaborate openly and adapt as a team, while shielding us from the volatility of other assets, reinforces why this option continues to align best with our priorities for responsible growth and stability in the current environment.",
+          "id": "M4_R2_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Nevena Stoyanovic",
+          "message": "I appreciate your recognition of the role that emotional security plays in our team’s ability to adapt and collaborate effectively. By prioritizing bonds now, I believe we’re not only safeguarding our assets but also strengthening the routines and trust that will make us more resilient and prepared when we eventually consider higher-return, higher-risk options.",
+          "id": "M4_R2_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Hedge"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Nevena. I fully agree that by prioritizing bonds now, we are not only protecting our assets but also reinforcing the routines and trust that form the backbone of our team’s resilience. This disciplined approach gives us the psychological security and collaborative strength to thoughtfully consider higher-return, higher-risk options when the time is right.",
+          "id": "M4_R2_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    },
+    "quarterly_investment_year1_q4": {
+      "round_1": [
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Meilin Tadesse My current thinking is that Bonds appears most promising because I feel most confident in bonds for this quarter because they have consistently provided steady 5% returns with minimal volatility throughout the year, aligning perfectly with my strong preference for stability, predictability, and responsible risk management. My high conscientiousness drives me to prioritize reliability and the psychological comfort of the team, especially after seeing how bonds have supported our steady growth so far. While real estate and stocks offer higher potential returns, their recent fluctuations and occasional losses reinforce my caution and reluctance to expose the company to unnecessary risk. I prefer to continue building on our solid foundation with a prudent, structured approach, and bonds best support that goal in this stable market environment, though I'm interested in exploring all perspectives to refine our understanding. For this round, we will focus on reviewing our historical investment performance and drawing lessons from previous quarters to establish a clear, factual foundation for our decision. I encourage everyone to share their insights on how each asset has impacted our company’s stability and growth so far, as integrating diverse viewpoints will help us deepen our collective understanding and identify the best path forward. IMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options. I welcome your thoughtful contributions and look forward to hearing perspectives that may enhance our collective wisdom.",
+          "id": "M5_R1_1",
+          "act_type": "Assert",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Veena Ajitham",
+          "message": "Looking closely at our historical performance, I see that bonds have consistently delivered steady 5% returns each quarter, which has been crucial for both our financial growth and for fostering a sense of security and trust within the team. While real estate and stocks have shown higher peaks, their unpredictability and occasional losses make them feel unnecessarily risky at this point, especially as we work to build a strong, stable foundation for the company. For me, the dependable growth and psychological comfort from bonds continue to outweigh the appeal of higher but more volatile returns from other assets.",
+          "id": "M5_R1_2",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veena, for emphasizing how steady bond returns have not only supported our financial growth but also contributed to team trust and psychological safety. Your point about the unpredictability of real estate and stocks underscores the importance of minimizing unnecessary risk as we continue building our foundation—this insight is very much in line with my own thinking and helps clarify why bonds have served us well so far.",
+          "id": "M5_R1_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veena Ajitham",
+          "message": "I appreciate your acknowledgment, Meilin. I also think that by prioritizing stability with bonds, we've created an environment where everyone feels comfortable contributing openly, which has really strengthened our teamwork and decision quality. This sense of security is something I’d like us to preserve as we move forward.",
+          "id": "M5_R1_4",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "I completely agree, Veena—preserving the sense of security and openness we've established through stable bond investments has been vital for both our decision quality and team cohesion. Maintaining this environment not only minimizes stress but also encourages everyone to contribute their best thinking, which is essential as we look to sustain responsible growth together.",
+          "id": "M5_R1_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Veena Ajitham",
+          "message": "I completely agree, and I’d add that this stable foundation doesn’t just help us today—it also gives us the confidence and clarity to carefully consider higher-return options when we feel ready. By maintaining this sense of security, we’re setting ourselves up to adapt thoughtfully as new opportunities arise, without sacrificing the trust and openness we’ve built.",
+          "id": "M5_R1_6",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "I appreciate this perspective, Veena. Building and maintaining a stable foundation with bonds not only supports our current growth but also positions us to thoughtfully evaluate higher-return opportunities in the future, should our risk tolerance evolve. By prioritizing security and trust now, we’re ensuring that any future shifts in our strategy will be made from a place of confidence and unity.",
+          "id": "M5_R1_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aylin Kaur",
+          "message": "I agree that reviewing our historical performance clearly shows how bonds have offered consistent 5% returns each quarter, which has been essential for maintaining both financial growth and a stable, low-stress environment for our team. The predictability of bonds has helped reduce anxiety and allowed us to focus on building trust and effective collaboration, which I see as a major reason for our strong progress this year. While real estate and stocks have shown some higher returns, the volatility and unpredictability they bring would have made it much harder to maintain the sense of security and teamwork that has benefited us so much.",
+          "id": "M5_R1_8",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Aylin, for emphasizing how the predictability of bonds has directly contributed to a low-stress, collaborative environment and supported our financial progress. Your point about the challenges posed by volatility in real estate and stocks further clarifies why maintaining stability has been so valuable for our team’s cohesion and overall growth.",
+          "id": "M5_R1_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aylin Kaur",
+          "message": "I appreciate your recognition of how important stability has been for our team, Meilin. I’d also add that having this reliable foundation with bonds has made it much easier for us to approach each new decision thoughtfully and without unnecessary stress, which I believe will serve us well as we eventually consider more complex opportunities.",
+          "id": "M5_R1_10",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Aylin. I agree that the reliable foundation we’ve established with bonds has allowed us to focus on each decision with clarity and confidence, minimizing unnecessary stress. This disciplined, stable approach not only supports our current teamwork but also prepares us to carefully evaluate more complex opportunities as our company evolves.",
+          "id": "M5_R1_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aylin Kaur",
+          "message": "I completely agree, Meilin. I think our experience this year shows that by prioritizing steady, low-risk options like bonds, we’ve built the confidence and trust needed to adapt responsibly when new opportunities arise. This foundation gives us the flexibility to consider higher-return assets in the future, but only when it truly aligns with our collective readiness and values.",
+          "id": "M5_R1_12",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Nevena Stoyanovic",
+          "message": "I agree that our historical experience with bonds has been extremely positive—not only have we achieved steady 5% returns each quarter, but we’ve also minimized anxiety and maintained a sense of predictability that’s been crucial for our team’s confidence and cohesion. In my view, this reliable performance has allowed us to focus on thoughtful, collaborative decision-making without the added stress of worrying about sudden losses or volatility, which is especially important for a new company like ours. While I recognize the higher returns that real estate and stocks can sometimes offer, I remain convinced that the stability and psychological comfort provided by bonds have been essential for our steady progress and should continue to guide our choices as we build our foundation.",
+          "id": "M5_R1_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Nevena, for articulating how the predictability and steady returns from bonds have enabled our team to focus on thoughtful, collaborative decisions without the distraction of volatility or sudden losses. Your emphasis on the importance of psychological comfort and confidence for a new company resonates strongly with me, and I agree that continuing to prioritize stability will help us maintain the progress and trust we’ve built as we move forward.",
+          "id": "M5_R1_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Nevena Stoyanovic",
+          "message": "I appreciate your agreement, Meilin. I also think that by keeping our routines structured and our risk profile consistent with bonds, we’re reinforcing an environment where everyone feels safe to participate openly and address concerns early. This approach not only supports our current stability but also ensures we’re well-prepared to adapt thoughtfully if our circumstances or risk tolerance change in the future.",
+          "id": "M5_R1_15",
+          "act_type": "Elaborate",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Nevena. I agree that maintaining structured routines and a consistent approach with bonds has been key to fostering psychological safety and open participation within our team. This disciplined foundation not only supports our current stability but also ensures we’ll be able to adapt thoughtfully and confidently as our needs or risk tolerance evolve in the future.",
+          "id": "M5_R1_16",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Farzana Jivraj",
+          "message": "I fully agree with the points raised so far—our experience investing in bonds this year has provided not just steady 5% returns, but also a much-needed sense of predictability and psychological comfort for the team. This reliability has made it easier for everyone to participate openly and focus on responsible decision-making without the distraction of volatility or the stress of potential losses. While I see the appeal of higher returns from real estate or stocks, I believe the stability and trust we’ve built through bonds have been essential for our progress and should remain central as we continue to grow.",
+          "id": "M5_R1_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Farzana, for emphasizing how the predictability and reliability of bonds have enabled open participation and responsible decision-making within our team. I agree that the stability and trust we’ve built through these investments have been crucial for our progress, and maintaining this foundation should continue to guide us as we grow and evaluate future opportunities.",
+          "id": "M5_R1_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Farzana Jivraj",
+          "message": "I appreciate your perspective, Meilin, and I also think that by maintaining this stable foundation with bonds, we’re building the confidence and clarity needed to responsibly consider more ambitious options when the time is right. This disciplined approach means we can be adaptable in the future without sacrificing the psychological safety and trust that have become strengths for our team.",
+          "id": "M5_R1_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Farzana. I agree that maintaining our stable foundation with bonds has not only supported our current progress but also given us the confidence to thoughtfully evaluate more ambitious options when the time is right. By prioritizing psychological safety and trust, we’re ensuring that any future shifts in our strategy will be made from a place of strength and unity.",
+          "id": "M5_R1_20",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veselina Dobrovolska",
+          "message": "I fully agree with the assessments shared so far—our consistent investment in bonds has provided not only steady 5% returns but also the stability and predictability that have been crucial for minimizing anxiety and fostering trust within our team. This reliable performance has allowed us to focus on structured, collaborative decision-making without the distraction of volatility or unexpected losses, which I believe is especially important for a company at our stage. While I recognize the higher potential returns of real estate and stocks, I remain convinced that the psychological comfort and steady progress bonds provide should continue to guide our choices as we build a resilient foundation for future growth.",
+          "id": "M5_R1_21",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veselina, for highlighting how the stability and predictability of bonds have minimized anxiety and enabled structured, collaborative decision-making within our team. I agree that this reliable performance has been especially important for our company’s early development, and your emphasis on psychological comfort and steady progress further supports why bonds should remain central to our investment strategy as we continue building a resilient foundation.",
+          "id": "M5_R1_22",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Veselina Dobrovolska",
+          "message": "I appreciate your acknowledgment, Meilin. I also believe that by prioritizing the psychological comfort and steady progress bonds provide, we are not only protecting our current stability but also building the collective confidence needed to responsibly explore higher-return options when the time is right. This disciplined approach ensures we can adapt thoughtfully as our company grows, without undermining the trust and cohesion we’ve established.",
+          "id": "M5_R1_23",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veselina. I agree that by prioritizing psychological comfort and steady progress through bonds, we are not only safeguarding our current stability but also laying the groundwork for responsible adaptability in the future. This disciplined approach ensures we can continue to build trust and cohesion as we thoughtfully consider new opportunities when the time is right.",
+          "id": "M5_R1_24",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        }
+      ],
+      "round_2": [
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Meilin Tadesse My current thinking is that Bonds appears most promising because after reviewing the discussion, I am even more convinced that bonds are the optimal choice for Q4. The evidence and arguments presented by shareholders confirm that bonds have reliably delivered steady growth, minimized risk, and fostered a healthy, collaborative team environment. While real estate and stocks offer higher potential returns, their volatility does not align with our current priorities or risk tolerance. Maintaining our disciplined, stability-focused approach with bonds best supports our company’s ongoing development, though I'm interested in exploring all perspectives to refine our understanding.\n\nFor this round, our focus is a comparative risk-return assessment of all asset options in the current stable market. We will clarify the projected outcomes and risk profiles for cash, bonds, real estate, and stocks to determine which aligns best with our company’s risk tolerance and development stage.\n\nThis is an opportunity to synthesize diverse viewpoints, deepen our shared understanding, and ensure we have considered all relevant factors before making a final decision. By integrating insights from each of you, we can confirm the strengths and weaknesses of every option and strengthen our collective reasoning.\n\nIMPORTANT: I want to remind everyone that we must choose from our predefined options only: 'Cash', 'Bonds', 'Real Estate', 'Stocks'. Please keep all discussion focused on evaluating these specific options.\n\nI encourage all shareholders to share any perspectives that might enhance our understanding, especially insights or concerns I may not have fully considered.",
+          "id": "M5_R2_1",
+          "act_type": "Assert",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Veena Ajitham",
+          "message": "Given our company’s current stage and the stable market, I still see bonds as offering the best balance—steady 5% returns with minimal risk have supported both our financial growth and team well-being. While real estate and stocks do have higher return potential, their volatility and unpredictability seem out of step with our need for stability and psychological comfort right now. Cash is certainly safest, but its low returns don’t support our growth objectives, so I remain convinced that bonds align best with our risk tolerance and development needs this quarter.",
+          "id": "M5_R2_2",
+          "act_type": "Justify",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veena. I appreciate how clearly you’ve outlined the tradeoffs between stability, risk, and growth across our options. Your emphasis on psychological comfort and alignment with our risk tolerance resonates strongly with my own thinking and highlights why bonds continue to stand out for our current stage.",
+          "id": "M5_R2_3",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veselina Dobrovolska",
+          "message": "I agree with Veena that bonds remain the most balanced choice for us—historically, they’ve provided steady returns with minimal risk, which has been essential for both my own peace of mind and the group’s cohesion. While I recognize that real estate and stocks offer higher potential upside, their volatility makes me uneasy, especially since our company is still establishing its foundation. Cash feels overly conservative given our growth goals, so I continue to believe bonds best fit our current needs and risk profile.",
+          "id": "M5_R2_4",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veselina. I value how you’ve connected steady returns and minimal risk to both individual peace of mind and overall team cohesion. Your point about the volatility of real estate and stocks is well taken—maintaining a stable foundation now positions us to thoughtfully consider those options when our risk tolerance evolves.",
+          "id": "M5_R2_5",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Veselina Dobrovolska",
+          "message": "I appreciate your focus on adaptability, Meilin. I agree that our disciplined approach with bonds is not just about immediate safety—it’s also about building the confidence and trust we’ll need if we decide to pursue higher-return options like real estate or stocks in the future. Maintaining this stable foundation ensures we’re well-prepared to handle greater risk when the time is right.",
+          "id": "M5_R2_6",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Veselina. Your emphasis on building confidence and trust for the future aligns closely with my own thinking—by prioritizing stability and responsible growth now, we’re not only safeguarding our progress but also laying the groundwork for thoughtfully embracing higher-return options when we’re ready. This disciplined approach gives us both the flexibility and psychological readiness to adapt as our company matures.",
+          "id": "M5_R2_7",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aylin Kaur",
+          "message": "I continue to believe that bonds offer the most responsible balance for us right now, given their steady 5% returns and minimal volatility, which have consistently supported both our financial growth and the psychological safety I—and I think many of us—value. While real estate’s higher potential returns are tempting, the unpredictability we’ve seen, especially with occasional flat quarters, makes me hesitant to introduce more risk when our company is still building its foundation. Stocks, despite their upside, have shown significant swings that would disrupt the sense of routine and trust we’ve established, and cash simply doesn’t provide enough growth. Overall, bonds best fit our current risk tolerance and development needs, and I feel reassured by the strong consensus around this approach.",
+          "id": "M5_R2_8",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Aylin. I appreciate how you’ve linked steady financial growth with the psychological safety and trust that have become central to our team’s success. Your points about the risks of volatility and the value of routine strongly resonate with me—maintaining our disciplined approach with bonds continues to provide the stability and reassurance we need as we build our foundation.",
+          "id": "M5_R2_9",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Aylin Kaur",
+          "message": "I appreciate your focus on how our disciplined approach with bonds supports both psychological safety and responsible risk management. I think it’s important to recognize that by maintaining this stability and routine, we’re not only minimizing stress now but also creating the kind of resilient team culture that will allow us to thoughtfully consider higher-return options like real estate or stocks when we feel more prepared. This gives me confidence that we’re building a foundation for both current security and future adaptability.",
+          "id": "M5_R2_10",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Aylin. I agree that our commitment to stability and routine is not just about minimizing stress in the present—it’s also about cultivating the confidence and collective resilience we’ll need to responsibly evaluate higher-return opportunities when the time is right. Your insight underscores how our current approach positions us for both ongoing security and thoughtful adaptability as our company evolves.",
+          "id": "M5_R2_11",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Nevena Stoyanovic",
+          "message": "I continue to see bonds as the most suitable option for us in this stable market, given their reliable 5% returns and minimal volatility. This consistency not only supports our financial growth but also provides the psychological safety and routine that help me—and, I sense, many others—feel confident and secure in our decision-making. While I recognize the higher returns of real estate and stocks, the unpredictability and risk involved still feel out of step with our current priorities and stage of development.",
+          "id": "M5_R2_12",
+          "act_type": "Justify",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Nevena. I appreciate how clearly you’ve articulated the value of consistency and psychological safety—these have truly been foundational for our team’s confidence and effective decision-making this year. Your recognition of the risks in higher-return assets reinforces why our disciplined, stability-focused approach with bonds remains best aligned with our priorities at this stage.",
+          "id": "M5_R2_13",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Nevena Stoyanovic",
+          "message": "I appreciate your recognition of the importance of routine, Meilin. I’d add that by maintaining this stable approach with bonds, we’re not just reducing anxiety in the short term—we’re also building the organizational confidence and trust that will help us responsibly explore higher-return assets like real estate or stocks when our risk tolerance evolves. This gives me reassurance that our strategy supports both current well-being and future adaptability.",
+          "id": "M5_R2_14",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Nevena. Your point about building organizational confidence and trust through our stable approach is especially meaningful to me. I agree that by maintaining this disciplined routine with bonds, we’re not only minimizing short-term anxiety but also preparing ourselves—both psychologically and structurally—to responsibly consider higher-return opportunities when our risk tolerance allows.",
+          "id": "M5_R2_15",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Farzana Jivraj",
+          "message": "I continue to believe bonds best match our company’s current risk tolerance and development stage, given their steady 5% returns and minimal volatility, which have provided both reliable growth and psychological comfort for the team. While I recognize that real estate and stocks offer higher potential returns, the unpredictability and risk they introduce feel out of step with our need for stability and trust as we build our foundation. Cash, though safest, simply doesn’t support our growth goals, so for now, I feel most confident that bonds remain the most responsible and reassuring choice for this quarter.",
+          "id": "M5_R2_16",
+          "act_type": "Justify",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Farzana. I appreciate how you’ve articulated the balance between steady growth, psychological comfort, and the need for stability as we build our foundation. Your perspective reinforces why bonds remain the most responsible and reassuring choice for this quarter, ensuring our approach aligns with both our risk tolerance and the trust we’re cultivating within the team.",
+          "id": "M5_R2_17",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        },
+        {
+          "agent": "Farzana Jivraj",
+          "message": "I appreciate your focus on trust and psychological comfort, Meilin. I’d add that by maintaining our disciplined approach with bonds, we’re not only ensuring current stability but also building the collective confidence and routine that will better equip us to responsibly evaluate higher-return options like real estate or stocks when the time is right. This gives me reassurance that our strategy supports both our immediate priorities and our long-term adaptability as a team.",
+          "id": "M5_R2_18",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Neutral"
+        },
+        {
+          "agent": "Meilin Tadesse(CEO)",
+          "message": "Thank you, Farzana. I agree that our disciplined approach with bonds is doing more than just providing immediate stability—it’s also creating the routines and collective confidence we’ll need to thoughtfully evaluate higher-return options when the time is right. This gives me reassurance that we are not only protecting our progress now but also building the adaptability and trust necessary to take on new opportunities in the future.",
+          "id": "M5_R2_19",
+          "act_type": "Simple Agree",
+          "epistemic_type": "Booster"
+        }
+      ]
+    }
+  },
+  "company": {
+    "CEO": {
+      "name": "Meilin Tadesse",
+      "BFI": "low Openness, high Conscientiousness, high Extraversion, high Agreeableness, high Neuroticism",
+      "type": "oCEAN"
+    },
+    "shareholders": [
+      {
+        "name": "Farzana Jivraj",
+        "BFI": "low Openness, high Conscientiousness, high Extraversion, high Agreeableness, high Neuroticism",
+        "type": "oCEAN"
+      },
+      {
+        "name": "Aylin Kaur",
+        "BFI": "low Openness, high Conscientiousness, high Extraversion, high Agreeableness, high Neuroticism",
+        "type": "oCEAN"
+      },
+      {
+        "name": "Nevena Stoyanovic",
+        "BFI": "low Openness, high Conscientiousness, high Extraversion, high Agreeableness, high Neuroticism",
+        "type": "oCEAN"
+      },
+      {
+        "name": "Veena Ajitham",
+        "BFI": "low Openness, high Conscientiousness, high Extraversion, high Agreeableness, high Neuroticism",
+        "type": "oCEAN"
+      },
+      {
+        "name": "Veselina Dobrovolska",
+        "BFI": "low Openness, high Conscientiousness, high Extraversion, high Agreeableness, high Neuroticism",
+        "type": "oCEAN"
+      }
+    ]
+  }
+}
