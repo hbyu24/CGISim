@@ -23,8 +23,31 @@ The code covers all experimental conditions, including the project code for base
 
 ### ./results/
 
-This folder shows the directory structure for the results of all our experiments.
+This folder stores all experimental outputs and is organized into two main subdirectories: `Simulation-Log` and `Micro-Interactions`.
 
-It contains two subfolders, corresponding to the two personality frameworks: MBTI and OCEAN.
+#### 1. Simulation-Log
 
-Within both the MBTI and OCEAN folders, there are three subfolders—baseline, Homogeneous, and Heterogeneous—to store the results of the corresponding experiments.
+This directory contains the raw simulation data, recording the complete dialogue history and decision-making processes for each experiment.
+
+- **Structure**:
+  - `MBTI/` & `OCEAN/`: Top-level folders for each personality framework.
+  - Inside each framework folder, results are categorized into:
+    - `baseline/`: Control group experiments.
+    - `Homogeneous/`: Experiments with agents sharing the same personality traits.
+    - `Heterogeneous/`: Experiments with diverse personality compositions.
+
+- **Content**:
+  Each experiment folder (e.g., `baseline1`, `ENFJ`) contains detailed logs organized as follows:
+  - `documents/`: Stores the global simulation logs (`full_record.html/json`) and individual agent subfolders. Each agent's folder contains their `context.json` (state) and `memory.json` (history).
+  - `meetings/`: Contains subfolders for specific meeting events (e.g., `Annual_Budget_Year_1`). Inside, you will find `meeting_record.html/json` for the meeting transcript and agent-specific context snapshots.
+  - `decision_tracker_data_*.json`: A JSON log file specifically tracking the decisions and outcomes of the simulation.
+
+#### 2. Micro-Interactions
+
+This directory contains the results of micro-level analyses performed on the conversation logs from `Simulation-Log`. These files capture specific interaction metrics and decision dynamics.
+
+- **Structure**:
+  - Mirroring the `Simulation-Log` structure, it is divided into `MBTI/` and `OCEAN/`, and further into `baseline/`, `Homogeneous/`, and `Heterogeneous/`.
+
+- **Content**:
+  - JSON log files (e.g., `decision_tracker_data_*.json`) containing detailed analysis of specific interaction types and decision quality metrics.
